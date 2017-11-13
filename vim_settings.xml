@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1510570709404">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/variables.tf" timestamp="1510562553875">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" timestamp="1510562617689">
-        <mark key="'" line="52" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" timestamp="1510562637898">
         <mark key="'" line="42" column="10" />
@@ -17,16 +17,6 @@
         <mark key="]" line="68" column="76" />
         <mark key="^" line="67" column="1" />
         <mark key="." line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" timestamp="1510557550922">
-        <mark key="'" line="277" column="12" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" timestamp="1510562610467">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="25" column="57" />
-        <mark key="]" line="25" column="63" />
-        <mark key="^" line="25" column="63" />
-        <mark key="." line="25" column="63" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/ec2_ms.tf" timestamp="1510556556655">
         <mark key="[" line="3" column="0" />
@@ -39,10 +29,6 @@
         <mark key="." line="205" column="56" />
         <mark key="^" line="205" column="56" />
       </file>
-      <file name="/usr/local/go/src/net/http/server.go" timestamp="1510569202071">
-        <mark key="[" line="2300" column="0" />
-        <mark key="]" line="2302" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" timestamp="1510557702694">
         <mark key="'" line="159" column="0" />
         <mark key="[" line="153" column="38" />
@@ -50,19 +36,36 @@
         <mark key="." line="153" column="38" />
         <mark key="^" line="153" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" timestamp="1510569360943">
-        <mark key="'" line="38" column="20" />
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="39" column="17" />
-        <mark key="." line="39" column="17" />
-        <mark key="^" line="39" column="17" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/sre/aws/variables.tf" timestamp="1510555924740">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="43" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/app_dep.tf" timestamp="1510562504664">
         <mark key="'" line="63" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" timestamp="1510562617689">
+        <mark key="'" line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" timestamp="1510557550922">
+        <mark key="'" line="277" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" timestamp="1510562610467">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="25" column="57" />
+        <mark key="]" line="25" column="63" />
+        <mark key="^" line="25" column="63" />
+        <mark key="." line="25" column="63" />
+      </file>
+      <file name="/usr/local/go/src/net/http/server.go" timestamp="1510569202071">
+        <mark key="[" line="2300" column="0" />
+        <mark key="]" line="2302" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" timestamp="1510569360943">
+        <mark key="'" line="38" column="20" />
+        <mark key="[" line="38" column="37" />
+        <mark key="]" line="39" column="17" />
+        <mark key="." line="39" column="17" />
+        <mark key="^" line="39" column="17" />
       </file>
     </filemarks>
     <jumps>
