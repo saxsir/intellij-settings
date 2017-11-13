@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" timestamp="1510552274859">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" timestamp="1510554705169">
         <mark key="'" line="199" column="11" />
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
-        <mark key="^" line="233" column="41" />
+        <mark key="[" line="205" column="57" />
+        <mark key="]" line="205" column="56" />
+        <mark key="." line="205" column="56" />
+        <mark key="^" line="205" column="56" />
       </file>
       <file name="/usr/local/go/src/net/http/server.go" timestamp="1510552165598">
         <mark key="[" line="2300" column="0" />
