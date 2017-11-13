@@ -39,7 +39,7 @@
         <mark key="." line="205" column="56" />
         <mark key="^" line="205" column="56" />
       </file>
-      <file name="/usr/local/go/src/net/http/server.go" timestamp="1510552165598">
+      <file name="/usr/local/go/src/net/http/server.go" timestamp="1510569202071">
         <mark key="[" line="2300" column="0" />
         <mark key="]" line="2302" column="0" />
       </file>
@@ -50,7 +50,8 @@
         <mark key="." line="153" column="38" />
         <mark key="^" line="153" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" timestamp="1510552301430">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" timestamp="1510569360943">
+        <mark key="'" line="38" column="20" />
         <mark key="[" line="38" column="37" />
         <mark key="]" line="39" column="17" />
         <mark key="." line="39" column="17" />
@@ -100,6 +101,8 @@
       <jump line="79" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
       <jump line="63" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/app_dep.tf" />
       <jump line="52" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" />
+      <jump line="38" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" />
+      <jump line="211" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -188,6 +191,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
