@@ -3,17 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" timestamp="1510551602458">
-        <mark key="'" line="214" column="27" />
-        <mark key="[" line="26" column="47" />
-        <mark key="]" line="27" column="16" />
-        <mark key="." line="27" column="16" />
-        <mark key="^" line="27" column="16" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" timestamp="1510552274859">
+        <mark key="'" line="199" column="11" />
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
+        <mark key="^" line="233" column="41" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" timestamp="1510551384946">
-        <mark key="[" line="40" column="1" />
-        <mark key="]" line="40" column="1" />
-        <mark key="." line="40" column="1" />
+      <file name="/usr/local/go/src/net/http/server.go" timestamp="1510552165598">
+        <mark key="[" line="2300" column="0" />
+        <mark key="]" line="2302" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" timestamp="1510552301430">
+        <mark key="[" line="38" column="37" />
+        <mark key="]" line="39" column="17" />
+        <mark key="." line="39" column="17" />
+        <mark key="^" line="39" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -21,13 +26,17 @@
       <jump line="23" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="231" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="218" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="61" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="97" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="198" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="199" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CS8vIE5PVEU6IOWwhuadpeeahOOBq09T5q+O44Gr6KiI5ris44GZ44KL5oyH5qiZ44GM5aSJ44KP44KL5Y+v6IO95oCn44GM44GC44KL44Gu44Gn5YiG44GR44Gm44GE44KLCgltdXguSGFuZGxlRnVuYygiL3J2L2kiLCBzLlJld2FyZGVkVmlkZW9NZXRyaWNzSGFuZGxlcikKCW11eC5IYW5kbGVGdW5jKCIvcnYvYSIsIHMuUmV3YXJkZWRWaWRlb01ldHJpY3NIYW5kbGVyKQo=</text>
+        <text encoding="base64">ZnVuYyAobXV4ICpTZXJ2ZU11eCkgSGFuZGxlRnVuYyhwYXR0ZXJuIHN0cmluZywgaGFuZGxlciBmdW5jKFJlc3BvbnNlV3JpdGVyLCAqUmVxdWVzdCkpIHsKCW11eC5IYW5kbGUocGF0dGVybiwgSGFuZGxlckZ1bmMoaGFuZGxlcikpCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUtpbmVzaXNDbGllbnQgICAgICAgICAgICAgICAqS2luZXNpc0NsaWVudAoJS2luZXNpc0NsaWNrQ2xpZW50ICAgICAgICAgICpLaW5lc2lzQ2xpZW50CglLaW5lc2lzQ2xpZW50Rm9yY2VkUmVkaXJlY3QgKktpbmVzaXNDbGllbnQKCUtpbmVzaXNDbGllbnRWaWRlbyAgICAgICAgICAqS2luZXNpc0NsaWVudAoJS2luZXNpc0NsaWVudFJld2FyZGVkVmlkZW8gICpLaW5lc2lzQ2xpZW50Cg==</text>
+        <text encoding="base64">CmZ1bmMgKG11eCAqU2VydmVNdXgpIEhhbmRsZUZ1bmMocGF0dGVybiBzdHJpbmcsIGhhbmRsZXIgZnVuYyhSZXNwb25zZVdyaXRlciwgKlJlcXVlc3QpKSB7CgltdXguSGFuZGxlKHBhdHRlcm4sIEhhbmRsZXJGdW5jKGhhbmRsZXIpKQp9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -36,28 +45,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIE5PVEU6IOWwhuadpeeahOOBq09T5q+O44Gr6KiI5ris44GZ44KL5oyH5qiZ44GM5aSJ44KP44KL5Y+v6IO95oCn44GM44GC44KL44Gu44Gn5YiG44GR44Gm44GE44KLCg==</text>
+        <text encoding="base64">CUtpbmVzaXNDbGllbnQgICAgICAgICAgICAgICAqS2luZXNpc0NsaWVudAoJS2luZXNpc0NsaWNrQ2xpZW50ICAgICAgICAgICpLaW5lc2lzQ2xpZW50CglLaW5lc2lzQ2xpZW50Rm9yY2VkUmVkaXJlY3QgKktpbmVzaXNDbGllbnQKCUtpbmVzaXNDbGllbnRWaWRlbyAgICAgICAgICAqS2luZXNpc0NsaWVudAoJS2luZXNpc0NsaWVudFJld2FyZGVkVmlkZW8gICpLaW5lc2lzQ2xpZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXMuQWRkSFRUUEhhbmRsZXIoIiIpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CW11eC5IYW5kbGVGdW5jKCIvcnYvaSIsIHMuUmV3YXJkZWRWaWRlb01ldHJpY3NIYW5kbGVyKQoJbXV4LkhhbmRsZUZ1bmMoIi9ydi9hIiwgcy5SZXdhcmRlZFZpZGVvTWV0cmljc0hhbmRsZXIpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CW11eC5IYW5kbGVGdW5jKCIvcnYvYSIsIHMuUmV3YXJkZWRWaWRlb01ldHJpY3NIYW5kbGVyKQoK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CS8vIE5PVEU6IOWwhuadpeeahOOBq09T5q+O44Gr6KiI5ris44GZ44KL5oyH5qiZ44GM5aSJ44KP44KL5Y+v6IO95oCn44GM44GC44KL44Gu44Gn5YiG44GR44Gm44GE44KLCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXMuQWRkSFRUUEhhbmRsZXIoIiIpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vCg==</text>
+        <text encoding="base64">CW11eC5IYW5kbGVGdW5jKCIvcnYvaSIsIHMuUmV3YXJkZWRWaWRlb01ldHJpY3NIYW5kbGVyKQoJbXV4LkhhbmRsZUZ1bmMoIi9ydi9hIiwgcy5SZXdhcmRlZFZpZGVvTWV0cmljc0hhbmRsZXIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Tk9URTog</text>
+        <text encoding="base64">ICpraW5lc2lzU3RyZWFtUmV3YXJkZWRWaWRlb05hbWUsIA==</text>
       </register>
     </registers>
     <search>
@@ -69,8 +78,8 @@
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
         <entry>ls</entry>
-        <entry>vs</entry>
         <entry>q</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
