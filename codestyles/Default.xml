@@ -1,1 +1,5 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <HCL-Terraform>
+    <option name="PROPERTY_ALIGNMENT" value="2" />
+  </HCL-Terraform>
+</code_scheme>
