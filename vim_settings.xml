@@ -15,8 +15,11 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" timestamp="1510556891601">
-        <mark key="'" line="128" column="37" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" timestamp="1510557550922">
+        <mark key="'" line="277" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" timestamp="1510557714391">
+        <mark key="'" line="79" column="0" />
         <mark key="[" line="122" column="41" />
         <mark key="]" line="122" column="44" />
         <mark key="^" line="122" column="44" />
@@ -37,12 +40,12 @@
         <mark key="[" line="2300" column="0" />
         <mark key="]" line="2302" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" timestamp="1510556401283">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" timestamp="1510557702694">
         <mark key="'" line="159" column="0" />
-        <mark key="[" line="150" column="4" />
-        <mark key="]" line="150" column="5" />
-        <mark key="^" line="150" column="5" />
-        <mark key="." line="150" column="5" />
+        <mark key="[" line="153" column="38" />
+        <mark key="]" line="153" column="38" />
+        <mark key="." line="153" column="38" />
+        <mark key="^" line="153" column="39" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" timestamp="1510552301430">
         <mark key="[" line="38" column="37" />
@@ -80,52 +83,61 @@
       <jump line="11" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
       <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
       <jump line="128" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
+      <jump line="752" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
+      <jump line="12" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
+      <jump line="63" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
+      <jump line="66" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
+      <jump line="266" column="49" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
+      <jump line="271" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
+      <jump line="272" column="49" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
+      <jump line="277" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
+      <jump line="79" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>_</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>dep</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBJbnN0YW5jZToKICAgIC0gY291bnQ6ICAgICAgICAgICAgICAgICR7YXdzX2luc3RhbmNlLm1zLmNvdW50fQogICAgLSBhbWk6ICAgICAgICAgICAgICAgICAgJHthd3NfaW5zdGFuY2UubXMuMC5hbWl9CiAgICAtIGluc3RhbmNlX3R5cGU6ICAgICAgICAke2F3c19pbnN0YW5jZS5tcy4wLmluc3RhbmNlX3R5cGV9CiAgICAtIGlhbV9wcm9maWxlOiAgICAgICAgICAke2F3c19pbnN0YW5jZS5tcy4wLmlhbV9pbnN0YW5jZV9wcm9maWxlfQogICAgLSBpZDogICAgICAgICAgICAgICAgICAgJHthd3NfaW5zdGFuY2UubXMuMC5pZH0KICAgICAgYXZhaWxhYmlsaXR5X3pvbmU6ICAgICR7YXdzX2luc3RhbmNlLm1zLjAuYXZhaWxhYmlsaXR5X3pvbmV9CiAgICAgIG5ldHdvcmtfaW50ZXJmYWNlX2lkOiAke2F3c19pbnN0YW5jZS5tcy4wLm5ldHdvcmtfaW50ZXJmYWNlX2lkfQogICAgICBwcml2YXRlX2lwOiAgICAgICAgICAgJHthd3NfaW5zdGFuY2UubXMuMC5wcml2YXRlX2lwfQogICAgICBzZWN1cml0eV9ncm91cHM6ICAgICAgJHtqb2luKCIsIiwgYXdzX2luc3RhbmNlLm1zLjAuc2VjdXJpdHlfZ3JvdXBzKX0KICAgIC0gaWQ6ICAgICAgICAgICAgICAgICAgICR7YXdzX2luc3RhbmNlLm1zLjEuaWR9CiAgICAgIGF2YWlsYWJpbGl0eV96b25lOiAgICAke2F3c19pbnN0YW5jZS5tcy4xLmF2YWlsYWJpbGl0eV96b25lfQogICAgICBuZXR3b3JrX2ludGVyZmFjZV9pZDogJHthd3NfaW5zdGFuY2UubXMuMS5uZXR3b3JrX2ludGVyZmFjZV9pZH0KICAgICAgcHJpdmF0ZV9pcDogICAgICAgICAgICR7YXdzX2luc3RhbmNlLm1zLjEucHJpdmF0ZV9pcH0KICAgICAgc2VjdXJpdHlfZ3JvdXBzOiAgICAgICR7am9pbigiLCIsIGF3c19pbnN0YW5jZS5tcy4xLnNlY3VyaXR5X2dyb3Vwcyl9CgogIE5ldHdvcmtJbnRlcmZhY2U6CiAgICAtIGNvdW50OiAgICAgICAke2F3c19uZXR3b3JrX2ludGVyZmFjZS5tcy5jb3VudH0KICAgIC0gaWQ6ICAgICAgICAgICR7YXdzX25ldHdvcmtfaW50ZXJmYWNlLm1zLjAuaWR9CiAgICAgIHN1Ym5ldF9pZDogICAke2F3c19uZXR3b3JrX2ludGVyZmFjZS5tcy4wLnN1Ym5ldF9pZH0KICAgICAgcHJpdmF0ZV9pcHM6ICR7am9pbigiLCIsIGF3c19uZXR3b3JrX2ludGVyZmFjZS5tcy4wLnByaXZhdGVfaXBzKX0KICAgIC0gaWQ6ICAgICAgICAgICR7YXdzX25ldHdvcmtfaW50ZXJmYWNlLm1zLjEuaWR9CiAgICAgIHN1Ym5ldF9pZDogICAke2F3c19uZXR3b3JrX2ludGVyZmFjZS5tcy4xLnN1Ym5ldF9pZH0KICAgICAgcHJpdmF0ZV9pcHM6ICR7am9pbigiLCIsIGF3c19uZXR3b3JrX2ludGVyZmFjZS5tcy4xLnByaXZhdGVfaXBzKX0KCiAgRWJzOgogICAgLSBjb3VudDogICAgICAgICAgICR7YXdzX2Vic192b2x1bWUubXMuY291bnR9CiAgICAtIGlkOiAgICAgICAgICAgICAgJHthd3NfZWJzX3ZvbHVtZS5tcy4wLmlkfQogICAgICBhdmFpbGFiaXR5X3pvbmU6ICR7YXdzX2Vic192b2x1bWUubXMuMC5hdmFpbGFiaWxpdHlfem9uZX0KICAgICAgc2l6ZTogICAgICAgICAgICAke2F3c19lYnNfdm9sdW1lLm1zLjAuc2l6ZX0KICAgIC0gaWQ6ICAgICAgICAgICAgICAke2F3c19lYnNfdm9sdW1lLm1zLjEuaWR9CiAgICAgIGF2YWlsYWJpdHlfem9uZTogJHthd3NfZWJzX3ZvbHVtZS5tcy4xLmF2YWlsYWJpbGl0eV96b25lfQogICAgICBzaXplOiAgICAgICAgICAgICR7YXdzX2Vic192b2x1bWUubXMuMS5zaXplfQoKICBBdHRhY2hWb2x1bWU6CiAgICAtIGNvdW50OiAgICAgICAke2F3c192b2x1bWVfYXR0YWNobWVudC5tcy5jb3VudH0KICAgIC0gaWQ6ICAgICAgICAgICR7YXdzX3ZvbHVtZV9hdHRhY2htZW50Lm1zLjAuaWR9CiAgICAgIGluc3RhbmNlX2lkOiAke2F3c192b2x1bWVfYXR0YWNobWVudC5tcy4wLmluc3RhbmNlX2lkfQogICAgICB2b2x1bWVfaWQ6ICAgJHthd3Nfdm9sdW1lX2F0dGFjaG1lbnQubXMuMC52b2x1bWVfaWR9CiAgICAtIGlkOiAgICAgICAgICAke2F3c192b2x1bWVfYXR0YWNobWVudC5tcy4xLmlkfQogICAgICBpbnN0YW5jZV9pZDogJHthd3Nfdm9sdW1lX2F0dGFjaG1lbnQubXMuMS5pbnN0YW5jZV9pZH0KICAgICAgdm9sdW1lX2lkOiAgICR7YXdzX3ZvbHVtZV9hdHRhY2htZW50Lm1zLjEudm9sdW1lX2lkfQoKICBTZWN1cml0eUdyb3VwOgogICAgLSBuYW1lOiAke2F3c19zZWN1cml0eV9ncm91cC5tcy5uYW1lfQoKICBDbG91ZFdhdGNoIExvZ3M6CiAgICAtIG5hbWU6ICR7YXdzX2Nsb3Vkd2F0Y2hfbG9nX2dyb3VwLm1zX25naW54Lm5hbWV9CiAgICAgIGFybjogICR7YXdzX2Nsb3Vkd2F0Y2hfbG9nX2dyb3VwLm1zX25naW54LmFybn0KICAgIC0gbmFtZTogJHthd3NfY2xvdWR3YXRjaF9sb2dfZ3JvdXAubXNfcGhwLm5hbWV9CiAgICAgIGFybjogICR7YXdzX2Nsb3Vkd2F0Y2hfbG9nX2dyb3VwLm1zX3BocC5hcm59Cg==</text>
+        <text encoding="base64">ICAgICAgICAiU2VydmljZSI6ICJlYzIuYW1hem9uYXdzLmNvbSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gaWQ6ICAgICAgICAgICR7YXdzX25ldHdvcmtfaW50ZXJmYWNlLm1zLjEuaWR9CiAgICAgIHN1Ym5ldF9pZDogICAke2F3c19uZXR3b3JrX2ludGVyZmFjZS5tcy4xLnN1Ym5ldF9pZH0KICAgICAgcHJpdmF0ZV9pcHM6ICR7am9pbigiLCIsIGF3c19uZXR3b3JrX2ludGVyZmFjZS5tcy4xLnByaXZhdGVfaXBzKX0K</text>
+        <text encoding="base64">ICAgICAgICAiQVdTIjogImFybjphd3M6aWFtOiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NTUH06dXNlci8qIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gY291bnQ6ICAgICAgICR7YXdzX25ldHdvcmtfaW50ZXJmYWNlLm1zLmNvdW50fQo=</text>
+        <text encoding="base64">ICAgIC0gaWQ6ICAgICAgICAgICR7YXdzX25ldHdvcmtfaW50ZXJmYWNlLm1zLjEuaWR9CiAgICAgIHN1Ym5ldF9pZDogICAke2F3c19uZXR3b3JrX2ludGVyZmFjZS5tcy4xLnN1Ym5ldF9pZH0KICAgICAgcHJpdmF0ZV9pcHM6ICR7am9pbigiLCIsIGF3c19uZXR3b3JrX2ludGVyZmFjZS5tcy4xLnByaXZhdGVfaXBzKX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmV0d29ya19pbnRlcmZhY2VfaWQ6ICR7YXdzX2luc3RhbmNlLm1zLjAubmV0d29ya19pbnRlcmZhY2VfaWR9CiAgICAgIHByaXZhdGVfaXA6ICAgICAgICAgICAke2F3c19pbnN0YW5jZS5tcy4wLnByaXZhdGVfaXB9CiAgICAgIHNlY3VyaXR5X2dyb3VwczogICAgICAke2pvaW4oIiwiLCBhd3NfaW5zdGFuY2UubXMuMC5zZWN1cml0eV9ncm91cHMpfQo=</text>
+        <text encoding="base64">ICAgIC0gY291bnQ6ICAgICAgICR7YXdzX25ldHdvcmtfaW50ZXJmYWNlLm1zLmNvdW50fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXZhaWxhYmlsaXR5X3pvbmU6ICAgICR7YXdzX2luc3RhbmNlLmhhc3RlX29wcy5hdmFpbGFiaWxpdHlfem9uZX0K</text>
+        <text encoding="base64">ICAgICAgbmV0d29ya19pbnRlcmZhY2VfaWQ6ICR7YXdzX2luc3RhbmNlLm1zLjAubmV0d29ya19pbnRlcmZhY2VfaWR9CiAgICAgIHByaXZhdGVfaXA6ICAgICAgICAgICAke2F3c19pbnN0YW5jZS5tcy4wLnByaXZhdGVfaXB9CiAgICAgIHNlY3VyaXR5X2dyb3VwczogICAgICAke2pvaW4oIiwiLCBhd3NfaW5zdGFuY2UubXMuMC5zZWN1cml0eV9ncm91cHMpfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gaWQ6ICAgICAgICAgICAgICAgICAgICR7YXdzX2luc3RhbmNlLm1zLjEuaWR9CiAgICAgIGF2YWlsYWJpbGl0eV96b25lOiAgICAke2F3c19pbnN0YW5jZS5tcy4xLmF2YWlsYWJpbGl0eV96b25lfQogICAgICBuZXR3b3JrX2ludGVyZmFjZV9pZDogJHthd3NfaW5zdGFuY2UubXMuMS5uZXR3b3JrX2ludGVyZmFjZV9pZH0KICAgICAgcHJpdmF0ZV9pcDogICAgICAgICAgICR7YXdzX2luc3RhbmNlLm1zLjEucHJpdmF0ZV9pcH0KICAgICAgc2VjdXJpdHlfZ3JvdXBzOiAgICAgICR7am9pbigiLCIsIGF3c19pbnN0YW5jZS5tcy4xLnNlY3VyaXR5X2dyb3Vwcyl9Cg==</text>
+        <text encoding="base64">ICAgICAgYXZhaWxhYmlsaXR5X3pvbmU6ICAgICR7YXdzX2luc3RhbmNlLmhhc3RlX29wcy5hdmFpbGFiaWxpdHlfem9uZX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gaWQ6ICAgICAgICAgICAgICAgICAgICR7YXdzX2luc3RhbmNlLm1zLjAuaWR9Cg==</text>
+        <text encoding="base64">ICAgIC0gaWQ6ICAgICAgICAgICAgICAgICAgICR7YXdzX2luc3RhbmNlLm1zLjEuaWR9CiAgICAgIGF2YWlsYWJpbGl0eV96b25lOiAgICAke2F3c19pbnN0YW5jZS5tcy4xLmF2YWlsYWJpbGl0eV96b25lfQogICAgICBuZXR3b3JrX2ludGVyZmFjZV9pZDogJHthd3NfaW5zdGFuY2UubXMuMS5uZXR3b3JrX2ludGVyZmFjZV9pZH0KICAgICAgcHJpdmF0ZV9pcDogICAgICAgICAgICR7YXdzX2luc3RhbmNlLm1zLjEucHJpdmF0ZV9pcH0KICAgICAgc2VjdXJpdHlfZ3JvdXBzOiAgICAgICR7am9pbigiLCIsIGF3c19pbnN0YW5jZS5tcy4xLnNlY3VyaXR5X2dyb3Vwcyl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gaWFtX3Byb2ZpbGU6ICAgICAgICAgICR7YXdzX2luc3RhbmNlLm1zLjAuaWFtX2luc3RhbmNlX3Byb2ZpbGV9Cg==</text>
+        <text encoding="base64">ICAgIC0gaWQ6ICAgICAgICAgICAgICAgICAgICR7YXdzX2luc3RhbmNlLm1zLjAuaWR9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gY291bnQ6ICAgICAgICAgICAgICAgICR7YXdzX2luc3RhbmNlLmhhc3RlX29wcy5jb3VudH0K</text>
+        <text encoding="base64">ICAgIC0gaWFtX3Byb2ZpbGU6ICAgICAgICAgICR7YXdzX2luc3RhbmNlLm1zLjAuaWFtX2luc3RhbmNlX3Byb2ZpbGV9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gY291bnQ6ICAgICAgICAgICAgICAgICR7YXdzX2luc3RhbmNlLmhhc3RlX29wcy5jb3VudH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dep</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>dep</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -135,6 +147,7 @@
         <entry>DEVE</entry>
         <entry>ami</entry>
         <entry>dep</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
