@@ -64,6 +64,9 @@
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="113" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1510637008283">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" timestamp="1510569360943">
         <mark key="'" line="38" column="20" />
         <mark key="[" line="38" column="37" />
@@ -110,6 +113,7 @@
       <jump line="52" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" />
       <jump line="38" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" />
       <jump line="211" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
     </jumps>
     <registers>
       <register name="-" type="4">
