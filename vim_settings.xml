@@ -36,6 +36,12 @@
         <mark key="." line="153" column="38" />
         <mark key="^" line="153" column="39" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_maio/Makefile" timestamp="1510624763659">
+        <mark key="[" line="24" column="28" />
+        <mark key="]" line="24" column="27" />
+        <mark key="^" line="24" column="27" />
+        <mark key="." line="24" column="27" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/sre/aws/variables.tf" timestamp="1510555924740">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="43" />
@@ -109,13 +115,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>coreos</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGF0YSAiYXdzX2FtaSIgImNlbnRvczciIHsKICBtb3N0X3JlY2VudCA9IHRydWUKICBvd25lcnMgICAgICA9IFsgIiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NSRX0iLCAiJHt2YXIuQVdTX0FDQ09VTlRfSURfU1NQfSIgXQoKICBmaWx0ZXIgewogICAgbmFtZSAgID0gIm5hbWUiCiAgICB2YWx1ZXMgPSBbICJDZW50T1MgNy4qIEhWTSBTUi1JT1Ygd2l0aCBjbG91ZC1pbml0IC0gKiIsIF0KICB9Cn0K</text>
+      <register name="0" type="4">
+        <text>$(OUTPUT_PATH)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBvd25lcnMgICAgICA9IFsgIiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NSRX0iLCAiJHt2YXIuQVdTX0FDQ09VTlRfSURfU1NQfSIgXQo=</text>
