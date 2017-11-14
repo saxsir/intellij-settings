@@ -36,7 +36,7 @@
         <mark key="." line="153" column="38" />
         <mark key="^" line="153" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_maio/Makefile" timestamp="1510624763659">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_maio/Makefile" timestamp="1510626366405">
         <mark key="[" line="24" column="28" />
         <mark key="]" line="24" column="27" />
         <mark key="^" line="24" column="27" />
@@ -65,6 +65,10 @@
       <file name="/usr/local/go/src/net/http/server.go" timestamp="1510569202071">
         <mark key="[" line="2300" column="0" />
         <mark key="]" line="2302" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/modules/cron/files/sjdc_dep01" timestamp="1510626173643">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="113" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" timestamp="1510569360943">
         <mark key="'" line="38" column="20" />
@@ -120,8 +124,8 @@
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>$(OUTPUT_PATH)</text>
+      <register name="0" type="2">
+        <text encoding="base64">MDAgMDggKiAqICogZmx1Y3Qgc291cmNlIC9ldGMvcHJvZmlsZSAmJiBtYWtlIC1pcyAtaiAwMF8wOF9BX0FfQSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2ggRU5WPXByb2QgPiAvZGV2L251bGwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBvd25lcnMgICAgICA9IFsgIiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NSRX0iLCAiJHt2YXIuQVdTX0FDQ09VTlRfSURfU1NQfSIgXQo=</text>
