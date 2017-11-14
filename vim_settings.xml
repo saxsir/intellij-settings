@@ -18,11 +18,11 @@
         <mark key="^" line="67" column="1" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/_lib/make/slack.mk" timestamp="1510644106316">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="12" column="22" />
-        <mark key="^" line="9" column="21" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/_lib/make/slack.mk" timestamp="1510645317967">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/ec2_ms.tf" timestamp="1510556556655">
         <mark key="[" line="3" column="0" />
@@ -42,7 +42,12 @@
         <mark key="." line="153" column="38" />
         <mark key="^" line="153" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/_batch/updateOArules.mk" timestamp="1510644051991" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/_batch/updateOArules.mk" timestamp="1510645584746">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="18" column="17" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/sre/aws/variables.tf" timestamp="1510555924740">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="43" />
@@ -124,7 +129,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>u</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -133,31 +138,31 @@
         <text encoding="base64">CSQoTUFLRSkgZG93bmxvYWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDU1bjgpLjg4Djgqbjg7Pjg63jg7zjg4njgZvjgZrjgavlho3lj5bjgorovrzjgb/jgZfjgZ/jgYTjgrHjg7zjgrnjgYzjgYLjgovjga7jgafjgIFkb3dubG9hZOOCkmdhdGhlcl9yZXBvcnTjga7kvp3lrZjjgajjgZfjgabjgYTjgarjgYQK</text>
+        <text encoding="base64">CSAg44CQ5omL5YuV5pu05paw44GM5b+F6KaB44Gn44GZ44CRIFxuIFwKCSAgJChzaGVsbCBncmVwICdmYWlsZWQnICQ8IHwgZ3JlcCAtdiAndGltZW91dCcgfCBzb3J0KSBcbiBcCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IyBDU1bjgpLjg4Djgqbjg7Pjg63jg7zjg4njgZvjgZrjgavlho3lj5bjgorovrzjgb/jgZfjgZ/jgYTjgrHjg7zjgrnjgYzjgYLjgovjga7jgafjgIFkb3dubG9hZOOCkmdhdGhlcl9yZXBvcnTjga7kvp3lrZjjgajjgZfjgabjgYTjgarjgYQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSQoTUFLRSkgaW1wb3J0X3N1bW1hcnkK</text>
+        <text encoding="base64">IyBDU1bjgpLjg4Djgqbjg7Pjg63jg7zjg4njgZvjgZrjgavlho3lj5bjgorovrzjgb/jgZfjgZ/jgYTjgrHjg7zjgrnjgYzjgYLjgovjga7jgafjgIFkb3dubG9hZOOCkmdhdGhlcl9yZXBvcnTjga7kvp3lrZjjgajjgZfjgabjgYTjgarjgYQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICQoTUFLRSkgaW1wb3J0X3N1bW1hcnkK</text>
+        <text encoding="base64">CSQoTUFLRSkgaW1wb3J0X3N1bW1hcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvd25lcnMgICAgICA9IFsgIiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NSRX0iLCAiJHt2YXIuQVdTX0FDQ09VTlRfSURfU1NQfSIgXQo=</text>
+        <text encoding="base64">ICAgICQoTUFLRSkgaW1wb3J0X3N1bW1hcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGF0YSAiYXdzX2FtaSIgImNlbnRvczciIHsKICBtb3N0X3JlY2VudCA9IHRydWUKICBvd25lcnMgICAgICA9IFsgIiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NSRX0iLCAiJHt2YXIuQVdTX0FDQ09VTlRfSURfU1NQfSIgXQoKICBmaWx0ZXIgewogICAgbmFtZSAgID0gIm5hbWUiCiAgICB2YWx1ZXMgPSBbICJDZW50T1MgNy4qIEhWTSBTUi1JT1Ygd2l0aCBjbG91ZC1pbml0IC0gKiIsIF0KICB9Cn0K</text>
+        <text encoding="base64">ICBvd25lcnMgICAgICA9IFsgIiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NSRX0iLCAiJHt2YXIuQVdTX0FDQ09VTlRfSURfU1NQfSIgXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YSAiYXdzX2FtaSIgImNlbnRvczciIHsKICBtb3N0X3JlY2VudCA9IHRydWUKICBvd25lcnMgICAgICA9IFsgIiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NSRX0iLCAiJHt2YXIuQVdTX0FDQ09VTlRfSURfU1NQfSIgXQoKICBmaWx0ZXIgewogICAgbmFtZSAgID0gIm5hbWUiCiAgICB2YWx1ZXMgPSBbICJDZW50T1MgNy4qIEhWTSBTUi1JT1Ygd2l0aCBjbG91ZC1pbml0IC0gKiIsIF0KICB9Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiQVdTIjogImFybjphd3M6aWFtOiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NTUH06dXNlci8qIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gaWQ6ICAgICAgICAgICR7YXdzX25ldHdvcmtfaW50ZXJmYWNlLm1zLjEuaWR9CiAgICAgIHN1Ym5ldF9pZDogICAke2F3c19uZXR3b3JrX2ludGVyZmFjZS5tcy4xLnN1Ym5ldF9pZH0KICAgICAgcHJpdmF0ZV9pcHM6ICR7am9pbigiLCIsIGF3c19uZXR3b3JrX2ludGVyZmFjZS5tcy4xLnByaXZhdGVfaXBzKX0K</text>
+        <text encoding="base64">ICAgICAgICAiQVdTIjogImFybjphd3M6aWFtOiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NTUH06dXNlci8qIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -215,6 +220,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
