@@ -61,6 +61,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" timestamp="1510557550922">
         <mark key="'" line="277" column="12" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" timestamp="1510733628446">
+        <mark key="'" line="99" column="2" />
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="45" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" timestamp="1510562610467">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="25" column="57" />
@@ -126,16 +131,20 @@
       <jump line="38" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" />
       <jump line="211" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" />
+      <jump line="5" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" />
+      <jump line="99" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>google</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CSQoTUFLRSkgZG93bmxvYWQK</text>
+      <register name="0" type="4">
+        <text>tpc.googlesyndication.com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSAg44CQ5omL5YuV5pu05paw44GM5b+F6KaB44Gn44GZ44CRIFxuIFwKCSAgJChzaGVsbCBncmVwICdmYWlsZWQnICQ8IHwgZ3JlcCAtdiAndGltZW91dCcgfCBzb3J0KSBcbiBcCg==</text>
@@ -169,9 +178,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>google</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>google</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -182,6 +191,8 @@
         <entry>ami</entry>
         <entry>dep</entry>
         <entry>user</entry>
+        <entry>hatena</entry>
+        <entry>google</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
