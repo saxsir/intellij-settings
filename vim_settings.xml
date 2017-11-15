@@ -48,6 +48,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="18" column="17" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/cmd/s2sqs/s2sqs.go" timestamp="1510734216767" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/sre/aws/variables.tf" timestamp="1510555924740">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="43" />
