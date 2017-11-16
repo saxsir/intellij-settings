@@ -72,12 +72,12 @@
         <mark key="." line="306" column="35" />
         <mark key="^" line="306" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1510819062669">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1510820989061">
         <mark key="'" line="19" column="17" />
-        <mark key="[" line="308" column="0" />
-        <mark key="]" line="308" column="0" />
-        <mark key="^" line="58" column="17" />
-        <mark key="." line="308" column="0" />
+        <mark key="[" line="303" column="54" />
+        <mark key="]" line="303" column="54" />
+        <mark key="^" line="303" column="54" />
+        <mark key="." line="303" column="54" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/ec2_ms.tf" timestamp="1510556556655">
         <mark key="[" line="3" column="0" />
@@ -271,6 +271,7 @@
         <entry>e .</entry>
         <entry>q</entry>
         <entry>vs</entry>
+        <entry>304</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
