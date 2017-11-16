@@ -35,12 +35,12 @@
         <mark key="." line="205" column="56" />
         <mark key="^" line="205" column="56" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" timestamp="1510557702694">
-        <mark key="'" line="159" column="0" />
-        <mark key="[" line="153" column="38" />
-        <mark key="]" line="153" column="38" />
-        <mark key="." line="153" column="38" />
-        <mark key="^" line="153" column="39" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" timestamp="1510799071757">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="149" column="2" />
+        <mark key="]" line="149" column="5" />
+        <mark key="." line="149" column="5" />
+        <mark key="^" line="149" column="5" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/_batch/updateOArules.mk" timestamp="1510645584746">
         <mark key="[" line="26" column="0" />
@@ -61,7 +61,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/app_dep.tf" timestamp="1510562504664">
         <mark key="'" line="63" column="7" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/crawler/seedreader.go" timestamp="1510795852983" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" timestamp="1510562617689">
         <mark key="'" line="52" column="0" />
       </file>
@@ -73,12 +72,15 @@
         <mark key="[" line="29" column="21" />
         <mark key="]" line="29" column="45" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" timestamp="1510562610467">
-        <mark key="'" line="79" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" timestamp="1510799020119">
+        <mark key="'" line="74" column="0" />
         <mark key="[" line="25" column="57" />
         <mark key="]" line="25" column="63" />
         <mark key="^" line="25" column="63" />
         <mark key="." line="25" column="63" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" timestamp="1510799176654">
+        <mark key="'" line="32" column="0" />
       </file>
       <file name="/usr/local/go/src/net/http/server.go" timestamp="1510569202071">
         <mark key="[" line="2300" column="0" />
@@ -142,6 +144,9 @@
       <jump line="11" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" />
       <jump line="5" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" />
       <jump line="99" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" />
+      <jump line="74" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
+      <jump line="48" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
+      <jump line="32" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -154,31 +159,31 @@
         <text>tpc.googlesyndication.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAg44CQ5omL5YuV5pu05paw44GM5b+F6KaB44Gn44GZ44CRIFxuIFwKCSAgJChzaGVsbCBncmVwICdmYWlsZWQnICQ8IHwgZ3JlcCAtdiAndGltZW91dCcgfCBzb3J0KSBcbiBcCg==</text>
+        <text encoding="base64">ICAiU2lkIjogIiIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDU1bjgpLjg4Djgqbjg7Pjg63jg7zjg4njgZvjgZrjgavlho3lj5bjgorovrzjgb/jgZfjgZ/jgYTjgrHjg7zjgrnjgYzjgYLjgovjga7jgafjgIFkb3dubG9hZOOCkmdhdGhlcl9yZXBvcnTjga7kvp3lrZjjgajjgZfjgabjgYTjgarjgYQK</text>
+        <text encoding="base64">CSAg44CQ5omL5YuV5pu05paw44GM5b+F6KaB44Gn44GZ44CRIFxuIFwKCSAgJChzaGVsbCBncmVwICdmYWlsZWQnICQ8IHwgZ3JlcCAtdiAndGltZW91dCcgfCBzb3J0KSBcbiBcCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">IyBDU1bjgpLjg4Djgqbjg7Pjg63jg7zjg4njgZvjgZrjgavlho3lj5bjgorovrzjgb/jgZfjgZ/jgYTjgrHjg7zjgrnjgYzjgYLjgovjga7jgafjgIFkb3dubG9hZOOCkmdhdGhlcl9yZXBvcnTjga7kvp3lrZjjgajjgZfjgabjgYTjgarjgYQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSQoTUFLRSkgaW1wb3J0X3N1bW1hcnkK</text>
+        <text encoding="base64">IyBDU1bjgpLjg4Djgqbjg7Pjg63jg7zjg4njgZvjgZrjgavlho3lj5bjgorovrzjgb/jgZfjgZ/jgYTjgrHjg7zjgrnjgYzjgYLjgovjga7jgafjgIFkb3dubG9hZOOCkmdhdGhlcl9yZXBvcnTjga7kvp3lrZjjgajjgZfjgabjgYTjgarjgYQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICQoTUFLRSkgaW1wb3J0X3N1bW1hcnkK</text>
+        <text encoding="base64">CSQoTUFLRSkgaW1wb3J0X3N1bW1hcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvd25lcnMgICAgICA9IFsgIiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NSRX0iLCAiJHt2YXIuQVdTX0FDQ09VTlRfSURfU1NQfSIgXQo=</text>
+        <text encoding="base64">ICAgICQoTUFLRSkgaW1wb3J0X3N1bW1hcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF0YSAiYXdzX2FtaSIgImNlbnRvczciIHsKICBtb3N0X3JlY2VudCA9IHRydWUKICBvd25lcnMgICAgICA9IFsgIiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NSRX0iLCAiJHt2YXIuQVdTX0FDQ09VTlRfSURfU1NQfSIgXQoKICBmaWx0ZXIgewogICAgbmFtZSAgID0gIm5hbWUiCiAgICB2YWx1ZXMgPSBbICJDZW50T1MgNy4qIEhWTSBTUi1JT1Ygd2l0aCBjbG91ZC1pbml0IC0gKiIsIF0KICB9Cn0K</text>
+        <text encoding="base64">ICBvd25lcnMgICAgICA9IFsgIiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NSRX0iLCAiJHt2YXIuQVdTX0FDQ09VTlRfSURfU1NQfSIgXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YSAiYXdzX2FtaSIgImNlbnRvczciIHsKICBtb3N0X3JlY2VudCA9IHRydWUKICBvd25lcnMgICAgICA9IFsgIiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NSRX0iLCAiJHt2YXIuQVdTX0FDQ09VTlRfSURfU1NQfSIgXQoKICBmaWx0ZXIgewogICAgbmFtZSAgID0gIm5hbWUiCiAgICB2YWx1ZXMgPSBbICJDZW50T1MgNy4qIEhWTSBTUi1JT1Ygd2l0aCBjbG91ZC1pbml0IC0gKiIsIF0KICB9Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiQVdTIjogImFybjphd3M6aWFtOiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NTUH06dXNlci8qIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
