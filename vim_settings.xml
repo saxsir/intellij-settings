@@ -61,6 +61,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/app_dep.tf" timestamp="1510562504664">
         <mark key="'" line="63" column="7" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/crawler/seedreader.go" timestamp="1510795852983" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" timestamp="1510562617689">
         <mark key="'" line="52" column="0" />
       </file>
