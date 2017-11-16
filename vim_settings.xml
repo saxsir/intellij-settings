@@ -86,6 +86,9 @@
         <mark key="[" line="2300" column="0" />
         <mark key="]" line="2302" column="0" />
       </file>
+      <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/manifests/nodes/aws_pam_tuning.pp" timestamp="1510807293698">
+        <mark key="'" line="100" column="0" />
+      </file>
       <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/modules/cron/files/sjdc_dep01" timestamp="1510626173643">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="113" />
@@ -147,6 +150,8 @@
       <jump line="74" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
       <jump line="48" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
       <jump line="32" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
+      <jump line="18" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" />
+      <jump line="100" column="0" filename="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/manifests/nodes/aws_pam_tuning.pp" />
     </jumps>
     <registers>
       <register name="-" type="4">
