@@ -94,12 +94,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" timestamp="1510799176654">
         <mark key="'" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1510814487680">
-        <mark key="'" line="84" column="18" />
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="^" line="202" column="20" />
-        <mark key="." line="203" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1510815242929">
+        <mark key="'" line="198" column="0" />
+        <mark key="[" line="195" column="7" />
+        <mark key="]" line="195" column="7" />
+        <mark key="." line="195" column="7" />
+        <mark key="^" line="195" column="7" />
       </file>
       <file name="/usr/local/go/src/net/http/server.go" timestamp="1510569202071">
         <mark key="[" line="2300" column="0" />
@@ -168,10 +168,12 @@
       <jump line="35" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/Makefile" />
       <jump line="65" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="84" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="201" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="197" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s.page.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
@@ -180,31 +182,31 @@
         <text>tpc.googlesyndication.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmbXQuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gc2Nyb2xsIHRvIHBhZ2UgdG9wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiU2lkIjogIiIsCg==</text>
+        <text encoding="base64">CS8vIHNjcm9sbCB0byBwYWdlIHRvcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAg44CQ5omL5YuV5pu05paw44GM5b+F6KaB44Gn44GZ44CRIFxuIFwKCSAgJChzaGVsbCBncmVwICdmYWlsZWQnICQ8IHwgZ3JlcCAtdiAndGltZW91dCcgfCBzb3J0KSBcbiBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBDU1bjgpLjg4Djgqbjg7Pjg63jg7zjg4njgZvjgZrjgavlho3lj5bjgorovrzjgb/jgZfjgZ/jgYTjgrHjg7zjgrnjgYzjgYLjgovjga7jgafjgIFkb3dubG9hZOOCkmdhdGhlcl9yZXBvcnTjga7kvp3lrZjjgajjgZfjgabjgYTjgarjgYQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDU1bjgpLjg4Djgqbjg7Pjg63jg7zjg4njgZvjgZrjgavlho3lj5bjgorovrzjgb/jgZfjgZ/jgYTjgrHjg7zjgrnjgYzjgYLjgovjga7jgafjgIFkb3dubG9hZOOCkmdhdGhlcl9yZXBvcnTjga7kvp3lrZjjgajjgZfjgabjgYTjgarjgYQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSQoTUFLRSkgaW1wb3J0X3N1bW1hcnkK</text>
+        <text encoding="base64">ICAiU2lkIjogIiIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICQoTUFLRSkgaW1wb3J0X3N1bW1hcnkK</text>
+        <text encoding="base64">CSAg44CQ5omL5YuV5pu05paw44GM5b+F6KaB44Gn44GZ44CRIFxuIFwKCSAgJChzaGVsbCBncmVwICdmYWlsZWQnICQ8IHwgZ3JlcCAtdiAndGltZW91dCcgfCBzb3J0KSBcbiBcCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
