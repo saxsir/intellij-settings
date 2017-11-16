@@ -105,12 +105,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" timestamp="1510799176654">
         <mark key="'" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1510818775988">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="195" column="7" />
-        <mark key="]" line="195" column="7" />
-        <mark key="." line="195" column="7" />
-        <mark key="^" line="195" column="7" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1510822515801">
+        <mark key="'" line="168" column="15" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
+        <mark key="^" line="196" column="34" />
       </file>
       <file name="/usr/local/go/src/net/http/server.go" timestamp="1510569202071">
         <mark key="[" line="2300" column="0" />
@@ -204,52 +204,53 @@
       <jump line="286" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
       <jump line="293" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
       <jump line="19" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="168" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>err</text>
       </register>
       <register name="/" type="4">
-        <text>OpenPri</text>
+        <text>scroll</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQl0LkZhdGFsZigiZmFpbGVkIHRvIG9wZW4gcGFnZSIsIGVycikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRmKCJjb3VsZG4ndCBzY3JvbGwgdG8gcGFnZSB0b3A6ICVzIiwgZXJyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBkbyBub3RoaW5nLi4uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhciB5IGludAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXZhciB5IGludAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIOabtOaWsOWJjeOBrumHkemhjeOCkuWPluW+l+OBl+OBvuOBmQoJXywgXywgYSwgZXJyIDo9IHMuRmV0Y2hPQVByaWNlKCJ0ZXN0X3BhbV90dW5pbmdfdXBkYXRlIiwgIm1vYmlsZSIpCglpZiBlcnIgIT0gbmlsIHsKCQl0LkZhdGFsZigiZmFpbGVkIHRvIGZldGNoIHByaWNlOiAldiIsIGVycikKCX0KCgl0ZXN0IDo9ICZzdHJ1Y3QgewoJCXVuaXROYW1lIHN0cmluZwoJCWFkVHlwZSAgIHN0cmluZwoJCWJ1eWVyICAgIHN0cmluZwoJCWJyYW5kICAgIGludDY0CgkJc2VtaSAgICAgaW50NjQKCQlhbm8gICAgICBpbnQ2NAoJfXsKCQl1bml0TmFtZTogInRlc3RfcGFtX3R1bmluZ191cGRhdGUiLAoJCWFkVHlwZTogICAibW9iaWxlIiwKCQlidXllcjogICAgIuWFqOWToSIsCgkJYnJhbmQ6ICAgIGludDY0KDEwMDApLAoJCXNlbWk6ICAgICBpbnQ2NCgtMSksCgkJYW5vOiAgICAgIGludDY0KC0xKSwKCX0KCglwIDo9IE5ld1ByaWNlU2V0dGluZyh0ZXN0LnVuaXROYW1lLCB0ZXN0LmFkVHlwZSwgdGVzdC5idXllciwgdGVzdC5icmFuZCwgdGVzdC5zZW1pLCB0ZXN0LmFubykKCWlmIGVyciA6PSBzLlVwZGF0ZU9BUHJpY2UocCk7IGVyciAhPSBuaWwgewoJCXQuRmF0YWxmKCJmYWlsZWQgdG8gdXBkYXRlIHByaWNlOiAldiIsIGVycikKCX0KCgkvLyDmm7TmlrDlvozjgIHljL/lkI3jgYzmm7TmlrDjgZXjgozjgabjgYTjgarjgZHjgozjgbBPSwoJXywgXywgYWEsIGVyciA6PSBzLkZldGNoT0FQcmljZSgidGVzdF9wYW1fdHVuaW5nX3VwZGF0ZSIsICJtb2JpbGUiKQoJaWYgZXJyICE9IG5pbCB7CgkJdC5GYXRhbGYoImZhaWxlZCB0byB1cGRhdGUgcHJpY2U6ICV2IiwgZXJyKQoJfQoJaWYgYWEgIT0gYSB7CgkJdC5GYXRhbGYoImV4cGVjdCAldiwgYnV0ICV2IiwgYSwgYWEpCgl9Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIOabtOaWsOWJjeOBrumHkemhjeOCkuWPluW+l+OBl+OBvuOBmQoJXywgXywgYSwgZXJyIDo9IHMuRmV0Y2hPQVByaWNlKCJ0ZXN0X3BhbV90dW5pbmdfdXBkYXRlIiwgIm1vYmlsZSIpCglpZiBlcnIgIT0gbmlsIHsKCQl0LkZhdGFsZigiZmFpbGVkIHRvIGZldGNoIHByaWNlOiAldiIsIGVycikKCX0KCgl0ZXN0IDo9ICZzdHJ1Y3QgewoJCXVuaXROYW1lIHN0cmluZwoJCWFkVHlwZSAgIHN0cmluZwoJCWJ1eWVyICAgIHN0cmluZwoJCWJyYW5kICAgIGludDY0CgkJc2VtaSAgICAgaW50NjQKCQlhbm8gICAgICBpbnQ2NAoJfXsKCQl1bml0TmFtZTogInRlc3RfcGFtX3R1bmluZ191cGRhdGUiLAoJCWFkVHlwZTogICAibW9iaWxlIiwKCQlidXllcjogICAgIuWFqOWToSIsCgkJYnJhbmQ6ICAgIGludDY0KDEwMDApLAoJCXNlbWk6ICAgICBpbnQ2NCgtMSksCgkJYW5vOiAgICAgIGludDY0KC0xKSwKCX0KCglwIDo9IE5ld1ByaWNlU2V0dGluZyh0ZXN0LnVuaXROYW1lLCB0ZXN0LmFkVHlwZSwgdGVzdC5idXllciwgdGVzdC5icmFuZCwgdGVzdC5zZW1pLCB0ZXN0LmFubykKCWlmIGVyciA6PSBzLlVwZGF0ZU9BUHJpY2UocCk7IGVyciAhPSBuaWwgewoJCXQuRmF0YWxmKCJmYWlsZWQgdG8gdXBkYXRlIHByaWNlOiAldiIsIGVycikKCX0KCgkvLyDmm7TmlrDlvozjgIHljL/lkI3jgYzmm7TmlrDjgZXjgozjgabjgYTjgarjgZHjgozjgbBPSwoJXywgXywgYWEsIGVyciA6PSBzLkZldGNoT0FQcmljZSgidGVzdF9wYW1fdHVuaW5nX3VwZGF0ZSIsICJtb2JpbGUiKQoJaWYgZXJyICE9IG5pbCB7CgkJdC5GYXRhbGYoImZhaWxlZCB0byB1cGRhdGUgcHJpY2U6ICV2IiwgZXJyKQoJfQoJaWYgYWEgIT0gYSB7CgkJdC5GYXRhbGYoImV4cGVjdCAldiwgYnV0ICV2IiwgYSwgYWEpCgl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuYyBUZXN044OG44K544OI44GM5YuV44GP44GT44GoKHQgKnRlc3RpbmcuVCkgewp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>OpenPri</last-search>
+      <last-search>scroll</last-search>
       <last-offset />
-      <last-pattern>OpenPri</last-pattern>
+      <last-pattern>scroll</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -264,6 +265,7 @@
         <entry>google</entry>
         <entry>Open</entry>
         <entry>OpenPri</entry>
+        <entry>scroll</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
