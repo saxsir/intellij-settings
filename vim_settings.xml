@@ -24,6 +24,9 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1510808472090">
+        <mark key="'" line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/ec2_ms.tf" timestamp="1510556556655">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="53" column="50" />
@@ -60,6 +63,9 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/app_dep.tf" timestamp="1510562504664">
         <mark key="'" line="63" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/Makefile" timestamp="1510808418294">
+        <mark key="'" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" timestamp="1510562617689">
         <mark key="'" line="52" column="0" />
@@ -152,6 +158,8 @@
       <jump line="32" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
       <jump line="18" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" />
       <jump line="100" column="0" filename="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/manifests/nodes/aws_pam_tuning.pp" />
+      <jump line="35" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/Makefile" />
+      <jump line="65" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -191,7 +199,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -214,9 +222,10 @@
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
         <entry>ls</entry>
-        <entry>q</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
+        <entry>e .</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
