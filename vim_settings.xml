@@ -83,8 +83,8 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="53" column="50" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" timestamp="1510554705169">
-        <mark key="'" line="199" column="11" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" timestamp="1511146378595">
+        <mark key="'" line="215" column="4" />
         <mark key="[" line="205" column="57" />
         <mark key="]" line="205" column="56" />
         <mark key="." line="205" column="56" />
@@ -205,13 +205,14 @@
       <jump line="293" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
       <jump line="19" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="168" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="215" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>err</text>
       </register>
       <register name="/" type="4">
-        <text>scroll</text>
+        <text>tag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQl0LkZhdGFsZigiZmFpbGVkIHRvIG9wZW4gcGFnZSIsIGVycikK</text>
@@ -248,9 +249,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scroll</last-search>
+      <last-search>tag</last-search>
       <last-offset />
-      <last-pattern>scroll</last-pattern>
+      <last-pattern>tag</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -266,6 +267,7 @@
         <entry>Open</entry>
         <entry>OpenPri</entry>
         <entry>scroll</entry>
+        <entry>tag</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
