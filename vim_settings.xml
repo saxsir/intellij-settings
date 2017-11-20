@@ -31,8 +31,8 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" timestamp="1510557550922">
         <mark key="'" line="277" column="12" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" timestamp="1510733628446">
-        <mark key="'" line="99" column="2" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" timestamp="1511163844058">
+        <mark key="'" line="15" column="30" />
         <mark key="[" line="29" column="21" />
         <mark key="]" line="29" column="45" />
       </file>
@@ -114,11 +114,11 @@
         <mark key="]" line="51" column="113" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" timestamp="1510569360943">
-        <mark key="'" line="38" column="20" />
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="39" column="17" />
-        <mark key="." line="39" column="17" />
-        <mark key="^" line="39" column="17" />
+        <mark key="'" line="28" column="20" />
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="40" column="17" />
+        <mark key="." line="40" column="17" />
+        <mark key="^" line="40" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -199,13 +199,14 @@
       <jump line="19" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="168" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="215" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="15" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>err</text>
       </register>
       <register name="/" type="4">
-        <text>tag</text>
+        <text>moby</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQl0LkZhdGFsZigiZmFpbGVkIHRvIG9wZW4gcGFnZSIsIGVycikK</text>
@@ -242,9 +243,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tag</last-search>
+      <last-search>moby</last-search>
       <last-offset />
-      <last-pattern>tag</last-pattern>
+      <last-pattern>moby</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -261,6 +262,7 @@
         <entry>OpenPri</entry>
         <entry>scroll</entry>
         <entry>tag</entry>
+        <entry>moby</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
