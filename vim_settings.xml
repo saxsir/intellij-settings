@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511169916884">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="167" column="16" />
+        <mark key="]" line="167" column="16" />
+        <mark key="^" line="167" column="16" />
+        <mark key="." line="167" column="16" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/variables.tf" timestamp="1510562553875">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="66" column="0" />
@@ -200,13 +207,20 @@
       <jump line="168" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="215" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="15" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" />
+      <jump line="21" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="79" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="124" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>err</text>
       </register>
       <register name="/" type="4">
-        <text>moby</text>
+        <text>setup</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQl0LkZhdGFsZigiZmFpbGVkIHRvIG9wZW4gcGFnZSIsIGVycikK</text>
@@ -243,9 +257,9 @@
       </register>
     </registers>
     <search>
-      <last-search>moby</last-search>
+      <last-search>setup</last-search>
       <last-offset />
-      <last-pattern>moby</last-pattern>
+      <last-pattern>setup</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -263,6 +277,9 @@
         <entry>scroll</entry>
         <entry>tag</entry>
         <entry>moby</entry>
+        <entry>try</entry>
+        <entry>sendToHaste</entry>
+        <entry>setup</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
