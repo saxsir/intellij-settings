@@ -84,6 +84,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="53" column="50" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_specter/crawl.go" timestamp="1511242681478">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="39" />
+        <mark key="^" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/_batch/updateOArules.mk" timestamp="1510645584746">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -221,10 +227,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>setup</text>
+        <text>kill</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBoZWFkVGFnICs9IGVuY29kZVVSSUNvbXBvbmVudChwdWJsaXNoZWRVcmwgfHwgbG9jYXRpb24uaHJlZik7Cg==</text>
+      <register name="0" type="4">
+        <text>/Applications/Google Chrome.app/Contents/MacOS/Google Chrome</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
@@ -258,9 +264,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setup</last-search>
+      <last-search>kill</last-search>
       <last-offset />
-      <last-pattern>setup</last-pattern>
+      <last-pattern>kill</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -281,6 +287,7 @@
         <entry>try</entry>
         <entry>sendToHaste</entry>
         <entry>setup</entry>
+        <entry>kill</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
