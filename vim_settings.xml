@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511169916884">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="132" column="16" />
-        <mark key="]" line="132" column="16" />
-        <mark key="^" line="132" column="16" />
-        <mark key="." line="132" column="16" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/variables.tf" timestamp="1510562553875">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="66" column="0" />
@@ -214,40 +207,47 @@
       <jump line="18" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="124" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="30" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="93" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="132" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="146" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="129" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="133" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>err</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>setup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl0LkZhdGFsZigiZmFpbGVkIHRvIG9wZW4gcGFnZSIsIGVycikK</text>
+        <text encoding="base64">ICAgICAgICAvLyBoZWFkVGFnICs9IGVuY29kZVVSSUNvbXBvbmVudChwdWJsaXNoZWRVcmwgfHwgbG9jYXRpb24uaHJlZik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCJjb3VsZG4ndCBzY3JvbGwgdG8gcGFnZSB0b3A6ICVzIiwgZXJyKQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBkbyBub3RoaW5nLi4uCg==</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICAvLyDli5XkvZznorroqo3nlKgKICAgICAgICBzZW5kVG9IYXN0ZSgKICAgICAgICAgICAgJ0Zqc1Byb2Nlc3NDaGVjaycsCiAgICAgICAgICAgICdEZWJ1ZycsCiAgICAgICAgICAgIHsnZ3JvdXBJZCc6IHBhcmFtc1snRyddLCAnaHJlZic6IGxvY2F0aW9uLmhyZWYsICdwdWJsaXNoZWRVcmwnOiAnJ30KICAgICAgICApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhciB5IGludAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIOabtOaWsOWJjeOBrumHkemhjeOCkuWPluW+l+OBl+OBvuOBmQoJXywgXywgYSwgZXJyIDo9IHMuRmV0Y2hPQVByaWNlKCJ0ZXN0X3BhbV90dW5pbmdfdXBkYXRlIiwgIm1vYmlsZSIpCglpZiBlcnIgIT0gbmlsIHsKCQl0LkZhdGFsZigiZmFpbGVkIHRvIGZldGNoIHByaWNlOiAldiIsIGVycikKCX0KCgl0ZXN0IDo9ICZzdHJ1Y3QgewoJCXVuaXROYW1lIHN0cmluZwoJCWFkVHlwZSAgIHN0cmluZwoJCWJ1eWVyICAgIHN0cmluZwoJCWJyYW5kICAgIGludDY0CgkJc2VtaSAgICAgaW50NjQKCQlhbm8gICAgICBpbnQ2NAoJfXsKCQl1bml0TmFtZTogInRlc3RfcGFtX3R1bmluZ191cGRhdGUiLAoJCWFkVHlwZTogICAibW9iaWxlIiwKCQlidXllcjogICAgIuWFqOWToSIsCgkJYnJhbmQ6ICAgIGludDY0KDEwMDApLAoJCXNlbWk6ICAgICBpbnQ2NCgtMSksCgkJYW5vOiAgICAgIGludDY0KC0xKSwKCX0KCglwIDo9IE5ld1ByaWNlU2V0dGluZyh0ZXN0LnVuaXROYW1lLCB0ZXN0LmFkVHlwZSwgdGVzdC5idXllciwgdGVzdC5icmFuZCwgdGVzdC5zZW1pLCB0ZXN0LmFubykKCWlmIGVyciA6PSBzLlVwZGF0ZU9BUHJpY2UocCk7IGVyciAhPSBuaWwgewoJCXQuRmF0YWxmKCJmYWlsZWQgdG8gdXBkYXRlIHByaWNlOiAldiIsIGVycikKCX0KCgkvLyDmm7TmlrDlvozjgIHljL/lkI3jgYzmm7TmlrDjgZXjgozjgabjgYTjgarjgZHjgozjgbBPSwoJXywgXywgYWEsIGVyciA6PSBzLkZldGNoT0FQcmljZSgidGVzdF9wYW1fdHVuaW5nX3VwZGF0ZSIsICJtb2JpbGUiKQoJaWYgZXJyICE9IG5pbCB7CgkJdC5GYXRhbGYoImZhaWxlZCB0byB1cGRhdGUgcHJpY2U6ICV2IiwgZXJyKQoJfQoJaWYgYWEgIT0gYSB7CgkJdC5GYXRhbGYoImV4cGVjdCAldiwgYnV0ICV2IiwgYSwgYWEpCgl9Cg==</text>
+        <text encoding="base64">ICAgICAgLy8g5YuV5L2c56K66KqN55SoCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
