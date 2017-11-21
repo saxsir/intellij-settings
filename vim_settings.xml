@@ -3,7 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511239479659" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511251602082">
+        <mark key="'" line="151" column="53" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/variables.tf" timestamp="1510562553875">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="66" column="0" />
@@ -101,6 +107,9 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/Makefile" timestamp="1510808418294">
         <mark key="'" line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" timestamp="1511250301090">
+        <mark key="'" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" timestamp="1510799176654">
         <mark key="'" line="32" column="0" />
@@ -221,52 +230,60 @@
       <jump line="129" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="6" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="133" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="15" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="155" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" />
+      <jump line="28" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="158" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="159" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="151" column="53" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>kill</text>
+        <text>lint</text>
       </register>
       <register name="0" type="4">
         <text>/Applications/Google Chrome.app/Contents/MacOS/Google Chrome</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">fSBjYXRjaCAoZSkgewogIHNlbmRUb0hhc3RlKAogICAgJ0Zqc0V4Y2VwdGlvbicsCiAgICAnSW5mbycsCiAgICB7J2V4Y2VwdGlvbic6IGV9CiAgKTsKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICAvLyDli5XkvZznorroqo3nlKgKICAgICAgICBzZW5kVG9IYXN0ZSgKICAgICAgICAgICAgJ0Zqc1Byb2Nlc3NDaGVjaycsCiAgICAgICAgICAgICdEZWJ1ZycsCiAgICAgICAgICAgIHsnZ3JvdXBJZCc6IHBhcmFtc1snRyddLCAnaHJlZic6IGxvY2F0aW9uLmhyZWYsICdwdWJsaXNoZWRVcmwnOiAnJ30KICAgICAgICApOwo=</text>
+        <text encoding="base64">dHJ5IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">LyogZXNsaW50LWVuYWJsZSBpbmRlbnQgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgaW5kZW50ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICAvLyDli5XkvZznorroqo3nlKgKICAgICAgICBzZW5kVG9IYXN0ZSgKICAgICAgICAgICAgJ0Zqc1Byb2Nlc3NDaGVjaycsCiAgICAgICAgICAgICdEZWJ1ZycsCiAgICAgICAgICAgIHsnZ3JvdXBJZCc6IHBhcmFtc1snRyddLCAnaHJlZic6IGxvY2F0aW9uLmhyZWYsICdwdWJsaXNoZWRVcmwnOiAnJ30KICAgICAgICApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8g5YuV5L2c56K66KqN55SoCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>kill</last-search>
+      <last-search>lint</last-search>
       <last-offset />
-      <last-pattern>kill</last-pattern>
+      <last-pattern>lint</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -288,14 +305,16 @@
         <entry>sendToHaste</entry>
         <entry>setup</entry>
         <entry>kill</entry>
+        <entry>test</entry>
+        <entry>lint</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
         <entry>ls</entry>
         <entry>e .</entry>
-        <entry>q</entry>
         <entry>vs</entry>
         <entry>304</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
