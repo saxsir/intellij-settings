@@ -31,6 +31,12 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="43" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" timestamp="1511315160445">
+        <mark key="'" line="361" column="23" />
+        <mark key="[" line="830" column="75" />
+        <mark key="]" line="830" column="75" />
+        <mark key="." line="830" column="75" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" timestamp="1510562617689">
         <mark key="'" line="52" column="0" />
       </file>
@@ -137,9 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="218" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="61" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="97" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="198" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="199" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
@@ -237,52 +240,55 @@
       <jump line="113" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="155" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="829" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="361" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>lint</text>
+        <text>GET</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod2luZG93LnRvcC5kb2N1bWVudCk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgdmFyIHB1Ymxpc2hlZFVybCA9IHdpbmRvdy50b3AgJiYgd2luZG93LnRvcC5sb2NhdGlvbjsKICAgICAgY29uc29sZS5sb2cod2luZG93LnRvcC5sb2NhdGlvbik7CiAgICAgIHB1Ymxpc2hlZFVybCA9ICcnOw==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgaW5kZW50ICovCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">LyogZXNsaW50LWVuYWJsZSBpbmRlbnQgKi8K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y2F0Y2ggKGUpIHsKICBzZW5kVG9IYXN0ZSgKICAgICdGanNFeGNlcHRpb24nLAogICAgJ0luZm8nLAogICAgeydleGNlcHRpb24nOiBlfQogICk7Cn0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">dHJ5IHsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgd2luZG93WydzYXhzaXInXSA9IHdpbmRvdy50b3AubG9jYXRpb247Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod2luZG93LnRvcC5zZWxmLmRvY3VtZW50KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod2luZG93LnRvcC5kb2N1bWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod2luZG93LnRvcC5zZWxmLmRvY3VtZW50KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lint</last-search>
+      <last-search>GET</last-search>
       <last-offset />
-      <last-pattern>lint</last-pattern>
+      <last-pattern>GET</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -306,6 +312,8 @@
         <entry>kill</entry>
         <entry>test</entry>
         <entry>lint</entry>
+        <entry>top</entry>
+        <entry>GET</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
