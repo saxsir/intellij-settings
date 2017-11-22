@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511314328044">
-        <mark key="[" line="112" column="34" />
-        <mark key="]" line="112" column="34" />
-        <mark key="." line="112" column="34" />
-        <mark key="^" line="112" column="34" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511318440884">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="139" column="15" />
+        <mark key="]" line="139" column="21" />
+        <mark key="." line="139" column="21" />
+        <mark key="^" line="139" column="21" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/variables.tf" timestamp="1510562553875">
         <mark key="'" line="40" column="0" />
@@ -31,8 +32,8 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" timestamp="1511316597747">
-        <mark key="'" line="662" column="10" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" timestamp="1511317402270">
+        <mark key="'" line="4" column="0" />
         <mark key="[" line="830" column="75" />
         <mark key="]" line="830" column="75" />
         <mark key="." line="830" column="75" />
@@ -143,17 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" />
-      <jump line="41" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" />
-      <jump line="40" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" />
-      <jump line="55" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
-      <jump line="53" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
-      <jump line="24" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
-      <jump line="159" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
-      <jump line="58" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
-      <jump line="11" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
-      <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
-      <jump line="128" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
       <jump line="752" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
       <jump line="12" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
       <jump line="63" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
@@ -214,7 +204,6 @@
       <jump line="31" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="18" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="124" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="93" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="73" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="146" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
@@ -243,52 +232,64 @@
       <jump line="2" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="316" column="52" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="662" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="115" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="295" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="199" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="100" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="136" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>top</text>
+        <text>try</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod2luZG93LnRvcC5kb2N1bWVudCk7Cg==</text>
+        <text encoding="base64">d2luZG93WydhZGluZ29GbHVjdE5vcm1hbFRhZyddLnNldHVwKHdpbmRvdy5kb2N1bWVudCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIEZqc0V4Y2VwdGlvbjogJ0Zqc0V4Y2VwdGlvbicsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgdmFyIHB1Ymxpc2hlZFVybCA9IHdpbmRvdy50b3AgJiYgd2luZG93LnRvcC5sb2NhdGlvbjsKICAgICAgY29uc29sZS5sb2cod2luZG93LnRvcC5sb2NhdGlvbik7CiAgICAgIHB1Ymxpc2hlZFVybCA9ICcnOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgaW5kZW50ICovCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogZXNsaW50LWVuYWJsZSBpbmRlbnQgKi8K</text>
+        <text encoding="base64">d2luZG93WydhZGluZ29GbHVjdE5vcm1hbFRhZyddLnNlbmRUb0hhc3RlKHdpbmRvdy5kb2N1bWVudCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2F0Y2ggKGUpIHsKICBzZW5kVG9IYXN0ZSgKICAgICdGanNFeGNlcHRpb24nLAogICAgJ0luZm8nLAogICAgeydleGNlcHRpb24nOiBlfQogICk7Cn0K</text>
+        <text encoding="base64">ICAgICAgdmFyIHB1Ymxpc2hlZFVybCA9IHdpbmRvdy50b3AgJiYgd2luZG93LnRvcC5sb2NhdGlvbiAmJiB3aW5kb3cudG9wLmxvY2F0aW9uLmhyZWY7CiAgICAgIC8vIHZhciBwdWJsaXNoZWRVcmwgPSB3aW5kb3cudG9wICYmIHdpbmRvdy50b3AubG9jYXRpb247CiAgICAgIGNvbnNvbGUubG9nKHdpbmRvdy50b3AubG9jYXRpb24pOwogICAgICAvLyBwdWJsaXNoZWRVcmwgPSAnJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobG9jYXRpb24uaHJlZik7CiAgICAgIGNvbnNvbGUubG9nKHdpbmRvdy5kb2N1bWVudCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93WydzYXhzaXInXSA9IHdpbmRvdy50b3AubG9jYXRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod2luZG93LnRvcC5zZWxmLmRvY3VtZW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>top</last-search>
+      <last-search>try</last-search>
       <last-offset />
-      <last-pattern>top</last-pattern>
+      <last-pattern>try</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -305,7 +306,6 @@
         <entry>scroll</entry>
         <entry>tag</entry>
         <entry>moby</entry>
-        <entry>try</entry>
         <entry>sendToHaste</entry>
         <entry>setup</entry>
         <entry>kill</entry>
@@ -314,6 +314,7 @@
         <entry>GET</entry>
         <entry>href</entry>
         <entry>top</entry>
+        <entry>try</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -358,6 +359,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
