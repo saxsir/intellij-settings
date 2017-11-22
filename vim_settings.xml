@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511333365586">
-        <mark key="'" line="161" column="0" />
-        <mark key="[" line="107" column="22" />
-        <mark key="]" line="107" column="22" />
-        <mark key="." line="107" column="22" />
-        <mark key="^" line="107" column="58" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511334690248">
+        <mark key="'" line="141" column="30" />
+        <mark key="[" line="119" column="46" />
+        <mark key="]" line="120" column="32" />
+        <mark key="." line="120" column="32" />
+        <mark key="^" line="120" column="32" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/variables.tf" timestamp="1510562553875">
         <mark key="'" line="40" column="0" />
@@ -144,14 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" />
-      <jump line="211" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" />
-      <jump line="11" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" />
-      <jump line="5" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" />
-      <jump line="99" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/_batch/seed_query.template.q" />
-      <jump line="74" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
       <jump line="48" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
       <jump line="32" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
       <jump line="18" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" />
@@ -207,7 +199,6 @@
       <jump line="135" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="132" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="113" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="155" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="829" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="361" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
@@ -229,7 +220,6 @@
       <jump line="60" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="88" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="100" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="136" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="30" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="97" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
@@ -242,45 +232,55 @@
       <jump line="8" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="164" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="103" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="108" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="173" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="108" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="100" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="144" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="145" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="139" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="148" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="166" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="12" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="161" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="140" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/</text>
+        <text>disable</text>
       </register>
       <register name="/" type="4">
         <text>real</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICdzdGF0ZSc6IHRoaXMuZGV0ZWN0U3RhdGUoKSwK</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgaW5kZW50ICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSBjYXRjaCAoKSB7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyDjgZPjgaPjgaHjga7jg5Hjgr/jg7zjg7Pjga/mnIDntYLnmoTjgavjga/pgIHjgonjgarjgYTkuojlrpoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkbyBub3RoaW5nLCBub3RpZnkgdG8gImhhc3RlIiBsYXRlcgo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGtpbmQgPSAnJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICdzdGF0ZScgOiB0aGlzLmRldGVjdFN0YXRlKCkK</text>
+        <text encoding="base64">ICAgICAgLy8g6YCa55+lCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICdzdGF0ZScgOiB0aGlzLmRldGVjdFN0YXRlKCkK</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRldGVjdFN0YXRlIDogZnVuY3Rpb24gKCkgewogICAgICBpZiAod2luZG93LnRvcCA9PT0gd2luZG93LnNlbGYpIHsKICAgICAgICByZXR1cm4gJ2RpcmVjdCc7CiAgICAgIH0KICAgICAgaWYgKHdpbmRvdy5wYXJlbnQgJiYgd2luZG93LnBhcmVudCAhPT0gd2luZG93LnRvcCkgewogICAgICAgIHJldHVybiAnbmVzdGVkIGlmcmFtZSc7CiAgICAgIH0KCiAgICAgIHJldHVybiAnaWZyYW1lJzsKICAgIH0K</text>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKTsK</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIC8vIGlmcmFtZeOBruS4rQogICAgICBpZiAod2luZG93LnRvcCAhPT0gd2luZG93LnNlbGYpIHsKICAgICAgICBjb25zb2xlLmxvZygnaW4gaWZyYW1lJyk7CiAgICAgIH0KICAgICAgLy8g5YWl44KM5a2Q44GuaWZyYW1l44Gu5LitCiAgICAgIGlmICh3aW5kb3cucGFyZW50ICYmIHdpbmRvdy5wYXJlbnQgIT09IHdpbmRvdy50b3ApIHsKICAgICAgICBjb25zb2xlLmxvZygnaW4gbmVzdGVkIGlmcmFtZScpOwogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICdzdGF0ZSc6IHdpbmRvdy5wYXJlbnQgJiYgd2luZG93LnBhcmVudCAhPT0gd2luZG93LnRvcCA/ICduZXN0ZWQgaWZyYW1lJyA6IHdpbmRvdy50b3AgPT09IHdpbmRvdy5zZWxmID8gJ2lmcmFtZScgOiAnZGlyZWN0JywK</text>
+        <text encoding="base64">ICAgICdwYXJhbXMnIDogcGFyYW1zLAogICAgJ2hyZWYnIDogaHJlZiwKICAgICd0b3BIcmVmJyA6IHRvcEhyZWYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
