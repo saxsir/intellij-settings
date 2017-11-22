@@ -31,8 +31,8 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" timestamp="1511316005316">
-        <mark key="'" line="782" column="54" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" timestamp="1511316597747">
+        <mark key="'" line="662" column="10" />
         <mark key="[" line="830" column="75" />
         <mark key="]" line="830" column="75" />
         <mark key="." line="830" column="75" />
@@ -143,9 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" />
-      <jump line="113" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" />
-      <jump line="40" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/variables.tf" />
       <jump line="34" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" />
       <jump line="41" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" />
       <jump line="40" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" />
@@ -236,20 +233,23 @@
       <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="155" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="829" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="361" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="17" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="822" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
-      <jump line="316" column="52" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
-      <jump line="429" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="782" column="54" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="823" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="429" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="2" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="316" column="52" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="662" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>href</text>
+        <text>top</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod2luZG93LnRvcC5kb2N1bWVudCk7Cg==</text>
@@ -286,9 +286,9 @@
       </register>
     </registers>
     <search>
-      <last-search>href</last-search>
+      <last-search>top</last-search>
       <last-offset />
-      <last-pattern>href</last-pattern>
+      <last-pattern>top</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -311,9 +311,9 @@
         <entry>kill</entry>
         <entry>test</entry>
         <entry>lint</entry>
-        <entry>top</entry>
         <entry>GET</entry>
         <entry>href</entry>
+        <entry>top</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
