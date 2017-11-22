@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511334690248">
-        <mark key="'" line="141" column="30" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511339442440">
+        <mark key="'" line="69" column="0" />
         <mark key="[" line="119" column="46" />
         <mark key="]" line="120" column="32" />
         <mark key="." line="120" column="32" />
@@ -147,9 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/Makefile" />
-      <jump line="65" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
-      <jump line="84" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="201" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="197" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="225" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
@@ -234,7 +231,6 @@
       <jump line="173" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="108" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="100" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="144" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="145" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="139" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
@@ -247,13 +243,17 @@
       <jump line="63" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" />
       <jump line="60" column="75" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" />
       <jump line="56" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" />
+      <jump line="134" column="31" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="143" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="144" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>disable</text>
       </register>
       <register name="/" type="4">
-        <text>href</text>
+        <text>param</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgaW5kZW50ICovCg==</text>
@@ -290,17 +290,14 @@
       </register>
     </registers>
     <search>
-      <last-search>href</last-search>
+      <last-search>param</last-search>
       <last-offset />
-      <last-pattern>href</last-pattern>
+      <last-pattern>param</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hatena</entry>
-        <entry>google</entry>
-        <entry>Open</entry>
         <entry>OpenPri</entry>
         <entry>scroll</entry>
         <entry>tag</entry>
@@ -318,6 +315,9 @@
         <entry>realHref</entry>
         <entry>real</entry>
         <entry>href</entry>
+        <entry>ref</entry>
+        <entry>refer</entry>
+        <entry>param</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
