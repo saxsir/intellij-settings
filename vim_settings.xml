@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511325220910">
-        <mark key="'" line="125" column="6" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="8" />
-        <mark key="." line="143" column="0" />
-        <mark key="^" line="159" column="7" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511326924952">
+        <mark key="'" line="103" column="9" />
+        <mark key="[" line="153" column="28" />
+        <mark key="]" line="153" column="35" />
+        <mark key="^" line="153" column="35" />
+        <mark key="." line="153" column="35" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/variables.tf" timestamp="1510562553875">
         <mark key="'" line="40" column="0" />
@@ -144,8 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="49" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
-      <jump line="271" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
       <jump line="272" column="49" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
       <jump line="277" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" />
       <jump line="79" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
@@ -244,58 +242,59 @@
       <jump line="63" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="125" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="14" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="187" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="103" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IGVsc2Ugew==</text>
+        <text encoding="base64">5o6y6LyJ6Z2iVVJM44GM44Go44KM44GfICYmIOS7iuOBvuOBp+WPluOCjOOBpuOBhOOBquOBi+OBo+OBn+OCseODvOOCuQ==</text>
       </register>
       <register name="/" type="4">
-        <text>parse</text>
+        <text>head</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaW4gaWZyYW1lJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygn5YWD44CF5Y+W44KM44Gm44GE44GfJywgaHJlZiwgcmVhbEhyZWYpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygn5YWD44CF5Y+W44KM44Gm44GE44GfJywgaHJlZiwgcmVhbEhyZWYpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8g5qSc6Ki855So44Gu6YCa55+lCiAgICAgIC8vIOOBneOCguOBneOCguS4gOe3kuOBoOOBo+OBn+ODkeOCv+ODvOODswogICAgICBzd2l0Y2ggKCkgewoKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgIHZhciByZWFsSHJlZiA9ICcnOwogICAgICB0cnkgewogICAgICAgIHJlYWxIcmVmID0gdGhpcy5kZXRlY3RSZWFsSHJlZigpOwogICAgICB9IGNhdGNoIChlKSB7CiAgICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gaWYgKHJlYWxIcmVmID09PSAnJyAmJiByZWFsSHJlZiAhPT0gaHJlZikgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlYWxIcmVmICE9PSAnJyAmJiByZWFsSHJlZiA9PT0gaHJlZikgewogICAgICAgIGNvbnNvbGUubG9nKCfmjrLovInpnaJVUkzjgYzjgajjgozjgZ8gJiYg5LuK44G+44Gn5Y+W44KM44Gm44GE44Gf44Kx44O844K5Jyk7CiAgICAgICAgcmV0dXJuOwogICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgIGlmIChocmVmID09PSAnJykgewogICAgICAgIGNvbnNvbGUubG9nKCfjgZPjga7jgrHjg7zjgrnjga/jgarjgYTjgpPjgZjjgoPjgarjgYTjgYvjgarjg7wnKTsKICAgICAgICByZXR1cm47CiAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHdpbmRvdy50b3AgIT09IHdpbmRvdy5zZWxmKSB7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlYWxIcmVmID09PSAnJykgewogICAgICAgIGNvbnNvbGUubG9nKCfmjrLovInpnaJVUkzjgYzjgajjgozjgarjgYvjgaPjgZ/jgrHjg7zjgrknKTsKICAgICAgICByZXR1cm47CiAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaW4gaWZyYW1lJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>parse</last-search>
+      <last-search>head</last-search>
       <last-offset />
-      <last-pattern>parse</last-pattern>
+      <last-pattern>head</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ami</entry>
         <entry>dep</entry>
         <entry>user</entry>
         <entry>hatena</entry>
@@ -315,6 +314,7 @@
         <entry>top</entry>
         <entry>try</entry>
         <entry>parse</entry>
+        <entry>head</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -325,6 +325,8 @@
         <entry>q</entry>
         <entry>156</entry>
         <entry>144</entry>
+        <entry>181</entry>
+        <entry>104</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
