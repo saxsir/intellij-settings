@@ -31,8 +31,8 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" timestamp="1511315160445">
-        <mark key="'" line="361" column="23" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" timestamp="1511316005316">
+        <mark key="'" line="782" column="54" />
         <mark key="[" line="830" column="75" />
         <mark key="]" line="830" column="75" />
         <mark key="." line="830" column="75" />
@@ -143,11 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="198" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="199" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="115" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ec2_ops.tf" />
       <jump line="35" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" />
       <jump line="113" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" />
       <jump line="40" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/variables.tf" />
@@ -243,13 +238,18 @@
       <jump line="829" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="361" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="822" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="316" column="52" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="429" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
+      <jump line="782" column="54" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>GET</text>
+        <text>href</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod2luZG93LnRvcC5kb2N1bWVudCk7Cg==</text>
@@ -286,15 +286,14 @@
       </register>
     </registers>
     <search>
-      <last-search>GET</last-search>
+      <last-search>href</last-search>
       <last-offset />
-      <last-pattern>GET</last-pattern>
+      <last-pattern>href</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>PUPP</entry>
         <entry>DEVE</entry>
         <entry>ami</entry>
         <entry>dep</entry>
@@ -314,6 +313,7 @@
         <entry>lint</entry>
         <entry>top</entry>
         <entry>GET</entry>
+        <entry>href</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
