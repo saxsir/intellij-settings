@@ -8,6 +8,7 @@
         <mark key="[" line="66" column="0" />
         <mark key="]" line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/sunrise2017-ad-group-x/cmd/imp.go" timestamp="1511417306778" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" timestamp="1510799071757">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="149" column="2" />
@@ -20,10 +21,6 @@
         <mark key="]" line="100" column="28" />
         <mark key="^" line="100" column="28" />
         <mark key="." line="100" column="28" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/sre/aws/variables.tf" timestamp="1510555924740">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="43" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" timestamp="1511317402270">
         <mark key="'" line="4" column="0" />
@@ -58,9 +55,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1510637008283">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510570709404">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" timestamp="1510562637898">
         <mark key="'" line="42" column="10" />
         <mark key="[" line="68" column="2" />
@@ -88,10 +82,6 @@
         <mark key="^" line="303" column="54" />
         <mark key="." line="303" column="54" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/ec2_ms.tf" timestamp="1510556556655">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="53" column="50" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_specter/crawl.go" timestamp="1511242681478">
         <mark key="[" line="26" column="39" />
         <mark key="]" line="26" column="39" />
@@ -114,6 +104,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" timestamp="1511250301090">
         <mark key="'" line="57" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/sunrise2017-ad-group-x/adserver.go" timestamp="1511417696385" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" timestamp="1510799176654">
         <mark key="'" line="32" column="0" />
       </file>
@@ -123,14 +114,6 @@
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
         <mark key="^" line="196" column="34" />
-      </file>
-      <file name="/usr/local/go/src/net/http/server.go" timestamp="1510569202071">
-        <mark key="[" line="2300" column="0" />
-        <mark key="]" line="2302" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/modules/cron/files/sjdc_dep01" timestamp="1510626173643">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="113" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/cmd/collector/collector.go" timestamp="1510569360943">
         <mark key="'" line="28" column="20" />
