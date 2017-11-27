@@ -10,11 +10,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511758766556">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="^" line="162" column="18" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511776307477">
+        <mark key="'" line="123" column="20" />
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="66" />
+        <mark key="^" line="3" column="66" />
+        <mark key="." line="3" column="66" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/client/fixtures/plain.html" timestamp="1511759139870">
         <mark key="'" line="22" column="7" />
@@ -24,6 +25,12 @@
         <mark key="^" line="17" column="14" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/bin/get.pl" timestamp="1511771889396" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/Makefile" timestamp="1511776079198">
+        <mark key="[" line="29" column="123" />
+        <mark key="]" line="29" column="123" />
+        <mark key="^" line="29" column="122" />
+        <mark key="." line="29" column="123" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_service.tf" timestamp="1511773836820">
         <mark key="'" line="32" column="2" />
         <mark key="[" line="31" column="103" />
@@ -42,6 +49,12 @@
         <mark key="." line="55" column="25" />
         <mark key="^" line="55" column="25" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native_callback.js" timestamp="1511776318629">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="66" />
+        <mark key="^" line="3" column="66" />
+        <mark key="." line="3" column="66" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" timestamp="1510799071757">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="149" column="2" />
@@ -54,12 +67,6 @@
         <mark key="]" line="100" column="28" />
         <mark key="^" line="100" column="28" />
         <mark key="." line="100" column="28" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" timestamp="1511317402270">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="830" column="75" />
-        <mark key="]" line="830" column="75" />
-        <mark key="." line="830" column="75" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" timestamp="1510562617689">
         <mark key="'" line="52" column="0" />
@@ -74,14 +81,25 @@
         <mark key="^" line="25" column="63" />
         <mark key="." line="25" column="63" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" timestamp="1511337759522">
-        <mark key="'" line="56" column="8" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" timestamp="1511776315645">
+        <mark key="'" line="61" column="42" />
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="66" />
+        <mark key="^" line="3" column="66" />
+        <mark key="." line="3" column="66" />
       </file>
-      <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/manifests/nodes/aws_pam_tuning.pp" timestamp="1511502826405">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="5" column="23" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/a.js" timestamp="1511776312485">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="66" />
+        <mark key="." line="3" column="66" />
+        <mark key="^" line="3" column="66" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/cookie_sync.js" timestamp="1511776300165">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="66" />
+        <mark key="." line="3" column="66" />
+        <mark key="^" line="3" column="66" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/sunrise2017-ad-group-master/ad.go" timestamp="1511418997475">
         <mark key="[" line="12" column="0" />
@@ -143,16 +161,17 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/cmd/header_tester.go" timestamp="1511757470816">
         <mark key="'" line="98" column="17" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/modules/appAdParamConnect.js" timestamp="1511776303542">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="66" />
+        <mark key="^" line="3" column="66" />
+        <mark key="." line="3" column="66" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/_batch/updateOArules.mk" timestamp="1510645584746">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="18" column="17" />
-      </file>
-      <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/manifests/nodes/aws_ms_pre.pp" timestamp="1511502617403">
-        <mark key="'" line="386" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/app_dep.tf" timestamp="1510562504664">
         <mark key="'" line="63" column="7" />
@@ -211,14 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="361" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
-      <jump line="822" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
-      <jump line="782" column="54" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
-      <jump line="823" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
-      <jump line="429" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
-      <jump line="2" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="316" column="52" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="662" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="115" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
@@ -250,7 +261,6 @@
       <jump line="148" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="166" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="12" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="161" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="140" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="32" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" />
       <jump line="63" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" />
@@ -311,58 +321,66 @@
       <jump line="53" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_cluster.tf" />
       <jump line="7" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/ecs_autoscale/ecs_cluster.tf" />
       <jump line="15" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/ecs_autoscale/ecs_cluster.tf" />
+      <jump line="133" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="161" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/cookie_sync.js" />
+      <jump line="93" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/cookie_sync.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/cookie_sync.js" />
+      <jump line="58" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/cookie_sync.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="123" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>t2.medium</text>
+        <text>hogehoge</text>
       </register>
       <register name="/" type="4">
-        <text>instan</text>
+        <text>no-un</text>
       </register>
       <register name="0" type="4">
-        <text>TERRAFORM</text>
+        <text>// eslint-disable-line no-unused-vars</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBodHRwczovL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfZnVubmVsL2lzc3Vlcy8xMTMxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBodHRwczovL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfZnVubmVsL2lzc3Vlcy8xMTMxCg==</text>
+        <text encoding="base64">ICAvKiogQGRlZmluZSB7c3RyaW5nfSAqLwogIHZhciBWRVJTSU9OID0gJ+ODk+ODq+ODieaZguOBq+Wfi+OCgei+vOOBvuOCjOOBvuOBmSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBOT1RFOiDjgb7jgaDmnKznlarnqLzlg43jgZfjgarjgYTjga7jgafjgqTjg7Pjgrnjgr/jg7Pjgrnjgr/jgqTjg5fjga/nr4DntITvvIjmnKznlarjga9jNC54bGFyZ2XjgajjgYvjgavjgZfjgZ/jgYTvvIkKICAvLyAgICAgIGVic19vcHRpbWl6ZWTjgoJjNOOBq+OBl+OBn+OCiXRydWXjgavjgZnjgovjgZ7jgYQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVsZW1zLmxlbmd0aCk7Cg==</text>
+      <register name="5" type="8">
+        <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBodHRwczovL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfZnVubmVsL2lzc3Vlcy8xMTMxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coImFhYSIpOwo=</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBodHRwczovL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfZnVubmVsL2lzc3Vlcy8xMTMxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBOT1RFOiDjgb7jgaDmnKznlarnqLzlg43jgZfjgarjgYTjga7jgafjgqTjg7Pjgrnjgr/jg7Pjgrnjgr/jgqTjg5fjga/nr4DntITvvIjmnKznlarjga9jNC54bGFyZ2XjgajjgYvjgavjgZfjgZ/jgYTvvIkKICAvLyAgICAgIGVic19vcHRpbWl6ZWTjgoJjNOOBq+OBl+OBn+OCiXRydWXjgavjgZnjgovjgZ7jgYQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>instan</last-search>
+      <last-search>no-un</last-search>
       <last-offset />
-      <last-pattern>instan</last-pattern>
+      <last-pattern>no-un</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>try</entry>
         <entry>parse</entry>
         <entry>head</entry>
         <entry>realHref</entry>
@@ -382,6 +400,7 @@
         <entry>auto</entry>
         <entry>autoscale</entry>
         <entry>instan</entry>
+        <entry>no-un</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
