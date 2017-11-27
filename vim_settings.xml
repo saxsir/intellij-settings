@@ -24,10 +24,12 @@
         <mark key="^" line="17" column="14" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/Makefile" timestamp="1511757113693" />
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_service.tf" timestamp="1511766548438">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_service.tf" timestamp="1511768402541">
+        <mark key="'" line="31" column="103" />
+        <mark key="[" line="31" column="103" />
+        <mark key="]" line="31" column="109" />
+        <mark key="." line="31" column="60" />
+        <mark key="^" line="31" column="60" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/MicroadDirect/ImportSpCommand.php" timestamp="1511507826884">
         <mark key="[" line="128" column="0" />
@@ -191,8 +193,8 @@
         <mark key="." line="40" column="17" />
         <mark key="^" line="40" column="17" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_cluster.tf" timestamp="1511766541391">
-        <mark key="'" line="34" column="21" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_cluster.tf" timestamp="1511768464686">
+        <mark key="'" line="13" column="0" />
         <mark key="[" line="26" column="40" />
         <mark key="]" line="26" column="43" />
         <mark key="^" line="26" column="43" />
@@ -200,8 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
-      <jump line="22" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
       <jump line="235" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
       <jump line="457" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
@@ -300,16 +300,18 @@
       <jump line="135" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
       <jump line="25" column="31" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
       <jump line="34" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_cluster.tf" />
+      <jump line="31" column="103" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_service.tf" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_cluster.tf" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>false</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>asg_max</text>
       </register>
       <register name="0" type="4">
-        <text>https://github.com/voyagegroup/fluct_funnel/issues/1131</text>
+        <text>asg_max</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvLyBUT0RPOiBodHRwczovL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfZnVubmVsL2lzc3Vlcy8xMTMxCg==</text>
@@ -343,15 +345,14 @@
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>asg_max</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>asg_max</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>scroll</entry>
         <entry>tag</entry>
         <entry>moby</entry>
         <entry>sendToHaste</entry>
@@ -371,6 +372,7 @@
         <entry>Crawler</entry>
         <entry>href</entry>
         <entry>test</entry>
+        <entry>asg_max</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
