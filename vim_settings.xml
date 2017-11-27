@@ -11,10 +11,10 @@
         <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511758766556">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="^" line="128" column="18" />
-        <mark key="." line="128" column="0" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="^" line="162" column="18" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/client/fixtures/plain.html" timestamp="1511759139870">
         <mark key="'" line="22" column="7" />
@@ -24,6 +24,11 @@
         <mark key="^" line="17" column="14" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/Makefile" timestamp="1511757113693" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_service.tf" timestamp="1511766548438">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/MicroadDirect/ImportSpCommand.php" timestamp="1511507826884">
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
@@ -89,9 +94,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1510637008283">
         <mark key="'" line="1" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1511418522149">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" timestamp="1510562637898">
         <mark key="'" line="42" column="10" />
@@ -163,6 +165,9 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" timestamp="1511766399638">
+        <mark key="'" line="25" column="31" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" timestamp="1510799176654">
         <mark key="'" line="32" column="0" />
       </file>
@@ -186,12 +191,15 @@
         <mark key="." line="40" column="17" />
         <mark key="^" line="40" column="17" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_cluster.tf" timestamp="1511766541391">
+        <mark key="'" line="34" column="21" />
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="26" column="43" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
-      <jump line="255" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
-      <jump line="278" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
       <jump line="23" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
       <jump line="22" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
       <jump line="235" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
@@ -288,43 +296,47 @@
       <jump line="137" column="70" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" />
       <jump line="103" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" />
       <jump line="54" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/client/fixtures/plain.html" />
+      <jump line="45" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
+      <jump line="135" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
+      <jump line="25" column="31" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
+      <jump line="34" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_cluster.tf" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>i</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRvcEhyZWYgPT09ICcnKSB7CiAgICAgICAgaGVhZFRhZyArPSBlbmNvZGVVUklDb21wb25lbnQodG9wSHJlZik7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgaGVhZFRhZyArPSBlbmNvZGVVUklDb21wb25lbnQoaHJlZik7CiAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>https://github.com/voyagegroup/fluct_funnel/issues/1131</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBodHRwczovL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfZnVubmVsL2lzc3Vlcy8xMTMxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVsZW1zLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBodHRwczovL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfZnVubmVsL2lzc3Vlcy8xMTMxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBOT1RFOiDjgb7jgaDmnKznlarnqLzlg43jgZfjgarjgYTjga7jgafjgqTjg7Pjgrnjgr/jg7Pjgrnjgr/jgqTjg5fjga/nr4DntITvvIjmnKznlarjga9jNC54bGFyZ2XjgajjgYvjgavjgZfjgZ/jgYTvvIkKICAvLyAgICAgIGVic19vcHRpbWl6ZWTjgoJjNOOBq+OBl+OBn+OCiXRydWXjgavjgZnjgovjgZ7jgYQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coImFhYSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVsZW1zLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coImFhYSIpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
