@@ -10,13 +10,20 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511756410335">
-        <mark key="'" line="48" column="29" />
-        <mark key="[" line="128" column="1" />
-        <mark key="]" line="129" column="0" />
-        <mark key="^" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511758766556">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="^" line="128" column="18" />
+        <mark key="." line="128" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/client/fixtures/plain.html" timestamp="1511759139870">
+        <mark key="'" line="22" column="7" />
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="5" />
+        <mark key="." line="19" column="5" />
+        <mark key="^" line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/Makefile" timestamp="1511757113693" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/MicroadDirect/ImportSpCommand.php" timestamp="1511507826884">
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
@@ -122,6 +129,9 @@
         <mark key="^" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/cmd/header_tester.go" timestamp="1511757470816">
+        <mark key="'" line="98" column="17" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/_batch/updateOArules.mk" timestamp="1510645584746">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -145,8 +155,8 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/Makefile" timestamp="1510808418294">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" timestamp="1511250301090">
-        <mark key="'" line="57" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" timestamp="1511757639844">
+        <mark key="'" line="103" column="24" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/MicroadDirect/AggregateCommand.php" timestamp="1511507967183">
         <mark key="[" line="22" column="0" />
@@ -178,12 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
-      <jump line="310" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
-      <jump line="317" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
-      <jump line="385" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
-      <jump line="392" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
-      <jump line="406" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="134" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
       <jump line="255" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
       <jump line="278" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" />
@@ -278,13 +282,19 @@
       <jump line="9" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="153" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="48" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="98" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/cmd/header_tester.go" />
+      <jump line="115" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" />
+      <jump line="118" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" />
+      <jump line="137" column="70" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" />
+      <jump line="103" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" />
+      <jump line="54" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/client/fixtures/plain.html" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>href</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaWYgKHRvcEhyZWYgPT09ICcnKSB7CiAgICAgICAgaGVhZFRhZyArPSBlbmNvZGVVUklDb21wb25lbnQodG9wSHJlZik7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgaGVhZFRhZyArPSBlbmNvZGVVUklDb21wb25lbnQoaHJlZik7CiAgICAgIH0K</text>
@@ -293,37 +303,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqIEBkZWZpbmUge3N0cmluZ30gKiovCnZhciBWRVJTSU9OID0gJyc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVsZW1zLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gVE9ETzogY2xvc3VyZV9jb21waWxlcuOBp2NvbW1pdCBoYXNo44Go44GL5Z+L44KB44Gf44GECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coImFhYSIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaGVhZFRhZyArPSBlbmNvZGVVUklDb21wb25lbnQodG9wSHJlZiB8fCBocmVmKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGEgOj0gaG9nZQogICAgYSA6PSBob2dlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkc3FsaXRlICAgPSBTcWxpdGVGYWN0b3J5OjpjcmVhdGVSZXBGcmFtZU5vdGljZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc3FsaXRlICAgPSBTcWxpdGVGYWN0b3J5OjpjcmVhdGVSZXBGcmFtZU5vdGljZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>href</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>href</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -335,7 +345,6 @@
         <entry>sendToHaste</entry>
         <entry>setup</entry>
         <entry>kill</entry>
-        <entry>test</entry>
         <entry>lint</entry>
         <entry>GET</entry>
         <entry>top</entry>
@@ -349,6 +358,7 @@
         <entry>param</entry>
         <entry>Crawler</entry>
         <entry>href</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
