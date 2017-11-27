@@ -10,8 +10,8 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511776307477">
-        <mark key="'" line="123" column="20" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511777363722">
+        <mark key="'" line="12" column="29" />
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="66" />
         <mark key="^" line="3" column="66" />
@@ -260,7 +260,6 @@
       <jump line="139" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="148" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="166" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="12" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="140" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="32" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" />
       <jump line="63" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" />
@@ -330,6 +329,7 @@
       <jump line="97" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/cookie_sync.js" />
       <jump line="3" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="123" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="12" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
