@@ -49,6 +49,13 @@
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/taglog.go" timestamp="1511860975970">
+        <mark key="'" line="21" column="12" />
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="21" column="12" />
+        <mark key="^" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" timestamp="1510799071757">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="149" column="2" />
@@ -88,9 +95,9 @@
         <mark key="." line="3" column="66" />
         <mark key="^" line="3" column="66" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/rvdata.go" timestamp="1511848267174">
-        <mark key="[" line="103" column="10" />
-        <mark key="]" line="103" column="40" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/rvdata.go" timestamp="1511860944517">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="41" />
         <mark key="^" line="103" column="86" />
         <mark key="." line="103" column="41" />
       </file>
@@ -227,9 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="100" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="145" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="139" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="148" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
@@ -327,16 +331,19 @@
       <jump line="97" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="106" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="110" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="17" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/taglog.go" />
+      <jump line="95" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/taglog.go" />
+      <jump line="21" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/taglog.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIOODquOCr+OCqOOCueODiOWFg0lQ</text>
+        <text encoding="base64">aXAgOj0g</text>
       </register>
       <register name="/" type="4">
         <text>Data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8vIGZyb20gaHR0cCBoZWFkZXIKCVVzZXJBZ2VudCBzdHJpbmcKCVJlZmVyZXIgICBzdHJpbmcKCUlQICAgICAgICBzdHJpbmcK</text>
+        <text encoding="base64">CWlwIDo9IHIuSGVhZGVyLkdldCgiWC1Gb3J3YXJkZWQtRm9yIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -366,7 +373,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -404,7 +411,6 @@
         <entry>ls</entry>
         <entry>e .</entry>
         <entry>304</entry>
-        <entry>q</entry>
         <entry>156</entry>
         <entry>144</entry>
         <entry>181</entry>
@@ -412,8 +418,10 @@
         <entry>114</entry>
         <entry>104</entry>
         <entry>146</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>w</entry>
+        <entry>kkk;q</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
