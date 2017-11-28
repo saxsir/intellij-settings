@@ -10,8 +10,8 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511832201571">
-        <mark key="'" line="12" column="29" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1511833931296">
+        <mark key="'" line="125" column="47" />
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="66" />
         <mark key="^" line="3" column="66" />
@@ -230,11 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="316" column="52" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
-      <jump line="662" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
-      <jump line="115" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="295" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="199" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="4" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/gpt.js" />
       <jump line="16" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
@@ -245,7 +240,6 @@
       <jump line="97" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="31" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="63" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="125" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="14" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="187" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="111" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
@@ -330,13 +324,19 @@
       <jump line="3" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="123" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="12" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="106" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="113" column="46" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="117" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="120" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="121" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="125" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>hogehoge</text>
       </register>
       <register name="/" type="4">
-        <text>no-un</text>
+        <text>location</text>
       </register>
       <register name="0" type="4">
         <text>// eslint-disable-line no-unused-vars</text>
@@ -373,15 +373,14 @@
       </register>
     </registers>
     <search>
-      <last-search>no-un</last-search>
+      <last-search>location</last-search>
       <last-offset />
-      <last-pattern>no-un</last-pattern>
+      <last-pattern>location</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>parse</entry>
         <entry>head</entry>
         <entry>realHref</entry>
         <entry>real</entry>
@@ -401,6 +400,7 @@
         <entry>autoscale</entry>
         <entry>instan</entry>
         <entry>no-un</entry>
+        <entry>location</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
