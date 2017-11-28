@@ -88,11 +88,11 @@
         <mark key="." line="3" column="66" />
         <mark key="^" line="3" column="66" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/rvdata.go" timestamp="1511847168303">
-        <mark key="[" line="103" column="23" />
-        <mark key="]" line="103" column="71" />
-        <mark key="^" line="103" column="71" />
-        <mark key="." line="103" column="71" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/rvdata.go" timestamp="1511847198029">
+        <mark key="[" line="103" column="41" />
+        <mark key="]" line="103" column="41" />
+        <mark key="^" line="103" column="86" />
+        <mark key="." line="103" column="41" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/cookie_sync.js" timestamp="1511776300165">
         <mark key="'" line="97" column="0" />
@@ -326,7 +326,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>hogehoge</text>
+        <text>RemoteAddr</text>
       </register>
       <register name="/" type="4">
         <text>make</text>
