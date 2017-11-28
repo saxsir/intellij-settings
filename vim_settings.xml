@@ -88,9 +88,9 @@
         <mark key="." line="3" column="66" />
         <mark key="^" line="3" column="66" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/rvdata.go" timestamp="1511847198029">
-        <mark key="[" line="103" column="41" />
-        <mark key="]" line="103" column="41" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/rvdata.go" timestamp="1511848267174">
+        <mark key="[" line="103" column="10" />
+        <mark key="]" line="103" column="40" />
         <mark key="^" line="103" column="86" />
         <mark key="." line="103" column="41" />
       </file>
@@ -153,8 +153,12 @@
         <mark key="^" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" timestamp="1511846443049">
-        <mark key="'" line="399" column="24" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" timestamp="1511848356550">
+        <mark key="'" line="105" column="5" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="96" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/cmd/header_tester.go" timestamp="1511757470816">
         <mark key="'" line="98" column="17" />
@@ -223,19 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="88" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="97" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="187" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="111" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="164" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="103" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="173" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="108" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="100" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
@@ -323,62 +314,70 @@
       <jump line="213" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="257" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="399" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="67" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="103" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="158" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="311" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="393" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="415" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="448" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="320" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="79" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="97" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="106" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="110" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>RemoteAddr</text>
+        <text encoding="base64">IC8vIOODquOCr+OCqOOCueODiOWFg0lQ</text>
       </register>
       <register name="/" type="4">
-        <text>make</text>
+        <text>Data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUlQICBzdHJpbmcgYGpzb246ImlwImAgIC8vIOODquOCr+OCqOOCueODiOWFg0lQCg==</text>
+        <text encoding="base64">CS8vIGZyb20gaHR0cCBoZWFkZXIKCVVzZXJBZ2VudCBzdHJpbmcKCVJlZmVyZXIgICBzdHJpbmcKCUlQICAgICAgICBzdHJpbmcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKiogQGRlZmluZSB7c3RyaW5nfSAqLwogIHZhciBWRVJTSU9OID0gJ+ODk+ODq+ODieaZguOBq+Wfi+OCgei+vOOBvuOCjOOBvuOBmSc7Cg==</text>
+        <text encoding="base64">CS8vIGZyb20gaHR0cCBoZWFkZXIKCVVzZXJBZ2VudCBzdHJpbmcKCVJlZmVyZXIgICBzdHJpbmcKCUlQICAgICAgICBzdHJpbmcK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="5" type="8">
-        <text />
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBodHRwczovL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfZnVubmVsL2lzc3Vlcy8xMTMxCg==</text>
+        <text encoding="base64">ICAvKiogQGRlZmluZSB7c3RyaW5nfSAqLwogIHZhciBWRVJTSU9OID0gJ+ODk+ODq+ODieaZguOBq+Wfi+OCgei+vOOBvuOCjOOBvuOBmSc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBodHRwczovL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfZnVubmVsL2lzc3Vlcy8xMTMxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBOT1RFOiDjgb7jgaDmnKznlarnqLzlg43jgZfjgarjgYTjga7jgafjgqTjg7Pjgrnjgr/jg7Pjgrnjgr/jgqTjg5fjga/nr4DntITvvIjmnKznlarjga9jNC54bGFyZ2XjgajjgYvjgavjgZfjgZ/jgYTvvIkKICAvLyAgICAgIGVic19vcHRpbWl6ZWTjgoJjNOOBq+OBl+OBn+OCiXRydWXjgavjgZnjgovjgZ7jgYQK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="8">
+        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>make</last-search>
+      <last-search>Data</last-search>
       <last-offset />
-      <last-pattern>make</last-pattern>
+      <last-pattern>Data</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>realHref</entry>
-        <entry>real</entry>
-        <entry>ref</entry>
-        <entry>refer</entry>
-        <entry>param</entry>
         <entry>Crawler</entry>
         <entry>href</entry>
         <entry>test</entry>
@@ -394,6 +393,11 @@
         <entry>no-un</entry>
         <entry>location</entry>
         <entry>make</entry>
+        <entry>makeData</entry>
+        <entry>makeClickData</entry>
+        <entry>makeVi</entry>
+        <entry>VideoImp</entry>
+        <entry>Data</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
