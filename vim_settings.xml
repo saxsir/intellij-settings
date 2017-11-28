@@ -366,7 +366,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -412,8 +412,8 @@
         <entry>114</entry>
         <entry>104</entry>
         <entry>146</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
