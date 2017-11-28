@@ -88,9 +88,11 @@
         <mark key="." line="3" column="66" />
         <mark key="^" line="3" column="66" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/rvdata.go" timestamp="1511846455200">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="39" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/rvdata.go" timestamp="1511847168303">
+        <mark key="[" line="103" column="23" />
+        <mark key="]" line="103" column="71" />
+        <mark key="^" line="103" column="71" />
+        <mark key="." line="103" column="71" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/cookie_sync.js" timestamp="1511776300165">
         <mark key="'" line="97" column="0" />
