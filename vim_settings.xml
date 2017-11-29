@@ -90,7 +90,8 @@
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/a.js" timestamp="1511776312485">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/a.js" timestamp="1511944977652">
+        <mark key="'" line="3" column="66" />
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="66" />
         <mark key="." line="3" column="66" />
@@ -235,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="32" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" />
       <jump line="63" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" />
       <jump line="60" column="75" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" />
@@ -335,6 +335,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="60" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="3" column="66" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" />
+      <jump line="3" column="66" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/a.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
