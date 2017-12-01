@@ -79,12 +79,12 @@
         <mark key="." line="306" column="35" />
         <mark key="^" line="306" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1512115251223">
-        <mark key="'" line="19" column="13" />
-        <mark key="[" line="175" column="21" />
-        <mark key="]" line="176" column="22" />
-        <mark key="^" line="176" column="22" />
-        <mark key="." line="176" column="22" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1512116244233">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="160" column="22" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Microad/ReportScraper.php" timestamp="1511508874350">
         <mark key="'" line="4" column="33" />
@@ -244,12 +244,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" timestamp="1511766399638">
         <mark key="'" line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1512114614484">
-        <mark key="'" line="240" column="78" />
-        <mark key="[" line="258" column="0" />
-        <mark key="]" line="258" column="0" />
-        <mark key="." line="258" column="0" />
-        <mark key="^" line="259" column="31" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1512115857790">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="336" column="46" />
+        <mark key="]" line="336" column="57" />
+        <mark key="." line="336" column="57" />
+        <mark key="^" line="336" column="57" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_microad/Makefile" timestamp="1511507333039">
         <mark key="[" line="0" column="0" />
@@ -267,14 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
-      <jump line="269" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
-      <jump line="272" column="103" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
-      <jump line="278" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
-      <jump line="31" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
-      <jump line="7" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_cluster.tf" />
-      <jump line="72" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_cluster.tf" />
       <jump line="11" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_service.tf" />
       <jump line="49" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_service.tf" />
       <jump line="29" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_service.tf" />
@@ -364,62 +356,68 @@
       <jump line="240" column="78" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="240" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="190" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="2" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="19" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="242" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="75" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="154" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="176" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="233" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="239" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="265" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>test_pam_tuning_mobile</text>
+        <text>Fetch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlydWxlTmFtZTogIuODl+ODreOCsOODqeODoOiHquWLleabtOaWsOOBruODhuOCueODiOeUqOODq+ODvOODqyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBBZHjjgr/jgrAgeCDjg4fjgqPjgrnjg5fjg6zjgqQKCQl7CgkJCXVuaXROYW1lOiAidGVzdF9wYW1fdHVuaW5nX2Rpc3BsYXlfYWR4X0FEWCIsCgkJCWFkVHlwZTogICAiZGlzcGxheSIsCgkJCWJyYW5kOiAgICAiNTAwIiwKCQkJc2VtaTogICAgICIiLAoJCQlhbm86ICAgICAgIjMwMCIsCgkJfSwKCQkvLyBBZHjjgr/jgrAgeCDjg6Ljg5DjgqTjg6sKCQl7CgkJCXVuaXROYW1lOiAidGVzdF9wYW1fdHVuaW5nX21vYmlsZV9hZHhfQURYIiwKCQkJYWRUeXBlOiAgICJtb2JpbGUiLAoJCQlicmFuZDogICAgIjUwMCIsCgkJCXNlbWk6ICAgICAiIiwKCQkJYW5vOiAgICAgICIzMDAiLAoJCX0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWlmIGxlbihkZnBFbGVtZW50cykgPiAxIHsKCQlyZXR1cm4gbmlsLCBmbXQuRXJyb3JmKCIiKQoJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWlmIGxlbihkZnBFbGVtZW50cykgPT0gMCB7CgkJcmV0dXJuIG5pbCwgZm10LkVycm9yZigibm90IGZvdW5kIHRoZSBydWxlOiB1bml0bmFtZT0nJXMnIiwgdW5pdE5hbWUpCgl9Cg==</text>
+        <text encoding="base64">CWlmIGxlbihkZnBFbGVtZW50cykgPiAxIHsKCQlyZXR1cm4gbmlsLCBmbXQuRXJyb3JmKCIiKQoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmIGxlbihkZnBFbGVtZW50cykgPT0gMCAmJiBsZW4oYWR4RWxlbWVudHMpID09IDEgewoJCXJldHVybiBhZHhTZWxlY3Rpb25zLkF0KDApLCBuaWwKCX0K</text>
+        <text encoding="base64">CWlmIGxlbihkZnBFbGVtZW50cykgPT0gMCB7CgkJcmV0dXJuIG5pbCwgZm10LkVycm9yZigibm90IGZvdW5kIHRoZSBydWxlOiB1bml0bmFtZT0nJXMnIiwgdW5pdE5hbWUpCgl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWFkeEVsZW1lbnRzLCBlcnIgOj0gYWR4U2VsZWN0aW9ucy5FbGVtZW50cygpCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gbmlsLCBlcnIKCX0K</text>
+        <text encoding="base64">CWlmIGxlbihkZnBFbGVtZW50cykgPT0gMCAmJiBsZW4oYWR4RWxlbWVudHMpID09IDEgewoJCXJldHVybiBhZHhTZWxlY3Rpb25zLkF0KDApLCBuaWwKCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWFkeFNlbGVjdGlvbnMgOj0gcy5wYWdlLkFsbEJ5WFBhdGgoZm10LlNwcmludGYoUlVMRV9ET01fQURYX1hQQVRILCBydWxlTmFtZSwgdW5pdE5hbWUpKQo=</text>
+        <text encoding="base64">CWFkeEVsZW1lbnRzLCBlcnIgOj0gYWR4U2VsZWN0aW9ucy5FbGVtZW50cygpCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gbmlsLCBlcnIKCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIE5PVEU6IHVudXNlZD8g44KC44GGYWR455u06LK844KK44GuT0Hjga7jg6vjg7zjg6vjga/jgarjgYTmsJfjgYzjgZnjgovjga7jgafnorroqo3jgafjgY3jgZ/jgonmtojjgZfjgaboia/jgYQKCVJVTEVfRE9NX0FEWF9YUEFUSCA9ICIvL2RpdltAY2xhc3M9J3J1bGVzLVktaCddWy4vL2RpdltAY2xhc3M9J3J1bGVzLVktbiBydWxlcy1ZLW0nXS8vZGl2W3RleHQoKT0n44K/44KwOiAlcyddXSIK</text>
+        <text encoding="base64">CWFkeFNlbGVjdGlvbnMgOj0gcy5wYWdlLkFsbEJ5WFBhdGgoZm10LlNwcmludGYoUlVMRV9ET01fQURYX1hQQVRILCBydWxlTmFtZSwgdW5pdE5hbWUpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIOaMh+WumuOBleOCjOOBn+aeoOWQjeOBjOe0kOS7mOOBhOOBpuOBhOOCi+ODq+ODvOODq+OCkuaOouOBl+OBvuOBmQoJLy8g5a6M5YWo5LiA6Ie044Gq44Gu44Gn44CB44Or44O844Or44Gr5a++44GX44Gm6KSH5pWw5p6g44GM44Gk44GE44Gm44GE44KL5aC05ZCI44Gv5Y+W5b6X44Gn44GN44G+44Gb44KT44GMCgkvLyDpgYvnlKjkuIrjgIHmm7TmlrDjgpLjgZfjgZ/jgYTjg6vjg7zjg6vjgavlr77jgZfjgabmnqDjga8x44Gk44GX44GL44Gk44GE44Gm44GE44Gq44GE44GT44Go44GM5YmN5o+Q44Gn44GZCg==</text>
+        <text encoding="base64">CS8vIE5PVEU6IHVudXNlZD8g44KC44GGYWR455u06LK844KK44GuT0Hjga7jg6vjg7zjg6vjga/jgarjgYTmsJfjgYzjgZnjgovjga7jgafnorroqo3jgafjgY3jgZ/jgonmtojjgZfjgaboia/jgYQKCVJVTEVfRE9NX0FEWF9YUEFUSCA9ICIvL2RpdltAY2xhc3M9J3J1bGVzLVktaCddWy4vL2RpdltAY2xhc3M9J3J1bGVzLVktbiBydWxlcy1ZLW0nXS8vZGl2W3RleHQoKT0n44K/44KwOiAlcyddXSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyb250YWJfZmlsZXMgID0+IFsgJ2F3c19zcGVjdGVyJywgXSwK</text>
+        <text encoding="base64">CS8vIOaMh+WumuOBleOCjOOBn+aeoOWQjeOBjOe0kOS7mOOBhOOBpuOBhOOCi+ODq+ODvOODq+OCkuaOouOBl+OBvuOBmQoJLy8g5a6M5YWo5LiA6Ie044Gq44Gu44Gn44CB44Or44O844Or44Gr5a++44GX44Gm6KSH5pWw5p6g44GM44Gk44GE44Gm44GE44KL5aC05ZCI44Gv5Y+W5b6X44Gn44GN44G+44Gb44KT44GMCgkvLyDpgYvnlKjkuIrjgIHmm7TmlrDjgpLjgZfjgZ/jgYTjg6vjg7zjg6vjgavlr77jgZfjgabmnqDjga8x44Gk44GX44GL44Gk44GE44Gm44GE44Gq44GE44GT44Go44GM5YmN5o+Q44Gn44GZCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test_pam_tuning_mobile</last-search>
+      <last-search>Fetch</last-search>
       <last-offset />
-      <last-pattern>test_pam_tuning_mobile</last-pattern>
+      <last-pattern>Fetch</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>makeData</entry>
-        <entry>makeClickData</entry>
         <entry>makeVi</entry>
         <entry>VideoImp</entry>
         <entry>Data</entry>
@@ -438,6 +436,8 @@
         <entry>RuleAnd</entry>
         <entry>adx</entry>
         <entry>test_pam_tuning_mobile</entry>
+        <entry>Update</entry>
+        <entry>Fetch</entry>
       </history-search>
       <history-cmd>
         <entry>304</entry>
