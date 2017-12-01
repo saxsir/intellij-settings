@@ -57,11 +57,11 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/price.go" timestamp="1512112885710">
-        <mark key="[" line="53" column="29" />
-        <mark key="]" line="53" column="38" />
-        <mark key="^" line="53" column="38" />
-        <mark key="." line="53" column="38" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/price.go" timestamp="1512114703857">
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="45" column="28" />
+        <mark key="^" line="45" column="27" />
+        <mark key="." line="45" column="28" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/ecs_autoscale/ecs_cluster.tf" timestamp="1511773989526">
         <mark key="'" line="15" column="47" />
@@ -79,15 +79,21 @@
         <mark key="." line="306" column="35" />
         <mark key="^" line="306" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1510820989061">
-        <mark key="'" line="19" column="17" />
-        <mark key="[" line="303" column="54" />
-        <mark key="]" line="303" column="54" />
-        <mark key="^" line="303" column="54" />
-        <mark key="." line="303" column="54" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1512115251223">
+        <mark key="'" line="19" column="13" />
+        <mark key="[" line="175" column="21" />
+        <mark key="]" line="176" column="22" />
+        <mark key="^" line="176" column="22" />
+        <mark key="." line="176" column="22" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Microad/ReportScraper.php" timestamp="1511508874350">
         <mark key="'" line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/testdata/sample.csv" timestamp="1512114869273">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" timestamp="1511848356550">
         <mark key="'" line="105" column="5" />
@@ -154,11 +160,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/libraries/Fluct/AdnetworkReport/SpReport/Builder/ReportSpSqlBuilder.php" timestamp="1512108205741">
         <mark key="'" line="106" column="4" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/price_test.go" timestamp="1512112907875">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="16" column="42" />
-        <mark key="^" line="16" column="42" />
-        <mark key="." line="16" column="42" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/price_test.go" timestamp="1512114741680">
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="16" column="38" />
+        <mark key="^" line="20" column="52" />
+        <mark key="." line="16" column="38" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_prism/cmd/s2sqs/s2sqs.go" timestamp="1510794545328">
         <mark key="[" line="100" column="29" />
@@ -187,6 +193,12 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1512108933674">
         <mark key="'" line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/csv2sqs/csv2sqs_test.go" timestamp="1512114648761">
+        <mark key="[" line="35" column="51" />
+        <mark key="]" line="35" column="53" />
+        <mark key="^" line="35" column="53" />
+        <mark key="." line="35" column="53" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" timestamp="1510562637898">
         <mark key="'" line="42" column="10" />
@@ -232,12 +244,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" timestamp="1511766399638">
         <mark key="'" line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1512112757976">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="213" column="80" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1512114614484">
+        <mark key="'" line="240" column="78" />
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
+        <mark key="^" line="259" column="31" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_microad/Makefile" timestamp="1511507333039">
         <mark key="[" line="0" column="0" />
@@ -255,12 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="51" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
-      <jump line="261" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
-      <jump line="263" column="72" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
-      <jump line="33" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
-      <jump line="262" column="41" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
-      <jump line="264" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
       <jump line="268" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
       <jump line="269" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
       <jump line="272" column="103" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/Makefile" />
@@ -355,59 +361,63 @@
       <jump line="20" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="559" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="240" column="78" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="240" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="190" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="2" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="19" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>RuleAnd</text>
+        <text>test_pam_tuning_mobile</text>
       </register>
-      <register name="0" type="4">
-        <text>RULE_DOM_ADX_XPATH</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlydWxlTmFtZTogIuODl+ODreOCsOODqeODoOiHquWLleabtOaWsOOBruODhuOCueODiOeUqOODq+ODvOODqyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIE5PVEU6IHVudXNlZD8g44KC44GGYWR455u06LK844KK44GuT0Hjga7jg6vjg7zjg6vjga/jgarjgYTmsJfjgYzjgZnjgovjga7jgafnorroqo3jgafjgY3jgZ/jgonmtojjgZfjgaboia/jgYQKCVJVTEVfRE9NX0FEWF9YUEFUSCA9ICIvL2RpdltAY2xhc3M9J3J1bGVzLVktaCddWy4vL2RpdltAY2xhc3M9J3J1bGVzLVktbiBydWxlcy1ZLW0nXS8vZGl2W3RleHQoKT0n44K/44KwOiAlcyddXSIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CS8vIOaMh+WumuOBleOCjOOBn+aeoOWQjeOBjOe0kOS7mOOBhOOBpuOBhOOCi+ODq+ODvOODq+OCkuaOouOBl+OBvuOBmQoJLy8g5a6M5YWo5LiA6Ie044Gq44Gu44Gn44CB44Or44O844Or44Gr5a++44GX44Gm6KSH5pWw5p6g44GM44Gk44GE44Gm44GE44KL5aC05ZCI44Gv5Y+W5b6X44Gn44GN44G+44Gb44KT44GMCgkvLyDpgYvnlKjkuIrjgIHmm7TmlrDjgpLjgZfjgZ/jgYTjg6vjg7zjg6vjgavlr77jgZfjgabmnqDjga8x44Gk44GX44GL44Gk44GE44Gm44GE44Gq44GE44GT44Go44GM5YmN5o+Q44Gn44GZCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNyb250YWJfZmlsZXMgID0+IFsgJ2F3c19zcGVjdGVyJywgXSwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAjCiAgIyBwdXQgYXBwCiAgIwogICMgTk9URTogTm90aGluZyB0byBkbyB5ZXQKCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CWlmIGxlbihkZnBFbGVtZW50cykgPiAxIHsKCQlyZXR1cm4gbmlsLCBmbXQuRXJyb3JmKCIiKQoJfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CWlmIGxlbihkZnBFbGVtZW50cykgPT0gMCB7CgkJcmV0dXJuIG5pbCwgZm10LkVycm9yZigibm90IGZvdW5kIHRoZSBydWxlOiB1bml0bmFtZT0nJXMnIiwgdW5pdE5hbWUpCgl9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWlmIGxlbihkZnBFbGVtZW50cykgPT0gMCAmJiBsZW4oYWR4RWxlbWVudHMpID09IDEgewoJCXJldHVybiBhZHhTZWxlY3Rpb25zLkF0KDApLCBuaWwKCX0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWFkeEVsZW1lbnRzLCBlcnIgOj0gYWR4U2VsZWN0aW9ucy5FbGVtZW50cygpCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gbmlsLCBlcnIKCX0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjCiAgIyBhcHBsaWNhdGlvbiBkZXBsb3kgc2V0dXAKICAjCiAgY2xhc3MgeyAnOjpmbHVjdF9kZXBsb3lfdXNlcic6CiAgICBzdWRvZXJzX2ZpbGVzICAgPT4gWyAnc3BlY3RlcicsIF0sCiAgfSAtPgo=</text>
+        <text encoding="base64">CWFkeFNlbGVjdGlvbnMgOj0gcy5wYWdlLkFsbEJ5WFBhdGgoZm10LlNwcmludGYoUlVMRV9ET01fQURYX1hQQVRILCBydWxlTmFtZSwgdW5pdE5hbWUpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjCiAgIyBkb2NrZXIKICAjCiAgY2xhc3MgeyAnOjppcHRhYmxlcyc6CiAgICBwYWNrYWdlX25hbWUgPT4gWydpcHRhYmxlcy1zZXJ2aWNlcyddLAogIH0gfj4KICBjbGFzcyB7ICc6OmRvY2tlcic6CiAgICBtYW5hZ2Vfa2VybmVsID0+IGZhbHNlLAogICAgcGFja2FnZV9uYW1lICA9PiAnZG9ja2VyLWVuZ2luZScsCiAgICByZXBvX29wdCAgICAgID0+ICcnLAogICAgcm9vdF9kaXIgICAgICA9PiAnL3Zhci9saWIvZG9ja2VyJywKICAgIGRvY2tlcl91c2VycyAgPT4gWydkb2NrZXInXSwKICB9IC0+CiAgY2xhc3MgeyAnOjpkb2NrZXI6OmNvbXBvc2UnOgogICAgZW5zdXJlICAgICAgID0+IHByZXNlbnQsCiAgICB2ZXJzaW9uICAgICAgPT4gJzEuMTcuMScsCiAgICBpbnN0YWxsX3BhdGggPT4gJy91c3IvYmluJywKICB9IC0+Cgo=</text>
+        <text encoding="base64">CS8vIE5PVEU6IHVudXNlZD8g44KC44GGYWR455u06LK844KK44GuT0Hjga7jg6vjg7zjg6vjga/jgarjgYTmsJfjgYzjgZnjgovjga7jgafnorroqo3jgafjgY3jgZ/jgonmtojjgZfjgaboia/jgYQKCVJVTEVfRE9NX0FEWF9YUEFUSCA9ICIvL2RpdltAY2xhc3M9J3J1bGVzLVktaCddWy4vL2RpdltAY2xhc3M9J3J1bGVzLVktbiBydWxlcy1ZLW0nXS8vZGl2W3RleHQoKT0n44K/44KwOiAlcyddXSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjbGFzcyB7ICc6OmdvbGFuZyc6IH0gLT4K</text>
+        <text encoding="base64">CS8vIOaMh+WumuOBleOCjOOBn+aeoOWQjeOBjOe0kOS7mOOBhOOBpuOBhOOCi+ODq+ODvOODq+OCkuaOouOBl+OBvuOBmQoJLy8g5a6M5YWo5LiA6Ie044Gq44Gu44Gn44CB44Or44O844Or44Gr5a++44GX44Gm6KSH5pWw5p6g44GM44Gk44GE44Gm44GE44KL5aC05ZCI44Gv5Y+W5b6X44Gn44GN44G+44Gb44KT44GMCgkvLyDpgYvnlKjkuIrjgIHmm7TmlrDjgpLjgZfjgZ/jgYTjg6vjg7zjg6vjgavlr77jgZfjgabmnqDjga8x44Gk44GX44GL44Gk44GE44Gm44GE44Gq44GE44GT44Go44GM5YmN5o+Q44Gn44GZCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyBzcGVjdGVyIHNwZWNpZmljCiAgICAgICdteXNxbC1jb21tdW5pdHktY2xpZW50JywKICAgICAgJ215c3FsLWNvbW11bml0eS1kZXZlbCcsCg==</text>
+        <text encoding="base64">ICAgIGNyb250YWJfZmlsZXMgID0+IFsgJ2F3c19zcGVjdGVyJywgXSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>RuleAnd</last-search>
+      <last-search>test_pam_tuning_mobile</last-search>
       <last-offset />
-      <last-pattern>RuleAnd</last-pattern>
+      <last-pattern>test_pam_tuning_mobile</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>location</entry>
-        <entry>make</entry>
         <entry>makeData</entry>
         <entry>makeClickData</entry>
         <entry>makeVi</entry>
@@ -426,11 +436,10 @@
         <entry>RULE_DOM_ADX_XPATH</entry>
         <entry>RuleName</entry>
         <entry>RuleAnd</entry>
+        <entry>adx</entry>
+        <entry>test_pam_tuning_mobile</entry>
       </history-search>
       <history-cmd>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>ls</entry>
-        <entry>e .</entry>
         <entry>304</entry>
         <entry>156</entry>
         <entry>144</entry>
@@ -442,6 +451,14 @@
         <entry>kkk;q</entry>
         <entry>q</entry>
         <entry>vs</entry>
+        <entry>213</entry>
+        <entry>;w</entry>
+        <entry>250</entry>
+        <entry>31</entry>
+        <entry>190</entry>
+        <entry>245</entry>
+        <entry>183</entry>
+        <entry>191</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
