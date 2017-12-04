@@ -222,6 +222,9 @@
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/html2json/html2json.go" timestamp="1512349427132">
+        <mark key="'" line="51" column="60" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/_batch/updateOArules.mk" timestamp="1510645584746">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -244,12 +247,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" timestamp="1511766399638">
         <mark key="'" line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1512115857790">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="336" column="46" />
-        <mark key="]" line="336" column="57" />
-        <mark key="." line="336" column="57" />
-        <mark key="^" line="336" column="57" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1512349589628">
+        <mark key="'" line="320" column="4" />
+        <mark key="[" line="23" column="115" />
+        <mark key="]" line="23" column="115" />
+        <mark key="." line="23" column="115" />
+        <mark key="^" line="23" column="117" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_microad/Makefile" timestamp="1511507333039">
         <mark key="[" line="0" column="0" />
@@ -267,8 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_service.tf" />
-      <jump line="49" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_service.tf" />
       <jump line="29" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_service.tf" />
       <jump line="30" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_service.tf" />
       <jump line="31" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_service.tf" />
@@ -367,16 +368,18 @@
       <jump line="239" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="265" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="51" column="60" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/html2json/html2json.go" />
+      <jump line="320" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IGFuZCB0ZXh0KCk9JyVzJw==</text>
       </register>
       <register name="/" type="4">
         <text>Fetch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlydWxlTmFtZTogIuODl+ODreOCsOODqeODoOiHquWLleabtOaWsOOBruODhuOCueODiOeUqOODq+ODvOODqyIsCg==</text>
+        <text encoding="base64">CVJVTEVfRE9NX0RGUF9YUEFUSF9XSVRIX1JVTEUgPSAiLy9kaXZbQGNsYXNzPSdydWxlcy1ZLWgnXVsuLy9kaXZbQGNsYXNzPSdydWxlcy1ZLW4gcnVsZXMtWS1tJ10vL2Rpdlt0ZXh0KCk9JyVzJyBhbmQgdGV4dCgpPSclcyddXSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkvLyBBZHjjgr/jgrAgeCDjg4fjgqPjgrnjg5fjg6zjgqQKCQl7CgkJCXVuaXROYW1lOiAidGVzdF9wYW1fdHVuaW5nX2Rpc3BsYXlfYWR4X0FEWCIsCgkJCWFkVHlwZTogICAiZGlzcGxheSIsCgkJCWJyYW5kOiAgICAiNTAwIiwKCQkJc2VtaTogICAgICIiLAoJCQlhbm86ICAgICAgIjMwMCIsCgkJfSwKCQkvLyBBZHjjgr/jgrAgeCDjg6Ljg5DjgqTjg6sKCQl7CgkJCXVuaXROYW1lOiAidGVzdF9wYW1fdHVuaW5nX21vYmlsZV9hZHhfQURYIiwKCQkJYWRUeXBlOiAgICJtb2JpbGUiLAoJCQlicmFuZDogICAgIjUwMCIsCgkJCXNlbWk6ICAgICAiIiwKCQkJYW5vOiAgICAgICIzMDAiLAoJCX0sCg==</text>
