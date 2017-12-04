@@ -247,12 +247,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" timestamp="1511766399638">
         <mark key="'" line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1512351514914">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1512355093514">
         <mark key="'" line="320" column="4" />
-        <mark key="[" line="23" column="115" />
-        <mark key="]" line="23" column="115" />
-        <mark key="." line="23" column="115" />
-        <mark key="^" line="23" column="117" />
+        <mark key="[" line="252" column="86" />
+        <mark key="]" line="252" column="86" />
+        <mark key="." line="252" column="86" />
+        <mark key="^" line="252" column="92" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_microad/Makefile" timestamp="1511507333039">
         <mark key="[" line="0" column="0" />
@@ -373,13 +373,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZCB0ZXh0KCk9JyVzJw==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>Fetch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CVJVTEVfRE9NX0RGUF9YUEFUSF9XSVRIX1JVTEUgPSAiLy9kaXZbQGNsYXNzPSdydWxlcy1ZLWgnXVsuLy9kaXZbQGNsYXNzPSdydWxlcy1ZLW4gcnVsZXMtWS1tJ10vL2Rpdlt0ZXh0KCk9JyVzJyBhbmQgdGV4dCgpPSclcyddXSIK</text>
+      <register name="0" type="4">
+        <text>//div[@class='rules-Y-h'][.//div[@class='rules-Y-n rules-Y-i']//div[text()='%s'] | .//div[@class='rules-Y-n rules-Y-m']//div[text()='%s']]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkvLyBBZHjjgr/jgrAgeCDjg4fjgqPjgrnjg5fjg6zjgqQKCQl7CgkJCXVuaXROYW1lOiAidGVzdF9wYW1fdHVuaW5nX2Rpc3BsYXlfYWR4X0FEWCIsCgkJCWFkVHlwZTogICAiZGlzcGxheSIsCgkJCWJyYW5kOiAgICAiNTAwIiwKCQkJc2VtaTogICAgICIiLAoJCQlhbm86ICAgICAgIjMwMCIsCgkJfSwKCQkvLyBBZHjjgr/jgrAgeCDjg6Ljg5DjgqTjg6sKCQl7CgkJCXVuaXROYW1lOiAidGVzdF9wYW1fdHVuaW5nX21vYmlsZV9hZHhfQURYIiwKCQkJYWRUeXBlOiAgICJtb2JpbGUiLAoJCQlicmFuZDogICAgIjUwMCIsCgkJCXNlbWk6ICAgICAiIiwKCQkJYW5vOiAgICAgICIzMDAiLAoJCX0sCg==</text>
