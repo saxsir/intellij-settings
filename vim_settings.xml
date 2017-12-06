@@ -105,11 +105,6 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/manifests/nodes/aws_haste_ops.pp" timestamp="1512029926776">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/app_dep.tf" timestamp="1510562504664">
         <mark key="'" line="63" column="7" />
       </file>
@@ -230,6 +225,9 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/cmd/header_tester.go" timestamp="1511757470816">
         <mark key="'" line="98" column="17" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/adx.py" timestamp="1512536831404">
+        <mark key="'" line="70" column="17" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/modules/appAdParamConnect.js" timestamp="1511776303542">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="66" />
@@ -264,12 +262,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" timestamp="1511766399638">
         <mark key="'" line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1512528954492">
-        <mark key="'" line="360" column="8" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="24" column="174" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1512537766613">
+        <mark key="'" line="337" column="18" />
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
+        <mark key="^" line="258" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_microad/Makefile" timestamp="1511507333039">
         <mark key="[" line="0" column="0" />
@@ -286,9 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="415" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="448" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="320" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="79" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="97" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
@@ -386,59 +381,60 @@
       <jump line="249" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="56" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_nend/README.md" />
       <jump line="96" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_nend/README.md" />
+      <jump line="27" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/adx.py" />
+      <jump line="70" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/adx.py" />
+      <jump line="337" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>Fetch</text>
+        <text>WithRule</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YGBgc2hlbGwKJCBtYWtlIHJ1bl9ydmlkCmBgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YGBgc2hlbGwgJCBzdWRvIHN1IC1sIGZsdWN0CmBgYAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Li4uCg==</text>
+        <text encoding="base64">CS8vIDLjgaTku6XkuIrjgYLjgovloLTlkIjjga/pgYvnlKjjga7kvovlpJbjgrHjg7zjgrnjgarjga7jgafjgIHjgqjjg6njg7zjgavjgZfjgabkurrjgavjgojjgovmm7TmlrDjgpLooYzjgYTjgb7jgZkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">CS8vIDLjgaTku6XkuIrjgYLjgovloLTlkIjjga/pgYvnlKjjga7kvovlpJbjgrHjg7zjgrnjgarjga7jgafjgIHjgqjjg6njg7zjgavjgZfjgabkurrjgavjgojjgovmm7TmlrDjgpLooYzjgYTjgb7jgZkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">CS8vIDLjgaTku6XkuIrjgYLjgovloLTlkIjjga/pgYvnlKjjga7kvovlpJbjgrHjg7zjgrnjgarjga7jgafjgIHjgqjjg6njg7zjgavjgZfjgabkurrjgavjgojjgovmm7TmlrDjgpLooYzjgYTjgb7jgZkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ki8KCi8qCg==</text>
+        <text encoding="base64">YGBgc2hlbGwgJCBzdWRvIHN1IC1sIGZsdWN0CmBgYAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8g44GT44GE44Gk44GM5oKq44Gd44GGCi8qCg==</text>
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Ki8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>Fetch</last-search>
+      <last-search>WithRule</last-search>
       <last-offset />
-      <last-pattern>Fetch</last-pattern>
+      <last-pattern>WithRule</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Data</entry>
-        <entry>gather</entry>
         <entry>href</entry>
         <entry>insert</entry>
         <entry>page</entry>
@@ -457,9 +453,10 @@
         <entry>空白</entry>
         <entry>anoInput</entry>
         <entry>Fetch</entry>
+        <entry>insert_template</entry>
+        <entry>WithRule</entry>
       </history-search>
       <history-cmd>
-        <entry>304</entry>
         <entry>156</entry>
         <entry>144</entry>
         <entry>181</entry>
@@ -479,6 +476,7 @@
         <entry>183</entry>
         <entry>191</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
