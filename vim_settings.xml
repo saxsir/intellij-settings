@@ -79,12 +79,12 @@
         <mark key="." line="306" column="35" />
         <mark key="^" line="306" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1512466638327">
-        <mark key="'" line="200" column="9" />
-        <mark key="[" line="199" column="67" />
-        <mark key="]" line="200" column="9" />
-        <mark key="." line="200" column="9" />
-        <mark key="^" line="200" column="9" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1512523713149">
+        <mark key="'" line="198" column="0" />
+        <mark key="[" line="213" column="1" />
+        <mark key="]" line="214" column="1" />
+        <mark key="." line="214" column="1" />
+        <mark key="^" line="214" column="1" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Microad/ReportScraper.php" timestamp="1511508874350">
         <mark key="'" line="4" column="33" />
@@ -275,7 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="106" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="113" column="46" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="117" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
@@ -375,6 +374,7 @@
       <jump line="200" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/html2json/html2json.go" />
       <jump line="155" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/html2json/html2json.go" />
+      <jump line="198" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -393,25 +393,25 @@
         <text encoding="base64">LyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ki8K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">LyoK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ki8K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ki8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LyoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vCVJVTEVfRE9NX0RGUF9YUEFUSF9XSVRIX1JVTEUgPSAiLy9kaXZbQGNsYXNzPSdydWxlcy1ZLWgnXVsuLy9kaXZbQGNsYXNzPSdydWxlcy1ZLW4gcnVsZXMtWS1pJ10vL2Rpdlt0ZXh0KCk9JyVzJ11dIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8g6KSH5pWw44Or44O844Or44Gr57SQ44Gl44GP5p6g5ZCN44Gu5aC05ZCI44Gv44Ko44Op44O844Gr44Gq44KL44GT44Go44KS44OG44K544OI44GX44G+44GZCmZ1bmMgVGVzdEZldGNoT0FQcmljZeOBjOOCqOODqeODvOOBq+OBquOCi+OBk+OBqCh0ICp0ZXN0aW5nLlQpIHsKCXMgOj0gZGVmYXVsdFNjcmFwZXIoKQoKCXRlc3RzIDo9IFtdKnN0cnVjdCB7CgkJdW5pdE5hbWUgc3RyaW5nCgkJYWRUeXBlICAgc3RyaW5nCgl9ewoJCS8vIERGUOODpuODi+ODg+ODiAoJCXsKCQkJdW5pdE5hbWU6ICJ0ZXN0X3BhbV90dW5pbmdfbW9iaWxlX2RmcF9kdXAiLAoJCQlhZFR5cGU6ICAgIm1vYmlsZSIsCgkJfSwKCQkvLyBBZHjjgr/jgrAKCQl7CgkJCXVuaXROYW1lOiAidGVzdF9wYW1fdHVuaW5nX21vYmlsZV9hZHhfZHVwX0FEWCIsCgkJCWFkVHlwZTogICAibW9iaWxlIiwKCQl9LAoJfQoKCWZvciBfLCB0ZXN0IDo9IHJhbmdlIHRlc3RzIHsKCQlfLCBfLCBfLCBlcnIgOj0gcy5GZXRjaE9BUHJpY2UodGVzdC51bml0TmFtZSwgdGVzdC5hZFR5cGUpCgkJaWYgZXJyID09IG5pbCB7CgkJCXQuRmF0YWxmKCJleHBlY3QgZXJyb3IsIGJ1dCBub3Q6ICV2IiwgdGVzdCkKCQl9Cgl9Cn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
