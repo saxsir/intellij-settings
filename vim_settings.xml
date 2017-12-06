@@ -79,12 +79,12 @@
         <mark key="." line="306" column="35" />
         <mark key="^" line="306" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1512527838614">
-        <mark key="'" line="278" column="0" />
-        <mark key="[" line="213" column="1" />
-        <mark key="]" line="214" column="1" />
-        <mark key="." line="214" column="1" />
-        <mark key="^" line="214" column="1" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1512529393525">
+        <mark key="'" line="249" column="0" />
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="249" column="0" />
+        <mark key="." line="249" column="0" />
+        <mark key="^" line="221" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Microad/ReportScraper.php" timestamp="1511508874350">
         <mark key="'" line="4" column="33" />
@@ -256,7 +256,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" timestamp="1511766399638">
         <mark key="'" line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1512442181445">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1512528954492">
         <mark key="'" line="360" column="8" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -278,15 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="125" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="114" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="213" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="257" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="399" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="67" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="103" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="158" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="311" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="393" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="415" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
@@ -349,7 +340,6 @@
       <jump line="233" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="239" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="265" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="51" column="60" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/html2json/html2json.go" />
       <jump line="320" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="253" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
@@ -378,31 +368,41 @@
       <jump line="228" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="244" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="278" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="276" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="250" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="121" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="289" column="64" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="108" column="40" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="130" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="221" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="296" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="249" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text />
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>anoInput</text>
+        <text>Fetch</text>
       </register>
-      <register name="0" type="4">
-        <text>https://github.com/voyagegroup/fluct_pam_tuning/issues/31</text>
+      <register name="0" type="2">
+        <text encoding="base64">CWlmIGVyciA6PSBzLk9wZW5QcmljaW5nUnVsZXNNYWluUGFnZSgiZGlzcGxheSIpOyBlcnIgIT0gbmlsIHsKCQl0LkZhdGFsZigiZmFpbGVkIHRvIG9wZW4gcnVsZSBtYWluIHBhZ2U6ICIsIGVycikKCX0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ki8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">LyoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Ki8KCi8qCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Ly8g44GT44GE44Gk44GM5oKq44Gd44GGCi8qCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Ki8K</text>
@@ -421,9 +421,9 @@
       </register>
     </registers>
     <search>
-      <last-search>anoInput</last-search>
+      <last-search>Fetch</last-search>
       <last-offset />
-      <last-pattern>anoInput</last-pattern>
+      <last-pattern>Fetch</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -446,9 +446,9 @@
         <entry>adx</entry>
         <entry>test_pam_tuning_mobile</entry>
         <entry>Update</entry>
-        <entry>Fetch</entry>
         <entry>空白</entry>
         <entry>anoInput</entry>
+        <entry>Fetch</entry>
       </history-search>
       <history-cmd>
         <entry>304</entry>
