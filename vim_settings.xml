@@ -79,8 +79,8 @@
         <mark key="." line="306" column="35" />
         <mark key="^" line="306" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1512523713149">
-        <mark key="'" line="198" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1512527838614">
+        <mark key="'" line="278" column="0" />
         <mark key="[" line="213" column="1" />
         <mark key="]" line="214" column="1" />
         <mark key="." line="214" column="1" />
@@ -278,9 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="46" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="117" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
-      <jump line="120" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="121" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="125" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="114" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
@@ -378,6 +375,9 @@
       <jump line="155" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/html2json/html2json.go" />
       <jump line="198" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="76" column="62" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Google/AdxClient.php" />
+      <jump line="228" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="244" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
+      <jump line="278" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
