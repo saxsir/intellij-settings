@@ -37,6 +37,7 @@
         <mark key="^" line="25" column="63" />
         <mark key="." line="25" column="63" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron_targets.mk" timestamp="1512982107716" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/a.js" timestamp="1511944977652">
         <mark key="'" line="3" column="66" />
         <mark key="[" line="3" column="29" />
@@ -195,8 +196,8 @@
         <mark key="^" line="103" column="86" />
         <mark key="." line="103" column="41" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1512108933674">
-        <mark key="'" line="75" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1512982114240">
+        <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/csv2sqs/csv2sqs_test.go" timestamp="1512114648761">
         <mark key="[" line="35" column="51" />
@@ -282,7 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="79" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="97" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="106" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
@@ -382,13 +382,14 @@
       <jump line="27" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/adx.py" />
       <jump line="70" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/adx.py" />
       <jump line="337" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="15" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>WithRule</text>
+        <text>import_bc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YGBgc2hlbGwKJCBtYWtlIHJ1bl9ydmlkCmBgYAo=</text>
@@ -425,15 +426,14 @@
       </register>
     </registers>
     <search>
-      <last-search>WithRule</last-search>
+      <last-search>import_bc</last-search>
       <last-offset />
-      <last-pattern>WithRule</last-pattern>
+      <last-pattern>import_bc</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>href</entry>
         <entry>insert</entry>
         <entry>page</entry>
         <entry>site</entry>
@@ -453,6 +453,7 @@
         <entry>Fetch</entry>
         <entry>insert_template</entry>
         <entry>WithRule</entry>
+        <entry>import_bc</entry>
       </history-search>
       <history-cmd>
         <entry>156</entry>
