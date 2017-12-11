@@ -155,7 +155,6 @@
         <mark key="." line="31" column="60" />
         <mark key="^" line="31" column="60" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_nend/Makefile" timestamp="1512533144217" />
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/sunrise2017-ad-group-master/auction/auction.go" timestamp="1511419016352">
         <mark key="[" line="55" column="12" />
         <mark key="]" line="55" column="25" />
@@ -196,7 +195,6 @@
         <mark key="^" line="103" column="86" />
         <mark key="." line="103" column="41" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_client.erl" timestamp="1512547050557" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1512108933674">
         <mark key="'" line="75" column="0" />
       </file>
@@ -209,7 +207,6 @@
       <file name="/Dummy.txt" timestamp="1512466725208">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_api/tests/test_fluct/test_web/test_decision.py" timestamp="1512450956300" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/variables.tf" timestamp="1510562637898">
         <mark key="'" line="42" column="10" />
         <mark key="[" line="68" column="2" />
@@ -424,7 +421,7 @@
         <text encoding="base64">Ki8K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -476,8 +473,8 @@
         <entry>245</entry>
         <entry>183</entry>
         <entry>191</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
