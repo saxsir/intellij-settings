@@ -42,8 +42,8 @@
         <mark key="^" line="25" column="63" />
         <mark key="." line="25" column="63" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/a.js" timestamp="1511944977652">
-        <mark key="'" line="3" column="66" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/a.js" timestamp="1513141804382">
+        <mark key="'" line="182" column="19" />
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="66" />
         <mark key="." line="3" column="66" />
@@ -124,10 +124,10 @@
         <mark key="." line="105" column="31" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1513044555136" />
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1513129230689">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1513142571715">
         <mark key="'" line="596" column="5" />
-        <mark key="[" line="866" column="27" />
-        <mark key="]" line="866" column="41" />
+        <mark key="[" line="633" column="0" />
+        <mark key="]" line="635" column="4" />
         <mark key="." line="866" column="41" />
         <mark key="^" line="866" column="41" />
       </file>
@@ -265,6 +265,9 @@
         <mark key="." line="6" column="55" />
         <mark key="^" line="6" column="55" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" timestamp="1513142300770">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/Makefile" timestamp="1510808418294">
         <mark key="'" line="35" column="0" />
       </file>
@@ -293,11 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="17" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/taglog.go" />
-      <jump line="95" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/taglog.go" />
-      <jump line="21" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/taglog.go" />
-      <jump line="130" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="60" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="3" column="66" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/native.js" />
@@ -393,16 +391,21 @@
       <jump line="249" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="578" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="596" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/a.js" />
+      <jump line="183" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/a.js" />
+      <jump line="182" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/a.js" />
+      <jump line="486" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>リファラー</text>
       </register>
       <register name="/" type="4">
-        <text>todo</text>
+        <text>createOption</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YGBgc2hlbGwKJCBtYWtlIHJ1bl9ydmlkCmBgYAo=</text>
+        <text encoding="base64">ICAgIGlmICggbXkgJHBhZ2UgPSBnZXRfc2l0ZV9vZl9wYWdlX3VybCgkdXNlcl9yZXEpICkgewogICAgICAgICRyZXEtPntyZn0gPSAkcGFnZTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyB1bnVzZWQ/Cg==</text>
@@ -436,16 +439,14 @@
       </register>
     </registers>
     <search>
-      <last-search>todo</last-search>
+      <last-search>createOption</last-search>
       <last-offset />
-      <last-pattern>todo</last-pattern>
+      <last-pattern>createOption</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>page</entry>
-        <entry>site</entry>
         <entry>env</entry>
         <entry>cron</entry>
         <entry>fluct_log</entry>
@@ -464,6 +465,8 @@
         <entry>WithRule</entry>
         <entry>import_bc</entry>
         <entry>todo</entry>
+        <entry>href</entry>
+        <entry>createOption</entry>
       </history-search>
       <history-cmd>
         <entry>156</entry>
