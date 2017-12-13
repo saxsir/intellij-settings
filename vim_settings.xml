@@ -124,8 +124,8 @@
         <mark key="." line="105" column="31" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1513044555136" />
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1513044336417">
-        <mark key="'" line="604" column="34" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1513129230689">
+        <mark key="'" line="596" column="5" />
         <mark key="[" line="866" column="27" />
         <mark key="]" line="866" column="41" />
         <mark key="." line="866" column="41" />
@@ -293,9 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="97" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
-      <jump line="106" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="110" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
       <jump line="17" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/taglog.go" />
       <jump line="95" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/taglog.go" />
@@ -393,13 +390,16 @@
       <jump line="70" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/adx.py" />
       <jump line="337" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="15" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
+      <jump line="249" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="578" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="596" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>リファラー</text>
       </register>
       <register name="/" type="4">
-        <text>import_bc</text>
+        <text>todo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YGBgc2hlbGwKJCBtYWtlIHJ1bl9ydmlkCmBgYAo=</text>
@@ -436,15 +436,14 @@
       </register>
     </registers>
     <search>
-      <last-search>import_bc</last-search>
+      <last-search>todo</last-search>
       <last-offset />
-      <last-pattern>import_bc</last-pattern>
+      <last-pattern>todo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>insert</entry>
         <entry>page</entry>
         <entry>site</entry>
         <entry>env</entry>
@@ -464,6 +463,7 @@
         <entry>insert_template</entry>
         <entry>WithRule</entry>
         <entry>import_bc</entry>
+        <entry>todo</entry>
       </history-search>
       <history-cmd>
         <entry>156</entry>
