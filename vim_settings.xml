@@ -93,6 +93,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/ecs_autoscale/ecs_cluster.tf" timestamp="1511773989526">
         <mark key="'" line="15" column="47" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/prism/specter_ecs_service.tf" timestamp="1513841887717" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" timestamp="1510818997469">
         <mark key="'" line="293" column="0" />
         <mark key="[" line="306" column="35" />
