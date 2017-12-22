@@ -17,6 +17,13 @@
         <mark key="." line="19" column="5" />
         <mark key="^" line="17" column="14" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" timestamp="1513918083655">
+        <mark key="'" line="69" column="4" />
+        <mark key="[" line="135" column="43" />
+        <mark key="]" line="135" column="47" />
+        <mark key="." line="135" column="47" />
+        <mark key="^" line="135" column="47" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_service.tf" timestamp="1511773836820">
         <mark key="'" line="32" column="2" />
         <mark key="[" line="31" column="103" />
@@ -73,10 +80,10 @@
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/a.js" timestamp="1513141804382">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/a.js" timestamp="1513917998154">
         <mark key="'" line="182" column="19" />
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="3" column="66" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="58" />
         <mark key="." line="3" column="66" />
         <mark key="^" line="3" column="66" />
       </file>
@@ -225,9 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
-      <jump line="250" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
-      <jump line="121" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="289" column="64" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="108" column="40" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
@@ -325,58 +329,60 @@
       <jump line="164" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
       <jump line="20" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
       <jump line="165" column="56" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
+      <jump line="113" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
+      <jump line="69" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>cleaner</text>
+        <text>, 'ifa': '', 'bundle': ''</text>
       </register>
       <register name="/" type="4">
-        <text>execute</text>
+        <text>parseQuery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">WwogIHsKICAgICJuYW1lIjogICAgICAiaGFzdGUiLAogICAgImVzc2VudGlhbCI6IHRydWUsCiAgICAiaW1hZ2UiOiAgICAgIiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NSRX0uZGtyLmVjci4ke3Zhci5BV1NfREVGQVVMVF9SRUdJT059LmFtYXpvbmF3cy5jb20vZmx1Y3RfaGFzdGU6cHJvZHVjdGlvbiIsCiAgICAiY3B1IjogICAgICAgNTEyLAogICAgIm1lbW9yeSI6ICAgIDEwMjQsCiAgICAicG9ydE1hcHBpbmdzIjogWwogICAgICB7CiAgICAgICAgImhvc3RQb3J0IjogMCwKICAgICAgICAiY29udGFpbmVyUG9ydCI6IDgwODAKICAgICAgfQogICAgXSwKICAgICJsb2dDb25maWd1cmF0aW9uIjogewogICAgICAibG9nRHJpdmVyIjogImF3c2xvZ3MiLAogICAgICAib3B0aW9ucyI6IHsKICAgICAgICAiYXdzbG9ncy1ncm91cCI6ICAiaGFzdGUvY29udGFpbmVyIiwKICAgICAgICAiYXdzbG9ncy1yZWdpb24iOiAiJHt2YXIuQVdTX0RFRkFVTFRfUkVHSU9OfSIKICAgICAgfQogICAgfQogIH0KXQo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGFkUGFyYW1zID0geydsbXQnOiAnJywgJ2lmYSc6ICcnLCAnYnVuZGxlJzogJyd9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGFkUGFyYW1zID0geydocmVmJzogJyd9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwb3J0TWFwcGluZ3MiOiBbCiAgICAgIHsKICAgICAgICAiaG9zdFBvcnQiOiAwLAogICAgICAgICJjb250YWluZXJQb3J0IjogODA4MAogICAgICB9CiAgICBdLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJjcHUiOiAgICAgICA1MTIsCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJwb3J0TWFwcGluZ3MiOiBbCiAgICAgIHsKICAgICAgICAiaG9zdFBvcnQiOiAwLAogICAgICAgICJjb250YWluZXJQb3J0IjogODA4MAogICAgICB9CiAgICBdLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJjcHUiOiAgICAgICA1MTIsCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZXNpcmVkX2NvdW50ICAgICAgICAgICAgICAgICAgICAgID0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGF0YSAidGVtcGxhdGVfZmlsZSIgImhhc3RlX2NsZWFuZXJfZWNzX3Rhc2tfZGVmaW5pdGlvbnMiIHsKICAjIGh0dHA6Ly9kb2NzLmF3cy5hbWF6b24uY29tL0FtYXpvbkVDUy9sYXRlc3QvZGV2ZWxvcGVyZ3VpZGUvdGFza19kZWZpbml0aW9uX3BhcmFtZXRlcnMuaHRtbAogIHRlbXBsYXRlID0gPDxUQVNLX0RFRklOSVRJT04KClRBU0tfREVGSU5JVElPTgp9Cg==</text>
+        <text encoding="base64">ICBkZXNpcmVkX2NvdW50ICAgICAgICAgICAgICAgICAgICAgID0gMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIGh0dHA6Ly9kb2NzLmF3cy5hbWF6b24uY29tL0FtYXpvbkVDUy9sYXRlc3QvZGV2ZWxvcGVyZ3VpZGUvdGFza19kZWZpbml0aW9uX3BhcmFtZXRlcnMuaHRtbAo=</text>
+        <text encoding="base64">ZGF0YSAidGVtcGxhdGVfZmlsZSIgImhhc3RlX2NsZWFuZXJfZWNzX3Rhc2tfZGVmaW5pdGlvbnMiIHsKICAjIGh0dHA6Ly9kb2NzLmF3cy5hbWF6b24uY29tL0FtYXpvbkVDUy9sYXRlc3QvZGV2ZWxvcGVyZ3VpZGUvdGFza19kZWZpbml0aW9uX3BhcmFtZXRlcnMuaHRtbAogIHRlbXBsYXRlID0gPDxUQVNLX0RFRklOSVRJT04KClRBU0tfREVGSU5JVElPTgp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBOT1RFOiBmdW5uZWzjga/liJ3mnJ/jga50YXNrIGRlZmluaXRpb25z44GX44GL5a6a576p44GX44Gq44GECiMgU2VlOiAgaHR0cHM6Ly9naXRodWIuY29tL3ZveWFnZWdyb3VwL2ZsdWN0X2Z1bm5lbC9pc3N1ZXMvMTEzOQo=</text>
+        <text encoding="base64">ICAjIGh0dHA6Ly9kb2NzLmF3cy5hbWF6b24uY29tL0FtYXpvbkVDUy9sYXRlc3QvZGV2ZWxvcGVyZ3VpZGUvdGFza19kZWZpbml0aW9uX3BhcmFtZXRlcnMuaHRtbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IiR7ZGF0YS50ZW1wbGF0ZV9maWxlLmhhc3RlX2NsZWFuZXJfZWNzX3Rhc2tfZGVmaW5pdGlvbnMucmVuZGVyZWR9Igo=</text>
+        <text encoding="base64">IyBOT1RFOiBmdW5uZWzjga/liJ3mnJ/jga50YXNrIGRlZmluaXRpb25z44GX44GL5a6a576p44GX44Gq44GECiMgU2VlOiAgaHR0cHM6Ly9naXRodWIuY29tL3ZveWFnZWdyb3VwL2ZsdWN0X2Z1bm5lbC9pc3N1ZXMvMTEzOQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>execute</last-search>
+      <last-search>parseQuery</last-search>
       <last-offset />
-      <last-pattern>execute</last-pattern>
+      <last-pattern>parseQuery</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>RULE_DOM_ADX_XPATH</entry>
         <entry>RuleName</entry>
         <entry>RuleAnd</entry>
         <entry>adx</entry>
@@ -396,6 +402,7 @@
         <entry>rf</entry>
         <entry>config</entry>
         <entry>execute</entry>
+        <entry>parseQuery</entry>
       </history-search>
       <history-cmd>
         <entry>144</entry>
