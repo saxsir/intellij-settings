@@ -83,11 +83,11 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/lib/vue/components/table.js" timestamp="1513927773951">
-        <mark key="'" line="27" column="34" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/lib/vue/components/table.js" timestamp="1513931191103">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="86" column="9" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="85" column="24" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/sync_linking_ad_units_with_dfp_api.py" timestamp="1513746127309">
         <mark key="'" line="0" column="0" />
@@ -108,18 +108,6 @@
         <mark key="]" line="105" column="31" />
         <mark key="^" line="105" column="31" />
         <mark key="." line="105" column="31" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1513236567507">
-        <mark key="[" line="869" column="1" />
-        <mark key="]" line="869" column="48" />
-        <mark key="." line="869" column="48" />
-        <mark key="^" line="869" column="48" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/get_site_of_page_url.t" timestamp="1513236908935">
-        <mark key="[" line="21" column="60" />
-        <mark key="]" line="21" column="60" />
-        <mark key="." line="21" column="60" />
-        <mark key="^" line="21" column="60" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" timestamp="1513738656381">
         <mark key="'" line="759" column="29" />
@@ -182,6 +170,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1512982114240">
         <mark key="'" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/lib/vue/components/onebox.js" timestamp="1513930763266" />
       <file name="/Dummy.txt" timestamp="1513926626478">
         <mark key="[" line="0" column="0" />
       </file>
@@ -196,11 +185,11 @@
         <mark key="^" line="67" column="1" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/lib/api-v2.js" timestamp="1513927619953">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/lib/api-v2.js" timestamp="1513930350895">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/cmd/header_tester.go" timestamp="1511757470816">
         <mark key="'" line="98" column="17" />
@@ -241,11 +230,6 @@
         <mark key="." line="258" column="0" />
         <mark key="^" line="258" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/public/chart.html" timestamp="1513927720868">
-        <mark key="]" line="45" column="11" />
-        <mark key="^" line="45" column="11" />
-        <mark key="." line="45" column="11" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_cluster.tf" timestamp="1511773847013">
         <mark key="'" line="53" column="2" />
         <mark key="[" line="25" column="41" />
@@ -255,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="56" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_nend/README.md" />
       <jump line="96" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_nend/README.md" />
       <jump line="27" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/adx.py" />
@@ -355,58 +338,58 @@
       <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/api/v2/report/summary/weekly.py" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/main.js" />
       <jump line="27" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/lib/vue/components/table.js" />
+      <jump line="30" column="51" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/lib/vue/components/table.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>parseQuery</text>
+        <text>toLocale</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">UkVQT1JUX0FQSV9CQVNFID0g</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0b0xvY2FsZTogZnVuY3Rpb24odmFsdWUpIHsKICAgICAgICAgICAgaWYgKCF2YWx1ZSkgewogICAgICAgICAgICAgICAgcmV0dXJuICflgKTjgYzjgYLjgorjgb7jgZvjgpMnOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICh0eXBlb2YgdmFsdWUgPT09ICdzdHJpbmcnKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdmFsdWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKHR5cGVvZiB2YWx1ZSA9PT0gJ251bWJlcicpIHsKICAgICAgICAgICAgICAgIHJldHVybiBOdW1iZXIodmFsdWUpLnRvTG9jYWxlU3RyaW5nKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiB2YWx1ZTsKICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhvYWFhYWFhYWFhYWFhYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWFhYWFhYWFhYWFhYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBob2dlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE51bWJlcih2YWx1ZSkudG9Mb2NhbGVTdHJpbmcoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGFkUGFyYW1zID0geydocmVmJzogJyd9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9OT1RFOiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZhbHVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJwb3J0TWFwcGluZ3MiOiBbCiAgICAgIHsKICAgICAgICAiaG9zdFBvcnQiOiAwLAogICAgICAgICJjb250YWluZXJQb3J0IjogODA4MAogICAgICB9CiAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9OT1RFOiDjgarjgpPjgafmlbDlgKTjga8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJjcHUiOiAgICAgICA1MTIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFsdWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZXNpcmVkX2NvdW50ICAgICAgICAgICAgICAgICAgICAgID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3t9fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>parseQuery</last-search>
+      <last-search>toLocale</last-search>
       <last-offset />
-      <last-pattern>parseQuery</last-pattern>
+      <last-pattern>toLocale</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>RuleName</entry>
         <entry>RuleAnd</entry>
         <entry>adx</entry>
         <entry>test_pam_tuning_mobile</entry>
@@ -426,6 +409,7 @@
         <entry>config</entry>
         <entry>execute</entry>
         <entry>parseQuery</entry>
+        <entry>toLocale</entry>
       </history-search>
       <history-cmd>
         <entry>144</entry>
