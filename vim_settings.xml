@@ -83,12 +83,11 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/lib/vue/components/table.js" timestamp="1513926842802">
-        <mark key="'" line="28" column="34" />
-        <mark key="[" line="26" column="79" />
-        <mark key="]" line="27" column="29" />
-        <mark key="^" line="27" column="29" />
-        <mark key="." line="27" column="29" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/lib/vue/components/table.js" timestamp="1513927773951">
+        <mark key="'" line="27" column="34" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/sync_linking_ad_units_with_dfp_api.py" timestamp="1513746127309">
         <mark key="'" line="0" column="0" />
@@ -197,11 +196,11 @@
         <mark key="^" line="67" column="1" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/lib/api-v2.js" timestamp="1513926984207">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="5" column="38" />
-        <mark key="^" line="5" column="6" />
-        <mark key="." line="5" column="7" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/lib/api-v2.js" timestamp="1513927619953">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/cmd/header_tester.go" timestamp="1511757470816">
         <mark key="'" line="98" column="17" />
@@ -241,6 +240,11 @@
         <mark key="]" line="258" column="0" />
         <mark key="." line="258" column="0" />
         <mark key="^" line="258" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/public/chart.html" timestamp="1513927720868">
+        <mark key="]" line="45" column="11" />
+        <mark key="^" line="45" column="11" />
+        <mark key="." line="45" column="11" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_ecs_cluster.tf" timestamp="1511773847013">
         <mark key="'" line="53" column="2" />
@@ -354,40 +358,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICsgd2luZG93LmxvY2F0aW9uLmhvc3RuYW1lICsgJw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>parseQuery</text>
       </register>
       <register name="0" type="4">
-        <text>https://pam-report.hub.fluct.me</text>
+        <text encoding="base64">UkVQT1JUX0FQSV9CQVNFID0g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGFkUGFyYW1zID0geydocmVmJzogJyd9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIGhvYWFhYWFhYWFhYWFhYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWFhYWFhYWFhYWFhYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJwb3J0TWFwcGluZ3MiOiBbCiAgICAgIHsKICAgICAgICAiaG9zdFBvcnQiOiAwLAogICAgICAgICJjb250YWluZXJQb3J0IjogODA4MAogICAgICB9CiAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBob2dlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJjcHUiOiAgICAgICA1MTIsCg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGFkUGFyYW1zID0geydocmVmJzogJyd9Owo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZXNpcmVkX2NvdW50ICAgICAgICAgICAgICAgICAgICAgID0gMQo=</text>
+        <text encoding="base64">ICAgICJwb3J0TWFwcGluZ3MiOiBbCiAgICAgIHsKICAgICAgICAiaG9zdFBvcnQiOiAwLAogICAgICAgICJjb250YWluZXJQb3J0IjogODA4MAogICAgICB9CiAgICBdLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF0YSAidGVtcGxhdGVfZmlsZSIgImhhc3RlX2NsZWFuZXJfZWNzX3Rhc2tfZGVmaW5pdGlvbnMiIHsKICAjIGh0dHA6Ly9kb2NzLmF3cy5hbWF6b24uY29tL0FtYXpvbkVDUy9sYXRlc3QvZGV2ZWxvcGVyZ3VpZGUvdGFza19kZWZpbml0aW9uX3BhcmFtZXRlcnMuaHRtbAogIHRlbXBsYXRlID0gPDxUQVNLX0RFRklOSVRJT04KClRBU0tfREVGSU5JVElPTgp9Cg==</text>
+        <text encoding="base64">ICAgICJjcHUiOiAgICAgICA1MTIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIGh0dHA6Ly9kb2NzLmF3cy5hbWF6b24uY29tL0FtYXpvbkVDUy9sYXRlc3QvZGV2ZWxvcGVyZ3VpZGUvdGFza19kZWZpbml0aW9uX3BhcmFtZXRlcnMuaHRtbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBOT1RFOiBmdW5uZWzjga/liJ3mnJ/jga50YXNrIGRlZmluaXRpb25z44GX44GL5a6a576p44GX44Gq44GECiMgU2VlOiAgaHR0cHM6Ly9naXRodWIuY29tL3ZveWFnZWdyb3VwL2ZsdWN0X2Z1bm5lbC9pc3N1ZXMvMTEzOQo=</text>
+        <text encoding="base64">ICBkZXNpcmVkX2NvdW50ICAgICAgICAgICAgICAgICAgICAgID0gMQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
