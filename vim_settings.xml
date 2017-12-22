@@ -93,7 +93,10 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/ecs_autoscale/ecs_cluster.tf" timestamp="1511773989526">
         <mark key="'" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/prism/specter_ecs_service.tf" timestamp="1513841887717" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/prism/specter_ecs_service.tf" timestamp="1513905662906">
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="62" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" timestamp="1510818997469">
         <mark key="'" line="293" column="0" />
         <mark key="[" line="306" column="35" />
@@ -166,12 +169,12 @@
         <mark key="^" line="105" column="31" />
         <mark key="." line="105" column="31" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" timestamp="1513905048605">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" timestamp="1513905617297">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="173" column="39" />
-        <mark key="]" line="173" column="39" />
-        <mark key="." line="173" column="39" />
-        <mark key="^" line="173" column="39" />
+        <mark key="[" line="180" column="104" />
+        <mark key="]" line="180" column="103" />
+        <mark key="." line="180" column="103" />
+        <mark key="^" line="180" column="103" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_site_bid_request_pb.erl" timestamp="1513243598095">
         <mark key="'" line="188" column="77" />
@@ -321,13 +324,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>100</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text>execute</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bW9kdWxlICJlY3Nfc2VydmljZSIgewogIHNvdXJjZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPSAiZ2l0QGdpdGh1Yi5jb206dm95YWdlZ3JvdXAvdGZfYXdzX2Vjcz9yZWY9djAuMS4wLy9zZXJ2aWNlX2xvYWRfYmFsYW5jaW5nIgogIG5hbWUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPSAiaGFzdGUiCiAgaWFtX3BhdGggICAgICAgICAgICAgICAgICAgICAgICAgICA9ICIvaGFzdGUvIgogIGNsdXN0ZXJfaWQgICAgICAgICAgICAgICAgICAgICAgICAgPSAiJHttb2R1bGUuZWNzX2NsdXN0ZXIuY2x1c3Rlcl9pZH0iCiAgY2x1c3Rlcl9uYW1lICAgICAgICAgICAgICAgICAgICAgICA9ICIke21vZHVsZS5lY3NfY2x1c3Rlci5jbHVzdGVyX25hbWV9IgogIHRhcmdldF9ncm91cF9hcm4gICAgICAgICAgICAgICAgICAgPSAiJHthd3NfYWxiX3RhcmdldF9ncm91cC5oYXN0ZV9lY3MuYXJufSIKCiAgbG9nX2dyb3VwcyAgICAgICAgICAgICAgICAgICAgICAgICA9IFsiaGFzdGUvY29udGFpbmVyIl0KICBsb2dfZ3JvdXBzX2V4cGlyYXRpb25fZGF5cyAgICAgICAgID0gNQoKICBjb250YWluZXJfcG9ydCAgICAgICAgICAgICAgICAgICAgID0gIjgwODAiCiAgY29udGFpbmVyX25hbWUgICAgICAgICAgICAgICAgICAgICA9ICJoYXN0ZSIKICBjb250YWluZXJfZmFtaWx5ICAgICAgICAgICAgICAgICAgID0gImhhc3RlIgogIGRlcGxveW1lbnRfbWF4aW11bV9wZXJjZW50ICAgICAgICAgPSAxNTAKICBkZXBsb3ltZW50X21pbmltdW1faGVhbHRoeV9wZXJjZW50ID0gMTAwCiAgIyBodHRwOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9BbWF6b25FQ1MvbGF0ZXN0L2RldmVsb3Blcmd1aWRlL3Rhc2tfZGVmaW5pdGlvbl9wYXJhbWV0ZXJzLmh0bWwKICBjb250YWluZXJfZGVmaW5pdGlvbnMgICAgICAgICAgICAgID0gPDxUQVNLX0RFRklOSVRJT04KWwogIHsKICAgICJuYW1lIjogICAgICAiaGFzdGUiLAogICAgImVzc2VudGlhbCI6IHRydWUsCiAgICAiaW1hZ2UiOiAgICAgIiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NSRX0uZGtyLmVjci4ke3Zhci5BV1NfREVGQVVMVF9SRUdJT059LmFtYXpvbmF3cy5jb20vZmx1Y3RfaGFzdGU6cHJvZHVjdGlvbiIsCiAgICAiY3B1IjogICAgICAgNTEyLAogICAgIm1lbW9yeSI6ICAgIDEwMjQsCiAgICAicG9ydE1hcHBpbmdzIjogWwogICAgICB7CiAgICAgICAgImhvc3RQb3J0IjogMCwKICAgICAgICAiY29udGFpbmVyUG9ydCI6IDgwODAKICAgICAgfQogICAgXSwKICAgICJsb2dDb25maWd1cmF0aW9uIjogewogICAgICAibG9nRHJpdmVyIjogImF3c2xvZ3MiLAogICAgICAib3B0aW9ucyI6IHsKICAgICAgICAiYXdzbG9ncy1ncm91cCI6ICAiaGFzdGUvY29udGFpbmVyIiwKICAgICAgICAiYXdzbG9ncy1yZWdpb24iOiAiJHt2YXIuQVdTX0RFRkFVTFRfUkVHSU9OfSIKICAgICAgfQogICAgfQogIH0KXQpUQVNLX0RFRklOSVRJT04KCiAgYXV0b3NjYWxlX2Nvb2xkb3duICAgICAgICAgICAgICAgICA9IDYwCiAgYXV0b3NjYWxlX21pbl9jYXBhY2l0eSAgICAgICAgICAgICA9IDMKICBhdXRvc2NhbGVfbWF4X2NhcGFjaXR5ICAgICAgICAgICAgID0gIiR7IGZsb29yKCAoMTAyNCAqIDE2KSAqIDEyIC8gMTAyNCApIH0iIC8vIChpbnN0YW5jZSBtZW1vcnkpICogYXNnX21heCAvIGNvbnRhaW5lcl9tZW1vcnkKICBhdXRvc2NhbGVfdGhyZXNob2xkcyAgICAgICAgICAgICAgID0gewogICAgY3B1X2hpZ2ggICAgPSA0MAogICAgY3B1X2xvdyAgICAgPSAgNAogICAgbWVtb3J5X2hpZ2ggPSA3NQogICAgbWVtb3J5X2xvdyAgPSAxMAogIH0KICBzY2FsZV9vdXRfbW9yZV9hbGFybV9hY3Rpb25zICAgICAgID0gWyIke2RhdGEuYXdzX3Nuc190b3BpYy5mbHVjdF9zeXNsb2cuYXJufSJdCiAgc2NhbGVfaW5fbW9yZV9hbGFybV9hY3Rpb25zICAgICAgICA9IFsiJHtkYXRhLmF3c19zbnNfdG9waWMuZmx1Y3Rfc3lzbG9nLmFybn0iXQp9Cg==</text>
+      <register name="0" type="4">
+        <text>https://github.com/voyagegroup/fluct_funnel/issues/1139</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb250YWluZXJfcG9ydCAgICAgICAgICAgICAgICAgICAgID0gIjgwODAiCg==</text>
