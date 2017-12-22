@@ -93,9 +93,9 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/ecs_autoscale/ecs_cluster.tf" timestamp="1511773989526">
         <mark key="'" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/prism/specter_ecs_service.tf" timestamp="1513905662906">
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="62" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/prism/specter_ecs_service.tf" timestamp="1513915551829">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="66" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_integration_test.go" timestamp="1510818997469">
         <mark key="'" line="293" column="0" />
@@ -159,6 +159,10 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/Makefile" timestamp="1510808418294">
         <mark key="'" line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/templates/ecs_service_loadbalancing_container_definitions.tpl.json" timestamp="1513916179069">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" timestamp="1511757639844">
         <mark key="'" line="103" column="24" />
       </file>
@@ -169,12 +173,12 @@
         <mark key="^" line="105" column="31" />
         <mark key="." line="105" column="31" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" timestamp="1513905617297">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="180" column="104" />
-        <mark key="]" line="180" column="103" />
-        <mark key="." line="180" column="103" />
-        <mark key="^" line="180" column="103" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" timestamp="1513916418677">
+        <mark key="'" line="165" column="56" />
+        <mark key="[" line="181" column="118" />
+        <mark key="]" line="181" column="118" />
+        <mark key="^" line="181" column="110" />
+        <mark key="." line="181" column="118" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_site_bid_request_pb.erl" timestamp="1513243598095">
         <mark key="'" line="188" column="77" />
@@ -221,10 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="62" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Google/AdxClient.php" />
-      <jump line="228" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
-      <jump line="244" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
-      <jump line="278" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="276" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="250" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
       <jump line="121" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" />
@@ -321,43 +321,47 @@
       <jump line="95" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
       <jump line="82" column="68" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
       <jump line="16" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
+      <jump line="181" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
+      <jump line="164" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
+      <jump line="165" column="56" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>production</text>
+        <text>cleaner</text>
       </register>
       <register name="/" type="4">
         <text>execute</text>
       </register>
-      <register name="0" type="4">
-        <text>https://github.com/voyagegroup/fluct_funnel/issues/1139</text>
+      <register name="0" type="2">
+        <text encoding="base64">WwogIHsKICAgICJuYW1lIjogICAgICAiaGFzdGUiLAogICAgImVzc2VudGlhbCI6IHRydWUsCiAgICAiaW1hZ2UiOiAgICAgIiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NSRX0uZGtyLmVjci4ke3Zhci5BV1NfREVGQVVMVF9SRUdJT059LmFtYXpvbmF3cy5jb20vZmx1Y3RfaGFzdGU6cHJvZHVjdGlvbiIsCiAgICAiY3B1IjogICAgICAgNTEyLAogICAgIm1lbW9yeSI6ICAgIDEwMjQsCiAgICAicG9ydE1hcHBpbmdzIjogWwogICAgICB7CiAgICAgICAgImhvc3RQb3J0IjogMCwKICAgICAgICAiY29udGFpbmVyUG9ydCI6IDgwODAKICAgICAgfQogICAgXSwKICAgICJsb2dDb25maWd1cmF0aW9uIjogewogICAgICAibG9nRHJpdmVyIjogImF3c2xvZ3MiLAogICAgICAib3B0aW9ucyI6IHsKICAgICAgICAiYXdzbG9ncy1ncm91cCI6ICAiaGFzdGUvY29udGFpbmVyIiwKICAgICAgICAiYXdzbG9ncy1yZWdpb24iOiAiJHt2YXIuQVdTX0RFRkFVTFRfUkVHSU9OfSIKICAgICAgfQogICAgfQogIH0KXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb250YWluZXJfcG9ydCAgICAgICAgICAgICAgICAgICAgID0gIjgwODAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0YXJnZXRfZ3JvdXBfYXJuICAgICAgICAgICAgICAgICAgID0gIiR7YXdzX2FsYl90YXJnZXRfZ3JvdXAuaGFzdGVfZWNzLmFybn0iCg==</text>
+        <text encoding="base64">ICAgICJwb3J0TWFwcGluZ3MiOiBbCiAgICAgIHsKICAgICAgICAiaG9zdFBvcnQiOiAwLAogICAgICAgICJjb250YWluZXJQb3J0IjogODA4MAogICAgICB9CiAgICBdLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJjcHUiOiAgICAgICA1MTIsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBSZXF1ZXN0SGVhZGVyLnJlZmVycmVyKHLjg5Hjg6njg6Hjg7zjgr8pCg==</text>
+        <text encoding="base64">ICBkZXNpcmVkX2NvdW50ICAgICAgICAgICAgICAgICAgICAgID0gMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YSAidGVtcGxhdGVfZmlsZSIgImhhc3RlX2NsZWFuZXJfZWNzX3Rhc2tfZGVmaW5pdGlvbnMiIHsKICAjIGh0dHA6Ly9kb2NzLmF3cy5hbWF6b24uY29tL0FtYXpvbkVDUy9sYXRlc3QvZGV2ZWxvcGVyZ3VpZGUvdGFza19kZWZpbml0aW9uX3BhcmFtZXRlcnMuaHRtbAogIHRlbXBsYXRlID0gPDxUQVNLX0RFRklOSVRJT04KClRBU0tfREVGSU5JVElPTgp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICggaHYoJHVzZXJfcmVxLCAnaHJlZicpICYmICR1c2VyX3JlcS0+e2hyZWZ9IG5lICcnKSB7Cg==</text>
+        <text encoding="base64">ICAjIGh0dHA6Ly9kb2NzLmF3cy5hbWF6b24uY29tL0FtYXpvbkVDUy9sYXRlc3QvZGV2ZWxvcGVyZ3VpZGUvdGFza19kZWZpbml0aW9uX3BhcmFtZXRlcnMuaHRtbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmVxPT57cj0+J2h0dHA6Ly9yZXF1ZXN0LmhlYWRlci9yZWZlcnJlcid9LAogICAgICAgICAgICAgICAgZXhwZWN0ZWQ9PntvcHRvdXQgPT4gMCwgZG50ID0+IDAsIHJmPT4naHR0cDovL2xvY2F0aW9uLmhyZWYnfSwKICAgICAgICAgICAgICAgIG1lc3NhZ2U9PiJ1c2VyX3JlcSDjgaty44Gg44GR44GM44GC44KL5aC05ZCI44CBcuOBjHJm44Gr6Kit5a6a44GV44KM44KLIgogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">IyBOT1RFOiBmdW5uZWzjga/liJ3mnJ/jga50YXNrIGRlZmluaXRpb25z44GX44GL5a6a576p44GX44Gq44GECiMgU2VlOiAgaHR0cHM6Ly9naXRodWIuY29tL3ZveWFnZWdyb3VwL2ZsdWN0X2Z1bm5lbC9pc3N1ZXMvMTEzOQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICggaHYoJHVzZXJfcmVxLCAncicpICkgewogICAgICAgIHJldHVybiAkdXNlcl9yZXEtPntyfTsKICAgIH0gZWxzaWYgKCBodigkdXNlcl9yZXEsICdocmVmJykgKSB7CiAgICAgICAgcmV0dXJuICR1c2VyX3JlcS0+e2hyZWZ9OwogICAgfSBlbHNlIHsKICAgICAgICByZXR1cm4gOwogICAgfQoK</text>
+        <text encoding="base64">IiR7ZGF0YS50ZW1wbGF0ZV9maWxlLmhhc3RlX2NsZWFuZXJfZWNzX3Rhc2tfZGVmaW5pdGlvbnMucmVuZGVyZWR9Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -402,7 +406,6 @@
         <entry>146</entry>
         <entry>kkk;q</entry>
         <entry>q</entry>
-        <entry>vs</entry>
         <entry>213</entry>
         <entry>;w</entry>
         <entry>250</entry>
@@ -413,6 +416,7 @@
         <entry>191</entry>
         <entry>wq</entry>
         <entry>807</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
