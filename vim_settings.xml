@@ -20,12 +20,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/libraries/Fluct/AdnetworkReport/SpReport/Builder/ReportSpSqlBuilder.php" timestamp="1512108205741">
         <mark key="'" line="106" column="4" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1515484902552">
-        <mark key="'" line="43" column="39" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="3" />
-        <mark key="." line="53" column="3" />
-        <mark key="^" line="53" column="3" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1515486400566">
+        <mark key="'" line="49" column="44" />
+        <mark key="[" line="54" column="56" />
+        <mark key="]" line="54" column="61" />
+        <mark key="^" line="54" column="61" />
+        <mark key="." line="54" column="61" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1515484453063">
         <mark key="'" line="38" column="22" />
@@ -163,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
       <jump line="165" column="56" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
       <jump line="113" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
@@ -263,43 +262,44 @@
       <jump line="37" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
       <jump line="38" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
       <jump line="43" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
+      <jump line="49" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>-path</text>
+        <text>apiInfo</text>
       </register>
       <register name="/" type="4">
         <text>apiInfo</text>
       </register>
-      <register name="0" type="4">
-        <text>BufferLogger</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2NsaWVudFNlY3JldCcgPT4gJGNvbmZpZ1snYXBpJ11bJ2NsaWVudFNlY3JldCddLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKHNwcmludGYoJ3N0YXJ0ICVzIHNjcmFwaW5nIHVybDogJXMnLCAkdGhpcy0+Z2V0TmFtZSgpLCAkYXBpSW5mb1sndXJsJ10pKTsKICAgICAgICB0cnkgewogICAgICAgICAgICAkY2xpZW50ID0gbmV3IFJlcG9ydENsaWVudCgkZGF0ZSwgJGFwaUluZm8sICRsb2dnZXIpOwogICAgICAgICAgICAkcmVwb3J0RGF0YSA9IFJldHJ5OjpyZXRyeShmdW5jdGlvbiAoKSB1c2UgKCRjbGllbnQpIHsKICAgICAgICAgICAgICAgIHJldHVybiAkY2xpZW50LT5yZXF1ZXN0KCk7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgICBmaWxlX3B1dF9jb250ZW50cygkb3V0cHV0UGF0aCwgJHJlcG9ydERhdGEpOwogICAgICAgICAgICAkbG9nZ2VyLT5pbmZvKCdvdXRwdXQgZmlsZSBwYXRoOiAnLiAkb3V0cHV0UGF0aCk7CiAgICAgICAgICAgICRsb2dnZXItPmluZm8oJ291dHB1dCBsaW5lIGNvdW50IChpbmNsdWRpbmcgaGVhZGVycyk6ICcuIGNvdW50KGV4cGxvZGUoUEhQX0VPTCwgJHJlcG9ydERhdGEpKSk7CiAgICAgICAgfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICAkbG9nZ2VyLT5lcnJvcihzcHJpbnRmKCclcyBvbiBsaW5lICVzOiAlcycsICRlLT5nZXRGaWxlKCksICRlLT5nZXRMaW5lKCksICRlLT5nZXRNZXNzYWdlKCkpKTsKICAgICAgICAgICAgdGhyb3cgJGU7CiAgICAgICAgfQogICAgICAgICRsb2dnZXItPmluZm8oJHRpbWVyLT5nZXRSZXBvcnQoKSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gcmVhZENvbmYoJGNvbmZpZykKICAgIHsKICAgICAgICByZXR1cm4gW107CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpSW5mb1sna2V5J10gPSAkY29uZmlnWydhcGknXVsna2V5J107CiAgICAgICAgJGFwaUluZm9bJ3VybCddID0gJGNvbmZpZ1snYXBpJ11bJ3VybCddOwo=</text>
+        <text encoding="base64">ICAgICAgICAkYXBpQ29uZiA9ICR0aGlzLT5yZWFkQ29uZigkY29uZmlnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcSW5wdXRcSW5wdXRBcmd1bWVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKgogICAgaWYgKGhpc3Rvcmllcy5zaXplID09IDApCiAgICAgIHB1dHMgIumFjeS/oeavlOeOh+OBruiHquWLleacgOmBqeWMluOBjOihjOOCj+OCjOOBpuOBhOOBvuOBm+OCk1xcbiIKICAgICAgZXhpdCgwKQogICAgZW5kCiovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXBpSW5mbyA9IFsKICAgICAgICAgICAgJ2Jhc2VVcmwnID0+ICRjb25maWdbJ2FwaSddWyd1cmwnXSwKICAgICAgICAgICAgJ2FjY291bnQnID0+ICRjb25maWdbJ2FwaSddWydhY2NvdW50J10sCiAgICAgICAgICAgICdjbGllbnRJZCcgPT4gJGNvbmZpZ1snYXBpJ11bJ2NsaWVudElkJ10sCiAgICAgICAgICAgICdjbGllbnRTZWNyZXQnID0+ICRjb25maWdbJ2FwaSddWydjbGllbnRTZWNyZXQnXSwKICAgICAgICBdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VybCcgPT4gJGNvbmZpZ1snYXBpJ11bJ3VybCddLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50SWQgPSAkY29uZmlnWydhcGknXVsnY2xpZW50SWQnXTsKICAgICAgICAkY2xpZW50U2VjcmV0ID0gJGNvbmZpZ1snYXBpJ11bJ2NsaWVudFNlY3JldCddOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
