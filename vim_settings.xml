@@ -20,6 +20,16 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/libraries/Fluct/AdnetworkReport/SpReport/Builder/ReportSpSqlBuilder.php" timestamp="1512108205741">
         <mark key="'" line="106" column="4" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1515484902552">
+        <mark key="'" line="43" column="39" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="3" />
+        <mark key="." line="53" column="3" />
+        <mark key="^" line="53" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1515484453063">
+        <mark key="'" line="38" column="22" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" timestamp="1510562617689">
         <mark key="'" line="52" column="0" />
       </file>
@@ -92,6 +102,13 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="85" column="24" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Factory/LoggerFactory.php" timestamp="1515483870457">
+        <mark key="'" line="131" column="59" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/sync_linking_ad_units_with_dfp_api.py" timestamp="1513746127309">
         <mark key="'" line="0" column="0" />
       </file>
@@ -105,6 +122,12 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/app_dep.tf" timestamp="1510562504664">
         <mark key="'" line="63" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/Makefile" timestamp="1515484509292">
+        <mark key="[" line="20" column="108" />
+        <mark key="]" line="20" column="113" />
+        <mark key="^" line="20" column="113" />
+        <mark key="." line="20" column="113" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" timestamp="1513142300770">
         <mark key="'" line="0" column="0" />
@@ -140,16 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
-      <jump line="153" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
-      <jump line="96" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
-      <jump line="58" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
-      <jump line="156" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
-      <jump line="95" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
-      <jump line="82" column="68" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
-      <jump line="16" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
-      <jump line="181" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
-      <jump line="164" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
       <jump line="20" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
       <jump line="165" column="56" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/ecs.tf" />
       <jump line="113" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
@@ -240,59 +253,67 @@
       <jump line="56" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_tag_multiple_download.js" />
       <jump line="10" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_tag_multiple_download.js" />
       <jump line="104" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/odr/creative/list.tpl" />
+      <jump line="133" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Factory/LoggerFactory.php" />
+      <jump line="5" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Factory/LoggerFactory.php" />
+      <jump line="28" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Factory/LoggerFactory.php" />
+      <jump line="130" column="59" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Factory/LoggerFactory.php" />
+      <jump line="40" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
+      <jump line="55" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
+      <jump line="30" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="37" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="38" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="43" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>\</text>
+        <text>-path</text>
       </register>
       <register name="/" type="4">
-        <text>stop</text>
+        <text>apiInfo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1dHMgIumFjeS/oeavlOeOh+OBjOWkieabtOOBleOCjOOBvuOBl+OBn1xcbiIK</text>
+      <register name="0" type="4">
+        <text>BufferLogger</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ki8K</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKHNwcmludGYoJ3N0YXJ0ICVzIHNjcmFwaW5nIHVybDogJXMnLCAkdGhpcy0+Z2V0TmFtZSgpLCAkYXBpSW5mb1sndXJsJ10pKTsKICAgICAgICB0cnkgewogICAgICAgICAgICAkY2xpZW50ID0gbmV3IFJlcG9ydENsaWVudCgkZGF0ZSwgJGFwaUluZm8sICRsb2dnZXIpOwogICAgICAgICAgICAkcmVwb3J0RGF0YSA9IFJldHJ5OjpyZXRyeShmdW5jdGlvbiAoKSB1c2UgKCRjbGllbnQpIHsKICAgICAgICAgICAgICAgIHJldHVybiAkY2xpZW50LT5yZXF1ZXN0KCk7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgICBmaWxlX3B1dF9jb250ZW50cygkb3V0cHV0UGF0aCwgJHJlcG9ydERhdGEpOwogICAgICAgICAgICAkbG9nZ2VyLT5pbmZvKCdvdXRwdXQgZmlsZSBwYXRoOiAnLiAkb3V0cHV0UGF0aCk7CiAgICAgICAgICAgICRsb2dnZXItPmluZm8oJ291dHB1dCBsaW5lIGNvdW50IChpbmNsdWRpbmcgaGVhZGVycyk6ICcuIGNvdW50KGV4cGxvZGUoUEhQX0VPTCwgJHJlcG9ydERhdGEpKSk7CiAgICAgICAgfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICAkbG9nZ2VyLT5lcnJvcihzcHJpbnRmKCclcyBvbiBsaW5lICVzOiAlcycsICRlLT5nZXRGaWxlKCksICRlLT5nZXRMaW5lKCksICRlLT5nZXRNZXNzYWdlKCkpKTsKICAgICAgICAgICAgdGhyb3cgJGU7CiAgICAgICAgfQogICAgICAgICRsb2dnZXItPmluZm8oJHRpbWVyLT5nZXRSZXBvcnQoKSk7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICAkYXBpSW5mb1sna2V5J10gPSAkY29uZmlnWydhcGknXVsna2V5J107CiAgICAgICAgJGFwaUluZm9bJ3VybCddID0gJGNvbmZpZ1snYXBpJ11bJ3VybCddOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvKgogICAgaWYgKGhpc3Rvcmllcy5zaXplID09IDApCiAgICAgIHB1dHMgIumFjeS/oeavlOeOh+OBruiHquWLleacgOmBqeWMluOBjOihjOOCj+OCjOOBpuOBhOOBvuOBm+OCk1xcbiIKICAgICAgZXhpdCgwKQogICAgZW5kCiovCg==</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcSW5wdXRcSW5wdXRBcmd1bWVudDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKgogICAgaWYgKGhpc3Rvcmllcy5zaXplID09IDApCiAgICAgIHB1dHMgIumFjeS/oeavlOeOh+OBruiHquWLleacgOmBqeWMluOBjOihjOOCj+OCjOOBpuOBhOOBvuOBm+OCk1xcbiIKICAgICAgZXhpdCgwKQogICAgZW5kCiovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXR0cmlidXRlczogZmFsc2UsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stop</last-search>
+      <last-search>apiInfo</last-search>
       <last-offset />
-      <last-pattern>stop</last-pattern>
+      <last-pattern>apiInfo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>adx</entry>
-        <entry>fmt</entry>
         <entry>sorter</entry>
         <entry>group_tag</entry>
         <entry>changed</entry>
@@ -311,6 +332,8 @@
         <entry>削除</entry>
         <entry>MINI</entry>
         <entry>stop</entry>
+        <entry>BufferLogger</entry>
+        <entry>apiInfo</entry>
       </history-search>
       <history-cmd>
         <entry>144</entry>
