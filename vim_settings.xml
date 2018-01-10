@@ -159,22 +159,21 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" timestamp="1515570817166">
-        <mark key="'" line="8" column="8" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" timestamp="1515571557067">
+        <mark key="'" line="58" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_conf/pam_report/pam_tuning_config.yaml" timestamp="1514167329682">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/es.tf" timestamp="1515570876276">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="21" column="49" />
-        <mark key="^" line="21" column="59" />
-        <mark key="." line="21" column="59" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/es.tf" timestamp="1515571563547">
+        <mark key="[" line="20" column="58" />
+        <mark key="]" line="20" column="56" />
+        <mark key="." line="20" column="56" />
+        <mark key="^" line="20" column="56" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="69" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/api/v2/report/summary/weekly.py" />
@@ -274,6 +273,7 @@
       <jump line="43" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="49" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="8" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
+      <jump line="58" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -286,31 +286,31 @@
         <text>iam_role_haste_escleaner.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIke3Zhci5BV1NfUE9MSUNZX0FSTl9IQVNURV9FU19SRUFEX09OTFlfQUNDRVNTfSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAiQVdTIjogIiR7bW9kdWxlLmlhbV9yb2xlX2hhc3RlX2VzY2xlYW5lci5yb2xlX2Fybn0iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZW5kRGF0ZTsK</text>
+        <text encoding="base64">ICAgICIke3Zhci5BV1NfUE9MSUNZX0FSTl9IQVNURV9FU19SRUFEX09OTFlfQUNDRVNTfSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUmV0cnk6OnJldHJ544Gv5L6L5aSW44KS5o+h44KK44Gk44G244GZ44Gu44Gn44CB44GT44KM44Gg44Go5L6L5aSW44GM6LW344GN44Gm44KC44Ko44Op44O844GM5Ye644Gq44GE44Gu44Gn44GvPwo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZW5kRGF0ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnYWRyZXF1ZXN0cycsCiAgICAgICAgJ2F2YWlsYWJsZScsCiAgICAgICAgJ3N0YXJ0ZWQnLAogICAgICAgICd2aWV3cycsCiAgICAgICAgJ3JldmVudWUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUmV0cnk6OnJldHJ544Gv5L6L5aSW44KS5o+h44KK44Gk44G244GZ44Gu44Gn44CB44GT44KM44Gg44Go5L6L5aSW44GM6LW344GN44Gm44KC44Ko44Op44O844GM5Ye644Gq44GE44Gu44Gn44GvPwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkYmFzZVVybDsK</text>
+        <text encoding="base64">ICAgICAgICAnYWRyZXF1ZXN0cycsCiAgICAgICAgJ2F2YWlsYWJsZScsCiAgICAgICAgJ3N0YXJ0ZWQnLAogICAgICAgICd2aWV3cycsCiAgICAgICAgJ3JldmVudWUnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKCR0aW1lci0+Z2V0UmVwb3J0KCkpOwo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkYmFzZVVybDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKHNwcmludGYoJ3N0YXJ0ICVzJywgJHRoaXMtPmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKCR0aW1lci0+Z2V0UmVwb3J0KCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gcmVhZENvbmYoJGNvbmZpZykKICAgIHsKICAgICAgICByZXR1cm4gW107CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKHNwcmludGYoJ3N0YXJ0ICVzJywgJHRoaXMtPmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpQ29uZiA9ICR0aGlzLT5yZWFkQ29uZigkY29uZmlnKTsK</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gcmVhZENvbmYoJGNvbmZpZykKICAgIHsKICAgICAgICByZXR1cm4gW107CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
