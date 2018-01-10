@@ -27,10 +27,10 @@
         <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Maio/RewardedVideo/ReportScraper.php" timestamp="1515492137085" />
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1515492172008">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1515552143950">
         <mark key="'" line="36" column="22" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="47" column="44" />
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="47" />
         <mark key="." line="47" column="44" />
         <mark key="^" line="47" column="44" />
       </file>
@@ -266,8 +266,8 @@
       <register name="/" type="4">
         <text>apiInfo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkY2xpZW50Q29uZmlnOwo=</text>
+      <register name="0" type="4">
+        <text>https://github.com/taboola/Backstage-API</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gUmV0cnk6OnJldHJ544Gv5L6L5aSW44KS5o+h44KK44Gk44G244GZ44Gu44Gn44CB44GT44KM44Gg44Go5L6L5aSW44GM6LW344GN44Gm44KC44Ko44Op44O844GM5Ye644Gq44GE44Gu44Gn44GvPwo=</text>
