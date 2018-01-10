@@ -166,10 +166,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/es.tf" timestamp="1515571563547">
-        <mark key="[" line="20" column="58" />
-        <mark key="]" line="20" column="56" />
-        <mark key="." line="20" column="56" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/es.tf" timestamp="1515575490739">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
         <mark key="^" line="20" column="56" />
       </file>
     </filemarks>
@@ -277,13 +277,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>lambda</text>
+        <text>${module.iam_role_haste_lambda.role_arn}</text>
       </register>
       <register name="/" type="4">
         <text>apiInfo</text>
       </register>
-      <register name="0" type="4">
-        <text>iam_role_haste_escleaner.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgIkFjdGlvbiI6ICJlczoqIiwKICAgICAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgICAgICJQcmluY2lwYWwiOiB7CiAgICAgICAgIkFXUyI6ICIke21vZHVsZS5pYW1fcm9sZV9oYXN0ZV9sYW1iZGEucm9sZV9hcm59IgogICAgICB9LAogICAgICAiUmVzb3VyY2UiOiAiYXJuOmF3czplczoke3Zhci5BV1NfREVGQVVMVF9SRUdJT059OiR7dmFyLkFXU19BQ0NPVU5UX0lEX1NTUH06ZG9tYWluL2hhc3RlMDEvKiIKICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAiQVdTIjogIiR7bW9kdWxlLmlhbV9yb2xlX2hhc3RlX2VzY2xlYW5lci5yb2xlX2Fybn0iCg==</text>
