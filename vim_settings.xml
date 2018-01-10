@@ -27,12 +27,12 @@
         <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Maio/RewardedVideo/ReportScraper.php" timestamp="1515492137085" />
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1515552143950">
-        <mark key="'" line="36" column="22" />
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="47" />
-        <mark key="." line="47" column="44" />
-        <mark key="^" line="47" column="44" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1515560178354">
+        <mark key="'" line="35" column="22" />
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
+        <mark key="^" line="46" column="44" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/Maio/AggregateCommand.php" timestamp="1515490477285">
         <mark key="[" line="63" column="0" />
@@ -261,7 +261,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>beginDate</text>
+        <text>ddddd</text>
       </register>
       <register name="/" type="4">
         <text>apiInfo</text>
@@ -270,28 +270,28 @@
         <text>https://github.com/taboola/Backstage-API</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUmV0cnk6OnJldHJ544Gv5L6L5aSW44KS5o+h44KK44Gk44G244GZ44Gu44Gn44CB44GT44KM44Gg44Go5L6L5aSW44GM6LW344GN44Gm44KC44Ko44Op44O844GM5Ye644Gq44GE44Gu44Gn44GvPwo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZW5kRGF0ZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnYWRyZXF1ZXN0cycsCiAgICAgICAgJ2F2YWlsYWJsZScsCiAgICAgICAgJ3N0YXJ0ZWQnLAogICAgICAgICd2aWV3cycsCiAgICAgICAgJ3JldmVudWUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUmV0cnk6OnJldHJ544Gv5L6L5aSW44KS5o+h44KK44Gk44G244GZ44Gu44Gn44CB44GT44KM44Gg44Go5L6L5aSW44GM6LW344GN44Gm44KC44Ko44Op44O844GM5Ye644Gq44GE44Gu44Gn44GvPwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkYmFzZVVybDsK</text>
+        <text encoding="base64">ICAgICAgICAnYWRyZXF1ZXN0cycsCiAgICAgICAgJ2F2YWlsYWJsZScsCiAgICAgICAgJ3N0YXJ0ZWQnLAogICAgICAgICd2aWV3cycsCiAgICAgICAgJ3JldmVudWUnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKCR0aW1lci0+Z2V0UmVwb3J0KCkpOwo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkYmFzZVVybDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKHNwcmludGYoJ3N0YXJ0ICVzJywgJHRoaXMtPmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKCR0aW1lci0+Z2V0UmVwb3J0KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gcmVhZENvbmYoJGNvbmZpZykKICAgIHsKICAgICAgICByZXR1cm4gW107CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKHNwcmludGYoJ3N0YXJ0ICVzJywgJHRoaXMtPmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpQ29uZiA9ICR0aGlzLT5yZWFkQ29uZigkY29uZmlnKTsK</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gcmVhZENvbmYoJGNvbmZpZykKICAgIHsKICAgICAgICByZXR1cm4gW107CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXBpQ29uZiA9ICR0aGlzLT5yZWFkQ29uZigkY29uZmlnKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
