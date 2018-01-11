@@ -119,11 +119,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/sync_linking_ad_units_with_dfp_api.py" timestamp="1513746127309">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.tpl" timestamp="1514362148568">
-        <mark key="'" line="496" column="30" />
-        <mark key="[" line="73" column="11" />
-        <mark key="]" line="73" column="15" />
-      </file>
       <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/manifests/nodes/aws_ms_pre.pp" timestamp="1512029923307">
         <mark key="'" line="228" column="49" />
       </file>
@@ -135,6 +130,12 @@
         <mark key="]" line="20" column="113" />
         <mark key="^" line="20" column="113" />
         <mark key="." line="20" column="113" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/templates/ecs_cloud_config.tpl.yaml" timestamp="1515656266663">
+        <mark key="[" line="28" column="47" />
+        <mark key="]" line="28" column="48" />
+        <mark key="^" line="28" column="48" />
+        <mark key="." line="28" column="48" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" timestamp="1513142300770">
         <mark key="'" line="0" column="0" />
@@ -282,7 +283,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>E</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>apiInfo</text>
