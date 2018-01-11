@@ -80,7 +80,8 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/ecs_autoscale/ecs_cluster.tf" timestamp="1511773989526">
         <mark key="'" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/batch_ecs_cluster.tf" timestamp="1515570168239">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/batch_ecs_cluster.tf" timestamp="1515639736486">
+        <mark key="'" line="46" column="5" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -174,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="69" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/src/f.js" />
       <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/api/v2/report/summary/weekly.py" />
       <jump line="349" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/api/v2/report/summary/weekly.py" />
@@ -274,6 +274,7 @@
       <jump line="49" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="8" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
       <jump line="58" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
+      <jump line="46" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/batch_ecs_cluster.tf" />
     </jumps>
     <registers>
       <register name="-" type="4">
