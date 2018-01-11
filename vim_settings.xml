@@ -131,11 +131,11 @@
         <mark key="^" line="20" column="113" />
         <mark key="." line="20" column="113" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/templates/ecs_cloud_config.tpl.yaml" timestamp="1515656266663">
-        <mark key="[" line="28" column="47" />
-        <mark key="]" line="28" column="48" />
-        <mark key="^" line="28" column="48" />
-        <mark key="." line="28" column="48" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/templates/ecs_cloud_config.tpl.yaml" timestamp="1515659714249">
+        <mark key="[" line="39" column="88" />
+        <mark key="]" line="41" column="86" />
+        <mark key="^" line="41" column="86" />
+        <mark key="." line="41" column="86" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" timestamp="1513142300770">
         <mark key="'" line="0" column="0" />
