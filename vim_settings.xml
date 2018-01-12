@@ -83,12 +83,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/ecs_autoscale/ecs_cluster.tf" timestamp="1511773989526">
         <mark key="'" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/batch_ecs_cluster.tf" timestamp="1515661971881">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/batch_ecs_cluster.tf" timestamp="1515733760718">
         <mark key="'" line="46" column="5" />
-        <mark key="[" line="71" column="47" />
-        <mark key="]" line="71" column="52" />
-        <mark key="." line="71" column="52" />
-        <mark key="^" line="71" column="52" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="1" />
+        <mark key="." line="34" column="1" />
+        <mark key="^" line="34" column="1" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1514167300900">
         <mark key="'" line="152" column="0" />
@@ -131,9 +131,9 @@
         <mark key="^" line="20" column="113" />
         <mark key="." line="20" column="113" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/templates/ecs_cloud_config.tpl.yaml" timestamp="1515661937300">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/templates/ecs_cloud_config.tpl.yaml" timestamp="1515733430943">
         <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
+        <mark key="]" line="39" column="74" />
         <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" timestamp="1513142300770">
@@ -149,9 +149,9 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" timestamp="1511757639844">
         <mark key="'" line="103" column="24" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/templates/batch_ecs_cloud_config.tpl.yaml" timestamp="1515661948436">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/templates/batch_ecs_cloud_config.tpl.yaml" timestamp="1515733427096">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="74" />
         <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_site_bid_request_pb.erl" timestamp="1513243598095">
@@ -297,34 +297,34 @@
         <text>apiInfo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IFBBVEg9L1VzZXJzL3Mtc2FzYW1vdG8vc3JjL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfZnVubmVsL29yY2hlc3RyYXRpb24vdmVuZG9yL2JpbjokUEFUSApleHBvcnQgQVdTX0RFRkFVTFRfUkVHSU9OPWFwLW5vcnRoZWFzdC0xCmV4cG9ydCBBV1NfUkVHSU9OPWFwLW5vcnRoZWFzdC0xCmV4cG9ydCBBV1NfUFJPRklMRT1mbHVjdF9zc3AK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tZW52PUVDU19FTkFCTEVfVEFTS19JQU1fUk9MRT10cnVlIFwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tZW52PUVDU19FTkFCTEVfVEFTS19JQU1fUk9MRV9ORVRXT1JLX0hPU1Q9dHJ1ZSBcCg==</text>
+        <text encoding="base64">ICBdCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tbmV0PWhvc3QgXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tZW52PUVDU19FTkFCTEVfVEFTS19JQU1fUk9MRV9ORVRXT1JLX0hPU1Q9dHJ1ZSBcCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tZW52PUVDU19FTkFCTEVfVEFTS19JQU1fUk9MRT10cnVlIFwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tZW52PUVDU19FTkFCTEVfVEFTS19JQU1fUk9MRV9ORVRXT1JLX0hPU1Q9dHJ1ZSBcCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tbmV0PWhvc3QgXAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tZW52PUVDU19FTkFCTEVfVEFTS19JQU1fUk9MRT10cnVlIFwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tZW52PUVDU19FTkFCTEVfVEFTS19JQU1fUk9MRV9ORVRXT1JLX0hPU1Q9dHJ1ZSBcCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyaWFibGUgQVdTX1BPTElDWV9BUk5fRUNTX0hBU1RFX0VTX0ZVTExfQUNDRVNTIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tbmV0PWhvc3QgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gYW16bi1hbWktMjAxNy4wOS5mLWFtYXpvbi1lY3Mtb3B0aW1pemVkCg==</text>
+        <text encoding="base64">dmFyaWFibGUgQVdTX1BPTElDWV9BUk5fRUNTX0hBU1RFX0VTX0ZVTExfQUNDRVNTIHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuYW1lID0gIiIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Ly8gYW16bi1hbWktMjAxNy4wOS5mLWFtYXpvbi1lY3Mtb3B0aW1pemVkCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBuYW1lID0gIiIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBuYW1lID0gImFtem4tYW1pLTIwMTcuMDkuZi1hbWF6b24tZWNzLW9wdGltaXplZCIiIgo=</text>
+        <text encoding="base64">Ly8gYW16bi1hbWktMjAxNy4wOS5mLWFtYXpvbi1lY3Mtb3B0aW1pemVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
