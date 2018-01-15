@@ -9,28 +9,14 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/main.js" timestamp="1513926542297">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/config.yml" timestamp="1514167337783">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_bax/lib/php/OpenX/Client.php" timestamp="1513581837759">
-        <mark key="'" line="157" column="22" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/global.hcl" timestamp="1515647739131">
-        <mark key="[" line="175" column="23" />
-        <mark key="]" line="175" column="23" />
-        <mark key="^" line="175" column="23" />
-        <mark key="." line="175" column="23" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/libraries/Fluct/AdnetworkReport/SpReport/Builder/ReportSpSqlBuilder.php" timestamp="1512108205741">
-        <mark key="'" line="106" column="4" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1515492143663">
         <mark key="'" line="49" column="44" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
+        <mark key="'" line="205" column="53" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1515560178354">
         <mark key="'" line="35" column="22" />
@@ -42,13 +28,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/Maio/AggregateCommand.php" timestamp="1515490477285">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="124" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" timestamp="1515648709597">
-        <mark key="'" line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" timestamp="1510557550922">
-        <mark key="'" line="277" column="12" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_specter/scheduler.go" timestamp="1514272111664">
         <mark key="[" line="28" column="34" />
@@ -62,27 +41,6 @@
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" timestamp="1514361892995">
-        <mark key="'" line="464" column="20" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="537" column="0" />
-        <mark key="^" line="531" column="10" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" timestamp="1515993810052">
-        <mark key="'" line="195" column="42" />
-        <mark key="[" line="171" column="3" />
-        <mark key="]" line="171" column="23" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1512982114240">
-        <mark key="'" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/notify_odr_rotation_history/Makefile" timestamp="1515471791419">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/ecs_autoscale/ecs_cluster.tf" timestamp="1511773989526">
         <mark key="'" line="15" column="47" />
@@ -107,12 +65,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Google/AdxClient.php" timestamp="1512525113722">
         <mark key="'" line="76" column="62" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/cmd/header_tester.go" timestamp="1511757470816">
-        <mark key="'" line="98" column="17" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/adx.py" timestamp="1512536831404">
-        <mark key="'" line="70" column="17" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Factory/LoggerFactory.php" timestamp="1515483870457">
         <mark key="'" line="131" column="59" />
         <mark key="[" line="5" column="23" />
@@ -123,17 +75,83 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/sync_linking_ad_units_with_dfp_api.py" timestamp="1513746127309">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/sha1sum/aws_signing_client/client.go" timestamp="1515994961173">
-        <mark key="[" line="84" column="62" />
-        <mark key="]" line="85" column="9" />
-        <mark key="^" line="85" column="9" />
-        <mark key="." line="85" column="9" />
-      </file>
-      <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/manifests/nodes/aws_ms_pre.pp" timestamp="1512029923307">
-        <mark key="'" line="228" column="49" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/sha1sum/aws_signing_client/client.go" timestamp="1516002266241">
+        <mark key="'" line="64" column="35" />
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="6" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/app_dep.tf" timestamp="1510562504664">
         <mark key="'" line="63" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" timestamp="1511757639844">
+        <mark key="'" line="103" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/templates/batch_ecs_cloud_config.tpl.yaml" timestamp="1515733427096">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="74" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" timestamp="1515571557067">
+        <mark key="'" line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/config.yml" timestamp="1514167337783">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_bax/lib/php/OpenX/Client.php" timestamp="1513581837759">
+        <mark key="'" line="157" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/global.hcl" timestamp="1515647739131">
+        <mark key="[" line="175" column="23" />
+        <mark key="]" line="175" column="23" />
+        <mark key="^" line="175" column="23" />
+        <mark key="." line="175" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/libraries/Fluct/AdnetworkReport/SpReport/Builder/ReportSpSqlBuilder.php" timestamp="1512108205741">
+        <mark key="'" line="106" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" timestamp="1515648709597">
+        <mark key="'" line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" timestamp="1510557550922">
+        <mark key="'" line="277" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" timestamp="1514361892995">
+        <mark key="'" line="464" column="20" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="537" column="0" />
+        <mark key="^" line="531" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" timestamp="1515993810052">
+        <mark key="'" line="195" column="42" />
+        <mark key="[" line="171" column="3" />
+        <mark key="]" line="171" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1512982114240">
+        <mark key="'" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/notify_odr_rotation_history/Makefile" timestamp="1515471791419">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/cmd/header_tester.go" timestamp="1511757470816">
+        <mark key="'" line="98" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/adx.py" timestamp="1512536831404">
+        <mark key="'" line="70" column="17" />
+      </file>
+      <file name="/usr/local/go/src/log/log.go" timestamp="1516001779665">
+        <mark key="'" line="324" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/manifests/nodes/aws_ms_pre.pp" timestamp="1512029923307">
+        <mark key="'" line="228" column="49" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/Makefile" timestamp="1515484509292">
         <mark key="[" line="20" column="108" />
@@ -156,14 +174,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/Makefile" timestamp="1510808418294">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" timestamp="1511757639844">
-        <mark key="'" line="103" column="24" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/templates/batch_ecs_cloud_config.tpl.yaml" timestamp="1515733427096">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="74" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_site_bid_request_pb.erl" timestamp="1513243598095">
         <mark key="'" line="188" column="77" />
       </file>
@@ -183,9 +193,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" timestamp="1515571557067">
-        <mark key="'" line="58" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_conf/pam_report/pam_tuning_config.yaml" timestamp="1514167329682">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="23" />
@@ -198,31 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="449" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.tpl" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.tpl" />
-      <jump line="186" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.tpl" />
-      <jump line="183" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.tpl" />
-      <jump line="179" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="494" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="551" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="515" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.tpl" />
-      <jump line="63" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.tpl" />
-      <jump line="64" column="76" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.tpl" />
-      <jump line="37" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="38" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="39" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="40" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="41" column="31" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="44" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="66" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="478" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="30" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="31" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="43" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="61" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="69" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="592" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
       <jump line="594" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
       <jump line="62" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
       <jump line="63" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
@@ -298,61 +280,82 @@
       <jump line="169" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
       <jump line="171" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
       <jump line="195" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
+      <jump line="80" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/sha1sum/aws_signing_client/client.go" />
+      <jump line="316" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" />
+      <jump line="210" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" />
+      <jump line="211" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" />
+      <jump line="202" column="74" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" />
+      <jump line="203" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" />
+      <jump line="205" column="53" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" />
+      <jump line="262" column="4" filename="/usr/local/go/src/log/log.go" />
+      <jump line="263" column="10" filename="/usr/local/go/src/log/log.go" />
+      <jump line="264" column="4" filename="/usr/local/go/src/log/log.go" />
+      <jump line="269" column="11" filename="/usr/local/go/src/log/log.go" />
+      <jump line="274" column="4" filename="/usr/local/go/src/log/log.go" />
+      <jump line="279" column="11" filename="/usr/local/go/src/log/log.go" />
+      <jump line="284" column="4" filename="/usr/local/go/src/log/log.go" />
+      <jump line="292" column="4" filename="/usr/local/go/src/log/log.go" />
+      <jump line="298" column="4" filename="/usr/local/go/src/log/log.go" />
+      <jump line="304" column="4" filename="/usr/local/go/src/log/log.go" />
+      <jump line="309" column="4" filename="/usr/local/go/src/log/log.go" />
+      <jump line="315" column="4" filename="/usr/local/go/src/log/log.go" />
+      <jump line="321" column="4" filename="/usr/local/go/src/log/log.go" />
+      <jump line="328" column="4" filename="/usr/local/go/src/log/log.go" />
+      <jump line="335" column="4" filename="/usr/local/go/src/log/log.go" />
+      <jump line="73" column="0" filename="/usr/local/go/src/log/log.go" />
+      <jump line="324" column="0" filename="/usr/local/go/src/log/log.go" />
+      <jump line="63" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/sha1sum/aws_signing_client/client.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/</text>
+        <text>ioutil.Discard</text>
       </register>
       <register name="/" type="4">
-        <text>Healthcheck</text>
+        <text>std</text>
       </register>
-      <register name="0" type="4">
-        <text>SetHealthcheck(false)</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlsb2dnZXI6ICAgIGxvZy5OZXcoaW91dGlsLkRpc2NhcmQsICIiLCAwKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJlcS5VUkwuU2NoZW1lID0gImh0dHAiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIGh0dHBz5Zu65a6a44Gk44KJ44GECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhbHVlLCBlcnIgOj0gc2Vzcy5Db25maWcuQ3JlZGVudGlhbHMuR2V0KCkKCS8vIGZtdC5QcmludGYoIiV2XG4iLCB2YWx1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIGVjMm0gOj0gZWMybWV0YWRhdGEuTmV3KHNlc3MpCgkvLyBjciA6PSBjcmVkZW50aWFscy5OZXdDcmVkZW50aWFscygmZWMycm9sZWNyZWRzLkVDMlJvbGVQcm92aWRlcnsKCS8vIAlDbGllbnQ6IGVjMm0sCgkvLyB9KQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNsaWVudCA6PSAmaHR0cC5DbGllbnR7fQo=</text>
+        <text encoding="base64">CXZhbHVlLCBlcnIgOj0gc2Vzcy5Db25maWcuQ3JlZGVudGlhbHMuR2V0KCkKCS8vIGZtdC5QcmludGYoIiV2XG4iLCB2YWx1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWNyIDo9IGNyZWRlbnRpYWxzLk5ld0NyZWRlbnRpYWxzKCZlYzJyb2xlY3JlZHMuRUMyUm9sZVByb3ZpZGVyewogICAgICAgIENsaWVudDogZWMybSwKICAgIH0pCgoJLyoKCXZhbHVlLCBlcnIgOj0gc2Vzcy5Db25maWcuQ3JlZGVudGlhbHMuR2V0KCkKCWZtdC5QcmludGYoIiV2XG4iLCB2YWx1ZSkKCglzaWduZXIgOj0gdjQuTmV3U2lnbmVyKGNyZWRlbnRpYWxzLk5ld1N0YXRpY0NyZWRlbnRpYWxzKHZhbHVlKSkKCS8vc2lnbmVyIDo9IHY0Lk5ld1NpZ25lcihlYzJyb2xlY3JlZHMuTmV3Q3JlZGVudGlhbHMoKSkKCWF3c0NsaWVudCwgZXJyIDo9IGF3c19zaWduaW5nX2NsaWVudC5OZXcoc2lnbmVyLCBuaWwsICJlcyIsIGNvbmYuUmVnaW9uKQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuIG5pbCwgZXJyCgl9CgkqLwo=</text>
+        <text encoding="base64">CS8vIGVjMm0gOj0gZWMybWV0YWRhdGEuTmV3KHNlc3MpCgkvLyBjciA6PSBjcmVkZW50aWFscy5OZXdDcmVkZW50aWFscygmZWMycm9sZWNyZWRzLkVDMlJvbGVQcm92aWRlcnsKCS8vIAlDbGllbnQ6IGVjMm0sCgkvLyB9KQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNyIDo9IGNyZWRlbnRpYWxzLk5ld0NyZWRlbnRpYWxzKCZlYzJyb2xlY3JlZHMuRUMyUm9sZVByb3ZpZGVyewogICAgICAgIENsaWVudDogZWMybSwKICAgIH0pCgoJLyoKCXZhbHVlLCBlcnIgOj0gc2Vzcy5Db25maWcuQ3JlZGVudGlhbHMuR2V0KCkKCWZtdC5QcmludGYoIiV2XG4iLCB2YWx1ZSkKCglzaWduZXIgOj0gdjQuTmV3U2lnbmVyKGNyZWRlbnRpYWxzLk5ld1N0YXRpY0NyZWRlbnRpYWxzKHZhbHVlKSkKCS8vc2lnbmVyIDo9IHY0Lk5ld1NpZ25lcihlYzJyb2xlY3JlZHMuTmV3Q3JlZGVudGlhbHMoKSkKCWF3c0NsaWVudCwgZXJyIDo9IGF3c19zaWduaW5nX2NsaWVudC5OZXcoc2lnbmVyLCBuaWwsICJlcyIsIGNvbmYuUmVnaW9uKQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuIG5pbCwgZXJyCgl9CgkqLwo=</text>
+        <text encoding="base64">CWNsaWVudCA6PSAmaHR0cC5DbGllbnR7fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlMb2dMZXZlbDogYXdzLkxvZ0xldmVsKGF3cy5Mb2dEZWJ1Z1dpdGhIVFRQQm9keSksCgkJQ3JlZGVudGlhbHNDaGFpblZlcmJvc2VFcnJvcnM6IGF3cy5Cb29sKHRydWUpLAo=</text>
+        <text encoding="base64">CWNyIDo9IGNyZWRlbnRpYWxzLk5ld0NyZWRlbnRpYWxzKCZlYzJyb2xlY3JlZHMuRUMyUm9sZVByb3ZpZGVyewogICAgICAgIENsaWVudDogZWMybSwKICAgIH0pCgoJLyoKCXZhbHVlLCBlcnIgOj0gc2Vzcy5Db25maWcuQ3JlZGVudGlhbHMuR2V0KCkKCWZtdC5QcmludGYoIiV2XG4iLCB2YWx1ZSkKCglzaWduZXIgOj0gdjQuTmV3U2lnbmVyKGNyZWRlbnRpYWxzLk5ld1N0YXRpY0NyZWRlbnRpYWxzKHZhbHVlKSkKCS8vc2lnbmVyIDo9IHY0Lk5ld1NpZ25lcihlYzJyb2xlY3JlZHMuTmV3Q3JlZGVudGlhbHMoKSkKCWF3c0NsaWVudCwgZXJyIDo9IGF3c19zaWduaW5nX2NsaWVudC5OZXcoc2lnbmVyLCBuaWwsICJlcyIsIGNvbmYuUmVnaW9uKQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuIG5pbCwgZXJyCgl9CgkqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQllbGFzdGljLlNldEh0dHBDbGllbnQoYXdzQ2xpZW50KSwK</text>
+        <text encoding="base64">CWNyIDo9IGNyZWRlbnRpYWxzLk5ld0NyZWRlbnRpYWxzKCZlYzJyb2xlY3JlZHMuRUMyUm9sZVByb3ZpZGVyewogICAgICAgIENsaWVudDogZWMybSwKICAgIH0pCgoJLyoKCXZhbHVlLCBlcnIgOj0gc2Vzcy5Db25maWcuQ3JlZGVudGlhbHMuR2V0KCkKCWZtdC5QcmludGYoIiV2XG4iLCB2YWx1ZSkKCglzaWduZXIgOj0gdjQuTmV3U2lnbmVyKGNyZWRlbnRpYWxzLk5ld1N0YXRpY0NyZWRlbnRpYWxzKHZhbHVlKSkKCS8vc2lnbmVyIDo9IHY0Lk5ld1NpZ25lcihlYzJyb2xlY3JlZHMuTmV3Q3JlZGVudGlhbHMoKSkKCWF3c0NsaWVudCwgZXJyIDo9IGF3c19zaWduaW5nX2NsaWVudC5OZXcoc2lnbmVyLCBuaWwsICJlcyIsIGNvbmYuUmVnaW9uKQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuIG5pbCwgZXJyCgl9CgkqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Healthcheck</last-search>
+      <last-search>std</last-search>
       <last-offset />
-      <last-pattern>Healthcheck</last-pattern>
+      <last-pattern>std</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>name_filter</entry>
-        <entry>input</entry>
-        <entry>lick</entry>
-        <entry>.co</entry>
         <entry>\.co</entry>
         <entry>\.wk</entry>
         <entry>checked</entry>
@@ -369,6 +372,10 @@
         <entry>ErrNoClient</entry>
         <entry>HealthCheck</entry>
         <entry>Healthcheck</entry>
+        <entry>NewSign</entry>
+        <entry>option</entry>
+        <entry>Stdout</entry>
+        <entry>std</entry>
       </history-search>
       <history-cmd>
         <entry>181</entry>
