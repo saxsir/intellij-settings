@@ -75,7 +75,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/sync_linking_ad_units_with_dfp_api.py" timestamp="1513746127309">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/sha1sum/aws_signing_client/client.go" timestamp="1516002266241">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/sha1sum/aws_signing_client/client.go" timestamp="1516004818856">
         <mark key="'" line="64" column="35" />
         <mark key="[" line="3" column="14" />
         <mark key="]" line="4" column="6" />
@@ -205,10 +205,9 @@
         <mark key="^" line="20" column="56" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" timestamp="1516003852825">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="37" column="74" />
-        <mark key="." line="57" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
     </filemarks>
     <jumps>
