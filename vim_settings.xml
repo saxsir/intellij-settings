@@ -106,6 +106,12 @@
         <mark key="^" line="883" column="73" />
         <mark key="." line="883" column="73" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/get_site_of_page_url.t" timestamp="1516268782054">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="26" column="4" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/config.yml" timestamp="1514167337783">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -320,13 +326,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>http://example.com/test2</text>
       </register>
       <register name="/" type="4">
         <text>空文字がrf</text>
       </register>
-      <register name="0" type="4">
-        <text>空文字がrf</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlzKGdldF9zaXRlX29mX3BhZ2VfdXJsKFwlcmVxKSwgJ2h0dHA6Ly9leGFtcGxlLmNvbS90ZXN0MicpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
