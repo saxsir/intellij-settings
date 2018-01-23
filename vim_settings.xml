@@ -172,6 +172,9 @@
       <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/manifests/nodes/aws_ms_pre.pp" timestamp="1516154692323">
         <mark key="'" line="228" column="49" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Ameba/ImportSpCommand.php" timestamp="1516685618172">
+        <mark key="'" line="130" column="9" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/Makefile" timestamp="1515484509292">
         <mark key="[" line="20" column="108" />
         <mark key="]" line="20" column="113" />
@@ -223,12 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="112" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="84" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="499" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.tpl" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.tpl" />
-      <jump line="11" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
       <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
       <jump line="464" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
       <jump line="43" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_tag_multiple_download.js" />
@@ -323,13 +320,19 @@
       <jump line="879" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
       <jump line="781" column="59" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
       <jump line="886" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
+      <jump line="33" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Ameba/ImportSpCommand.php" />
+      <jump line="55" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Ameba/ImportSpCommand.php" />
+      <jump line="58" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Ameba/ImportSpCommand.php" />
+      <jump line="128" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Ameba/ImportSpCommand.php" />
+      <jump line="136" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Ameba/ImportSpCommand.php" />
+      <jump line="130" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Ameba/ImportSpCommand.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>http://example.com/test2</text>
       </register>
       <register name="/" type="4">
-        <text>空文字がrf</text>
+        <text>isFixed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlzKGdldF9zaXRlX29mX3BhZ2VfdXJsKFwlcmVxKSwgJ2h0dHA6Ly9leGFtcGxlLmNvbS90ZXN0MicpOwo=</text>
@@ -366,16 +369,14 @@
       </register>
     </registers>
     <search>
-      <last-search>空文字がrf</last-search>
+      <last-search>isFixed</last-search>
       <last-offset />
-      <last-pattern>空文字がrf</last-pattern>
+      <last-pattern>isFixed</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>削除</entry>
-        <entry>MINI</entry>
         <entry>stop</entry>
         <entry>BufferLogger</entry>
         <entry>apiInfo</entry>
@@ -394,6 +395,8 @@
         <entry>FindByUnitName</entry>
         <entry>OpenPricingRuleEditPage</entry>
         <entry>空文字がrf</entry>
+        <entry>fixed</entry>
+        <entry>isFixed</entry>
       </history-search>
       <history-cmd>
         <entry>104</entry>
