@@ -143,8 +143,8 @@
         <mark key="." line="537" column="0" />
         <mark key="^" line="531" column="10" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" timestamp="1515993810052">
-        <mark key="'" line="195" column="42" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" timestamp="1517205469560">
+        <mark key="'" line="1402" column="3" />
         <mark key="[" line="171" column="3" />
         <mark key="]" line="171" column="23" />
       </file>
@@ -219,24 +219,14 @@
         <mark key="." line="28" column="16" />
         <mark key="^" line="20" column="56" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" timestamp="1516003852825">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" timestamp="1517206015488">
+        <mark key="'" line="33" column="13" />
+        <mark key="[" line="116" column="36" />
+        <mark key="]" line="116" column="36" />
+        <mark key="." line="116" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="464" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_tag_multiple_download.js" />
-      <jump line="496" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.tpl" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_tag_multiple_download.js" />
-      <jump line="50" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_tag_multiple_download.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_tag_multiple_download.js" />
-      <jump line="56" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_tag_multiple_download.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_tag_multiple_download.js" />
-      <jump line="104" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/odr/creative/list.tpl" />
-      <jump line="133" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Factory/LoggerFactory.php" />
       <jump line="5" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Factory/LoggerFactory.php" />
       <jump line="28" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Factory/LoggerFactory.php" />
       <jump line="130" column="59" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Factory/LoggerFactory.php" />
@@ -326,59 +316,68 @@
       <jump line="128" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Ameba/ImportSpCommand.php" />
       <jump line="136" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Ameba/ImportSpCommand.php" />
       <jump line="130" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Ameba/ImportSpCommand.php" />
+      <jump line="187" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
+      <jump line="1290" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
+      <jump line="1291" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
+      <jump line="1294" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
+      <jump line="1402" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
+      <jump line="28" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
+      <jump line="35" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
+      <jump line="113" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
+      <jump line="117" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
+      <jump line="115" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
+      <jump line="33" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>http://example.com/test2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>isFixed</text>
+        <text>DeleteIndex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlzKGdldF9zaXRlX29mX3BhZ2VfdXJsKFwlcmVxKSwgJ2h0dHA6Ly9leGFtcGxlLmNvbS90ZXN0MicpOwo=</text>
+        <text encoding="base64">ZnVuYyAoYyAqQ2xpZW50KSBJbmRleEV4aXN0cyhjdHggY29udGV4dC5Db250ZXh0LCBpbmRleCBzdHJpbmcpIChib29sLCBlcnJvcikgewoJcmV0dXJuIGMuZXMuSW5kZXhFeGlzdHMoaW5kZXgpLkRvKGN0eCkKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICggbXkgJHBhZ2UgPSBnZXRfc2l0ZV9vZl9wYWdlX3VybCgkdXNlcl9yZXEpICkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICggbXkgJHBhZ2UgPSBnZXRfc2l0ZV9vZl9wYWdlX3VybCgkdXNlcl9yZXEpICkgewo=</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWlmIGxlbihkZnBFbGVtZW50cykgPT0gMCAmJiBsZW4oYWR4RWxlbWVudHMpID09IDEgewoJCXJldHVybiBhZHhTZWxlY3Rpb25zLkF0KDApLCBuaWwKCX0K</text>
+        <text encoding="base64">CXJldHVybiByLkFja25vd2xlZGdlZCwgbmlsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWFkeEVsZW1lbnRzLCBlcnIgOj0gYWR4U2VsZWN0aW9ucy5FbGVtZW50cygpCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gbmlsLCBlcnIKCX0K</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBmYWxzZSwgZXJyCgl9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWFkeFNlbGVjdGlvbnMgOj0gcy5wYWdlLkFsbEJ5WFBhdGgoZm10LlNwcmludGYoUlVMRV9ET01fQURYX1hQQVRILCB1bml0TmFtZSkpCg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL3NwZjEzL2FmZXJvIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CglBY2tub3dsZWRnZWQKCXJldHVybgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isFixed</last-search>
+      <last-search>DeleteIndex</last-search>
       <last-offset />
-      <last-pattern>isFixed</last-pattern>
+      <last-pattern>DeleteIndex</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>stop</entry>
-        <entry>BufferLogger</entry>
         <entry>apiInfo</entry>
         <entry>no elastic</entry>
         <entry>no new</entry>
@@ -397,9 +396,10 @@
         <entry>空文字がrf</entry>
         <entry>fixed</entry>
         <entry>isFixed</entry>
+        <entry>Delete</entry>
+        <entry>DeleteIndex</entry>
       </history-search>
       <history-cmd>
-        <entry>104</entry>
         <entry>146</entry>
         <entry>kkk;q</entry>
         <entry>213</entry>
@@ -418,6 +418,7 @@
         <entry>232</entry>
         <entry>212</entry>
         <entry>780</entry>
+        <entry>116</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
