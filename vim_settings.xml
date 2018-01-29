@@ -219,11 +219,12 @@
         <mark key="." line="28" column="16" />
         <mark key="^" line="20" column="56" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" timestamp="1517206015488">
-        <mark key="'" line="33" column="13" />
-        <mark key="[" line="116" column="36" />
-        <mark key="]" line="116" column="36" />
-        <mark key="." line="116" column="36" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" timestamp="1517208045989">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="117" column="40" />
+        <mark key="]" line="118" column="5" />
+        <mark key="." line="118" column="5" />
+        <mark key="^" line="118" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -324,9 +325,9 @@
       <jump line="28" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
       <jump line="35" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
       <jump line="113" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
-      <jump line="117" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
       <jump line="115" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
       <jump line="33" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
+      <jump line="117" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -338,32 +339,32 @@
       <register name="0" type="2">
         <text encoding="base64">ZnVuYyAoYyAqQ2xpZW50KSBJbmRleEV4aXN0cyhjdHggY29udGV4dC5Db250ZXh0LCBpbmRleCBzdHJpbmcpIChib29sLCBlcnJvcikgewoJcmV0dXJuIGMuZXMuSW5kZXhFeGlzdHMoaW5kZXgpLkRvKGN0eCkKfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">CglpZiBlcnIgOj0gY2xpZW50LkRlbGV0ZUluZGV4KGNvbnRleHQuQmFja2dyb3VuZCgpLCBjb25mLkluZGV4KTsgZXJyICE9IG5pbCB7CgkJbG9nLkZhdGFsKGVycikKCX0KCglsb2cuUHJpbnRmKCJkZWxldGUgaW5kZXggc3VjY2VlZFxuIik=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
+        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJldHVybiByLkFja25vd2xlZGdlZCwgbmlsCg==</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBmYWxzZSwgZXJyCgl9Cgo=</text>
+        <text encoding="base64">CXJldHVybiByLkFja25vd2xlZGdlZCwgbmlsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3NwZjEzL2FmZXJvIgo=</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBmYWxzZSwgZXJyCgl9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CglBY2tub3dsZWRnZWQKCXJldHVybgo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL3NwZjEzL2FmZXJvIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CglBY2tub3dsZWRnZWQKCXJldHVybgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
