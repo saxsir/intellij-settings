@@ -30,6 +30,11 @@
         <mark key="." line="52" column="70" />
         <mark key="^" line="52" column="75" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Outbrain/login.proc" timestamp="1517878414375">
+        <mark key="'" line="51" column="38" />
+        <mark key="[" line="57" column="20" />
+        <mark key="]" line="57" column="66" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_specter/scheduler.go" timestamp="1514272111664">
         <mark key="[" line="28" column="34" />
         <mark key="]" line="28" column="35" />
@@ -246,9 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
-      <jump line="55" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
-      <jump line="30" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
       <jump line="37" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
       <jump line="38" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
       <jump line="43" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
@@ -346,16 +348,19 @@
       <jump line="11" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/Makefile" />
       <jump line="32" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/Makefile" />
       <jump line="53" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="62" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Outbrain/login.proc" />
+      <jump line="68" column="51" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Outbrain/login.proc" />
+      <jump line="51" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Outbrain/login.proc" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>DeleteIndex</text>
+        <text>dashboard</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWyfjgrnjg4bjg7zjgr/jgrk0MDDjga/nlbDluLjjgajjgb/jgarjgZfjgabkvovlpJbjgajjgarjgosnLCA0MDAsIG5ldyBcRXhjZXB0aW9uKCldLAo=</text>
+      <register name="0" type="4">
+        <text>document.getElementsByClassName('engage-page').</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -389,15 +394,14 @@
       </register>
     </registers>
     <search>
-      <last-search>DeleteIndex</last-search>
+      <last-search>dashboard</last-search>
       <last-offset />
-      <last-pattern>DeleteIndex</last-pattern>
+      <last-pattern>dashboard</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>apiInfo</entry>
         <entry>no elastic</entry>
         <entry>no new</entry>
         <entry>no Elastic</entry>
@@ -417,6 +421,7 @@
         <entry>isFixed</entry>
         <entry>Delete</entry>
         <entry>DeleteIndex</entry>
+        <entry>dashboard</entry>
       </history-search>
       <history-cmd>
         <entry>146</entry>
