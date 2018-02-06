@@ -30,10 +30,12 @@
         <mark key="." line="52" column="70" />
         <mark key="^" line="52" column="75" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Outbrain/login.proc" timestamp="1517878414375">
-        <mark key="'" line="51" column="38" />
-        <mark key="[" line="57" column="20" />
-        <mark key="]" line="57" column="66" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Outbrain/login.proc" timestamp="1517885491879">
+        <mark key="'" line="53" column="38" />
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="147" />
+        <mark key="^" line="6" column="147" />
+        <mark key="." line="6" column="147" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_specter/scheduler.go" timestamp="1514272111664">
         <mark key="[" line="28" column="34" />
@@ -354,7 +356,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>=</text>
+        <text>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36</text>
       </register>
       <register name="/" type="4">
         <text>dashboard</text>
