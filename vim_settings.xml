@@ -23,6 +23,9 @@
         <mark key="]" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/ads_txt.py" timestamp="1518057405961">
+        <mark key="'" line="39" column="20" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1517394702405">
         <mark key="'" line="40" column="32" />
         <mark key="[" line="52" column="70" />
@@ -42,10 +45,10 @@
         <mark key="]" line="28" column="35" />
         <mark key="." line="28" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/update_dynamic_allocation.py" timestamp="1518056221518">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="12" />
-        <mark key="." line="26" column="12" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/update_dynamic_allocation.py" timestamp="1518057554167">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="6" column="44" />
+        <mark key="." line="6" column="44" />
         <mark key="^" line="26" column="12" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_tag.tpl" timestamp="1514356287920">
@@ -203,11 +206,6 @@
         <mark key="." line="537" column="0" />
         <mark key="^" line="531" column="10" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" timestamp="1517205469560">
-        <mark key="'" line="1402" column="3" />
-        <mark key="[" line="171" column="3" />
-        <mark key="]" line="171" column="23" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1512982114240">
         <mark key="'" line="15" column="0" />
       </file>
@@ -219,6 +217,12 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/deleterules/deleterules.go" timestamp="1516081035542">
         <mark key="'" line="112" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/update_dynamic_allocation.py" timestamp="1518057539994">
+        <mark key="'" line="16" column="34" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/cmd/header_tester.go" timestamp="1511757470816">
         <mark key="'" line="98" column="17" />
@@ -287,8 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
-      <jump line="58" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
       <jump line="46" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/batch_ecs_cluster.tf" />
       <jump line="6" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" />
       <jump line="120" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" />
@@ -387,10 +389,12 @@
       <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/batch/update_dynamic_allocation/settings.py" />
       <jump line="0" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/batch/update_dynamic_allocation/settings.py" />
       <jump line="28" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/update_line_items.py" />
+      <jump line="39" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/ads_txt.py" />
+      <jump line="17" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/update_dynamic_allocation.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>read_csv</text>
+        <text>csv2seed</text>
       </register>
       <register name="/" type="4">
         <text>dashboard</text>
@@ -402,28 +406,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZCA9IHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKHNlbGYub3B0cy5pbnB1dCwgJ3InKSBhcyBmOgogICAgcmVhZGVyID0gY3N2LnJlYWRlcihmKQogICAgbmV4dChyZWFkZXIpICAjIHNraXAgaGVhZGVyCiAgICBmb3Igcm93IGluIHJlYWRlcjoKICAgICAgICB0cnk6CiAgICAgICAgICAgIGZyYWdtZW50ID0gdXJscGFyc2UudXJscGFyc2Uocm93WzBdKVs1XQogICAgICAgICAgICBsaW5lX2l0ZW1faWQgPSBpbnQocmUuc3ViKCcuKmxpbmVJdGVtSWQ9JywgJycsIGZyYWdtZW50KSkKICAgICAgICAgICAgcHJpY2UgPSBpbnQocm93WzFdKQogICAgICAgICAgICBkW2xpbmVfaXRlbV9pZF0gPSBwcmljZQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdpbnZhbGlkIHJvdyBvbiBsaW5lICVzOiAlcycsIHJlYWRlci5saW5lX251bSwgZSkKICAgICAgICAgICAgcmV0dXJuCgo=</text>
+        <text encoding="base64">Y2xhCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgTGluZUl0ZW1TZXR0aW5nKCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -477,8 +481,8 @@
         <entry>212</entry>
         <entry>780</entry>
         <entry>116</entry>
-        <entry>vs</entry>
         <entry>q</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
