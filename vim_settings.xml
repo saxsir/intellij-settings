@@ -42,6 +42,12 @@
         <mark key="]" line="28" column="35" />
         <mark key="." line="28" column="35" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/update_dynamic_allocation.py" timestamp="1518056221518">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="12" />
+        <mark key="." line="26" column="12" />
+        <mark key="^" line="26" column="12" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_tag.tpl" timestamp="1514356287920">
         <mark key="'" line="17" column="32" />
       </file>
@@ -59,6 +65,12 @@
         <mark key="]" line="2" column="46" />
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/batch/update_dynamic_allocation/csv_reader.py" timestamp="1518056258352">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/ecs_autoscale/ecs_cluster.tf" timestamp="1511773989526">
         <mark key="'" line="15" column="47" />
@@ -179,7 +191,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" timestamp="1510557550922">
         <mark key="'" line="277" column="12" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/conf.py" timestamp="1517984274498">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/conf.py" timestamp="1518054976816">
         <mark key="'" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -378,7 +390,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>p</text>
+        <text>read_csv</text>
       </register>
       <register name="/" type="4">
         <text>dashboard</text>
@@ -387,31 +399,31 @@
         <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oc2VsZi5vcHRzLmlucHV0LCAncicpIGFzIGY6CiAgICAgICAgICAgIHJlYWRlciA9IGNzdi5yZWFkZXIoZikKICAgICAgICAgICAgbmV4dChyZWFkZXIpICMgc2tpcCBoZWFkZXIKCiAgICAgICAgICAgIGZvciByb3cgaW4gcmVhZGVyOgogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIGxpbmVfaXRlbV9pZCA9IGludChyb3dbMF0pCiAgICAgICAgICAgICAgICAgICAgcHJpY2UgPSBpbnQocm93IFsxXSkKICAgICAgICAgICAgICAgICAgICBkW2xpbmVfaXRlbV9pZF0gPSBwcmljZQogICAgICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcignaW52YWxpZCByb3cgb24gbGluZSAlczogJXMgJXMnLCByZWFkZXIubGluZV9udW0sIHJvdywgZSkKICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmbHVjdC5iYXRjaC51cGRhdGVfZHluYW1pY19hbGxvY2F0aW9uLnNldHRpbmdzIGltcG9ydCBsb2FkQ3N2Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KCmltcG9ydCBjc3YKCgpkZWYgbG9hZENzdihmaWxlUGF0aCk6CiAgICB3aXRoIG9wZW4oZmlsZVBhdGgsICdyJykgYXMgZjoKICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGYpCiAgICAgICAgbmV4dChyZWFkZXIpICAjIHNraXAgaGVhZGVyCgogICAgICAgIGQgPSB7fQogICAgICAgIGZvciByb3cgaW4gcmVhZGVyOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBsaW5lX2l0ZW1faWQgPSBpbnQocm93WzBdKQogICAgICAgICAgICAgICAgcHJpY2UgPSBpbnQocm93WzFdKQogICAgICAgICAgICAgICAgZFtsaW5lX2l0ZW1faWRdID0gcHJpY2UKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgcmV0dXJuIGUKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcignaW52YWxpZCByb3cgb24gbGluZSAlczogJXMgJXMnLCByZWFkZXIubGluZV9udW0sIHJvdywgZSkKICAgICAgICAgICAgICAgIHJldHVybgoKICAgIHJldHVybiBkCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIEZyb20K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZCA9IHt9Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgU2V0dGluZ3MoKToK</text>
+        <text encoding="base64">ICAgIHJldHVybiB7fQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2l0aCBvcGVuKHNlbGYub3B0cy5pbnB1dCwgJ3InKSBhcyBmOgogICAgcmVhZGVyID0gY3N2LnJlYWRlcihmKQogICAgbmV4dChyZWFkZXIpICAjIHNraXAgaGVhZGVyCiAgICBmb3Igcm93IGluIHJlYWRlcjoKICAgICAgICB0cnk6CiAgICAgICAgICAgIGZyYWdtZW50ID0gdXJscGFyc2UudXJscGFyc2Uocm93WzBdKVs1XQogICAgICAgICAgICBsaW5lX2l0ZW1faWQgPSBpbnQocmUuc3ViKCcuKmxpbmVJdGVtSWQ9JywgJycsIGZyYWdtZW50KSkKICAgICAgICAgICAgcHJpY2UgPSBpbnQocm93WzFdKQogICAgICAgICAgICBkW2xpbmVfaXRlbV9pZF0gPSBwcmljZQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdpbnZhbGlkIHJvdyBvbiBsaW5lICVzOiAlcycsIHJlYWRlci5saW5lX251bSwgZSkKICAgICAgICAgICAgcmV0dXJuCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgU2V0dGluZ3MoKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqZmlsZSk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCg==</text>
+        <text encoding="base64">Y2xhc3MgTGluZUl0ZW1TZXR0aW5nKCk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -460,13 +472,13 @@
         <entry>191</entry>
         <entry>807</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>41</entry>
         <entry>232</entry>
         <entry>212</entry>
         <entry>780</entry>
         <entry>116</entry>
         <entry>vs</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
