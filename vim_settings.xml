@@ -206,11 +206,11 @@
         <mark key="." line="537" column="0" />
         <mark key="^" line="531" column="10" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/tests/test_fluct/test_update_dynamic_allocation.py" timestamp="1518064473079">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/tests/test_fluct/test_update_dynamic_allocation.py" timestamp="1518066203082">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="47" />
+        <mark key="." line="13" column="47" />
+        <mark key="^" line="13" column="47" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1512982114240">
         <mark key="'" line="15" column="0" />
@@ -224,12 +224,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/deleterules/deleterules.go" timestamp="1516081035542">
         <mark key="'" line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/update_dynamic_allocation.py" timestamp="1518064967501">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/update_dynamic_allocation.py" timestamp="1518065692639">
         <mark key="'" line="13" column="34" />
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="2" column="13" />
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/test/cmd/header_tester.go" timestamp="1511757470816">
         <mark key="'" line="98" column="17" />
@@ -405,7 +405,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>urlparse.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>dashboard</text>
