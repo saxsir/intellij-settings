@@ -16,12 +16,6 @@
         <mark key="^" line="127" column="5" />
         <mark key="." line="127" column="5" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1517389388684">
-        <mark key="[" line="78" column="31" />
-        <mark key="]" line="78" column="37" />
-        <mark key="." line="78" column="37" />
-        <mark key="^" line="78" column="37" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
       </file>
@@ -78,12 +72,6 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="56" column="30" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/Taboola/AssignMapper.php" timestamp="1517391203376">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="2" column="46" />
-        <mark key="." line="2" column="46" />
-        <mark key="^" line="2" column="45" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/batch/update_dynamic_allocation/csv_reader.py" timestamp="1518056258352">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="6" column="16" />
@@ -126,23 +114,11 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Http/Client/Taboola/ReportClientTest.php" timestamp="1517391357640">
-        <mark key="[" line="18" column="70" />
-        <mark key="]" line="18" column="75" />
-        <mark key="^" line="18" column="75" />
-        <mark key="." line="18" column="75" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/sync_linking_ad_units_with_dfp_api.py" timestamp="1513746127309">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/findrules/findrules.go" timestamp="1516080963317">
         <mark key="'" line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Taboola/AssignMapperTest.php" timestamp="1517391372873">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="2" column="45" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/sha1sum/aws_signing_client/client.go" timestamp="1516080274811">
         <mark key="'" line="64" column="35" />
@@ -172,24 +148,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" timestamp="1515571557067">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1516266725119">
-        <mark key="[" line="875" column="15" />
-        <mark key="]" line="875" column="16" />
-        <mark key="^" line="875" column="16" />
-        <mark key="." line="875" column="16" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" timestamp="1516266430459">
         <mark key="'" line="886" column="9" />
         <mark key="[" line="883" column="66" />
         <mark key="]" line="883" column="73" />
         <mark key="^" line="883" column="73" />
         <mark key="." line="883" column="73" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/get_site_of_page_url.t" timestamp="1516268782054">
-        <mark key="[" line="27" column="37" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="26" column="4" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/config.yml" timestamp="1514167337783">
         <mark key="[" line="0" column="0" />
@@ -198,12 +162,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_bax/lib/php/OpenX/Client.php" timestamp="1513581837759">
         <mark key="'" line="157" column="22" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/global.hcl" timestamp="1515647739131">
-        <mark key="[" line="175" column="23" />
-        <mark key="]" line="175" column="23" />
-        <mark key="^" line="175" column="23" />
-        <mark key="." line="175" column="23" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/libraries/Fluct/AdnetworkReport/SpReport/Builder/ReportSpSqlBuilder.php" timestamp="1512108205741">
         <mark key="'" line="106" column="4" />
@@ -236,12 +194,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1512982114240">
         <mark key="'" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/notify_odr_rotation_history/Makefile" timestamp="1515471791419">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/deleterules/deleterules.go" timestamp="1516081035542">
         <mark key="'" line="112" column="0" />
@@ -313,12 +265,6 @@
         <mark key="]" line="32" column="45" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/inspect_dynamic_allocation.py" timestamp="1517967820245" />
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/es.tf" timestamp="1515575490739">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
-        <mark key="^" line="20" column="56" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" timestamp="1517208045989">
         <mark key="'" line="126" column="0" />
         <mark key="[" line="49" column="40" />
