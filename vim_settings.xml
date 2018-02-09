@@ -30,6 +30,13 @@
         <mark key="]" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" timestamp="1518154133730">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="104" column="13" />
+        <mark key="]" line="104" column="14" />
+        <mark key="^" line="91" column="11" />
+        <mark key="." line="104" column="14" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/ads_txt.py" timestamp="1518057405961">
         <mark key="'" line="39" column="20" />
       </file>
@@ -239,6 +246,9 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/deleterules/deleterules.go" timestamp="1516081035542">
         <mark key="'" line="112" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" timestamp="1518154085829">
+        <mark key="'" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/update_dynamic_allocation.py" timestamp="1518143224791">
         <mark key="'" line="5" column="21" />
         <mark key="[" line="11" column="20" />
@@ -318,12 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
-      <jump line="45" column="65" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
-      <jump line="46" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
-      <jump line="48" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
-      <jump line="50" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
-      <jump line="169" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
       <jump line="171" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
       <jump line="195" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
       <jump line="80" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/sha1sum/aws_signing_client/client.go" />
@@ -418,16 +422,22 @@
       <jump line="79" column="49" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/Makefile" />
       <jump line="23" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/update_dynamic_allocation.py" />
       <jump line="5" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/update_dynamic_allocation.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" />
+      <jump line="14" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" />
+      <jump line="43" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
+      <jump line="156" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
+      <jump line="9" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>r</text>
+        <text>Artifacts for fluct_pam</text>
       </register>
       <register name="/" type="4">
-        <text>str</text>
+        <text>sand</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3JlYWRfY3N2X3ByaWNlX2lzX25vdF9udW1iZXIoc2VsZik6CiAgICAgICAgY3N2ID0gIiIidXJsLHByaWNlCiVzLHRlc3QiIiIgJSAoTElORV9JVEVNX1VSTCkKCiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKFZhbHVlRXJyb3IpOgogICAgICAgICAgICByZWFkX2Nzdihjc3YpCg==</text>
+        <text encoding="base64">cmVzb3VyY2UgImF3c19zM19idWNrZXQiICJmbHVjdF9wYW1fYXJ0aWZhY3RzIiB7CiAgYnVja2V0ID0gImZsdWN0LXBhbS1hcnRpZmFjdHMiCiAgYWNsICAgID0gInByaXZhdGUiCgogIHRhZ3MgewogICAgTmFtZSA9ICJmbHVjdF9wYW0gYXJ0aWZhY3RzIGJ1Y2tldCIKICAgIERlc2MgPSAiQXJ0aWZhY3RzIGZvciBmbHVjdF9wYW0iCiAgfQoKICB2ZXJzaW9uaW5nIHsKICAgIGVuYWJsZWQgPSB0cnVlCiAgfQoKICBsaWZlY3ljbGVfcnVsZSB7CiAgICBpZCAgICAgID0gImRlbGV0aW9uIG92ZXIgOTBkYXlzIgogICAgcHJlZml4ICA9ICIiICMgd2hvbGUKICAgIGVuYWJsZWQgPSB0cnVlCgogICAgZXhwaXJhdGlvbiB7CiAgICAgIGRheXMgPSA5MAogICAgfQogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ+abtOaWsOOBl+OBn+OBhOW6g+WRiueUs+i+vOaDheWgseOBjOOBv+OBpOOBi+OCiuOBvuOBm+OCk+OBp+OBl+OBnycpCg==</text>
@@ -461,16 +471,14 @@
       </register>
     </registers>
     <search>
-      <last-search>str</last-search>
+      <last-search>sand</last-search>
       <last-offset />
-      <last-pattern>str</last-pattern>
+      <last-pattern>sand</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>option</entry>
-        <entry>Stdout</entry>
         <entry>std</entry>
         <entry>Findby</entry>
         <entry>FindBy</entry>
@@ -489,6 +497,8 @@
         <entry>lineitems</entry>
         <entry>DEV_OP</entry>
         <entry>str</entry>
+        <entry>sandbox</entry>
+        <entry>sand</entry>
       </history-search>
       <history-cmd>
         <entry>250</entry>
