@@ -140,6 +140,9 @@
         <mark key="]" line="39" column="74" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/sre/variables.tf" timestamp="1518157096592">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/update_line_items.py" timestamp="1517985176261">
         <mark key="'" line="30" column="29" />
         <mark key="[" line="5" column="31" />
@@ -266,7 +269,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="32" column="45" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/global.auto.tfvars" timestamp="1518157123030">
+        <mark key="'" line="22" column="23" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/inspect_dynamic_allocation.py" timestamp="1517967820245" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/aws/global.auto.tfvars" timestamp="1518157079919">
+        <mark key="'" line="22" column="23" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" timestamp="1517208045989">
         <mark key="'" line="126" column="0" />
         <mark key="[" line="49" column="40" />
@@ -276,12 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
-      <jump line="195" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
-      <jump line="80" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/sha1sum/aws_signing_client/client.go" />
-      <jump line="316" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" />
-      <jump line="210" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" />
-      <jump line="211" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" />
       <jump line="202" column="74" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" />
       <jump line="203" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" />
       <jump line="205" column="53" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" />
@@ -376,13 +379,19 @@
       <jump line="156" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
       <jump line="9" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
+      <jump line="202" column="75" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/aws/global.auto.tfvars" />
+      <jump line="22" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/aws/global.auto.tfvars" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/sre/variables.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/global.auto.tfvars" />
+      <jump line="196" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/global.auto.tfvars" />
+      <jump line="22" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/global.auto.tfvars" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>pam-tuning</text>
       </register>
       <register name="/" type="4">
-        <text>sand</text>
+        <text>S3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bW9kdWxlICJpYW1fdXNlcl9wYW0tdHVuaW5nIiB7CiAgc291cmNlICAgICAgPSAiLi4vdmVuZG9yL3RmX21vZHVsZXMvYXdzL2lhbS91c2VyIgogIG5hbWUgICAgICAgID0gInBhbS10dW5pbmciCiAgcG9saWN5X2FybnMgPSBbIiR7dmFyLkFXU19QT0xJQ1lfQVJOX0FETUlOSVNUUkFUT1JfQUNDRVNTfSJdCn0K</text>
@@ -419,15 +428,14 @@
       </register>
     </registers>
     <search>
-      <last-search>sand</last-search>
+      <last-search>S3</last-search>
       <last-offset />
-      <last-pattern>sand</last-pattern>
+      <last-pattern>S3</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>std</entry>
         <entry>Findby</entry>
         <entry>FindBy</entry>
         <entry>FindByUnitName</entry>
@@ -447,6 +455,7 @@
         <entry>str</entry>
         <entry>sandbox</entry>
         <entry>sand</entry>
+        <entry>S3</entry>
       </history-search>
       <history-cmd>
         <entry>250</entry>
