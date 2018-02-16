@@ -19,6 +19,9 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" timestamp="1518763385644">
+        <mark key="'" line="46" column="13" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" timestamp="1518758610755">
         <mark key="'" line="28" column="4" />
         <mark key="[" line="91" column="31" />
@@ -259,10 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="10" filename="/usr/local/go/src/log/log.go" />
-      <jump line="264" column="4" filename="/usr/local/go/src/log/log.go" />
-      <jump line="269" column="11" filename="/usr/local/go/src/log/log.go" />
-      <jump line="274" column="4" filename="/usr/local/go/src/log/log.go" />
       <jump line="279" column="11" filename="/usr/local/go/src/log/log.go" />
       <jump line="284" column="4" filename="/usr/local/go/src/log/log.go" />
       <jump line="292" column="4" filename="/usr/local/go/src/log/log.go" />
@@ -359,13 +358,17 @@
       <jump line="14" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" />
       <jump line="111" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" />
       <jump line="28" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" />
+      <jump line="35" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" />
+      <jump line="102" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" />
+      <jump line="29" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" />
+      <jump line="46" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>anything</text>
       </register>
       <register name="/" type="4">
-        <text>cloud</text>
+        <text>spot_name</text>
       </register>
       <register name="0" type="4">
         <text>sandbox / playground / you can use for anything</text>
@@ -402,16 +405,14 @@
       </register>
     </registers>
     <search>
-      <last-search>cloud</last-search>
+      <last-search>spot_name</last-search>
       <last-offset />
-      <last-pattern>cloud</last-pattern>
+      <last-pattern>spot_name</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>FindByUnitName</entry>
-        <entry>OpenPricingRuleEditPage</entry>
         <entry>空文字がrf</entry>
         <entry>fixed</entry>
         <entry>isFixed</entry>
@@ -430,6 +431,8 @@
         <entry>S3</entry>
         <entry>log</entry>
         <entry>cloud</entry>
+        <entry>spot_nammme</entry>
+        <entry>spot_name</entry>
       </history-search>
       <history-cmd>
         <entry>250</entry>
