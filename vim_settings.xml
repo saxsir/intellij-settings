@@ -147,7 +147,12 @@
         <mark key="^" line="883" column="73" />
         <mark key="." line="883" column="73" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Google/AdsenseClient.php" timestamp="1519101775965" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Google/AdsenseClient.php" timestamp="1519109091705">
+        <mark key="[" line="62" column="76" />
+        <mark key="]" line="62" column="76" />
+        <mark key="^" line="62" column="76" />
+        <mark key="." line="62" column="76" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_bax/lib/php/OpenX/Client.php" timestamp="1513581837759">
         <mark key="'" line="157" column="22" />
       </file>
@@ -366,7 +371,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>anything</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>spot_name</text>
