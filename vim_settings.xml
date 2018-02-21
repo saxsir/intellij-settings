@@ -168,6 +168,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" timestamp="1510557550922">
         <mark key="'" line="277" column="12" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/google_api.py" timestamp="1519204248711" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_list.js" timestamp="1514361892995">
         <mark key="'" line="464" column="20" />
         <mark key="[" line="18" column="0" />
@@ -203,10 +204,10 @@
       <file name="/usr/local/go/src/log/log.go" timestamp="1516001779665">
         <mark key="'" line="324" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/port_summary_to_datastudio.py" timestamp="1519199025604">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/port_summary_to_datastudio.py" timestamp="1519203805184">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/manifests/nodes/aws_ms_pre.pp" timestamp="1516154692323">
         <mark key="'" line="228" column="49" />
@@ -379,31 +380,31 @@
         <text encoding="base64">ICAgICAgICB1cmxfcGMgPSAnJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmbHVjdC5kYXRhc3R1ZGlvIGltcG9ydCBTb3VyY2VTaGVldFJvdwo=</text>
+        <text encoding="base64">ZnJvbSBmbHVjdCBpbXBvcnQgZGF0ZXV0aWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBmbHVjdC5kYXRhc3R1ZGlvIGltcG9ydCBTb3VyY2VTaGVldFJvdwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IiIiCidBZFhfTW9udGhseV9QQyc6CiAgICBzaGVldF9uYW1lOiAnQWR45bm06ZaT5o6o56e7JwogICAgcXVlcnlfaWQ6IDk2MAogICAgYXBpX2tleTogJ1hFZkpLMDVCbUpCYVVNU2lPOW1XQ1VUb21kOHNHeXNrWWptNGVOeTYnCiAgICBzaGVldF9pZDogOTI4NTM5MzQyCidBZFhfTW9udGhseV9TUCc6CiAgICBzaGVldF9uYW1lOiAnQWR45bm06ZaT5o6o56e7JwogICAgcXVlcnlfaWQ6IDk2MQogICAgYXBpX2tleTogJ05ZQ0M4dXczcVBIODB4N0dWWGxtY2hqMzVWNUVZODF5MU1YTGxrdVYnCiAgICBzaGVldF9pZDogOTI4NTM5MzQyCidBZFhfTW9udGhseV9BUFAnOgogICAgc2hlZXRfbmFtZTogJ0FkeOW5tOmWk+aOqOenuycKICAgIHF1ZXJ5X2lkOiA5NjIKICAgIGFwaV9rZXk6ICdVMm5SQ09memxWemZDaGwwaEpqU3RvaVZHa1pOZDB2QWE0TlFuREEwJwogICAgc2hlZXRfaWQ6IDkyODUzOTM0MgoiIiIKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2hlZXRfZGF0ZV9mb3JtYXQgPSAnJVkvJW0vJWQnCnJlZGFzaF91cmwgPSAnaHR0cHM6Ly9yZWRhc2guaHViLmZsdWN0Lm1lL2FwaS9xdWVyaWVzLyVzL3Jlc3VsdHMuanNvbj9hcGlfa2V5PSVzJwpkYXRlX3JvdyA9ICclcyFDMjpDJwo=</text>
+        <text encoding="base64">ZnJvbSBmbHVjdC5kYXRhc3R1ZGlvIGltcG9ydCBTb3VyY2VTaGVldFJvdwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2UgPSBnZXRfc2VydmljZSh0YXJnZXRfYXBpPSdzaGVldHMnLCBhY2NvdW50PSdmaXJzdCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2hlZXRfZGF0ZV9mb3JtYXQgPSAnJVkvJW0vJWQnCnJlZGFzaF91cmwgPSAnaHR0cHM6Ly9yZWRhc2guaHViLmZsdWN0Lm1lL2FwaS9xdWVyaWVzLyVzL3Jlc3VsdHMuanNvbj9hcGlfa2V5PSVzJwpkYXRlX3JvdyA9ICclcyFDMjpDJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNoZWV0X3Jvd3MgPSBbXQogICAgcHJvZHVjdCA9ICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlcnZpY2UgPSBnZXRfc2VydmljZSh0YXJnZXRfYXBpPSdzaGVldHMnLCBhY2NvdW50PSdmaXJzdCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
