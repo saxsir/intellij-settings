@@ -203,11 +203,8 @@
       <file name="/usr/local/go/src/log/log.go" timestamp="1516001779665">
         <mark key="'" line="324" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/port_summary_to_datastudio.py" timestamp="1519197181852">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="43" column="20" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/port_summary_to_datastudio.py" timestamp="1519198245213">
+        <mark key="^" line="31" column="20" />
       </file>
       <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/manifests/nodes/aws_ms_pre.pp" timestamp="1516154692323">
         <mark key="'" line="228" column="49" />
