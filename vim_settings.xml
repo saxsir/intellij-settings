@@ -182,12 +182,6 @@
         <mark key="." line="537" column="0" />
         <mark key="^" line="531" column="10" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/tests/test_fluct/test_update_dynamic_allocation.py" timestamp="1519191256210">
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="42" />
-        <mark key="." line="22" column="42" />
-        <mark key="^" line="22" column="42" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1512982114240">
         <mark key="'" line="15" column="0" />
       </file>
