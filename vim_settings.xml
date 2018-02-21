@@ -32,6 +32,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/ads_txt.py" timestamp="1518057405961">
         <mark key="'" line="39" column="20" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_google_adx/tables.mk" timestamp="1519188515022">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="29" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1517394702405">
         <mark key="'" line="40" column="32" />
         <mark key="[" line="52" column="70" />
@@ -275,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="88" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="121" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="210" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
@@ -375,6 +379,7 @@
       <jump line="153" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
       <jump line="155" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
       <jump line="160" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_google_adx/tables.mk" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -384,7 +389,7 @@
         <text>generate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">VEFCTEVTOj0gXAoJc3B0X2FkbmV0d29ya19nb29nbGVfYWR4X3BjIFwKCXNwdF9hZG5ldHdvcmtfZ29vZ2xlX2FkeF9zcCBcCglvZHJfYWRfZnJhbWUgXAoJb2RyX2NyZWF0aXZlX3NldHRpbmcgXAoJb2RyX2NhbXBhaWduIFwKCXNwdF91bml0IFwKCXNwdF9ncm91cF91bml0IFwKCXNwdF9ncm91cCBcCglzcHRfc2l0ZSBcCgljbW5fYWRpbmdvX3JldmVudWVfaGlzdG9yeQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
