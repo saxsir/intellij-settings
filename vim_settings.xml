@@ -72,6 +72,9 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" timestamp="1519176178922">
+        <mark key="'" line="160" column="21" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/ecs_autoscale/ecs_cluster.tf" timestamp="1511773989526">
         <mark key="'" line="15" column="47" />
       </file>
@@ -147,11 +150,11 @@
         <mark key="^" line="883" column="73" />
         <mark key="." line="883" column="73" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Google/AdsenseClient.php" timestamp="1519109091705">
-        <mark key="[" line="62" column="76" />
-        <mark key="]" line="62" column="76" />
-        <mark key="^" line="62" column="76" />
-        <mark key="." line="62" column="76" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Google/AdsenseClient.php" timestamp="1519177632043">
+        <mark key="'" line="84" column="12" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_bax/lib/php/OpenX/Client.php" timestamp="1513581837759">
         <mark key="'" line="157" column="22" />
@@ -252,6 +255,10 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/global.auto.tfvars" timestamp="1518157123030">
         <mark key="'" line="22" column="23" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/vendor/google/apiclient/src/Google/Task/Runner.php" timestamp="1519176807113">
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="194" column="2" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/aws/global.auto.tfvars" timestamp="1518157079919">
         <mark key="'" line="22" column="23" />
       </file>
@@ -268,22 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="11" filename="/usr/local/go/src/log/log.go" />
-      <jump line="284" column="4" filename="/usr/local/go/src/log/log.go" />
-      <jump line="292" column="4" filename="/usr/local/go/src/log/log.go" />
-      <jump line="298" column="4" filename="/usr/local/go/src/log/log.go" />
-      <jump line="304" column="4" filename="/usr/local/go/src/log/log.go" />
-      <jump line="309" column="4" filename="/usr/local/go/src/log/log.go" />
-      <jump line="315" column="4" filename="/usr/local/go/src/log/log.go" />
-      <jump line="321" column="4" filename="/usr/local/go/src/log/log.go" />
-      <jump line="328" column="4" filename="/usr/local/go/src/log/log.go" />
-      <jump line="335" column="4" filename="/usr/local/go/src/log/log.go" />
-      <jump line="73" column="0" filename="/usr/local/go/src/log/log.go" />
-      <jump line="324" column="0" filename="/usr/local/go/src/log/log.go" />
-      <jump line="63" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/sha1sum/aws_signing_client/client.go" />
-      <jump line="213" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
-      <jump line="463" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
-      <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="87" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="88" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="121" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
@@ -368,60 +359,73 @@
       <jump line="102" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" />
       <jump line="29" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" />
       <jump line="46" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" />
+      <jump line="86" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Google/AdsenseClient.php" />
+      <jump line="13" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="101" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="105" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="110" column="60" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="116" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="117" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="132" column="81" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="141" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="142" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="145" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="151" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="152" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="153" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="155" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
+      <jump line="160" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>;</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>spot_name</text>
+        <text>generate</text>
       </register>
-      <register name="0" type="4">
-        <text>sandbox / playground / you can use for anything</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uaW5nIHsKICAgIGVuYWJsZWQgPSB0cnVlCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0cnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnJlc291cmNlICJhd3NfczNfYnVja2V0IiAiZmx1Y3RfcGFtX3NhbmRib3giIHsKICBidWNrZXQgPSAiZmx1Y3QtcGFtLXNhbmRib3giCiAgYWNsICAgID0gInByaXZhdGUiCiAgcG9saWN5ID0gPDxFT0YKewogICJJZCI6ICJQb2xpY3kxNDgwNDc5NDI5MjA5IiwKICAiVmVyc2lvbiI6ICIyMDEyLTEwLTE3IiwKICAiU3RhdGVtZW50IjogWwogICAgewogICAgICAiU2lkIjogIlN0bXQxNDgwNDc5NDI0Mjc0IiwKICAgICAgIkFjdGlvbiI6IFsiczM6UHV0T2JqZWN0Il0sCiAgICAgICJFZmZlY3QiOiAiQWxsb3ciLAogICAgICAiUmVzb3VyY2UiOiAiYXJuOmF3czpzMzo6OmZsdWN0LXBhbS1hcGkvYWxiL0FXU0xvZ3MvJHt2YXIuQVdTX0FDQ09VTlRfSURfUEFNfS8qIiwKICAgICAgIlByaW5jaXBhbCI6IHsKICAgICAgICAiQVdTIjogWyJhcm46YXdzOmlhbTo6NTgyMzE4NTYwODY0OnJvb3QiXQogICAgICB9CiAgICB9CiAgXQp9CkVPRgoKICB0YWdzIHsKICAgIE5hbWUgPSAiZmx1Y3RfcGFtIGFwaSBidWNrZXRzIgogICAgRGVzYyA9ICJmbHVjdF9wYW0gYXBpIHNwZWNpZmljYXRpb24gb2JqZWN0cyIKICB9CgogIGxpZmVjeWNsZV9ydWxlIHsKICAgIGlkICAgICAgPSAiZGVsZXRpb24gb2YgYWxiIGxvZ3MiCiAgICBwcmVmaXggID0gImFsYiIKICAgIGVuYWJsZWQgPSB0cnVlCgogICAgZXhwaXJhdGlvbiB7CiAgICAgIGRheXMgPSAzCiAgICB9CiAgfQoKICBsaWZlY3ljbGVfcnVsZSB7CiAgICBpZCAgICAgID0gImRlbGV0aW9uIG92ZXIgOTBkYXlzIgogICAgcHJlZml4ICA9ICIiICMgd2hvbGUKICAgIGVuYWJsZWQgPSB0cnVlCgogICAgZXhwaXJhdGlvbiB7CiAgICAgIGRheXMgPSA5MAogICAgfQogIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoXFJ1bnRpbWVFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgICAgIHRocm93ICRlOwogICAgICAgICAgICB9IGNhdGNoIChcR29vZ2xlX1NlcnZpY2VfRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgICAgICB0aHJvdyAkZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ+abtOaWsOOBl+OBn+OBhOW6g+WRiueUs+i+vOaDheWgseOBjOOBv+OBpOOBi+OCiuOBvuOBm+OCk+OBp+OBl+OBnycpCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcR29vZ2xlX1NlcnZpY2VfRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIHRocm93ICRlOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnKiogYmVnaW4gZmV0Y2ggbGluZSBpdGVtcyAqKicpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAkcmVzID0gJHRoaXMtPnNlcnZpY2UtPmFjY291bnRzX3JlcG9ydHMtPmdlbmVyYXRlKCRhY2NvdW50LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>spot_name</last-search>
+      <last-search>generate</last-search>
       <last-offset />
-      <last-pattern>spot_name</last-pattern>
+      <last-pattern>generate</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>空文字がrf</entry>
-        <entry>fixed</entry>
-        <entry>isFixed</entry>
         <entry>Delete</entry>
         <entry>DeleteIndex</entry>
         <entry>dashboard</entry>
@@ -439,6 +443,9 @@
         <entry>cloud</entry>
         <entry>spot_nammme</entry>
         <entry>spot_name</entry>
+        <entry>adsense</entry>
+        <entry>google</entry>
+        <entry>generate</entry>
       </history-search>
       <history-cmd>
         <entry>250</entry>
