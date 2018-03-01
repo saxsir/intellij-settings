@@ -19,12 +19,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" timestamp="1519371528746">
-        <mark key="'" line="149" column="32" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" timestamp="1519871464048">
+        <mark key="'" line="116" column="18" />
+        <mark key="[" line="153" column="39" />
+        <mark key="]" line="153" column="39" />
         <mark key="^" line="148" column="32" />
-        <mark key="." line="156" column="0" />
+        <mark key="." line="153" column="39" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" timestamp="1518763385644">
         <mark key="'" line="46" column="13" />
@@ -137,6 +137,9 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/iam/role/role.tf" timestamp="1519871423844">
+        <mark key="'" line="78" column="2" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" timestamp="1519373253349">
         <mark key="'" line="9" column="0" />
       </file>
@@ -161,7 +164,6 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/variables.tf" timestamp="1519368639610" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" timestamp="1510557550922">
         <mark key="'" line="277" column="12" />
       </file>
@@ -271,20 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1291" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
-      <jump line="1294" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
-      <jump line="1402" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/gopkg.in/olivere/elastic.v5/client.go" />
-      <jump line="28" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
-      <jump line="35" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
-      <jump line="113" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
-      <jump line="115" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
-      <jump line="33" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
-      <jump line="117" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/_esindexcleaner/main.go" />
-      <jump line="11" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/Makefile" />
-      <jump line="32" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/Makefile" />
-      <jump line="53" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
-      <jump line="62" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Outbrain/login.proc" />
-      <jump line="68" column="51" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Outbrain/login.proc" />
       <jump line="51" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Outbrain/login.proc" />
       <jump line="0" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/conf.py" />
       <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/batch/update_dynamic_allocation/settings.py" />
@@ -371,13 +359,27 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/_iam_policies/report.json" />
       <jump line="24" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-batch.json" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-batch.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/iam/role/role.tf" />
+      <jump line="68" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/iam/role/role.tf" />
+      <jump line="78" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/iam/role/role.tf" />
+      <jump line="137" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
+      <jump line="66" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
+      <jump line="77" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
+      <jump line="78" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
+      <jump line="79" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
+      <jump line="80" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
+      <jump line="81" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
+      <jump line="107" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
+      <jump line="108" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
+      <jump line="116" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>*</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>s3</text>
+        <text>arn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ewogICJWZXJzaW9uIjogIjIwMTItMTAtMTciLAoKICAiU3RhdGVtZW50IjogWwoKICAgIHsKICAgICAgIlNpZCI6ICJIYXN0ZVMzRnVsbEFjY2VzcyIsCiAgICAgICJFZmZlY3QiOiAiQWxsb3ciLAogICAgICAiQWN0aW9uIjogWwogICAgICAgICJzMzoqIgogICAgICBdLAogICAgICAiUmVzb3VyY2UiOiBbCiAgICAgICAgImFybjphd3M6czM6OjpoYXN0ZS1odiIsCiAgICAgICAgImFybjphd3M6czM6OjpoYXN0ZS1odi8qIgogICAgICBdCiAgICB9LAoKICAgIHsKICAgICAgIlNpZCI6ICJIYXN0ZVMzRGVueUFjY2VzcyIsCiAgICAgICJFZmZlY3QiOiAiRGVueSIsCiAgICAgICJBY3Rpb24iOiBbCiAgICAgICAgInMzOkRlbGV0ZSoiCiAgICAgIF0sCiAgICAgICJSZXNvdXJjZSI6IFsKICAgICAgICAiYXJuOmF3czpzMzo6Omhhc3RlLWh2IgogICAgICBdCiAgICB9LAoKICAgIHsKICAgICAgIlNpZCI6ICJIYXN0ZUF0aGVuYUZ1bGxBY2Nlc3MiLAogICAgICAiRWZmZWN0IjogIkFsbG93IiwKICAgICAgIkFjdGlvbiI6IFsKICAgICAgICAiYXRoZW5hOioiCiAgICAgIF0sCiAgICAgICJSZXNvdXJjZSI6ICIqIgogICAgfQoKICBdCn0K</text>
@@ -414,17 +416,14 @@
       </register>
     </registers>
     <search>
-      <last-search>s3</last-search>
+      <last-search>arn</last-search>
       <last-offset />
-      <last-pattern>s3</last-pattern>
+      <last-pattern>arn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dashboard</entry>
-        <entry>pytest</entry>
-        <entry>from</entry>
         <entry>d</entry>
         <entry>line</entry>
         <entry>lineitems</entry>
@@ -442,6 +441,9 @@
         <entry>S2</entry>
         <entry>S3</entry>
         <entry>s3</entry>
+        <entry>count</entry>
+        <entry>haste_batch</entry>
+        <entry>arn</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
