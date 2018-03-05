@@ -50,11 +50,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1520227918963">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1520235475012">
+        <mark key="'" line="38" column="9" />
+        <mark key="[" line="94" column="50" />
+        <mark key="]" line="94" column="56" />
+        <mark key="." line="94" column="56" />
+        <mark key="^" line="94" column="56" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Outbrain/login.proc" timestamp="1517885491879">
         <mark key="'" line="53" column="38" />
@@ -290,7 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/ads_txt.py" />
       <jump line="17" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/update_dynamic_allocation.py" />
       <jump line="15" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/tests/test_fluct/test_update_dynamic_allocation.py" />
       <jump line="23" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/tests/test_fluct/test_update_dynamic_allocation.py" />
@@ -390,10 +390,11 @@
       <jump line="138" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="171" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="35" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="38" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>begin</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>arn</text>
@@ -402,31 +403,31 @@
         <text encoding="base64">ICAgICAgICAjVE9ETzog5oqV44GS44Gm44KLVVJM44KS44Ot44Kw44Gr5Ye644GX44Gm44KC44GE44GE44GL44KCCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjVE9ETzog5oqV44GS44Gm44KLVVJM44KS44Ot44Kw44Gr5Ye644GX44Gm44KC44GE44GE44GL44KCID0+IAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT5nZXRCb2R5KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFwmZW5kX2RhdGVcPScyMDE4LTAyLTA5JyAtSCAnQXV0aG9yaXphdGlvbjogQmVhcmVyIENjY0VBQUFBQUFBQUVjS0hBUUFBQUFBQUdBRWdBQ25JaUd6MFlRRUFBRG9vWWpObU1qaGxPV1k0WldGak5Ua3dNVFZqTVRWbFpUaGxNVFJoWVdGbU9UZGtaVGxpWW1Rek1FQUM6OjliYjMzYTo6NjJmMTQzJwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHNlZS4gaHR0cHM6Ly9naXRodWIuY29tL3RhYm9vbGEvQmFja3N0YWdlLUFQSS9ibG9iL21hc3Rlci9CYWNrc3RhZ2UlMjBBUEklMjAtJTIwQXV0aGVudGljYXRpb24lMjBhbmQlMjBHZW5lcmFsJTIwQVBJJTIwVXNhZ2UucGRmCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXgK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkY3N2ID0gJHRoaXMtPigkanNvbik7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2b25yX2R1bXAoJHJlcG9ydCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjVE9ETzog5oqV44GS44Gm44KLVVJM44KS44Ot44Kw44Gr5Ye644GX44Gm44KC44GE44GE44GL44KCID0+IAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdtYWRlX2luJyAgICAgPT4gJ01leGljbycsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21pZGRsZV9uYW1lJyA9PiAnQmVuZGluZycK</text>
+        <text encoding="base64">ICAgIC8vIFwmZW5kX2RhdGVcPScyMDE4LTAyLTA5JyAtSCAnQXV0aG9yaXphdGlvbjogQmVhcmVyIENjY0VBQUFBQUFBQUVjS0hBUUFBQUFBQUdBRWdBQ25JaUd6MFlRRUFBRG9vWWpObU1qaGxPV1k0WldGak5Ua3dNVFZqTVRWbFpUaGxNVFJoWVdGbU9UZGtaVGxpWW1Rek1FQUM6OjliYjMzYTo6NjJmMTQzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGN1cmwgaHR0cHM6Ly9iYWNrc3RhZ2UudGFib29sYS5jb20vYmFja3N0YWdlL2FwaS8xLjAvZmx1Y3RpbmMtbmV0d29yay9yZXBvcnRzL3JldmVudWUtc3VtbWFyeS9kaW1lbnNpb25zL3BsYWNlbWVudF9icmVha2Rvd25cP3N0YXJ0X2RhdGVcPScyMDE4LTAyLTA5J1wmZW5kX2RhdGVcPScyMDE4LTAyLTA5JyAtSCAnQXV0aG9yaXphdGlvbjogQmVhcmVyIENjY0VBQUFBQUFBQUVjS0hBUUFBQUFBQUdBRWdBQ25JaUd6MFlRRUFBRG9vWWpObU1qaGxPV1k0WldGak5Ua3dNVFZqTVRWbFpUaGxNVFJoWVdGbU9UZGtaVGxpWW1Rek1FQUM6OjliYjMzYTo6NjJmMTQzJwo=</text>
+        <text encoding="base64">ICAgIC8vIHNlZS4gaHR0cHM6Ly9naXRodWIuY29tL3RhYm9vbGEvQmFja3N0YWdlLUFQSS9ibG9iL21hc3Rlci9CYWNrc3RhZ2UlMjBBUEklMjAtJTIwQXV0aGVudGljYXRpb24lMjBhbmQlMjBHZW5lcmFsJTIwQVBJJTIwVXNhZ2UucGRmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
