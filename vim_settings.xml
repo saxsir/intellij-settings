@@ -33,7 +33,12 @@
         <mark key="^" line="148" column="32" />
         <mark key="." line="153" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/bin/console.php" timestamp="1520302000097" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/bin/console.php" timestamp="1520311748473">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" timestamp="1518763385644">
         <mark key="'" line="46" column="13" />
       </file>
@@ -53,11 +58,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/ads_txt.py" timestamp="1518057405961">
         <mark key="'" line="39" column="20" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_google_adx/tables.mk" timestamp="1519188515022">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="29" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1520310335023">
         <mark key="'" line="12" column="6" />
         <mark key="[" line="58" column="8" />
@@ -69,6 +69,10 @@
         <mark key="'" line="53" column="44" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="93" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Maio/AssignMapperTest.php" timestamp="1520313387446">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="45" column="13" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Outbrain/login.proc" timestamp="1517885491879">
         <mark key="'" line="53" column="38" />
@@ -89,6 +93,19 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_tag.tpl" timestamp="1514356287920">
         <mark key="'" line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" timestamp="1520313222900">
+        <mark key="'" line="70" column="7" />
+        <mark key="[" line="45" column="31" />
+        <mark key="]" line="45" column="33" />
+        <mark key="^" line="45" column="33" />
+        <mark key="." line="45" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/Taboola/AssignMapper.php" timestamp="1520313398831">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="169" />
+        <mark key="." line="33" column="13" />
+        <mark key="^" line="33" column="13" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" timestamp="1519176178922">
         <mark key="'" line="160" column="21" />
@@ -125,6 +142,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Sprout/ImportSpCommand.php" timestamp="1520312865753">
+        <mark key="'" line="108" column="46" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="49" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Factory/LoggerFactory.php" timestamp="1517387241350">
         <mark key="'" line="131" column="59" />
         <mark key="[" line="5" column="23" />
@@ -137,6 +159,12 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/findrules/findrules.go" timestamp="1516080963317">
         <mark key="'" line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Taboola/AssignMapperTest.php" timestamp="1520313479090">
+        <mark key="[" line="27" column="176" />
+        <mark key="]" line="27" column="176" />
+        <mark key="." line="27" column="176" />
+        <mark key="^" line="27" column="176" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/sha1sum/aws_signing_client/client.go" timestamp="1516080274811">
         <mark key="'" line="64" column="35" />
@@ -182,11 +210,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/libraries/Fluct/AdnetworkReport/SpReport/Builder/ReportSpSqlBuilder.php" timestamp="1512108205741">
         <mark key="'" line="106" column="4" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/iam.tf" timestamp="1519378800989">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Util/FileUtil.php" timestamp="1520237093366">
         <mark key="[" line="148" column="0" />
@@ -249,12 +272,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Ameba/ImportSpCommand.php" timestamp="1516685618172">
         <mark key="'" line="130" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/Makefile" timestamp="1520225957944">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="13" column="122" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/Makefile" timestamp="1520313192796">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" timestamp="1513142300770">
         <mark key="'" line="0" column="0" />
@@ -296,18 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/update_dynamic_allocation.py" />
-      <jump line="5" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/update_dynamic_allocation.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
-      <jump line="156" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
-      <jump line="9" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
-      <jump line="202" column="75" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/aws/global.auto.tfvars" />
-      <jump line="22" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/aws/global.auto.tfvars" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/sre/variables.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/global.auto.tfvars" />
-      <jump line="196" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/global.auto.tfvars" />
-      <jump line="22" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/global.auto.tfvars" />
       <jump line="14" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_elb.tf" />
       <jump line="43" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" />
       <jump line="38" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" />
@@ -396,6 +407,18 @@
       <jump line="25" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Command/Report/Adsense/ConvertCommandReceiverTest.php" />
       <jump line="12" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
       <jump line="11" column="41" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
+      <jump line="77" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
+      <jump line="52" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
+      <jump line="53" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
+      <jump line="56" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
+      <jump line="69" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
+      <jump line="73" column="56" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
+      <jump line="80" column="79" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
+      <jump line="86" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
+      <jump line="117" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
+      <jump line="108" column="46" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Sprout/ImportSpCommand.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
+      <jump line="70" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -417,55 +440,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>arn</text>
+        <text>date</text>
       </register>
-      <register name="0" type="4">
-        <text>$jsonStr</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vIGRhdGUscHVibGlzaGVyLHB1Ymxpc2hlcl9uYW1lLHB1Ymxpc2hlcl9pZCxwYWdlX3R5cGUscGxhY2VtZW50LHBhZ2Vfdmlld3MscGFnZV92aWV3c193aXRoX2FkcyxwYWdlX3ZpZXdzX3dpdGhfYWRzX3BjdCxjbGlja3MsY3RyLGFkX2NwYyxhZF9ycG0sYWRfcmV2ZW51ZSxjdXJyZW5jeQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IjIwMTgtMDItMDkgMDA6MDA6MDAuMCIsZmx1Y3RpbmMtYXNhZ2VpY29tLCJGbHVjdCBpbmMgLSBhc2FnZWkuY29tIiwxMTE1Njc5LHBob3RvLCwxNDIsMTQyLDEwMCw0LDIuODIsNS43MTYsMTYxLjAzLDIyLjg3LEpQWQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGVzdC1zaXRlXzEyMzQ1XzY3ODkwJywgJ+mFjeS/oeS4rScsICcyMDE3LzEwLzIwIDEyOjAwOjAwJywgJzEnICwgJzEnLCAnMS4xMzkwJywgJzExMzkuMDAwMCcsICAnMS4xMzkwJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICdkYXRlLHB1Ymxpc2hlcixwdWJsaXNoZXJfbmFtZSxwdWJsaXNoZXJfaWQscGFnZV90eXBlLHBsYWNlbWVudCxwYWdlX3ZpZXdzLHBhZ2Vfdmlld3Nfd2l0aF9hZHMscGFnZV92aWV3c193aXRoX2Fkc19wY3QsY2xpY2tzLGN0cixhZF9jcGMsYWRfcnBtLGFkX3JldmVudWUsY3VycmVuY3knLAogICAgICAgICAgICAgJyIyMDE4LTAyLTA5IDAwOjAwOjAwLjAiLGZsdWN0aW5jLWFzYWdlaWNvbSwiRmx1Y3QgaW5jIC0gYXNhZ2VpLmNvbSIsMTExNTY3OSxwaG90byxhc2FnZWlfMzMwMV82MTAwODgsNTQsNTQsMTAwLDIsMy43LDguNDE5LDMxMS44MSwxNi44NCxKUFknLAogICAgICAgICAgICAgJyIyMDE4LTAyLTA5IDAwOjAwOjAwLjAiLGZsdWN0aW5jLWFzYWdlaWNvbSwiRmx1Y3QgaW5jIC0gYXNhZ2VpLmNvbSIsMTExNTY3OSxwaG90byzjgqLjgrXoirgrXzMzMDFfNjEwMDg3LDkwLDkwLDEwMCwyLDIuMjIsMy4wMTQsNjYuOTgsNi4wMyxKUFknLAo=</text>
+        <text encoding="base64">ICAgIC8vIFxGbHVjdFxCYXRjaFxSZXBvcnRcQWRuSW1wb3J0XFlpZWxkU3BDb252ZXJ0TWFwcGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEZsdWN0XEJhdGNoXFJlcG9ydFxBZG5JbXBvcnRcWWllbGRTcFZhbGlkYXRvcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgJHRoaXMtPmFzc2VydFRydWUoZmlsZV9leGlzdHMoc2VsZjo6VE1QX0ZJTEUpKTsKCiAgICAgICAgICRleHBlY3RlZCA9ICcyMDE3LTA1LTEyLDE0NDY3MSx0ZXN0c2l0ZSwxMTYxNzA4LHRlc3RzaXRlXzExOTQwXzUzOTAzMiwzMDAsMjUwLDIsMCwwLDAsMCwwLDAsMCwwLEpQWSc7CgogICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRleHBlY3RlZCAuICJcbiIsIGZpbGVfZ2V0X2NvbnRlbnRzKHNlbGY6OlRNUF9GSUxFKSk7Cg==</text>
+        <text encoding="base64">dXNlIEZsdWN0XEJhdGNoXFJlcG9ydFxBZG5JbXBvcnRcWWllbGRTcENvbnZlcnRNYXBwZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFJWaWRDb252ZXJ0TWFwcGVyKCRkYXRlLCAkbG9nZ2VyLCAkZGJTbGF2ZSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">J3sibGFzdC11c2VkLXJhd2RhdGEtdXBkYXRlLXRpbWUiOiIyMDE4LTAzLTA1IDE2OjAwOjAwIiwibGFzdC11c2VkLXJhd2RhdGEtdXBkYXRlLXRpbWUtZ210LW1pbGxpc2VjIjoxNTIwMjMzMjAwMDAwLCJ0aW1lem9uZSI6IkpTVCIsInJlc3VsdHMiOlt7ImRhdGUiOiIyMDE4LTAyLTA5IDAwOjAwOjAwLjAiLCJwdWJsaXNoZXIiOiJmbHVjdGluYy1hc2FnZWljb20iLCJwdWJsaXNoZXJfbmFtZSI6IkZsdWN0IGluYyAtIGFzYWdlaS5jb20iLCJwdWJsaXNoZXJfaWQiOjExMTU2NzksInBhZ2VfdHlwZSI6InBob3RvIiwicGxhY2VtZW50IjoiYXNhZ2VpXzMzMDFfNjEwMDg4IiwicGFnZV92aWV3cyI6NTQsInBhZ2Vfdmlld3Nfd2l0aF9hZHMiOjU0LCJwYWdlX3ZpZXdzX3dpdGhfYWRzX3BjdCI6MTAwLjAwLCJjbGlja3MiOjIsImN0ciI6My43MCwiYWRfY3BjIjo4LjQxOSwiYWRfcnBtIjozMTEuODEsImFkX3JldmVudWUiOjE2Ljg0LCJjdXJyZW5jeSI6IkpQWSJ9LHsiZGF0ZSI6IjIwMTgtMDItMDkgMDA6MDA6MDAuMCIsInB1Ymxpc2hlciI6ImZsdWN0aW5jLWFzYWdlaWNvbSIsInB1Ymxpc2hlcl9uYW1lIjoiRmx1Y3QgaW5jIC0gYXNhZ2VpLmNvbSIsInB1Ymxpc2hlcl9pZCI6MTExNTY3OSwicGFnZV90eXBlIjoicGhvdG8iLCJwbGFjZW1lbnQiOiLjgqLjgrXoirgrXzMzMDFfNjEwMDg3IiwicGFnZV92aWV3cyI6OTAsInBhZ2Vfdmlld3Nfd2l0aF9hZHMiOjkwLCJwYWdlX3ZpZXdzX3dpdGhfYWRzX3BjdCI6MTAwLjAwLCJjbGlja3MiOjIsImN0ciI6Mi4yMiwiYWRfY3BjIjozLjAxNCwiYWRfcnBtIjo2Ni45OCwiYWRfcmV2ZW51ZSI6Ni4wMywiY3VycmVuY3kiOiJKUFkifV0sInJlY29yZENvdW50IjozfSc7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGRhdGUscHVibGlzaGVyLHB1Ymxpc2hlcl9uYW1lLHB1Ymxpc2hlcl9pZCxwYWdlX3R5cGUscGxhY2VtZW50LHBhZ2Vfdmlld3MscGFnZV92aWV3c193aXRoX2FkcyxwYWdlX3ZpZXdzX3dpdGhfYWRzX3BjdCxjbGlja3MsY3RyLGFkX2NwYyxhZF9ycG0sYWRfcmV2ZW51ZSxjdXJyZW5jeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q1NWOwo=</text>
+        <text encoding="base64">ICAgICAgICAnX3N0YXR1cycsCiAgICAgICAgJ19jcmVhdGVkQXQnLAogICAgICAgICdfcGxheXMnLAogICAgICAgICdfcGxheXNDb21wbGV0ZWQnLAogICAgICAgICdfY3BjdicsCiAgICAgICAgJ19jcG0nLAogICAgICAgICdwcmljZScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>arn</last-search>
+      <last-search>date</last-search>
       <last-offset />
-      <last-pattern>arn</last-pattern>
+      <last-pattern>date</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>d</entry>
         <entry>line</entry>
         <entry>lineitems</entry>
         <entry>DEV_OP</entry>
@@ -485,6 +507,7 @@
         <entry>count</entry>
         <entry>haste_batch</entry>
         <entry>arn</entry>
+        <entry>date</entry>
       </history-search>
       <history-cmd>
         <entry>245</entry>

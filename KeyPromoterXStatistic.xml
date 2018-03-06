@@ -6,7 +6,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -14,7 +14,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>460</Count>
+          <Count>476</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -70,6 +70,14 @@
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Open Module Settings</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'⌘V'</ShortCut>
+          <Description>Paste</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
