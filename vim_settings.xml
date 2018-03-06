@@ -39,8 +39,15 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" timestamp="1518763385644">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/LowMemoryFileProcessor.php" timestamp="1520317996212">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" timestamp="1520317756199">
         <mark key="'" line="46" column="13" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="126" column="6" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" timestamp="1518758610755">
         <mark key="'" line="28" column="4" />
@@ -94,18 +101,18 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/views/spt/group_tag.tpl" timestamp="1514356287920">
         <mark key="'" line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" timestamp="1520313222900">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" timestamp="1520316621213">
         <mark key="'" line="70" column="7" />
-        <mark key="[" line="45" column="31" />
-        <mark key="]" line="45" column="33" />
+        <mark key="[" line="114" column="54" />
+        <mark key="]" line="114" column="55" />
         <mark key="^" line="45" column="33" />
-        <mark key="." line="45" column="33" />
+        <mark key="." line="114" column="55" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/Taboola/AssignMapper.php" timestamp="1520314403735">
-        <mark key="[" line="42" column="79" />
-        <mark key="]" line="42" column="79" />
-        <mark key="." line="42" column="79" />
-        <mark key="^" line="42" column="78" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/Taboola/AssignMapper.php" timestamp="1520316392992">
+        <mark key="[" line="42" column="78" />
+        <mark key="]" line="42" column="78" />
+        <mark key="." line="42" column="78" />
+        <mark key="^" line="42" column="77" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" timestamp="1519176178922">
         <mark key="'" line="160" column="21" />
@@ -233,11 +240,10 @@
         <mark key="." line="537" column="0" />
         <mark key="^" line="531" column="10" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/YieldSpValidator.php" timestamp="1520315196289">
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="23" column="25" />
-        <mark key="." line="23" column="25" />
-        <mark key="^" line="23" column="25" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/YieldSpValidator.php" timestamp="1520316471046">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="41" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1512982114240">
         <mark key="'" line="15" column="0" />
@@ -446,40 +452,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>placement</text>
+        <text>frame_name</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
-      <register name="0" type="4">
-        <text>placement</text>
+      <register name="0" type="2">
+        <text encoding="base64">U0VMRUNUCkRJU1RJTkNUCiAgT0Mub2RyX2lkIGFzIGNyZWF0aXZlX2lkLAogIFNVLnNwdF91bml0X25hbWUsCiAgU1Uuc3B0X3NpemUsCiAgU1Uuc3B0X21lZGlhLAogIFNVLnNwdF9vcywKICBPQ0Eub2RyX3RhcmdldGluZ19vcyBhcyBvZHJfb3MsCiAgU1Uuc3B0X2Rpc3BsYXlfc3R5bGUsCiAgU1Uuc3B0X3JlcG9ydF9kaXNwbGF5X3N0eWxlX2NvbnZlcnRfdHlwZSwKICBTVS5zcHRfc3BvdF9uYW1lLAogIFNVLnNwdF9wYWdlX25hbWUsCiAgU0Euc3B0X3NvdXJjZV9pZCwKICBTUy5zcHRfYWNzX2lkIEFTIGFjc19pZApGUk9NCiAgb2RyX2FkX2ZyYW1lIGFzIE9BRgogIExFRlQgSk9JTiBzcHRfdW5pdCBhcyBTVQogICAgICAgICBPTiBTVS5zcHRfaWQgPSBPQUYub2RyX2FkX3VuaXRfaWQKICBMRUZUIEpPSU4gb2RyX2NyZWF0aXZlX3NldHRpbmcgT0MKICAgICAgICAgT04gT0FGLm9kcl9jYW1wYWlnbl9pZCA9IE9DLm9kcl9jYW1wYWlnbl9pZAogIExFRlQgSk9JTiBvZHJfY2FtcGFpZ24gT0NBCiAgICAgICAgIE9OIE9BRi5vZHJfY2FtcGFpZ25faWQgPSBPQ0Eub2RyX2lkCiAgTEVGVCBKT0lOIHNwdF9ncm91cF91bml0IFNHVQogICAgICAgICBPTiBTVS5zcHRfaWQgPSBTR1Uuc3B0X3VuaXRfaWQKICBMRUZUIEpPSU4gc3B0X2dyb3VwIFNHCiAgICAgICAgIE9OIFNHVS5zcHRfZ3JvdXBfaWQgPSBTRy5zcHRfaWQKICBMRUZUIEpPSU4gJHNwdEFkblRhYmxlTmFtZSBTQQogICAgICAgICBPTiBTRy5zcHRfc2l0ZV9pZCA9IFNBLnNwdF9zaXRlX2lkCiAgTEVGVCBKT0lOIHNwdF9zaXRlIFNTCiAgICAgICAgIE9OIFNHLnNwdF9zaXRlX2lkID0gU1Muc3B0X2lkCldIRVJFCk9DLm9kcl9pZCA9IDpjcmVhdGl2ZV9pZAogIEFORCBTQS5zcHRfcmV2ZW51ZV9tb250aCA9IDpzcHRfcmV2ZW51ZV9tb250aApPUkRFUiBCWSBTQS5zcHRfaWQgREVTQwpsaW1pdCAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZW50aXR5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGl0ZW0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnJwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZW50aXR5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGVzdC1zaXRlXzEyMzQ1XzY3ODkwJywgJ+mFjeS/oeS4rScsICcyMDE3LzEwLzIwIDEyOjAwOjAwJywgJzEnICwgJzEnLCAnMS4xMzkwJywgJzExMzkuMDAwMCcsICAnMS4xMzkwJwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZW50aXR5KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFxGbHVjdFxCYXRjaFxSZXBvcnRcQWRuSW1wb3J0XFlpZWxkU3BDb252ZXJ0TWFwcGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGVzdC1zaXRlXzEyMzQ1XzY3ODkwJywgJ+mFjeS/oeS4rScsICcyMDE3LzEwLzIwIDEyOjAwOjAwJywgJzEnICwgJzEnLCAnMS4xMzkwJywgJzExMzkuMDAwMCcsICAnMS4xMzkwJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEZsdWN0XEJhdGNoXFJlcG9ydFxBZG5JbXBvcnRcWWllbGRTcFZhbGlkYXRvcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEZsdWN0XEJhdGNoXFJlcG9ydFxBZG5JbXBvcnRcWWllbGRTcENvbnZlcnRNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFxGbHVjdFxCYXRjaFxSZXBvcnRcQWRuSW1wb3J0XFlpZWxkU3BDb252ZXJ0TWFwcGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFJWaWRDb252ZXJ0TWFwcGVyKCRkYXRlLCAkbG9nZ2VyLCAkZGJTbGF2ZSksCg==</text>
+        <text encoding="base64">dXNlIEZsdWN0XEJhdGNoXFJlcG9ydFxBZG5JbXBvcnRcWWllbGRTcFZhbGlkYXRvcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGRhdGUscHVibGlzaGVyLHB1Ymxpc2hlcl9uYW1lLHB1Ymxpc2hlcl9pZCxwYWdlX3R5cGUscGxhY2VtZW50LHBhZ2Vfdmlld3MscGFnZV92aWV3c193aXRoX2FkcyxwYWdlX3ZpZXdzX3dpdGhfYWRzX3BjdCxjbGlja3MsY3RyLGFkX2NwYyxhZF9ycG0sYWRfcmV2ZW51ZSxjdXJyZW5jeQo=</text>
+        <text encoding="base64">dXNlIEZsdWN0XEJhdGNoXFJlcG9ydFxBZG5JbXBvcnRcWWllbGRTcENvbnZlcnRNYXBwZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
