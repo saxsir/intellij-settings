@@ -108,11 +108,11 @@
         <mark key="^" line="45" column="33" />
         <mark key="." line="114" column="55" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/Taboola/AssignMapper.php" timestamp="1520316392992">
-        <mark key="[" line="42" column="78" />
-        <mark key="]" line="42" column="78" />
-        <mark key="." line="42" column="78" />
-        <mark key="^" line="42" column="77" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/Taboola/AssignMapper.php" timestamp="1520320751088">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="20" column="9" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" timestamp="1519176178922">
         <mark key="'" line="160" column="21" />
@@ -167,11 +167,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/findrules/findrules.go" timestamp="1516080963317">
         <mark key="'" line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Taboola/AssignMapperTest.php" timestamp="1520314274537">
-        <mark key="[" line="27" column="164" />
-        <mark key="]" line="27" column="166" />
-        <mark key="." line="27" column="166" />
-        <mark key="^" line="27" column="166" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Taboola/AssignMapperTest.php" timestamp="1520321257945">
+        <mark key="'" line="46" column="33" />
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="40" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/sha1sum/aws_signing_client/client.go" timestamp="1516080274811">
         <mark key="'" line="64" column="35" />
@@ -331,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_elb.tf" />
       <jump line="43" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" />
       <jump line="38" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" />
       <jump line="14" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" />
@@ -431,6 +431,7 @@
       <jump line="108" column="46" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Sprout/ImportSpCommand.php" />
       <jump line="28" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
       <jump line="70" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
+      <jump line="46" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Taboola/AssignMapperTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -452,40 +453,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>frame_name</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUCkRJU1RJTkNUCiAgT0Mub2RyX2lkIGFzIGNyZWF0aXZlX2lkLAogIFNVLnNwdF91bml0X25hbWUsCiAgU1Uuc3B0X3NpemUsCiAgU1Uuc3B0X21lZGlhLAogIFNVLnNwdF9vcywKICBPQ0Eub2RyX3RhcmdldGluZ19vcyBhcyBvZHJfb3MsCiAgU1Uuc3B0X2Rpc3BsYXlfc3R5bGUsCiAgU1Uuc3B0X3JlcG9ydF9kaXNwbGF5X3N0eWxlX2NvbnZlcnRfdHlwZSwKICBTVS5zcHRfc3BvdF9uYW1lLAogIFNVLnNwdF9wYWdlX25hbWUsCiAgU0Euc3B0X3NvdXJjZV9pZCwKICBTUy5zcHRfYWNzX2lkIEFTIGFjc19pZApGUk9NCiAgb2RyX2FkX2ZyYW1lIGFzIE9BRgogIExFRlQgSk9JTiBzcHRfdW5pdCBhcyBTVQogICAgICAgICBPTiBTVS5zcHRfaWQgPSBPQUYub2RyX2FkX3VuaXRfaWQKICBMRUZUIEpPSU4gb2RyX2NyZWF0aXZlX3NldHRpbmcgT0MKICAgICAgICAgT04gT0FGLm9kcl9jYW1wYWlnbl9pZCA9IE9DLm9kcl9jYW1wYWlnbl9pZAogIExFRlQgSk9JTiBvZHJfY2FtcGFpZ24gT0NBCiAgICAgICAgIE9OIE9BRi5vZHJfY2FtcGFpZ25faWQgPSBPQ0Eub2RyX2lkCiAgTEVGVCBKT0lOIHNwdF9ncm91cF91bml0IFNHVQogICAgICAgICBPTiBTVS5zcHRfaWQgPSBTR1Uuc3B0X3VuaXRfaWQKICBMRUZUIEpPSU4gc3B0X2dyb3VwIFNHCiAgICAgICAgIE9OIFNHVS5zcHRfZ3JvdXBfaWQgPSBTRy5zcHRfaWQKICBMRUZUIEpPSU4gJHNwdEFkblRhYmxlTmFtZSBTQQogICAgICAgICBPTiBTRy5zcHRfc2l0ZV9pZCA9IFNBLnNwdF9zaXRlX2lkCiAgTEVGVCBKT0lOIHNwdF9zaXRlIFNTCiAgICAgICAgIE9OIFNHLnNwdF9zaXRlX2lkID0gU1Muc3B0X2lkCldIRVJFCk9DLm9kcl9pZCA9IDpjcmVhdGl2ZV9pZAogIEFORCBTQS5zcHRfcmV2ZW51ZV9tb250aCA9IDpzcHRfcmV2ZW51ZV9tb250aApPUkRFUiBCWSBTQS5zcHRfaWQgREVTQwpsaW1pdCAxCg==</text>
+      <register name="0" type="4">
+        <text>2018-03-05 00:00:00.0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGl0ZW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBkYXRlLHB1Ymxpc2hlcixwdWJsaXNoZXJfbmFtZSxwdWJsaXNoZXJfaWQscGFnZV90eXBlLHBsYWNlbWVudCxwYWdlX3ZpZXdzLHBhZ2Vfdmlld3Nfd2l0aF9hZHMscGFnZV92aWV3c193aXRoX2Fkc19wY3QsY2xpY2tzLGN0cixhZF9jcGMsYWRfcnBtLGFkX3JldmVudWUsY3VycmVuY3kK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZW50aXR5KTsK</text>
+        <text encoding="base64">ICAgIC8vIFxGbHVjdFxCYXRjaFxSZXBvcnRcQWRuSW1wb3J0XFlpZWxkU3BDb252ZXJ0TWFwcGVyIOOBp+OAgWltcHMgLyBjbGljayAvIHByaWNlIOOCkuWPluOCiuWHuuOBl+OBpuOBhOOCiwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZW50aXR5KTsK</text>
+        <text encoding="base64">ICAgIC8vIENTVuOBruOCq+ODqeODoOOBr+S4i+iomAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2ZyYW1lX25hbWUnID0+ICd0ZXN0LXNpdGVfMTIzNDVfNjc4OTAnLAogICAgICAgICAgICAgICAgICAgICAgICAncHJpY2UnID0+ICcxLjEzOTAnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGVzdC1zaXRlXzEyMzQ1XzY3ODkwJywgJ+mFjeS/oeS4rScsICcyMDE3LzEwLzIwIDEyOjAwOjAwJywgJzEnICwgJzEnLCAnMS4xMzkwJywgJzExMzkuMDAwMCcsICAnMS4xMzkwJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ19zdGF0dXMnID0+ICfphY3kv6HkuK0nLAogICAgICAgICAgICAgICAgICAgICAgICAnX2NyZWF0ZWRBdCcgPT4gJzIwMTcvMTAvMjAgMTI6MDA6MDAnLAogICAgICAgICAgICAgICAgICAgICAgICAnX3BsYXlzJyA9PiAnMScsCiAgICAgICAgICAgICAgICAgICAgICAgICdfcGxheXNDb21wbGV0ZWQnID0+ICcxJywKICAgICAgICAgICAgICAgICAgICAgICAgJ19jcGN2JyA9PiAnMS4xMzkwJywKICAgICAgICAgICAgICAgICAgICAgICAgJ19jcG0nID0+ICcxMTM5LjAwMDAnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDjgrnjg53jg4Pjg4jlkI0s44K544OG44O844K/44K5LOeZu+mMsuaXpSzlho3nlJ/mlbAs5YaN55Sf5a6M5LqG5pWwLENQQ1YsQ1BNLOWPjuebiumHkemhjQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFxGbHVjdFxCYXRjaFxSZXBvcnRcQWRuSW1wb3J0XFlpZWxkU3BDb252ZXJ0TWFwcGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGl0ZW0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEZsdWN0XEJhdGNoXFJlcG9ydFxBZG5JbXBvcnRcWWllbGRTcFZhbGlkYXRvcjsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZW50aXR5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEZsdWN0XEJhdGNoXFJlcG9ydFxBZG5JbXBvcnRcWWllbGRTcENvbnZlcnRNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZW50aXR5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -522,7 +523,6 @@
         <entry>date</entry>
       </history-search>
       <history-cmd>
-        <entry>245</entry>
         <entry>183</entry>
         <entry>191</entry>
         <entry>807</entry>
@@ -541,6 +541,7 @@
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>92</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
