@@ -135,6 +135,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/sre/variables.tf" timestamp="1518157096592">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/debug/debug.go" timestamp="1520501573138">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+        <mark key="^" line="28" column="39" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/iam/role/role.tf" timestamp="1519871423844">
         <mark key="'" line="78" column="2" />
       </file>
@@ -217,15 +223,14 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/global.auto.tfvars" timestamp="1518157123030">
         <mark key="'" line="22" column="23" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1520501515122">
+        <mark key="." line="278" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/aws/global.auto.tfvars" timestamp="1518157079919">
         <mark key="'" line="22" column="23" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
-      <jump line="160" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_google_adx/tables.mk" />
-      <jump line="0" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/port_to_datastudio_source.py" />
       <jump line="67" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/port_summary_to_datastudio.py" />
       <jump line="131" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/port_summary_to_datastudio.py" />
       <jump line="65" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/iam.tf" />
@@ -322,6 +327,10 @@
       <jump line="20" column="59" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
       <jump line="83" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
       <jump line="32" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="142" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="42" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="540" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="140" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -343,13 +352,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'https://backstage.taboola.com/backstage/api/1.0/%s/reports/revenue-summary/dimensions/day_site_placement_breakdown'</text>
+        <text>9515</text>
       </register>
       <register name="/" type="4">
-        <text>account</text>
+        <text>timeout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50SWQgPSAkY2xpZW50SWQ7Cg==</text>
+        <text encoding="base64">CXJldHVybiAiaHR0cDovL2xvY2FsaG9zdDo5NTE1Igo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBkYXRlLHB1Ymxpc2hlcixwdWJsaXNoZXJfbmFtZSxwdWJsaXNoZXJfaWQscGFnZV90eXBlLHBsYWNlbWVudCxwYWdlX3ZpZXdzLHBhZ2Vfdmlld3Nfd2l0aF9hZHMscGFnZV92aWV3c193aXRoX2Fkc19wY3QsY2xpY2tzLGN0cixhZF9jcGMsYWRfcnBtLGFkX3JldmVudWUsY3VycmVuY3kK</text>
@@ -383,15 +392,14 @@
       </register>
     </registers>
     <search>
-      <last-search>account</last-search>
+      <last-search>timeout</last-search>
       <last-offset />
-      <last-pattern>account</last-pattern>
+      <last-pattern>timeout</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry>cloud</entry>
         <entry>spot_nammme</entry>
         <entry>spot_name</entry>
@@ -411,6 +419,7 @@
         <entry>clean</entry>
         <entry>array</entry>
         <entry>account</entry>
+        <entry>timeout</entry>
       </history-search>
       <history-cmd>
         <entry>183</entry>
