@@ -16,12 +16,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/main.js" timestamp="1513926542297">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1520310158124">
-        <mark key="'" line="11" column="41" />
-        <mark key="[" line="100" column="12" />
-        <mark key="]" line="101" column="11" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1520492705441">
+        <mark key="'" line="51" column="51" />
+        <mark key="[" line="94" column="25" />
+        <mark key="]" line="94" column="25" />
         <mark key="^" line="101" column="11" />
-        <mark key="." line="101" column="11" />
+        <mark key="." line="94" column="25" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
@@ -58,12 +58,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/ads_txt.py" timestamp="1518057405961">
         <mark key="'" line="39" column="20" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1520310335023">
-        <mark key="'" line="12" column="6" />
-        <mark key="[" line="58" column="8" />
-        <mark key="]" line="58" column="47" />
-        <mark key="." line="58" column="47" />
-        <mark key="^" line="58" column="47" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1520492800831">
+        <mark key="'" line="32" column="32" />
+        <mark key="[" line="78" column="29" />
+        <mark key="]" line="78" column="32" />
+        <mark key="." line="78" column="32" />
+        <mark key="^" line="78" column="32" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Sprout/AggregateCommand.php" timestamp="1520242809979">
         <mark key="'" line="53" column="44" />
@@ -222,24 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" />
-      <jump line="102" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" />
-      <jump line="29" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" />
-      <jump line="46" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" />
-      <jump line="86" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Google/AdsenseClient.php" />
-      <jump line="13" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
-      <jump line="101" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
-      <jump line="105" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
-      <jump line="110" column="60" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
-      <jump line="116" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
-      <jump line="117" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
-      <jump line="132" column="81" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
-      <jump line="141" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
-      <jump line="142" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
-      <jump line="145" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
-      <jump line="151" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
-      <jump line="152" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
-      <jump line="153" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
       <jump line="155" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
       <jump line="160" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.lock" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_google_adx/tables.mk" />
@@ -289,7 +271,6 @@
       <jump line="41" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
       <jump line="12" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="39" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
-      <jump line="58" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="59" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="61" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="91" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
@@ -302,7 +283,6 @@
       <jump line="9" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="25" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Command/Report/Adsense/ConvertCommandReceiverTest.php" />
       <jump line="12" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
-      <jump line="11" column="41" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="77" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
       <jump line="52" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
       <jump line="53" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
@@ -322,6 +302,26 @@
       <jump line="45" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
       <jump line="12" column="57" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
       <jump line="121" column="41" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
+      <jump line="58" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
+      <jump line="95" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
+      <jump line="78" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="87" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="26" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="50" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="24" column="31" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="11" column="40" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
+      <jump line="94" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
+      <jump line="99" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
+      <jump line="101" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
+      <jump line="60" column="41" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
+      <jump line="85" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
+      <jump line="51" column="51" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
+      <jump line="29" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="20" column="59" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="83" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
+      <jump line="32" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -343,13 +343,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJld2FyZGVkIHZpZGVvIGltcHJlc3Npb25z</text>
+        <text>'https://backstage.taboola.com/backstage/api/1.0/%s/reports/revenue-summary/dimensions/day_site_placement_breakdown'</text>
       </register>
       <register name="/" type="4">
-        <text>clean</text>
+        <text>account</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;ecs-tasks.amazonaws.com&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50SWQgPSAkY2xpZW50SWQ7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBkYXRlLHB1Ymxpc2hlcixwdWJsaXNoZXJfbmFtZSxwdWJsaXNoZXJfaWQscGFnZV90eXBlLHBsYWNlbWVudCxwYWdlX3ZpZXdzLHBhZ2Vfdmlld3Nfd2l0aF9hZHMscGFnZV92aWV3c193aXRoX2Fkc19wY3QsY2xpY2tzLGN0cixhZF9jcGMsYWRfcnBtLGFkX3JldmVudWUsY3VycmVuY3kK</text>
@@ -383,16 +383,14 @@
       </register>
     </registers>
     <search>
-      <last-search>clean</last-search>
+      <last-search>account</last-search>
       <last-offset />
-      <last-pattern>clean</last-pattern>
+      <last-pattern>account</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sandbox</entry>
-        <entry>sand</entry>
         <entry>log</entry>
         <entry>cloud</entry>
         <entry>spot_nammme</entry>
@@ -411,6 +409,8 @@
         <entry>fluct_haste</entry>
         <entry>es</entry>
         <entry>clean</entry>
+        <entry>array</entry>
+        <entry>account</entry>
       </history-search>
       <history-cmd>
         <entry>183</entry>
