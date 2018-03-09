@@ -16,11 +16,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/js/main.js" timestamp="1513926542297">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/build.sbt" timestamp="1520576454673">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="2" column="38" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/build.sbt" timestamp="1520578692510">
+        <mark key="'" line="7" column="2" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1520492705441">
         <mark key="'" line="51" column="51" />
@@ -223,7 +223,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Ameba/ImportSpCommand.php" timestamp="1516685618172">
         <mark key="'" line="130" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/hello/hello.scala" timestamp="1520577452717">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/hello/hello.scala" timestamp="1520579059601">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="17" />
@@ -254,17 +254,18 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1520501515122">
         <mark key="." line="278" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/sazabi-st/build.sbt" timestamp="1520576096150">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/sazabi-st/build.sbt" timestamp="1520578417757">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="36" column="0" />
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="36" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/aws/global.auto.tfvars" timestamp="1518157079919">
         <mark key="'" line="22" column="23" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/iam.tf" />
       <jump line="100" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
       <jump line="106" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/iam.tf" />
       <jump line="101" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
@@ -364,6 +365,7 @@
       <jump line="140" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/sazabi-st/src/main/scala/sazabi/st/lambda/Hello.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/sazabi-st/build.sbt" />
+      <jump line="5" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/build.sbt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -394,31 +396,31 @@
         <text encoding="base64">ICBvdmVycmlkZSBkZWYgaGFuZGxlUmVxdWVzdChldmVudDogU3RyaW5nLCBjb250ZXh0OiBDb250ZXh0KTogU3RyaW5nID0gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJoZWxsbyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJoZWxsbyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgaGVsbG8obXlDb3VudDogSW50LCBjb250ZXh0OiBDb250ZXh0KTogamF2YS51dGlsLkxpc3Rbc3RyaW5nXSA9IHsKCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgSGVsbG8gewo=</text>
+        <text encoding="base64">ICBkZWYgaGVsbG8obXlDb3VudDogSW50LCBjb250ZXh0OiBDb250ZXh0KTogamF2YS51dGlsLkxpc3Rbc3RyaW5nXSA9IHsKCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZGVmIGhhbmRsZVJlcXVlc3QoZXZlbnQ6IFN0cmluZywgY29udGV4dDogQ29udGV4dCk6IFN0cmluZyA9IHsKICAgIGxvZ2dlci5pbmZvKCJoZWxsbyIpCgogICAgZXZlbnQKICB9Cg==</text>
+        <text encoding="base64">Y2xhc3MgSGVsbG8gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5zY2FsYWxvZ2dpbmcuTGF6eUxvZ2dpbmcK</text>
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZGVmIGhhbmRsZVJlcXVlc3QoZXZlbnQ6IFN0cmluZywgY29udGV4dDogQ29udGV4dCk6IFN0cmluZyA9IHsKICAgIGxvZ2dlci5pbmZvKCJoZWxsbyIpCgogICAgZXZlbnQKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5zY2FsYWxvZ2dpbmcuTGF6eUxvZ2dpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
