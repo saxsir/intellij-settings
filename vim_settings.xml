@@ -69,11 +69,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/ads_txt.py" timestamp="1518057405961">
         <mark key="'" line="39" column="20" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1520492800831">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" timestamp="1520584519272">
         <mark key="'" line="32" column="32" />
-        <mark key="[" line="78" column="29" />
-        <mark key="]" line="78" column="32" />
-        <mark key="." line="78" column="32" />
+        <mark key="[" line="60" column="39" />
+        <mark key="]" line="60" column="40" />
+        <mark key="." line="60" column="40" />
         <mark key="^" line="78" column="32" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Sprout/AggregateCommand.php" timestamp="1520242809979">
@@ -387,7 +387,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdpdGggTGF6eUxvZ2dpbmc=</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>asse</text>
