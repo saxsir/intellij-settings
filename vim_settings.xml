@@ -102,6 +102,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/port_to_datastudio_source.py" timestamp="1519195449732">
         <mark key="'" line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1520558024138">
+        <mark key="[" line="296" column="27" />
+        <mark key="]" line="296" column="49" />
+        <mark key="^" line="296" column="25" />
+        <mark key="." line="296" column="27" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Microad/ReportScraper.php" timestamp="1511508874350">
         <mark key="'" line="4" column="33" />
       </file>
@@ -135,7 +141,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/sre/variables.tf" timestamp="1518157096592">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/debug/debug.go" timestamp="1520501573138">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/debug/debug.go" timestamp="1520557926945">
         <mark key="[" line="28" column="29" />
         <mark key="]" line="28" column="39" />
         <mark key="." line="28" column="39" />
@@ -352,13 +358,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>9515</text>
+        <text>プログラム自動更新のテスト用ルール</text>
       </register>
       <register name="/" type="4">
         <text>timeout</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXJldHVybiAiaHR0cDovL2xvY2FsaG9zdDo5NTE1Igo=</text>
+      <register name="0" type="4">
+        <text>test_pam_tuning_update</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBkYXRlLHB1Ymxpc2hlcixwdWJsaXNoZXJfbmFtZSxwdWJsaXNoZXJfaWQscGFnZV90eXBlLHBsYWNlbWVudCxwYWdlX3ZpZXdzLHBhZ2Vfdmlld3Nfd2l0aF9hZHMscGFnZV92aWV3c193aXRoX2Fkc19wY3QsY2xpY2tzLGN0cixhZF9jcGMsYWRfcnBtLGFkX3JldmVudWUsY3VycmVuY3kK</text>
