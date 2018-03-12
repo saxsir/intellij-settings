@@ -60,10 +60,10 @@
         <mark key="[" line="92" column="0" />
         <mark key="]" line="126" column="6" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Command/Report/Taboola/AggregateCommandTest.php" timestamp="1520305012615">
-        <mark key="[" line="28" column="82" />
-        <mark key="]" line="28" column="82" />
-        <mark key="." line="28" column="82" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Command/Report/Taboola/AggregateCommandTest.php" timestamp="1520818640941">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
         <mark key="^" line="28" column="13" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/ads_txt.py" timestamp="1518057405961">
@@ -80,10 +80,6 @@
         <mark key="'" line="53" column="44" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="93" column="4" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Maio/AssignMapperTest.php" timestamp="1520313387446">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="45" column="13" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Command/Report/Adsense/ConvertCommandReceiverTest.php" timestamp="1520303792484">
         <mark key="'" line="25" column="0" />
@@ -223,7 +219,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Ameba/ImportSpCommand.php" timestamp="1516685618172">
         <mark key="'" line="130" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/hello/hello.scala" timestamp="1520579059601">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/hello/hello.scala" timestamp="1520587648207">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="17" />
@@ -387,7 +383,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>Csv</text>
       </register>
       <register name="/" type="4">
         <text>asse</text>
