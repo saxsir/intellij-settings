@@ -20,11 +20,11 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/build.sbt" timestamp="1520578692510">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/build.sbt" timestamp="1521002290054">
         <mark key="'" line="7" column="2" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1520492705441">
         <mark key="'" line="51" column="51" />
@@ -47,6 +47,11 @@
         <mark key="]" line="151" column="51" />
         <mark key="^" line="148" column="32" />
         <mark key="." line="153" column="39" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521002299482">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/bin/console.php" timestamp="1520311748473">
         <mark key="[" line="12" column="22" />
@@ -238,9 +243,9 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Ameba/ImportSpCommand.php" timestamp="1516685618172">
         <mark key="'" line="130" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/hello/hello.scala" timestamp="1520995012679">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="11" column="8" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/hello/hello.scala" timestamp="1521001729278">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="15" column="0" />
         <mark key="." line="11" column="8" />
         <mark key="^" line="11" column="8" />
       </file>
@@ -406,40 +411,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>maio_rvid</text>
+        <text>hello&quot;</text>
       </register>
       <register name="/" type="4">
         <text>maio</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIOOBk+OBk+OBq29wdGlvbl9pZOOCkui/veWKoOOBmeOCi+OBqOaXp+OBi+OCiemZpOWkluOBleOCjOOBpuaWsOW8j+OBp+WGjeWPlui+vOOBjOWun+ihjOOBleOCjOOCiwogICAgLy8g5o+Q5pC65YWI5q+O44Gr56e76KGM44GZ44KL44Gf44KB44Gu56e76KGM5qmf6IO9Cg==</text>
+      <register name="0" type="4">
+        <text>amazon-kinesis-client</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oInJldHJhY2UiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdW5pdCk7Cg==</text>
+        <text encoding="base64">ICAiY29tLmFtYXpvbmF3cyIgJSAiYW1hem9uLWtpbmVzaXMtY2xpZW50IiAlICIxLjkuMCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYWNzSWQpOwogICAgICAgIHZhcl9kdW1wKCRjcmVhdGl2ZUlkKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiYmJiIik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkaXRlbSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkaXRlbSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdW5pdCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYWNzSWQpOwogICAgICAgIHZhcl9kdW1wKCRjcmVhdGl2ZUlkKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiYmJiIik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkaXRlbSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCRjcmVhdGl2ZUlkCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkaXRlbSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiPz8/Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
