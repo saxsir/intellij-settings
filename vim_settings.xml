@@ -48,11 +48,12 @@
         <mark key="^" line="148" column="32" />
         <mark key="." line="153" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521006774938">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="18" column="35" />
-        <mark key="." line="18" column="35" />
-        <mark key="^" line="18" column="35" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521009528202">
+        <mark key="'" line="21" column="35" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/bin/console.php" timestamp="1520311748473">
         <mark key="[" line="12" column="22" />
@@ -291,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
       <jump line="40" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-batch.json" />
       <jump line="39" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-batch.json" />
       <jump line="23" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-batch.json" />
@@ -391,6 +391,7 @@
       <jump line="105" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
       <jump line="63" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
       <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Entity/Cmn/CmnAdnetworkMaster.php" />
+      <jump line="18" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -412,40 +413,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>record</text>
+        <text>proguard</text>
       </register>
       <register name="/" type="4">
         <text>maio</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMubGFtYmRhLnJ1bnRpbWUue1JlcXVlc3RIYW5kbGVyLCBDb250ZXh0fQo=</text>
+        <text encoding="base64">Y2xhc3MgUmV0cmFjZSBleHRlbmRzIFJlcXVlc3RIYW5kbGVyW0tpbmVzaXNFdmVudCwgU3RyaW5nXSB7CgogIG92ZXJyaWRlIGRlZiBoYW5kbGVSZXF1ZXN0KGV2ZW50OiBLaW5lc2lzRXZlbnQsIGNvbnRleHQ6IENvbnRleHQpOiBTdHJpbmcgPSB7CgogICAgcHJpbnRsbigiaGVsbG8iKQoKICAgIGZvciAocmVjIDwtIGV2ZW50LmdldFJlY29yZHMpIHsKICAgICAgdmFyIGRhdGEgPSBuZXcgU3RyaW5nKHJlYy5nZXRLaW5lc2lzLmdldERhdGEuYXJyYXkoKSkKICAgICAgcHJpbnRsbihzImRhdGE6ICR7ZGF0YX0iKQogICAgfQoKICAgIFByb2Nlc3MoImphdmEgLWphciByZXRyYWNlLmphciBtYXBwaW5nLnR4dCBzdGFja3RyYWNlLnR4dCIpICEKCiAgICBldmVudC5nZXRSZWNvcmRzLmxlbmd0aC50b1N0cmluZwogIH0KCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciAocmVjIDwtIGV2ZW50LmdldFJlY29yZHMpIHsKICAgICAgdmFyIGRhdGEgPSBuZXcgU3RyaW5nKHJlYy5nZXRLaW5lc2lzLmdldERhdGEuYXJyYXkoKSkKICAgICAgcHJpbnRsbihzImRhdGE6ICR7ZGF0YX0iKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGRhdGEgPSBuZXcgU3RyaW5nKHJlYy5nZXRLaW5lc2lzLmdldERhdGEuYXJyYXkoKSkK</text>
+        <text encoding="base64">ICAgIFByb2Nlc3MoImNhdCBzdGFja3RyYWNlLnR4dCIpIHJ1bgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LmdldFJlY29yZHMuZm9yZWFjaChyZWMgPT4gewogICAgfSkKCg==</text>
+        <text encoding="base64">ICAgIHZhbCB0eHQgPSAiY2F0IHN0YWNrdHJhY2UudHh0IiAhIQogICAgI3wgImphdmEgamFyIHByb2d1YXJkLmphciBtYXBwaW5nLnR4dCIKICAgIFByb2Nlc3MoImNhdCBzdGFja3RyYWNlLnR4dCIpICN8IFByb2Nlc3MoImphdmEgLWphciBwcm9ndWFyZC5qYXIgbWFwcGluZy50eHQiKSBydW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGRhdGEgPSBuZXcgU3RyaW5nKHJlYy5nZXRLaW5lc2lzLmdldERhdGEuYXJyYXkoKSkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocmVzdWx0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzImRhdGE6ICR7ZGF0YX0iKQo=</text>
+        <text encoding="base64">ICAgIHZhbCByZXN1bHRTdHJpbmc6IFN0cmluZyA9IFByb2Nlc3MoImxzIikgISEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a2tra2trawo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocmVzdWx0U3RyaW5nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBleGl0Q29kZSA9ICJscyAtYWwiLiEKICAgIHByaW50bG4oZXhpdENvZGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cy5wcm9jZXNzLl8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
