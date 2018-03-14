@@ -48,10 +48,11 @@
         <mark key="^" line="148" column="32" />
         <mark key="." line="153" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521002299482">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521006774938">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="18" column="35" />
+        <mark key="." line="18" column="35" />
+        <mark key="^" line="18" column="35" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/bin/console.php" timestamp="1520311748473">
         <mark key="[" line="12" column="22" />
@@ -411,40 +412,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hello&quot;</text>
+        <text>record</text>
       </register>
       <register name="/" type="4">
         <text>maio</text>
       </register>
-      <register name="0" type="4">
-        <text>amazon-kinesis-client</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMubGFtYmRhLnJ1bnRpbWUue1JlcXVlc3RIYW5kbGVyLCBDb250ZXh0fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInJldHJhY2UiKQo=</text>
+        <text encoding="base64">ICAgIGZvciAocmVjIDwtIGV2ZW50LmdldFJlY29yZHMpIHsKICAgICAgdmFyIGRhdGEgPSBuZXcgU3RyaW5nKHJlYy5nZXRLaW5lc2lzLmdldERhdGEuYXJyYXkoKSkKICAgICAgcHJpbnRsbihzImRhdGE6ICR7ZGF0YX0iKQogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiY29tLmFtYXpvbmF3cyIgJSAiYW1hem9uLWtpbmVzaXMtY2xpZW50IiAlICIxLjkuMCIK</text>
+        <text encoding="base64">ICAgICAgdmFsIGRhdGEgPSBuZXcgU3RyaW5nKHJlYy5nZXRLaW5lc2lzLmdldERhdGEuYXJyYXkoKSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdW5pdCk7Cg==</text>
+        <text encoding="base64">ICAgIGV2ZW50LmdldFJlY29yZHMuZm9yZWFjaChyZWMgPT4gewogICAgfSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYWNzSWQpOwogICAgICAgIHZhcl9kdW1wKCRjcmVhdGl2ZUlkKTsK</text>
+        <text encoding="base64">ICAgICAgdmFsIGRhdGEgPSBuZXcgU3RyaW5nKHJlYy5nZXRLaW5lc2lzLmdldERhdGEuYXJyYXkoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiYmJiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzImRhdGE6ICR7ZGF0YX0iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkaXRlbSk7Cg==</text>
+        <text encoding="base64">a2tra2trawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkaXRlbSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
