@@ -29,12 +29,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1520492705441">
-        <mark key="'" line="51" column="51" />
-        <mark key="[" line="94" column="25" />
-        <mark key="]" line="94" column="25" />
-        <mark key="^" line="101" column="11" />
-        <mark key="." line="94" column="25" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1521531468096">
+        <mark key="'" line="61" column="42" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
@@ -334,7 +333,6 @@
       <jump line="12" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="39" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="59" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
-      <jump line="61" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="91" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="53" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Sprout/AggregateCommand.php" />
       <jump line="41" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
@@ -411,6 +409,7 @@
       <jump line="124" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/html2json/html2json.go" />
       <jump line="41" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="17" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/lib/fluct/update_dynamic_allocation.py" />
+      <jump line="61" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -432,40 +431,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>native_styles</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGaW5kXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>460096813</text>
+        <text>https://github.com/taboola/Backstage-API/blob/master/Backstage%20API%20-%20Reports.pdf</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCcjIyBhZnRlciAjIycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyWzZdICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAoJHJlcG9ydERhdGFDc3YgYXMgJHJvdykgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwdXRjc3YoJGZpbGUsICRyb3cpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnIyMgYmVmb3JlICMjJykKICAgICAgICAjIFRPRE86IGludmVudG9yeVRhcmdldGluZ+OBjOioreWumuOBleOCjOOBpuOBhOOBquOBhOOBqOOCqOODqeODvCwg5LuK5Zue44Gv6Kit5a6a44GV44KM44Gm44GE44KL44KE44Gk44Gg44GR44Gq44Gu44Gn44K544Or44O8CiAgICAgICAgbG9nZ2VyLmluZm8oaXRlbVsndGFyZ2V0aW5nJ11bJ2ludmVudG9yeVRhcmdldGluZyddWyd0YXJnZXRlZEFkVW5pdHMnXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCcjIyBhZnRlciAjIycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpdGVtKQo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm9wdHMuZHJ5X3J1bjoKICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ2RyeV9ydW4gbW9kZSAuLi4gZXhpdCcpCiAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIyMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
