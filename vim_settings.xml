@@ -241,6 +241,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/html2json/html2json.go" timestamp="1521509428580">
+        <mark key="'" line="124" column="13" />
+        <mark key="[" line="124" column="78" />
+        <mark key="]" line="124" column="79" />
+        <mark key="." line="124" column="79" />
+      </file>
       <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/manifests/nodes/aws_ms_pre.pp" timestamp="1516154692323">
         <mark key="'" line="228" column="49" />
       </file>
@@ -285,6 +291,13 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/global.auto.tfvars" timestamp="1518157123030">
         <mark key="'" line="22" column="23" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1521509082744">
+        <mark key="'" line="41" column="34" />
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+        <mark key="^" line="13" column="36" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/sazabi-st/build.sbt" timestamp="1520578417757">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="35" />
@@ -297,17 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-batch.json" />
-      <jump line="39" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-batch.json" />
-      <jump line="23" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-batch.json" />
-      <jump line="25" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-batch.json" />
-      <jump line="38" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/iam.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/ms/_iam_policies/report.json" />
-      <jump line="24" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-batch.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-batch.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/iam/role/role.tf" />
-      <jump line="68" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/iam/role/role.tf" />
-      <jump line="78" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/iam/role/role.tf" />
       <jump line="137" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
       <jump line="66" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
@@ -397,6 +399,17 @@
       <jump line="63" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/ImportSpCommand.php" />
       <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Entity/Cmn/CmnAdnetworkMaster.php" />
       <jump line="18" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="207" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="4" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="229" column="51" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="433" column="52" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="16" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="17" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="208" column="51" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="74" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/html2json/html2json.go" />
+      <jump line="124" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/html2json/html2json.go" />
+      <jump line="41" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -418,10 +431,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>proguard</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>maio</text>
+        <text encoding="base64">XDxGaW5kXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV2ZW50LmdldFJlY29yZHMubGVuZ3RoLnRvU3RyaW5nCiAgfQo=</text>
@@ -458,17 +471,14 @@
       </register>
     </registers>
     <search>
-      <last-search>maio</last-search>
+      <last-search encoding="base64">XDxGaW5kXD4=</last-search>
       <last-offset />
-      <last-pattern>maio</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxGaW5kXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>adsense</entry>
-        <entry>google</entry>
-        <entry>generate</entry>
         <entry>S2</entry>
         <entry>S3</entry>
         <entry>s3</entry>
@@ -486,6 +496,9 @@
         <entry>ass</entry>
         <entry>asse</entry>
         <entry>maio</entry>
+        <entry>n</entry>
+        <entry>RULE_DOM_DFP_XPATH</entry>
+        <entry encoding="base64">XDxGaW5kXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>183</entry>
