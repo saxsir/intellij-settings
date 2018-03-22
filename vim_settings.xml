@@ -19,12 +19,12 @@
         <mark key="." line="18" column="46" />
         <mark key="^" line="20" column="93" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/build.sbt" timestamp="1521694557828">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/build.sbt" timestamp="1521705125687">
         <mark key="'" line="7" column="2" />
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="12" column="43" />
-        <mark key="." line="12" column="43" />
-        <mark key="^" line="12" column="43" />
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+        <mark key="^" line="13" column="48" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1521534114023">
         <mark key="'" line="54" column="47" />
@@ -35,12 +35,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521699171766">
-        <mark key="'" line="42" column="27" />
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="29" />
-        <mark key="." line="42" column="29" />
-        <mark key="^" line="42" column="42" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521704817127">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="59" column="53" />
+        <mark key="]" line="59" column="53" />
+        <mark key="." line="59" column="53" />
+        <mark key="^" line="58" column="7" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/bin/console.php" timestamp="1520311748473">
         <mark key="[" line="12" column="22" />
@@ -251,13 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Sprout/AggregateCommand.php" />
-      <jump line="38" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
-      <jump line="95" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
-      <jump line="41" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
-      <jump line="12" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
-      <jump line="39" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
-      <jump line="59" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="91" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="53" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Sprout/AggregateCommand.php" />
       <jump line="41" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
@@ -351,6 +344,13 @@
       <jump line="92" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="31" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="42" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="41" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="11" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="47" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="30" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="45" column="75" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="44" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -367,55 +367,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>java -jar retrace.jar mapping.txt</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpXD4=</text>
+        <text>48</text>
       </register>
-      <register name="0" type="4">
-        <text>Process(&quot;java -jar retrace.jar mapping.txt stacktrace.txt&quot;) !</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLy92YWwgcmVzdWx0OiBMaXN0W1N0cmluZ10gPSBQcm9jZXNzKHMiZWNobyAkc3QiKSAjfCBQcm9jZXNzKCJqYXZhIC1qYXIgcmV0cmFjZS5qYXIgbWFwcGluZy50eHQiKS5saW5lcy50b0xpc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgKi8K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgUHJvY2VzcygiamF2YSAtamFyIHJldHJhY2UuamFyIG1hcHBpbmcudHh0IHN0YWNrdHJhY2UudHh0IikgIQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigiYWZ0ZXIiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiY29tLmZhc3RlcnhtbC5qYWNrc29uLm1vZHVsZSIgJSAiamFja3Nvbi1tb2R1bGUtc2NhbGFfMi4xMSIgJSAiMi41LjIiLAo=</text>
+        <text encoding="base64">ICAgICAgLyoKICAgICAgcHJpbnRsbigiYmVmb3JlIikKICAgICAgcHJpbnRsbihzdCkKCiAgICAgIHZhbCByZXN1bHQ6TGlzdFtTdHJpbmddID0gUHJvY2VzcyhzImVjaG8gJHN0IikgI3wgUHJvY2VzcygiamF2YSAtamFyIHJldHJhY2UuamFyIG1hcHBpbmcudHh0IikubGluZXMudG9MaXN0CgogICAgICBwcmludGxuKCJhZnRlciIpCiAgICAgIHByaW50bG4ocmVzdWx0LnRvU3RyaW5nKQogICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHMgPSBkYXRhLmV4dHJhY3RbRGF0YVNjaGVtYV0K</text>
+        <text encoding="base64">ICAgICAgcHJpbnQocmVzdWx0LnRvU3RyaW5nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHN0ID0gKGRhdGEgXCAic3QiKS5leHRyYWN0W1N0cmluZ10KCiAgICAgIHByaW50KHN0KQoK</text>
+        <text encoding="base64">ICAgICAga28K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpXD4=</last-search>
+      <last-search>48</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>48</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>count</entry>
         <entry>haste_batch</entry>
         <entry>arn</entry>
         <entry>date</entry>
@@ -435,9 +434,9 @@
         <entry>ReportFilter</entry>
         <entry>logger</entry>
         <entry encoding="base64">XDxpXD4=</entry>
+        <entry>48</entry>
       </history-search>
       <history-cmd>
-        <entry>183</entry>
         <entry>191</entry>
         <entry>807</entry>
         <entry>41</entry>
@@ -456,6 +455,7 @@
         <entry>e</entry>
         <entry>wq</entry>
         <entry>vs</entry>
+        <entry>46</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
