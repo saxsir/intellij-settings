@@ -19,12 +19,12 @@
         <mark key="." line="18" column="46" />
         <mark key="^" line="20" column="93" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/build.sbt" timestamp="1521687108166">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/build.sbt" timestamp="1521694557828">
         <mark key="'" line="7" column="2" />
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="12" column="2" />
-        <mark key="." line="12" column="2" />
-        <mark key="^" line="12" column="94" />
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="12" column="43" />
+        <mark key="." line="12" column="43" />
+        <mark key="^" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1521534114023">
         <mark key="'" line="54" column="47" />
@@ -35,12 +35,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521687238487">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521694571644">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="23" column="27" />
+        <mark key="[" line="38" column="68" />
+        <mark key="]" line="40" column="66" />
+        <mark key="." line="40" column="66" />
+        <mark key="^" line="40" column="66" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/bin/console.php" timestamp="1520311748473">
         <mark key="[" line="12" column="22" />
@@ -367,40 +367,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>uus</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
       <register name="0" type="4">
-        <text>com.amazonaws.services.lambda.runtime.events.KinesisEvent</text>
+        <text>JsonMethods</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAiY29tLmZhc3RlcnhtbC5qYWNrc29uLm1vZHVsZSIgJSAiamFja3Nvbi1tb2R1bGUtc2NhbGFfMi4xMSIgJSAiMi41LjIiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHMgPSBkYXRhLmV4dHJhY3RbRGF0YVNjaGVtYV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjb20uZmFzdGVyeG1sLmphY2tzb24uZGF0YWJpbmQuT2JqZWN0TWFwcGVyCiAgICBpbXBvcnQgY29tLmZhc3RlcnhtbC5qYWNrc29uLm1vZHVsZS5zY2FsYS5EZWZhdWx0U2NhbGFNb2R1bGUK</text>
+        <text encoding="base64">ICAgICAgdmFsIHN0ID0gKGRhdGEgXCAic3QiKS5leHRyYWN0W1N0cmluZ10KCiAgICAgIHByaW50KHN0KQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFByb2Nlc3MoImphdmEgLWphciByZXRyYWNlLmphciBtYXBwaW5nLnR4dCBzdGFja3RyYWNlLnR4dCIpICEK</text>
+        <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzImRhdGE6ICR7ZGF0YX0iKQo=</text>
+        <text encoding="base64">ICAgICAgcmUKICAgICAgdmFsIHN0ID0gZGF0YSBcICJzdCIKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGRhdGEgPSBuZXcgU3RyaW5nKHJlYy5nZXRLaW5lc2lzLmdldERhdGEuYXJyYXkoKSkK</text>
+        <text encoding="base64">ICAgICAga2trawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qc29uNHMuXwpqa2pvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBCb2R5KCkK</text>
+        <text encoding="base64">CiAgICBldmVudC5nZXRSZWNvcmRzLmxlbmd0aC50b1N0cmluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
