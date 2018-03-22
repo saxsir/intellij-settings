@@ -19,11 +19,12 @@
         <mark key="." line="18" column="46" />
         <mark key="^" line="20" column="93" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/build.sbt" timestamp="1521002290054">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/build.sbt" timestamp="1521687108166">
         <mark key="'" line="7" column="2" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="2" />
+        <mark key="." line="12" column="2" />
+        <mark key="^" line="12" column="94" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1521534114023">
         <mark key="'" line="54" column="47" />
@@ -34,12 +35,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521684199433">
-        <mark key="'" line="23" column="35" />
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="8" column="41" />
-        <mark key="^" line="8" column="40" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521687238487">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="35" />
+        <mark key="^" line="23" column="27" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/bin/console.php" timestamp="1520311748473">
         <mark key="[" line="12" column="22" />
@@ -250,8 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
-      <jump line="35" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
       <jump line="76" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Sprout/AggregateCommand.php" />
       <jump line="18" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Sprout/AggregateCommand.php" />
       <jump line="38" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/Taboola/ReportClient.php" />
@@ -350,28 +349,25 @@
       <jump line="52" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="54" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
       <jump line="18" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/Taboola/ReportFilter.php" />
+      <jump line="92" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="31" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <keys>
+          <key char="100" code="0" mods="0" />
           <key char="102" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dataSchema: Body</text>
+        <text>uus</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -380,31 +376,31 @@
         <text>com.amazonaws.services.lambda.runtime.events.KinesisEvent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyAK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBodHRwczovL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfcmVwb3J0X2JhdGNoL2lzc3Vlcy8xOTc3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBodHRwczovL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfcmVwb3J0X2JhdGNoL2lzc3Vlcy8xOTc3Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBjb20uZmFzdGVyeG1sLmphY2tzb24uZGF0YWJpbmQuT2JqZWN0TWFwcGVyCiAgICBpbXBvcnQgY29tLmZhc3RlcnhtbC5qYWNrc29uLm1vZHVsZS5zY2FsYS5EZWZhdWx0U2NhbGFNb2R1bGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlqpLkvZPnpL7mr47jgasK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjgbDjgYQK</text>
+        <text encoding="base64">ICAgIFByb2Nlc3MoImphdmEgLWphciByZXRyYWNlLmphciBtYXBwaW5nLnR4dCBzdGFja3RyYWNlLnR4dCIpICEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmYWxzZeOCkui/lOOBmeOBqHNraXDjgZXjgozjgosK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzImRhdGE6ICR7ZGF0YX0iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZXhjbHVkZU5vRGF0YVJlcG9ydCgkbG9nZ2VyKQogICAgewogICAgICAgIHJldHVybiBhcnJheV9maWx0ZXIoJHJlcG9ydHMsIGZ1bmN0aW9uICgkcmVwb3J0KSB7CiAgICAgICAgICAgIC8vICdVbmtub3duIFdpZGdldCAoTl9BKScg44Gv44OH44O844K/44Gu5a2Y5Zyo44GX44Gq44GE5LiN6KaB6KGM44Gq44Gu44Gn44CBCiAgICAgICAgICAgIC8vIOOBneOCjOS7peWkluOBruODrOODneODvOODiOOBruOBv+OCkumAmuOBmQogICAgICAgICAgICByZXR1cm4gJHJlcG9ydFsnX29yaWdpbmFsX2ZyYW1lX25hbWUnXSAhPT0gJ1Vua25vd24gV2lkZ2V0IChOX0EpJzsKICAgICAgICB9KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdmFyIGRhdGEgPSBuZXcgU3RyaW5nKHJlYy5nZXRLaW5lc2lzLmdldERhdGEuYXJyYXkoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZmFsc2XjgpLov5TjgZnjgahza2lw44GV44KM44KLCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZmFsc2XjgpLov5TjgZnjgahza2lw44GV44KM44KLCg==</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBCb2R5KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -449,7 +445,6 @@
         <entry>212</entry>
         <entry>780</entry>
         <entry>116</entry>
-        <entry>vs</entry>
         <entry>22</entry>
         <entry>12</entry>
         <entry>11</entry>
@@ -460,6 +455,7 @@
         <entry>92</entry>
         <entry>e</entry>
         <entry>wq</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
