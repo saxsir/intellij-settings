@@ -34,11 +34,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521078724876">
-        <mark key="'" line="21" column="35" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521684199433">
+        <mark key="'" line="23" column="35" />
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+        <mark key="^" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/bin/console.php" timestamp="1520311748473">
         <mark key="[" line="12" column="22" />
@@ -370,34 +371,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>dataSchema: Body</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
       <register name="0" type="4">
-        <text>$item['file_data']</text>
+        <text>com.amazonaws.services.lambda.runtime.events.KinesisEvent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBodHRwczovL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfcmVwb3J0X2JhdGNoL2lzc3Vlcy8xOTc3Cg==</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAvLyBodHRwczovL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfcmVwb3J0X2JhdGNoL2lzc3Vlcy8xOTc3Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlqpLkvZPnpL7mr47jgasK</text>
+        <text encoding="base64">ICAgICAgICAvLyBodHRwczovL2dpdGh1Yi5jb20vdm95YWdlZ3JvdXAvZmx1Y3RfcmVwb3J0X2JhdGNoL2lzc3Vlcy8xOTc3Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjgbDjgYQK</text>
+        <text encoding="base64">ICAgICAgICAvLyDlqpLkvZPnpL7mr47jgasK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmYWxzZeOCkui/lOOBmeOBqHNraXDjgZXjgozjgosK</text>
+        <text encoding="base64">ICAgICAgICAvLyDjgbDjgYQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZXhjbHVkZU5vRGF0YVJlcG9ydCgkbG9nZ2VyKQogICAgewogICAgICAgIHJldHVybiBhcnJheV9maWx0ZXIoJHJlcG9ydHMsIGZ1bmN0aW9uICgkcmVwb3J0KSB7CiAgICAgICAgICAgIC8vICdVbmtub3duIFdpZGdldCAoTl9BKScg44Gv44OH44O844K/44Gu5a2Y5Zyo44GX44Gq44GE5LiN6KaB6KGM44Gq44Gu44Gn44CBCiAgICAgICAgICAgIC8vIOOBneOCjOS7peWkluOBruODrOODneODvOODiOOBruOBv+OCkumAmuOBmQogICAgICAgICAgICByZXR1cm4gJHJlcG9ydFsnX29yaWdpbmFsX2ZyYW1lX25hbWUnXSAhPT0gJ1Vua25vd24gV2lkZ2V0IChOX0EpJzsKICAgICAgICB9KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyBmYWxzZeOCkui/lOOBmeOBqHNraXDjgZXjgozjgosK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZmFsc2XjgpLov5TjgZnjgahza2lw44GV44KM44KLCg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZXhjbHVkZU5vRGF0YVJlcG9ydCgkbG9nZ2VyKQogICAgewogICAgICAgIHJldHVybiBhcnJheV9maWx0ZXIoJHJlcG9ydHMsIGZ1bmN0aW9uICgkcmVwb3J0KSB7CiAgICAgICAgICAgIC8vICdVbmtub3duIFdpZGdldCAoTl9BKScg44Gv44OH44O844K/44Gu5a2Y5Zyo44GX44Gq44GE5LiN6KaB6KGM44Gq44Gu44Gn44CBCiAgICAgICAgICAgIC8vIOOBneOCjOS7peWkluOBruODrOODneODvOODiOOBruOBv+OCkumAmuOBmQogICAgICAgICAgICByZXR1cm4gJHJlcG9ydFsnX29yaWdpbmFsX2ZyYW1lX25hbWUnXSAhPT0gJ1Vua25vd24gV2lkZ2V0IChOX0EpJzsKICAgICAgICB9KTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gZmFsc2XjgpLov5TjgZnjgahza2lw44GV44KM44KLCg==</text>
