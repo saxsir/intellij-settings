@@ -38,11 +38,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521802004511">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="29" column="9" />
-        <mark key="]" line="29" column="10" />
-        <mark key="." line="29" column="10" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1521802962161">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
         <mark key="^" line="29" column="10" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/bin/console.php" timestamp="1520311748473">
@@ -400,31 +400,31 @@
         <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBmb3JtYXRzID0gRGVmYXVsdEZvcm1hdHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJyZWNvcmRJZCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJyZWNvcmRJZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KFNlcmlhbGl6YXRpb24ud3JpdGUocikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KFNlcmlhbGl6YXRpb24ud3JpdGUocmVzKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KFNlcmlhbGl6YXRpb24ud3JpdGUocikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpvanAK</text>
+        <text encoding="base64">ICAgIHByaW50KFNlcmlhbGl6YXRpb24ud3JpdGUocmVzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGdv5YG044Go5Z6L44Gu5LqM6YeN566h55CG44Gr44Gq44KL44Gu44GM6L6b44GE44Gu44GnY2FzZSBjbGFzc+OBr+S9v+OCj+OBmueJueWumuOBruWApOOBoOOBkeaKnOOBjeWHuuOBl+OBpuOBhOOBvuOBmQo=</text>
+        <text encoding="base64">ICAgIGpvanAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGdv5YG044Go5Z6L44Gu5LqM6YeN566h55CG44Gr44Gq44KL44Gu44GM6L6b44GE44Gu44GnY2FzZSBjbGFzc+OBr+S9v+OCj+OBmueJueWumuOBruWApOOBoOOBkeaKnOOBjeWHuuOBl+OBpuOBhOOBvuOBmQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImJlZ2luIHRyYW5zZm9ybSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImJlZ2luIHRyYW5zZm9ybSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
