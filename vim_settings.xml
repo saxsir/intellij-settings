@@ -33,12 +33,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1522044472690">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="28" column="298" />
-        <mark key="]" line="28" column="298" />
-        <mark key="^" line="26" column="60" />
-        <mark key="." line="28" column="298" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1522049705007">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="28" column="113" />
+        <mark key="]" line="28" column="119" />
+        <mark key="." line="28" column="119" />
+        <mark key="^" line="28" column="119" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/bin/console.php" timestamp="1520311748473">
         <mark key="[" line="12" column="22" />
@@ -418,7 +418,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FirehoseResponse</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>BATCH_NAME</text>
@@ -427,28 +427,28 @@
         <text encoding="base64">c2NhbGEuY29sbGVjdGlvbi5pbW11dGFibGUuTWFwW1N0cmluZyxzY2FsYS5jb2xsZWN0aW9uLm11dGFibGUuQnVmZmVyW3NjYWxhLmNvbGxlY3Rpb24uaW1tdXRhYmxlLk1hcFtTdHJpbmcsQ29tcGFyYWJsZVtfID46IGphdmEubmlvLkJ5dGVCdWZmZXIgd2l0aCBTdHJpbmcgPDogQ29tcGFyYWJsZVtfID46IGphdmEubmlvLkJ5dGVCdWZmZXIgd2l0aCBTdHJpbmcgPDogT2JqZWN0XV1dXV0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgInJlY29yZHMiIC0+IGV2ZW50LmdldFJlY29yZHMubWFwKChyOiBSZWNvcmQpID0+IE1hcCgKICAgICAgICAicmVjb3JkSWQiIC0+IHIuZ2V0UmVjb3JkSWQsCiAgICAgICAgInJlc3VsdCIgLT4gIk9rIiwKICAgICAgICAiZGF0YSIgLT4gbmV3IFN0cmluZyhyLmdldERhdGEuYXJyYXkoKSksCiAgICAgICkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXAgPSBzY2FsYS5jb2xsZWN0aW9uLm11dGFibGUuSGFzaE1hcC5lbXB0eVtTdHJpbmcsU3RyaW5nXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9jYXNlIGNsYXNzIEZpcmVob3NlUmVzcG9uc2U6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImVuZCIpCgogICAgcmVzCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXMgPSBuZXcgRmlyZWhvc2VSZXNwb25zZShyZWNvcmRzKQo=</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciByZWNvcmRzID0gZXZlbnQuZ2V0UmVjb3Jkcy5tYXAoKHI6IFJlY29yZCkgPT4KICAgICAgbmV3IEZpcmVob3NlUmVjb3JkKHIuZ2V0UmVjb3JkSWQsICJPayIsIHIuZ2V0RGF0YSkKICAgICkudG9MaXN0Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBtYXAgPSBzY2FsYS5jb2xsZWN0aW9uLm11dGFibGUuSGFzaE1hcC5lbXB0eVtTdHJpbmcsU3RyaW5nXQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
