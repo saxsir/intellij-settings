@@ -33,12 +33,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1522026421488">
-        <mark key="'" line="52" column="60" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="29" column="10" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1522044472690">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="28" column="298" />
+        <mark key="]" line="28" column="298" />
+        <mark key="^" line="26" column="60" />
+        <mark key="." line="28" column="298" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/bin/console.php" timestamp="1520311748473">
         <mark key="[" line="12" column="22" />
@@ -162,11 +162,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" timestamp="1519373253349">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" timestamp="1522040088903">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="20" />
-        <mark key="." line="26" column="20" />
-        <mark key="^" line="26" column="20" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" timestamp="1522044124133">
+        <mark key="'" line="27" column="21" />
+        <mark key="[" line="88" column="45" />
+        <mark key="]" line="88" column="45" />
+        <mark key="." line="88" column="45" />
+        <mark key="^" line="88" column="48" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/FileParser.php" timestamp="1521533484711">
         <mark key="'" line="64" column="27" />
@@ -301,9 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="9" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="43" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="50" column="31" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="6" column="6" filename="$USER_HOME$/.ivy2/cache/org.json4s/json4s-native_2.12/srcs/json4s-native_2.12-3.5.3-sources.jar!/org/json4s/native/JsonMethods.scala" />
       <jump line="44" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
@@ -364,7 +362,6 @@
       <jump line="41" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="34" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="99" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="65" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="80" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="32" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="61" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
@@ -401,6 +398,10 @@
       <jump line="96" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="104" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="28" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="65" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="87" column="62" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="27" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -417,40 +418,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dir</text>
+        <text>FirehoseResponse</text>
       </register>
       <register name="/" type="4">
         <text>BATCH_NAME</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGF0YVswXSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">c2NhbGEuY29sbGVjdGlvbi5pbW11dGFibGUuTWFwW1N0cmluZyxzY2FsYS5jb2xsZWN0aW9uLm11dGFibGUuQnVmZmVyW3NjYWxhLmNvbGxlY3Rpb24uaW1tdXRhYmxlLk1hcFtTdHJpbmcsQ29tcGFyYWJsZVtfID46IGphdmEubmlvLkJ5dGVCdWZmZXIgd2l0aCBTdHJpbmcgPDogQ29tcGFyYWJsZVtfID46IGphdmEubmlvLkJ5dGVCdWZmZXIgd2l0aCBTdHJpbmcgPDogT2JqZWN0XV1dXV0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UEhQVU5JVCA6PSAkKENVUkRJUikvLi4vbGliL3BocC92ZW5kb3IvYmluL3BocHVuaXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1rZGlyKCRvdXRwdXREaXIsICk7Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBtYXAgPSBzY2FsYS5jb2xsZWN0aW9uLm11dGFibGUuSGFzaE1hcC5lbXB0eVtTdHJpbmcsU3RyaW5nXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JCA9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgKCFpc19kaXIoJykpIHsKICAgIC8vIGRpciBkb2Vzbid0IGV4aXN0LCBtYWtlIGl0CiAgICBta2RpcigndXBsb2FkL3Byb21vdGlvbnMvJyAuICRtb250aCk7Cn0K</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImVuZCIpCgogICAgcmVzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIOOBk+OBk+OBi+OCieS4i+OBr+inpuOCieOBquOBhAo=</text>
+        <text encoding="base64">ICAgIHZhbCByZXMgPSBuZXcgRmlyZWhvc2VSZXNwb25zZShyZWNvcmRzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGRlYnVnCiAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHZhciByZWNvcmRzID0gZXZlbnQuZ2V0UmVjb3Jkcy5tYXAoKHI6IFJlY29yZCkgPT4KICAgICAgbmV3IEZpcmVob3NlUmVjb3JkKHIuZ2V0UmVjb3JkSWQsICJPayIsIHIuZ2V0RGF0YSkKICAgICkudG9MaXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjMCwxLDIsMwogICAgICAgICPoqJjlj7csVFRTLFRUQixNSURETEUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -487,17 +488,11 @@
         <entry>BATCH_NAME</entry>
       </history-search>
       <history-cmd>
-        <entry>qw</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>92</entry>
-        <entry>e</entry>
-        <entry>wq</entry>
         <entry>vs</entry>
         <entry>46</entry>
         <entry>s</entry>
         <entry>71</entry>
         <entry>57</entry>
-        <entry>56</entry>
         <entry>22</entry>
         <entry>41</entry>
         <entry>.,.+58</entry>
@@ -506,6 +501,12 @@
         <entry>87</entry>
         <entry>94</entry>
         <entry>96</entry>
+        <entry>.,.+29</entry>
+        <entry>7</entry>
+        <entry>.,.+55</entry>
+        <entry>56</entry>
+        <entry>86</entry>
+        <entry>89</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
