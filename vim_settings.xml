@@ -33,8 +33,8 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1522060129778">
-        <mark key="'" line="54" column="4" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1522060853060">
+        <mark key="'" line="42" column="0" />
         <mark key="[" line="56" column="16" />
         <mark key="]" line="56" column="19" />
         <mark key="." line="56" column="19" />
@@ -118,12 +118,12 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseRecord.java" timestamp="1522058232084">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseRecord.java" timestamp="1522060882720">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
         <mark key="^" line="1" column="0" />
-        <mark key="." line="34" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/sync_linking_ad_units_with_dfp_api.py" timestamp="1513746127309">
         <mark key="'" line="0" column="0" />
@@ -210,11 +210,11 @@
         <mark key="]" line="124" column="10" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseResponse.java" timestamp="1522059132722">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseResponse.java" timestamp="1522060889965">
         <mark key="'" line="10" column="36" />
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="17" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
         <mark key="^" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/console.php" timestamp="1522038048319">
@@ -316,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
       <jump line="13" column="0" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
       <jump line="46" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="4" column="78" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
@@ -416,6 +415,7 @@
       <jump line="55" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="56" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="54" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="42" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -441,31 +441,31 @@
         <text>KinesisFirehoseEvent.Record</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uU2VyaWFsaXphYmxlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgU3RyaW5nKHJlY29yZC5nZXREYXRhLmFycmF5KCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uU2VyaWFsaXphYmxlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCByOiBGaXJlaG9zZVJlY29yZCA9IG5ldyBGaXJlaG9zZVJlY29yZChyZWNvcmRJZCwgIk9rIiwgZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGVuY29kZURhdGEoU3RyaW5nIGRhdGEpIHRocm93cyBVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gQmFzZTY0LmdldEVuY29kZXIoKS5lbmNvZGVUb1N0cmluZyhkYXRhLmdldEJ5dGVzKFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgubmFtZSgpKSk7CiAgICB9CiAgICBwdWJsaWMgc3RhdGljIFN0cmluZyBkZWNvZGVEYXRhKFN0cmluZyBkYXRhKXsKICAgICAgICByZXR1cm4gQmFzZTY0LmdldERlY29kZXIoKS5kZWNvZGUoZGF0YSkudG9TdHJpbmcoKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgdHJhbnNmb3JtKHI6IFJlY29yZCkgOiBGaXJlaG9zZVJlY29yZCA9IHsKICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgU3RyaW5nKHJlY29yZC5nZXREYXRhLmFycmF5KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">ICAgIHZhbCByOiBGaXJlaG9zZVJlY29yZCA9IG5ldyBGaXJlaG9zZVJlY29yZChyZWNvcmRJZCwgIk9rIiwgZGF0YSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgdHJhbnNmb3JtKHI6IFJlY29yZCkgOiBGaXJlaG9zZVJlY29yZCA9IHsKICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
