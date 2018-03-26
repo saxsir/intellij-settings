@@ -30,12 +30,6 @@
         <mark key="." line="11" column="53" />
         <mark key="^" line="11" column="50" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1521534114023">
-        <mark key="'" line="54" column="47" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
       </file>
@@ -146,12 +140,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/pre/app_dep.tf" timestamp="1510562504664">
         <mark key="'" line="63" column="7" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/YieldMapper.php" timestamp="1521533090212">
-        <mark key="'" line="14" column="20" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_deliver_tag/ci.mk" timestamp="1511757639844">
         <mark key="'" line="103" column="24" />
       </file>
@@ -164,18 +152,21 @@
         <mark key="." line="28" column="39" />
         <mark key="^" line="28" column="39" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/console.php" timestamp="1522033668397">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="50" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/vendor/tf_modules/aws/iam/role/role.tf" timestamp="1519871423844">
         <mark key="'" line="78" column="2" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" timestamp="1519373253349">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" timestamp="1522032522494">
-        <mark key="'" line="21" column="13" />
-        <mark key="[" line="91" column="1" />
-        <mark key="]" line="92" column="13" />
-        <mark key="." line="92" column="13" />
-        <mark key="^" line="92" column="13" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" timestamp="1522040088903">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+        <mark key="^" line="26" column="20" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/FileParser.php" timestamp="1521533484711">
         <mark key="'" line="64" column="27" />
@@ -211,30 +202,38 @@
         <mark key="^" line="45" column="37" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/console.php" timestamp="1522038048319">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisEvent.java" timestamp="1521791976277">
         <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/iam.tf" timestamp="1510557550922">
         <mark key="'" line="277" column="12" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/Makefile" timestamp="1522032651793">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="13" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/Makefile" timestamp="1522040386042">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1512982114240">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Outbrain/AggregateCommand.php" timestamp="1522030695970">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Outbrain/AggregateCommand.php" timestamp="1522037899212">
         <mark key="'" line="70" column="39" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="55" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="87" column="4" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/hv_elb.tf" timestamp="1518506621760">
         <mark key="'" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_outbrain/bin/console.php" timestamp="1522031725273">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_outbrain/bin/console.php" timestamp="1522034000245">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="19" />
       </file>
@@ -256,12 +255,6 @@
       <file name="/usr/local/go/src/log/log.go" timestamp="1516001779665">
         <mark key="'" line="324" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/html2json/html2json.go" timestamp="1521509428580">
-        <mark key="'" line="124" column="13" />
-        <mark key="[" line="124" column="78" />
-        <mark key="]" line="124" column="79" />
-        <mark key="." line="124" column="79" />
-      </file>
       <file name="$USER_HOME$/src/fluct-gitlab.dev.fluct.ec2:443/ops/fluct_puppet/puppet/manifests/nodes/aws_ms_pre.pp" timestamp="1516154692323">
         <mark key="'" line="228" column="49" />
       </file>
@@ -273,6 +266,13 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="11" column="8" />
         <mark key="^" line="11" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/UpdateCmnBidRate/DownloadCommand.php" timestamp="1522038018216">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="13" column="8" />
+        <mark key="^" line="13" column="8" />
+        <mark key="." line="13" column="8" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" timestamp="1513142300770">
         <mark key="'" line="0" column="0" />
@@ -301,19 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="10" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="2" column="60" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="57" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="47" column="146" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="35" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="56" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="54" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="51" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="49" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="55" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="15" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="59" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="9" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="43" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
@@ -390,7 +377,6 @@
       <jump line="7" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="1" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="8" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
-      <jump line="94" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/Makefile" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="55" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
@@ -398,9 +384,23 @@
       <jump line="71" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="10" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="103" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
-      <jump line="20" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="81" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="21" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="93" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_outbrain/bin/console.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/console.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/UpdateCmnBidRate/DownloadCommand.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/console.php" />
+      <jump line="67" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/console.php" />
+      <jump line="36" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="79" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="20" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="94" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="46" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="92" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="96" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="104" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -417,40 +417,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>php-cs-fixer</text>
+        <text>dir</text>
       </register>
       <register name="/" type="4">
         <text>BATCH_NAME</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHBocHVuaXQgYm9vdHN0cmFwPSIuL2xpYi9waHAvYXV0b2xvYWQucGhwIgogICAgICAgICBjb2xvcnM9InRydWUiPgogIDx0ZXN0c3VpdGVzPgogICAgPHRlc3RzdWl0ZSBuYW1lPSJQSFAgQmF0Y2ggVGVzdCBTdWl0ZSI+CiAgICAgIDxkaXJlY3Rvcnk+Li9UZXN0cy88L2RpcmVjdG9yeT4KICAgIDwvdGVzdHN1aXRlPgogIDwvdGVzdHN1aXRlcz4KPC9waHB1bml0Pgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGF0YVswXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UEhQVU5JVCA6PSAkKENVUkRJUikvLi4vbGliL3BocC92ZW5kb3IvYmluL3BocHVuaXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS4uL2xpYi9waHAvdmVuZG9yL2Jpbi9waHB1bml0Cg==</text>
+        <text encoding="base64">ICAgIG1rZGlyKCRvdXRwdXREaXIsICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVzdDoK</text>
+        <text encoding="base64">JCA9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgKCFpc19kaXIoJykpIHsKICAgIC8vIGRpciBkb2Vzbid0IGV4aXN0LCBtYWtlIGl0CiAgICBta2RpcigndXBsb2FkL3Byb21vdGlvbnMvJyAuICRtb250aCk7Cn0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIOOBk+OBk+OBi+OCieS4i+OBr+inpuOCieOBquOBhAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XERvbUNyYXdsZXJcQ3Jhd2xlcjsK</text>
+        <text encoding="base64">ICAgIC8vIGRlYnVnCiAgICByZXR1cm47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRodG1sID0gZmlsZV9nZXRfY29udGVudHMoJ2h0dHA6Ly93d3cubWl6dWhvYmFuay5jby5qcC9yYXRlL21hcmtldC9xdW90ZS9pbmRleC5odG1sJyk7CgogICAgJGNyYXdsZXIgPSBuZXcgQ3Jhd2xlcigpOwogICAgJGNyYXdsZXItPmFkZEh0bWxDb250ZW50KCRodG1sLCAnVVRGLTgnKTsKICAgICRyYXRlcyA9IGFycmF5KCk7CgogICAgJHRlbXAgPSAkY3Jhd2xlci0+ZmlsdGVyKCd0YWJsZVtzdW1tYXJ5PSLlkITlm73pgJrosqjlhaznpLrnm7jloLQiXSA+IHRib2R5JyktPmNoaWxkcmVuKCk7CgogICAgcHJpbnRfcigkdGVtcC0+aHRtbCgpKTsKCiAgICBmb3JlYWNoICgkdGVtcCBhcyAkdHIpIHsKICAgICAgICAjMCwxLDIsMwogICAgICAgICPoqJjlj7csVFRTLFRUQixNSURETEUKCiAgICAgICAgZWNobygiaG9nZSIpOwogICAgICAgIHZhcl9kdW1wKCR0ci0+bm9kZVZhbHVlKTsKCiAgICAgICAgaWYgKGluX2FycmF5KCR0ci0+Z2V0RWxlbWVudHNCeVRhZ05hbWUoJ3RkJyktPml0ZW0oMCktPm5vZGVWYWx1ZSwgJFJBVEVfQ09ERVMpKSB7CiAgICAgICAgICAgIGlmIChwcmVnX21hdGNoKCcvXEFbMC05XXsxLDN9XC5bMC05XXsxLDJ9XHovdScsICR0ci0+Z2V0RWxlbWVudHNCeVRhZ05hbWUoJ3RkJyktPml0ZW0oMiktPm5vZGVWYWx1ZSkpIHsKICAgICAgICAgICAgICAgICRyYXRlc1skdHItPmdldEVsZW1lbnRzQnlUYWdOYW1lKCd0ZCcpLT5pdGVtKDApLT5ub2RlVmFsdWVdID0gICR0ci0+Z2V0RWxlbWVudHNCeVRhZ05hbWUoJ3RkJyktPml0ZW0oMiktPm5vZGVWYWx1ZTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjMCwxLDIsMwogICAgICAgICPoqJjlj7csVFRTLFRUQixNSURETEUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -487,8 +487,6 @@
         <entry>BATCH_NAME</entry>
       </history-search>
       <history-cmd>
-        <entry>www</entry>
-        <entry>q</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>92</entry>
@@ -506,6 +504,8 @@
         <entry>30</entry>
         <entry>74</entry>
         <entry>87</entry>
+        <entry>94</entry>
+        <entry>96</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
