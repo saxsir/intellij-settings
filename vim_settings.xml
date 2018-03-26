@@ -33,12 +33,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1522049705007">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1522054550849">
         <mark key="'" line="78" column="0" />
-        <mark key="[" line="28" column="113" />
-        <mark key="]" line="28" column="119" />
-        <mark key="." line="28" column="119" />
-        <mark key="^" line="28" column="119" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="20" column="108" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/bin/console.php" timestamp="1520311748473">
         <mark key="[" line="12" column="22" />
@@ -418,37 +418,38 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>BATCH_NAME</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">c2NhbGEuY29sbGVjdGlvbi5pbW11dGFibGUuTWFwW1N0cmluZyxzY2FsYS5jb2xsZWN0aW9uLm11dGFibGUuQnVmZmVyW3NjYWxhLmNvbGxlY3Rpb24uaW1tdXRhYmxlLk1hcFtTdHJpbmcsQ29tcGFyYWJsZVtfID46IGphdmEubmlvLkJ5dGVCdWZmZXIgd2l0aCBTdHJpbmcgPDogQ29tcGFyYWJsZVtfID46IGphdmEubmlvLkJ5dGVCdWZmZXIgd2l0aCBTdHJpbmcgPDogT2JqZWN0XV1dXV0=</text>
+        <text>implements</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgInJlY29yZHMiIC0+IGV2ZW50LmdldFJlY29yZHMubWFwKChyOiBSZWNvcmQpID0+IE1hcCgKICAgICAgICAicmVjb3JkSWQiIC0+IHIuZ2V0UmVjb3JkSWQsCiAgICAgICAgInJlc3VsdCIgLT4gIk9rIiwKICAgICAgICAiZGF0YSIgLT4gbmV3IFN0cmluZyhyLmdldERhdGEuYXJyYXkoKSksCiAgICAgICkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgRmlyZWhvc2VSZXNwb25zZShyZWNvcmRzOiBMaXN0W0ZpcmVob3NlUmVjb3JkXSkgZXh0ZW5kcyBTZXJpYWxpemFibGUgd2l0aCBDbG9uZWFibGUgewp9CgpjbGFzcyBGaXJlaG9zZVJlY29yZChyZWNvcmRJZDogU3RyaW5nLCByZXN1bHQ6IFN0cmluZywgZGF0YTogU3RyaW5nKSBleHRlbmRzIFNlcmlhbGl6YWJsZSB3aXRoIENsb25lYWJsZSB7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9jYXNlIGNsYXNzIEZpcmVob3NlUmVzcG9uc2U6Cg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">LyoK</text>
+      </register>
+      <register name="5" type="4">
+        <text>implements
+} Seria</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgICAgInJlY29yZHMiIC0+IGV2ZW50LmdldFJlY29yZHMubWFwKChyOiBSZWNvcmQpID0+IE1hcCgKICAgICAgICAicmVjb3JkSWQiIC0+IHIuZ2V0UmVjb3JkSWQsCiAgICAgICAgInJlc3VsdCIgLT4gIk9rIiwKICAgICAgICAiZGF0YSIgLT4gbmV3IFN0cmluZyhyLmdldERhdGEuYXJyYXkoKSksCiAgICAgICkpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXAgPSBzY2FsYS5jb2xsZWN0aW9uLm11dGFibGUuSGFzaE1hcC5lbXB0eVtTdHJpbmcsU3RyaW5nXQo=</text>
+        <text encoding="base64">Ly9jYXNlIGNsYXNzIEZpcmVob3NlUmVzcG9uc2U6Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
