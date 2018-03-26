@@ -33,12 +33,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/vendor/github.com/aws/aws-sdk-go/aws/signer/v4/v4.go" timestamp="1516002033651">
         <mark key="'" line="205" column="53" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1522054550849">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="20" column="108" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1522060129778">
+        <mark key="'" line="54" column="4" />
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="19" />
+        <mark key="." line="56" column="19" />
+        <mark key="^" line="56" column="19" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_taboola/bin/console.php" timestamp="1520311748473">
         <mark key="[" line="12" column="22" />
@@ -102,11 +102,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/port_to_datastudio_source.py" timestamp="1519195449732">
         <mark key="'" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/net.sf.proguard/proguard-retrace/srcs/proguard-retrace-6.0.1-sources.jar!/proguard/retrace/ReTrace.java" timestamp="1521770029559">
-        <mark key="'" line="141" column="4" />
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="269" column="76" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1520558024138">
         <mark key="[" line="28" column="27" />
         <mark key="]" line="28" column="49" />
@@ -123,6 +118,13 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="19" column="32" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseRecord.java" timestamp="1522058232084">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/sync_linking_ad_units_with_dfp_api.py" timestamp="1513746127309">
         <mark key="'" line="0" column="0" />
       </file>
@@ -132,7 +134,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/io/StringWriter.java" timestamp="1521770472775">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" timestamp="1521799987202">
+      <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" timestamp="1522058613941">
         <mark key="'" line="296" column="52" />
         <mark key="[" line="25" column="34" />
         <mark key="]" line="25" column="67" />
@@ -162,8 +164,8 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" timestamp="1519373253349">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" timestamp="1522044124133">
-        <mark key="'" line="27" column="21" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" timestamp="1522057404081">
+        <mark key="'" line="98" column="4" />
         <mark key="[" line="88" column="45" />
         <mark key="]" line="88" column="45" />
         <mark key="." line="88" column="45" />
@@ -202,6 +204,18 @@
         <mark key="]" line="46" column="34" />
         <mark key="^" line="45" column="37" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/retrace/retrace.java" timestamp="1522055573032">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="124" column="10" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseResponse.java" timestamp="1522059132722">
+        <mark key="'" line="10" column="36" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/console.php" timestamp="1522038048319">
         <mark key="'" line="67" column="0" />
@@ -302,23 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="31" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="6" column="6" filename="$USER_HOME$/.ivy2/cache/org.json4s/json4s-native_2.12/srcs/json4s-native_2.12-3.5.3-sources.jar!/org/json4s/native/JsonMethods.scala" />
-      <jump line="44" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="48" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="30" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="3" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="397" column="22" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
-      <jump line="20" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="42" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="34" column="0" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
-      <jump line="342" column="16" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
-      <jump line="351" column="8" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
-      <jump line="376" column="8" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
-      <jump line="35" column="17" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
-      <jump line="37" column="24" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
-      <jump line="27" column="28" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
-      <jump line="47" column="0" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
       <jump line="48" column="0" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
       <jump line="13" column="0" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
       <jump line="46" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
@@ -366,7 +363,6 @@
       <jump line="32" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="61" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="109" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="53" column="61" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="104" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="296" column="52" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
       <jump line="52" column="60" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
@@ -402,6 +398,24 @@
       <jump line="65" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="87" column="62" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="27" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="19" column="62" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="98" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="86" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseRecord.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseRecord.java" />
+      <jump line="68" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseRecord.java" />
+      <jump line="11" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseRecord.java" />
+      <jump line="10" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseResponse.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseRecord.java" />
+      <jump line="37" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseRecord.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseRecord.java" />
+      <jump line="58" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="36" column="62" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="51" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="53" column="40" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="55" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="56" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
+      <jump line="54" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -418,38 +432,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>encodeData(data)</text>
       </register>
       <register name="/" type="4">
-        <text>BATCH_NAME</text>
+        <text>Record</text>
       </register>
       <register name="0" type="4">
-        <text>implements</text>
+        <text>KinesisFirehoseEvent.Record</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgRmlyZWhvc2VSZXNwb25zZShyZWNvcmRzOiBMaXN0W0ZpcmVob3NlUmVjb3JkXSkgZXh0ZW5kcyBTZXJpYWxpemFibGUgd2l0aCBDbG9uZWFibGUgewp9CgpjbGFzcyBGaXJlaG9zZVJlY29yZChyZWNvcmRJZDogU3RyaW5nLCByZXN1bHQ6IFN0cmluZywgZGF0YTogU3RyaW5nKSBleHRlbmRzIFNlcmlhbGl6YWJsZSB3aXRoIENsb25lYWJsZSB7Cn0K</text>
+        <text encoding="base64">ICAgICAgICBuZXcgU3RyaW5nKHJlY29yZC5nZXREYXRhLmFycmF5KCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIHZhbCByOiBGaXJlaG9zZVJlY29yZCA9IG5ldyBGaXJlaG9zZVJlY29yZChyZWNvcmRJZCwgIk9rIiwgZGF0YSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoK</text>
-      </register>
-      <register name="5" type="4">
-        <text>implements
-} Seria</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgInJlY29yZHMiIC0+IGV2ZW50LmdldFJlY29yZHMubWFwKChyOiBSZWNvcmQpID0+IE1hcCgKICAgICAgICAicmVjb3JkSWQiIC0+IHIuZ2V0UmVjb3JkSWQsCiAgICAgICAgInJlc3VsdCIgLT4gIk9rIiwKICAgICAgICAiZGF0YSIgLT4gbmV3IFN0cmluZyhyLmdldERhdGEuYXJyYXkoKSksCiAgICAgICkpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkZWYgdHJhbnNmb3JtKHI6IFJlY29yZCkgOiBGaXJlaG9zZVJlY29yZCA9IHsKICB9Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvKgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAqLwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9jYXNlIGNsYXNzIEZpcmVob3NlUmVzcG9uc2U6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -459,9 +472,9 @@
       </register>
     </registers>
     <search>
-      <last-search>BATCH_NAME</last-search>
+      <last-search>Record</last-search>
       <last-offset />
-      <last-pattern>BATCH_NAME</last-pattern>
+      <last-pattern>Record</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -471,7 +484,6 @@
         <entry>Firehose</entry>
         <entry>setRe</entry>
         <entry>setRecords</entry>
-        <entry>Record</entry>
         <entry>getKinesis</entry>
         <entry>getData</entry>
         <entry>setRecord</entry>
@@ -487,9 +499,9 @@
         <entry>Result</entry>
         <entry>Env</entry>
         <entry>BATCH_NAME</entry>
+        <entry>Record</entry>
       </history-search>
       <history-cmd>
-        <entry>vs</entry>
         <entry>46</entry>
         <entry>s</entry>
         <entry>71</entry>
@@ -508,6 +520,7 @@
         <entry>56</entry>
         <entry>86</entry>
         <entry>89</entry>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
