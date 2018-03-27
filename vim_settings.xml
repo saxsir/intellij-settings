@@ -78,7 +78,7 @@
         <mark key="^" line="59" column="20" />
         <mark key="." line="59" column="20" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/fluct/haste/lambda/retracer/AndroidRetracer.scala" timestamp="1522114559631">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/fluct/haste/lambda/retracer/AndroidRetracer.scala" timestamp="1522119129942">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="55" column="21" />
         <mark key="." line="55" column="21" />
