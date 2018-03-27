@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_outbrain/Makefile" timestamp="1522031003920">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="60" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/REAMDE.md" timestamp="1522030319349">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="53" />
@@ -32,10 +28,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/phpunit.xml" timestamp="1522032717928">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="9" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1522113191888">
         <mark key="'" line="20" column="0" />
@@ -98,6 +90,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/model/message.go" timestamp="1522129624957">
+        <mark key="'" line="42" column="12" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/update_dynamic_allocation.py" timestamp="1521511645522">
         <mark key="[" line="32" column="50" />
         <mark key="]" line="33" column="17" />
@@ -140,6 +138,9 @@
         <mark key="." line="55" column="21" />
         <mark key="^" line="55" column="21" />
       </file>
+      <file name="$USER_HOME$/src/github.com/nicksnyder/go-i18n/i18n/translation/template.go" timestamp="1522128573792">
+        <mark key="[" line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1520558024138">
         <mark key="[" line="28" column="27" />
         <mark key="]" line="28" column="49" />
@@ -152,10 +153,6 @@
         <mark key="]" line="63" column="0" />
         <mark key="^" line="51" column="26" />
         <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_rtb/Makefile" timestamp="1522032610418">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseRecord.java" timestamp="1522060882720">
         <mark key="'" line="13" column="0" />
@@ -180,6 +177,13 @@
         <mark key="'" line="296" column="52" />
         <mark key="[" line="25" column="34" />
         <mark key="]" line="25" column="67" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" timestamp="1522128956413">
+        <mark key="'" line="68" column="31" />
+        <mark key="[" line="56" column="19" />
+        <mark key="]" line="56" column="24" />
+        <mark key="." line="56" column="24" />
+        <mark key="^" line="56" column="24" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/hello/hello.scala" timestamp="1521001729278">
         <mark key="[" line="2" column="0" />
@@ -206,10 +210,6 @@
         <mark key="." line="28" column="39" />
         <mark key="^" line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/console.php" timestamp="1522033668397">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="50" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/fluct/haste/lambda/event/FirehoseResponse.java" timestamp="1522113693477">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="19" />
@@ -223,20 +223,23 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" timestamp="1522128985611">
+        <mark key="'" line="40" column="25" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" timestamp="1522118732668">
         <mark key="'" line="110" column="14" />
         <mark key="[" line="143" column="12" />
         <mark key="]" line="143" column="12" />
         <mark key="." line="143" column="12" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/templates/saxsir.html" timestamp="1522128643375">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="20" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
-      <jump line="125" column="12" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
-      <jump line="367" column="16" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
-      <jump line="39" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="12" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="40" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="17" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="16" column="7" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
       <jump line="259" column="22" filename="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/nio/ByteBuffer.java" />
@@ -331,6 +334,12 @@
       <jump line="48" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/android-event-transformer/src/main/scala/fluct/haste/lambda/retracer/AndroidRetracer.scala" />
       <jump line="52" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/android-event-transformer/src/main/scala/fluct/haste/lambda/retracer/AndroidRetracer.scala" />
       <jump line="33" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/android-event-transformer/src/main/scala/fluct/haste/lambda/retracer/AndroidRetracer.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" />
+      <jump line="70" column="32" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" />
+      <jump line="68" column="31" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" />
+      <jump line="20" column="23" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
+      <jump line="40" column="25" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
+      <jump line="41" column="12" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/model/message.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -347,55 +356,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>aboutme</text>
       </register>
       <register name="/" type="4">
-        <text>recordId</text>
+        <text>Get</text>
       </register>
-      <register name="0" type="4">
-        <text>RateDuplicateException</text>
+      <register name="0" type="2">
+        <text encoding="base64">CXMuRW5naW5lLkdFVCgiLyIsIGZ1bmMoYyAqZ2luLkNvbnRleHQpIHsKCQljLkhUTUwoaHR0cC5TdGF0dXNPSywgImluZGV4Lmh0bWwiLCBnaW4uSHt9KQoJfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CQlVc2VyTmFtZTogbS5Vc2VyTmFtZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIDEtMS4g44Om44O844K244O85ZCN44KS6KGo56S644GX44KI44GGCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYXRhID0K</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICA8L2Rpdj4KICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCByZWNvcmRJZCA9IHJlY29yZC5nZXRSZWNvcmRJZCgpCg==</text>
+        <text encoding="base64">ICAgICAgPHRleHRhcmVhIGNsYXNzPSJ1LWZ1bGwtd2lkdGgiIHYtbW9kZWw9Im5ld01lc3NhZ2UuYm9keSIgcGxhY2Vob2xkZXI9IuODoeODg+OCu+ODvOOCuCI+PC90ZXh0YXJlYT4KICAgICAgPCEtLSAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgogICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9InUtZnVsbC13aWR0aCIgdi1tb2RlbD0ibmV3TWVzc2FnZS51c2VybmFtZSIgcGxhY2Vob2xkZXI9IuODpuODvOOCtuODvOWQjSI+CiAgICAgIC0tPgogICAgICA8YnV0dG9uIGNsYXNzPSJidXR0b24tcHJpbWFyeSIgdi1vbjpjbGljaz0ic2VuZE1lc3NhZ2UiPlNlbmQ8L2J1dHRvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCByZWNvcmRJZCA9IHJlY29yZC5nZXRSZWNvcmRJZCgpCiAgICB2YWwgZGF0YSA9Cgo=</text>
+        <text encoding="base64">ICAgICAgPCEtLSAxLTEuIOODpuODvOOCtuODvOWQjeOCkuihqOekuuOBl+OCiOOBhiAtLT4KICAgICAgPGRpdiBjbGFzcz0ibWVzc2FnZS1saXN0IiB2LWZvcj0ibWVzc2FnZSBpbiBtZXNzYWdlcyI+CiAgICAgICAgPG1lc3NhZ2UKICAgICAgICAgIDppZD0ibWVzc2FnZS5pZCIKICAgICAgICAgIDpib2R5PSJtZXNzYWdlLmJvZHkiCiAgICAgICAgICA6dXNlcm5hbWU9Im1lc3NhZ2UudXNlcm5hbWUiCiAgICAgICAgICA6cmVtb3ZlLW1lc3NhZ2U9InJlbW92ZU1lc3NhZ2UiCiAgICAgICAgICA6dXBkYXRlLW1lc3NhZ2U9InVwZGF0ZU1lc3NhZ2UiCiAgICAgICAgPjwvbWVzc2FnZT4KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgPGg1PuODoeODg+OCu+ODvOOCuOOCouODl+ODqjwvaDU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCB0cmFuc2Zvcm1lZCA9IGV2ZW50IG1lcmdlIEpPYmplY3QoImRzdCIgLT4gSlN0cmluZyh3cml0ZXIudG9TdHJpbmcpKQo=</text>
+        <text encoding="base64">CS8vIC4uLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB0cmFuc2Zvcm1lZCA9IGV2ZW50IG1lcmdlIEpPYmplY3QoImRzdCIgLT4gSlN0cmluZyh3cml0ZXIudG9TdHJpbmcpKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldyBSZVRyYWNlKFNUQUNLX1RSQUNFX0VYUFJFU1NJT04sIGZhbHNlLCBuZXcgRmlsZShzIm1hcHBpbmcudiR7c2RrVmVyc2lvbn0udHh0IikpCiAgICAgIC5yZXRyYWNlKHJlYWRlciwgbmV3IFByaW50V3JpdGVyKHdyaXRlcikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>recordId</last-search>
+      <last-search>Get</last-search>
       <last-offset />
-      <last-pattern>recordId</last-pattern>
+      <last-pattern>Get</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Firehose</entry>
         <entry>setRe</entry>
         <entry>setRecords</entry>
         <entry>getKinesis</entry>
@@ -415,12 +423,9 @@
         <entry>BATCH_NAME</entry>
         <entry>Record</entry>
         <entry>recordId</entry>
+        <entry>Get</entry>
       </history-search>
       <history-cmd>
-        <entry>22</entry>
-        <entry>41</entry>
-        <entry>.,.+58</entry>
-        <entry>30</entry>
         <entry>74</entry>
         <entry>87</entry>
         <entry>94</entry>
@@ -436,6 +441,10 @@
         <entry>115</entry>
         <entry>114</entry>
         <entry>113</entry>
+        <entry>vs</entry>
+        <entry>ls</entry>
+        <entry>e .</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
