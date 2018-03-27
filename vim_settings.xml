@@ -90,11 +90,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/model/message.go" timestamp="1522129624957">
-        <mark key="'" line="42" column="12" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/model/message.go" timestamp="1522130952245">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="93" column="12" />
+        <mark key="]" line="93" column="13" />
+        <mark key="^" line="93" column="13" />
+        <mark key="." line="93" column="13" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/update_dynamic_allocation.py" timestamp="1521511645522">
         <mark key="[" line="32" column="50" />
@@ -154,6 +155,10 @@
         <mark key="^" line="51" column="26" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="/usr/local/go/src/database/sql/sql.go" timestamp="1522130376328">
+        <mark key="[" line="3002" column="4" />
+        <mark key="]" line="3002" column="17" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseRecord.java" timestamp="1522060882720">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="6" column="0" />
@@ -178,8 +183,8 @@
         <mark key="[" line="25" column="34" />
         <mark key="]" line="25" column="67" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" timestamp="1522128956413">
-        <mark key="'" line="68" column="31" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" timestamp="1522131105185">
+        <mark key="'" line="72" column="38" />
         <mark key="[" line="56" column="19" />
         <mark key="]" line="56" column="24" />
         <mark key="." line="56" column="24" />
@@ -223,8 +228,12 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" timestamp="1522128985611">
-        <mark key="'" line="40" column="25" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" timestamp="1522131157339">
+        <mark key="'" line="135" column="20" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="132" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" timestamp="1522118732668">
         <mark key="'" line="110" column="14" />
@@ -240,18 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="16" column="7" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
-      <jump line="259" column="22" filename="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/nio/ByteBuffer.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="45" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="82" column="23" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
-      <jump line="21" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="22" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="6" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="63" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="7" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="18" column="28" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisEvent.java" />
       <jump line="131" column="24" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisEvent.java" />
@@ -338,8 +335,20 @@
       <jump line="70" column="32" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" />
       <jump line="68" column="31" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" />
       <jump line="20" column="23" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
-      <jump line="40" column="25" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
       <jump line="41" column="12" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/model/message.go" />
+      <jump line="64" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
+      <jump line="93" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
+      <jump line="67" column="29" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/model/message.go" />
+      <jump line="40" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
+      <jump line="112" column="31" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
+      <jump line="79" column="24" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/model/message.go" />
+      <jump line="123" column="44" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
+      <jump line="96" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
+      <jump line="74" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/model/message.go" />
+      <jump line="71" column="35" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" />
+      <jump line="72" column="38" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" />
+      <jump line="134" column="25" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
+      <jump line="136" column="20" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -356,37 +365,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>aboutme</text>
+        <text encoding="base64">ZGVsZXRlZCwg</text>
       </register>
       <register name="/" type="4">
         <text>Get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXMuRW5naW5lLkdFVCgiLyIsIGZ1bmMoYyAqZ2luLkNvbnRleHQpIHsKCQljLkhUTUwoaHR0cC5TdGF0dXNPSywgImluZGV4Lmh0bWwiLCBnaW4uSHt9KQoJfSkK</text>
+        <text encoding="base64">CXZhciBtc2cgbW9kZWwuTWVzc2FnZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlVc2VyTmFtZTogbS5Vc2VyTmFtZSwK</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL01hc3Rlcm1pbmRzL2dsaWRlL21zZyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIDEtMS4g44Om44O844K244O85ZCN44KS6KGo56S644GX44KI44GGCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICA8L2Rpdj4KICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">CX0KCWlmIGVyciAhPSBuaWwgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHRleHRhcmVhIGNsYXNzPSJ1LWZ1bGwtd2lkdGgiIHYtbW9kZWw9Im5ld01lc3NhZ2UuYm9keSIgcGxhY2Vob2xkZXI9IuODoeODg+OCu+ODvOOCuCI+PC90ZXh0YXJlYT4KICAgICAgPCEtLSAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgogICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9InUtZnVsbC13aWR0aCIgdi1tb2RlbD0ibmV3TWVzc2FnZS51c2VybmFtZSIgcGxhY2Vob2xkZXI9IuODpuODvOOCtuODvOWQjSI+CiAgICAgIC0tPgogICAgICA8YnV0dG9uIGNsYXNzPSJidXR0b24tcHJpbWFyeSIgdi1vbjpjbGljaz0ic2VuZE1lc3NhZ2UiPlNlbmQ8L2J1dHRvbj4K</text>
+        <text encoding="base64">CS8vIOaEj+Wbs+OBqOOBl+OBpuOBr+abtOaWsOOBl+OBn+ODoeODg+OCu+ODvOOCuOOCkui/lOOBl+OBn+OBhO+8n+OBk+OCjOOBoOOBqElELCBVc2VyTmFtZeWFpeOCieOBquOBhOOBqgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSAxLTEuIOODpuODvOOCtuODvOWQjeOCkuihqOekuuOBl+OCiOOBhiAtLT4KICAgICAgPGRpdiBjbGFzcz0ibWVzc2FnZS1saXN0IiB2LWZvcj0ibWVzc2FnZSBpbiBtZXNzYWdlcyI+CiAgICAgICAgPG1lc3NhZ2UKICAgICAgICAgIDppZD0ibWVzc2FnZS5pZCIKICAgICAgICAgIDpib2R5PSJtZXNzYWdlLmJvZHkiCiAgICAgICAgICA6dXNlcm5hbWU9Im1lc3NhZ2UudXNlcm5hbWUiCiAgICAgICAgICA6cmVtb3ZlLW1lc3NhZ2U9InJlbW92ZU1lc3NhZ2UiCiAgICAgICAgICA6dXBkYXRlLW1lc3NhZ2U9InVwZGF0ZU1lc3NhZ2UiCiAgICAgICAgPjwvbWVzc2FnZT4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">CS8vIOaEj+Wbs+OBqOOBl+OBpuOBr+abtOaWsOOBl+OBn+ODoeODg+OCu+ODvOOCuOOCkui/lOOBl+OBn+OBhO+8n+OBk+OCjOOBoOOBqElELCBVc2VyTmFtZeWFpeOCieOBquOBhOOBqgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGg1PuODoeODg+OCu+ODvOOCuOOCouODl+ODqjwvaDU+Cg==</text>
+        <text encoding="base64">CW0uSUQgPSBpZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIC4uLgo=</text>
+        <text encoding="base64">CglhZmZlY3RlZCwgZXJyIDo9IHJlcy5Sb3dzQWZmZWN0ZWQoKQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuIG5pbCwgZXJyCgl9CgoJcmV0dXJuICZNZXNzYWdlewoJCUlEOiAgICAgICBpZCwKCQlCb2R5OiAgICAgbS5Cb2R5LAoJCVVzZXJOYW1lOiBtLlVzZXJOYW1lLAoJCS8vIDEtMi4g44Om44O844K244O85ZCN44KS6L+95Yqg44GX44KI44GGCgl9LCBuaWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CW1zZywgZXJyIDo9IG1vZGVsLk1lc3NhZ2VCeUlEKG0uREIsIGMuUGFyYW0oImlkIikpCgoJc3dpdGNoIHsKCWNhc2UgZXJyID09IHNxbC5FcnJOb1Jvd3M6CgkJcmVzcCA6PSBodHRwdXRpbC5OZXdFcnJvclJlc3BvbnNlKGVycikKCQljLkpTT04oaHR0cC5TdGF0dXNOb3RGb3VuZCwgcmVzcCkKCQlyZXR1cm4KCWNhc2UgZXJyICE9IG5pbDoKCQlyZXNwIDo9IGh0dHB1dGlsLk5ld0Vycm9yUmVzcG9uc2UoZXJyKQoJCWMuSlNPTihodHRwLlN0YXR1c0ludGVybmFsU2VydmVyRXJyb3IsIHJlc3ApCgkJcmV0dXJuCgl9CgoJYy5KU09OKGh0dHAuU3RhdHVzT0ssIGdpbi5IewoJCSJyZXN1bHQiOiBtc2csCgkJImVycm9yIjogIG5pbCwKCX0pCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
