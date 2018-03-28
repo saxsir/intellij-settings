@@ -146,6 +146,12 @@
         <mark key="." line="21" column="23" />
         <mark key="^" line="21" column="23" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/lambda/transformer/RewardedVideoEventTransformer.scala" timestamp="1522212622673">
+        <mark key="[" line="38" column="41" />
+        <mark key="]" line="40" column="17" />
+        <mark key="." line="40" column="17" />
+        <mark key="^" line="40" column="17" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/debug/debug.go" timestamp="1520557926945">
         <mark key="[" line="28" column="29" />
         <mark key="]" line="28" column="39" />
@@ -182,11 +188,11 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/Makefile" timestamp="1522205631838">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/Makefile" timestamp="1522210867880">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="7" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/REAMDE.md" timestamp="1522030319349">
         <mark key="[" line="6" column="17" />
@@ -245,6 +251,12 @@
         <mark key="]" line="93" column="13" />
         <mark key="^" line="93" column="13" />
         <mark key="." line="93" column="13" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/build.sbt" timestamp="1522210649482">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="26" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/android-event-transformer/src/main/scala/fluct/haste/lambda/retracer/AndroidRetracer.scala" timestamp="1522119927993">
         <mark key="'" line="33" column="2" />
@@ -404,7 +416,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Event</text>
+        <text encoding="base64">IGNvdW50</text>
       </register>
       <register name="/" type="4">
         <text>Get</text>
@@ -413,31 +425,31 @@
         <text encoding="base64">cmVzb3VyY2UgImF3c19pYW1fcG9saWN5IiAiaGFzdGVfbGFtYmRhX2ludm9rYXRpb24iIHsKICBuYW1lICAgICAgICA9ICJoYXN0ZS1sYW1iZGEtaW52b2thdGlvbiIKICBwYXRoICAgICAgICA9ICIvaGFzdGUvIgogIGRlc2NyaXB0aW9uID0gIlByaXZpbGFnZSBvZiBpbnZva2Ugb24gaGFzdGUgbGFtYmRhIGZ1bmN0aW9ucyBvbmVzZWxmIgogIHBvbGljeSAgICAgID0gIiR7ZmlsZSgiX2lhbV9wb2xpY2llcy9oYXN0ZS1sYW1iZGEtaW52b2thdGlvbi5qc29uIil9Igp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aGVscDoKCUBjYXQgTWFrZWZpbGUKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RlVOQ1RJT05fTkFNRSA6PSB0ZXN0LXNjYWxhLWxhbWJkYQo=</text>
+        <text encoding="base64">ICBkZWYgcmV0cmFjZShzdGFja1RyYWNlOiBTdHJpbmcsIHNka1ZlcnNpb246IFN0cmluZykgOiBTdHJpbmcgPSB7CiAgICB2YWwgcmVhZGVyOiBMaW5lTnVtYmVyUmVhZGVyID0gbmV3IExpbmVOdW1iZXJSZWFkZXIobmV3IEJ1ZmZlcmVkUmVhZGVyKAogICAgICBuZXcgSW5wdXRTdHJlYW1SZWFkZXIobmV3IEJ5dGVBcnJheUlucHV0U3RyZWFtKHN0YWNrVHJhY2UuZ2V0Qnl0ZXMpKSkpCiAgICB2YWwgd3JpdGVyOiBTdHJpbmdXcml0ZXIgPSBuZXcgU3RyaW5nV3JpdGVyKCkKCiAgICBuZXcgUmVUcmFjZShTVEFDS19UUkFDRV9FWFBSRVNTSU9OLCBmYWxzZSwgbmV3IEZpbGUocyJtYXBwaW5nLnYke3Nka1ZlcnNpb259LnR4dCIpKQogICAgICAucmV0cmFjZShyZWFkZXIsIG5ldyBQcmludFdyaXRlcih3cml0ZXIpKQoKICAgIHdyaXRlci50b1N0cmluZwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAgICAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgICAgICAgICAgICJBY3Rpb24iOiBbCiAgICAgICAgICAgICAgICAia2luZXNpczpHZXRSZWNvcmRzIiwKICAgICAgICAgICAgICAgICJraW5lc2lzOkdldFNoYXJkSXRlcmF0b3IiLAogICAgICAgICAgICAgICAgImtpbmVzaXM6RGVzY3JpYmVTdHJlYW0iLAogICAgICAgICAgICAgICAgImtpbmVzaXM6TGlzdFN0cmVhbXMiLAogICAgICAgICAgICAgICAgImxvZ3M6Q3JlYXRlTG9nR3JvdXAiLAogICAgICAgICAgICAgICAgImxvZ3M6Q3JlYXRlTG9nU3RyZWFtIiwKICAgICAgICAgICAgICAgICJsb2dzOlB1dExvZ0V2ZW50cyIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgIlJlc291cmNlIjogIioiCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBmb3JtYXRzID0gRGVmYXVsdEZvcm1hdHMKCiAgICB2YWwganNvbiA9IG5ldyBTdHJpbmcocmVjb3JkLmdldERhdGEuYXJyYXkoKSkKICAgIHZhbCBldmVudCA9IEpzb25NZXRob2RzLnBhcnNlKGpzb24pCgogICAgdmFsIHN0YWNrVHJhY2UgPSAoZXZlbnQgXCAic3QiKS5leHRyYWN0W1N0cmluZ10KICAgIHZhbCBzZGtWZXJzaW9uID0gKGV2ZW50IFwgInN2IikuZXh0cmFjdFtTdHJpbmddCiAgICB2YWwgcmV0cmFjZWRTdGFja1RyYWNlID0gcmV0cmFjZShzdGFja1RyYWNlLCBzZGtWZXJzaW9uKQoKICAgIHZhbCB0cmFuc2Zvcm1lZERhdGEgPSBldmVudCBtZXJnZSBKT2JqZWN0KCJkc3QiIC0+IEpTdHJpbmcocmV0cmFjZWRTdGFja1RyYWNlKSkKICAgIHZhbCBlbmNvZGVkRGF0YSA9IEJhc2U2NC5nZXRFbmNvZGVyLmVuY29kZVRvU3RyaW5nKFNlcmlhbGl6YXRpb24ud3JpdGUodHJhbnNmb3JtZWREYXRhKS5nZXRCeXRlcykKCiAgICBuZXcgRmlyZWhvc2VSZWNvcmQocmVjb3JkLmdldFJlY29yZElkKQogICAgICAud2l0aFJlc3VsdCgiT2siKQogICAgICAud2l0aERhdGEoZW5jb2RlZERhdGEpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c19pYW1fcG9saWN5IiAiaGFzdGVfbGFtYmRhX2ludm9rYXRpb24iIHsKICBuYW1lICAgICAgICA9ICJoYXN0ZS1sYW1iZGEtaW52b2thdGlvbiIKICBwYXRoICAgICAgICA9ICIvaGFzdGUvIgogIGRlc2NyaXB0aW9uID0gIlByaXZpbGFnZSBvZiBpbnZva2Ugb24gaGFzdGUgbGFtYmRhIGZ1bmN0aW9ucyBvbmVzZWxmIgogIHBvbGljeSAgICAgID0gIiR7ZmlsZSgiX2lhbV9wb2xpY2llcy9oYXN0ZS1sYW1iZGEtaW52b2thdGlvbi5qc29uIil9Igp9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBQcm9jZXNzaW5nIGNvbXBsZXRlZC4gIFN1Y2Nlc3NmdWwgcmVjb3JkcyAke291dHB1dC5sZW5ndGh9LmApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRvZG86IOWkseaVl+ODkeOCv+ODvOODs+OBruWHpueQhgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWxsOiBkZXBsb3kK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2dpbi1nb25pYy9naW4iCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImFhYSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
