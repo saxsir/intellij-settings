@@ -49,6 +49,13 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="35" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" timestamp="1522203606169">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="72" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/bulk-add-line-item-target.py" timestamp="1521522317564">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="34" />
@@ -243,6 +250,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="132" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" timestamp="1522203685192">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" timestamp="1522118732668">
         <mark key="'" line="110" column="14" />
         <mark key="[" line="143" column="12" />
@@ -263,10 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="21" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-core/srcs/aws-lambda-java-core-1.1.0-sources.jar!/com/amazonaws/services/lambda/runtime/Context.java" />
-      <jump line="51" column="21" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-core/srcs/aws-lambda-java-core-1.1.0-sources.jar!/com/amazonaws/services/lambda/runtime/Context.java" />
-      <jump line="41" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="34" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="99" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="80" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="32" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
@@ -363,6 +372,10 @@
       <jump line="96" column="21" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/bot/bot.go" />
       <jump line="1" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/bot/bot.go" />
       <jump line="32" column="4" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/bot/processor.go" />
+      <jump line="139" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
+      <jump line="32" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
+      <jump line="18" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
+      <jump line="62" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -384,35 +397,35 @@
       <register name="/" type="4">
         <text>Get</text>
       </register>
-      <register name="0" type="4">
-        <text>c38q5loPDxV29cyIiMk2EEnfRXmeIRvZ</text>
+      <register name="0" type="2">
+        <text encoding="base64">cmVzb3VyY2UgImF3c19pYW1fcG9saWN5IiAiaGFzdGVfbGFtYmRhX2ludm9rYXRpb24iIHsKICBuYW1lICAgICAgICA9ICJoYXN0ZS1sYW1iZGEtaW52b2thdGlvbiIKICBwYXRoICAgICAgICA9ICIvaGFzdGUvIgogIGRlc2NyaXB0aW9uID0gIlByaXZpbGFnZSBvZiBpbnZva2Ugb24gaGFzdGUgbGFtYmRhIGZ1bmN0aW9ucyBvbmVzZWxmIgogIHBvbGljeSAgICAgID0gIiR7ZmlsZSgiX2lhbV9wb2xpY2llcy9oYXN0ZS1sYW1iZGEtaW52b2thdGlvbi5qc29uIil9Igp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAgICAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgICAgICAgICAgICJBY3Rpb24iOiBbCiAgICAgICAgICAgICAgICAia2luZXNpczpHZXRSZWNvcmRzIiwKICAgICAgICAgICAgICAgICJraW5lc2lzOkdldFNoYXJkSXRlcmF0b3IiLAogICAgICAgICAgICAgICAgImtpbmVzaXM6RGVzY3JpYmVTdHJlYW0iLAogICAgICAgICAgICAgICAgImtpbmVzaXM6TGlzdFN0cmVhbXMiLAogICAgICAgICAgICAgICAgImxvZ3M6Q3JlYXRlTG9nR3JvdXAiLAogICAgICAgICAgICAgICAgImxvZ3M6Q3JlYXRlTG9nU3RyZWFtIiwKICAgICAgICAgICAgICAgICJsb2dzOlB1dExvZ0V2ZW50cyIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgIlJlc291cmNlIjogIioiCiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWxsOiBkZXBsb3kK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2dpbi1nb25pYy9naW4iCg==</text>
+        <text encoding="base64">cmVzb3VyY2UgImF3c19pYW1fcG9saWN5IiAiaGFzdGVfbGFtYmRhX2ludm9rYXRpb24iIHsKICBuYW1lICAgICAgICA9ICJoYXN0ZS1sYW1iZGEtaW52b2thdGlvbiIKICBwYXRoICAgICAgICA9ICIvaGFzdGUvIgogIGRlc2NyaXB0aW9uID0gIlByaXZpbGFnZSBvZiBpbnZva2Ugb24gaGFzdGUgbGFtYmRhIGZ1bmN0aW9ucyBvbmVzZWxmIgogIHBvbGljeSAgICAgID0gIiR7ZmlsZSgiX2lhbV9wb2xpY2llcy9oYXN0ZS1sYW1iZGEtaW52b2thdGlvbi5qc29uIil9Igp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlVCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlVc2VyTmFtZTogIiIK</text>
+        <text encoding="base64">YWxsOiBkZXBsb3kK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2dpbi1nb25pYy9naW4iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8vIE5ld0dhY2hhQm90IOOBryAuLi4KZnVuYyBOZXdHYWNoYUJvdChvdXQgY2hhbiAqbW9kZWwuTWVzc2FnZSkgKkJvdCB7CglpbiA6PSBtYWtlKGNoYW4gKm1vZGVsLk1lc3NhZ2UpCgoJY2hlY2tlciA6PSBOZXdSZWdleHBDaGVja2VyKCJcXEFnYWNoYSAuKiIpCgoJcHJvY2Vzc29yIDo9ICZLZXl3b3JkUHJvY2Vzc29ye30KCglyZXR1cm4gJkJvdHsKCQluYW1lOiAgICAgICJnYWNoYWJvdCIsCgkJaW46ICAgICAgICBpbiwKCQlvdXQ6ICAgICAgIG91dCwKCQljaGVja2VyOiAgIGNoZWNrZXIsCgkJcHJvY2Vzc29yOiBwcm9jZXNzb3IsCgl9Cn0KCg==</text>
+        <text encoding="base64">CQlVCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gTmV3S2V5d29yZEJvdCDjga/jg6Hjg4Pjgrvjg7zjgrjmnKzmlofjgYvjgonjgq3jg7zjg6/jg7zjg4njgpLmir3lh7rjgZfjgabov5TjgZnmlrDjgZfjgYRCb3Tjga7mp4vpgKDkvZPjga7jg53jgqTjg7Pjgr/jgpLov5TjgZfjgb7jgZkK</text>
+        <text encoding="base64">CQlVc2VyTmFtZTogIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL01hc3Rlcm1pbmRzL2dsaWRlL21zZyIK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
