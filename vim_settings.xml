@@ -72,6 +72,9 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="28" column="13" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" timestamp="1522225496307">
+        <mark key="'" line="80" column="14" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/script/update_dynamic_allocation.py" timestamp="1521511645522">
         <mark key="[" line="32" column="50" />
         <mark key="]" line="33" column="17" />
@@ -128,10 +131,6 @@
         <mark key="]" line="28" column="49" />
         <mark key="^" line="28" column="25" />
         <mark key="." line="28" column="27" />
-      </file>
-      <file name="/usr/local/go/src/database/sql/sql.go" timestamp="1522130376328">
-        <mark key="[" line="3002" column="4" />
-        <mark key="]" line="3002" column="17" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.json4s/json4s-native_2.12/srcs/json4s-native_2.12-3.5.3-sources.jar!/org/json4s/native/Serialization.scala" timestamp="1522221517606">
         <mark key="'" line="32" column="7" />
@@ -264,10 +263,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/env/env.go" timestamp="1522132497579">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="49" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/Makefile" timestamp="1522040386042">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -296,6 +291,9 @@
         <mark key="]" line="4" column="26" />
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" timestamp="1522225451506">
+        <mark key="'" line="116" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/android-event-transformer/src/main/scala/fluct/haste/lambda/retracer/AndroidRetracer.scala" timestamp="1522119927993">
         <mark key="'" line="33" column="2" />
@@ -339,8 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
-      <jump line="28" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="65" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="87" column="62" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="19" column="62" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
@@ -439,6 +435,8 @@
       <jump line="13" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
       <jump line="71" column="76" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-hv-kinesis-firehose-delivery.json" />
       <jump line="38" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/lambda/transformer/RewardedVideoEventTransformer.scala" />
+      <jump line="116" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
+      <jump line="80" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -458,7 +456,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>role</text>
+        <text>artifact</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHsKICAgICAgIlNpZCI6ICIiLAogICAgICAiRWZmZWN0IjogIkFsbG93IiwKICAgICAgIkFjdGlvbiI6IFsKICAgICAgICAibGFtYmRhOkludm9rZUZ1bmN0aW9uIiwKICAgICAgICAibGFtYmRhOkdldEZ1bmN0aW9uQ29uZmlndXJhdGlvbiIKICAgICAgXSwKICAgICAgIlJlc291cmNlIjogImFybjphd3M6bGFtYmRhOmFwLW5vcnRoZWFzdC0xOjMyMjA5NTYwMzI3NjpmdW5jdGlvbjpIYXN0ZVJld2FyZGVkVmlkZW9FdmVudFRyYW5zZm9ybWVyMDE6JExBVEVTVCIKICAgIH0sCg==</text>
@@ -495,16 +493,14 @@
       </register>
     </registers>
     <search>
-      <last-search>role</last-search>
+      <last-search>artifact</last-search>
       <last-offset />
-      <last-pattern>role</last-pattern>
+      <last-pattern>artifact</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getRecords</entry>
-        <entry>Response</entry>
         <entry>Log</entry>
         <entry encoding="base64">XDxvdmVycmlkZVw+</entry>
         <entry>result</entry>
@@ -523,6 +519,8 @@
         <entry>es</entry>
         <entry>ESHTTP</entry>
         <entry>role</entry>
+        <entry>arti</entry>
+        <entry>artifact</entry>
       </history-search>
       <history-cmd>
         <entry>94</entry>
