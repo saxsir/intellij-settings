@@ -186,6 +186,9 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/_iam_policies/fluct_developers.json" timestamp="1522226557398">
+        <mark key="'" line="79" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" timestamp="1522223230806">
         <mark key="'" line="13" column="39" />
         <mark key="[" line="49" column="0" />
@@ -240,11 +243,6 @@
         <mark key="^" line="45" column="37" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/retrace/retrace.java" timestamp="1522055573032">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="124" column="10" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseResponse.java" timestamp="1522113216115">
         <mark key="'" line="10" column="36" />
         <mark key="[" line="26" column="0" />
@@ -257,11 +255,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/server.go" timestamp="1522138613254">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/Makefile" timestamp="1522040386042">
         <mark key="[" line="1" column="0" />
@@ -292,8 +285,8 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" timestamp="1522225451506">
-        <mark key="'" line="116" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" timestamp="1522226481777">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/android-event-transformer/src/main/scala/fluct/haste/lambda/retracer/AndroidRetracer.scala" timestamp="1522119927993">
         <mark key="'" line="33" column="2" />
@@ -337,9 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="87" column="62" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
-      <jump line="19" column="62" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="98" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="86" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/java/lambda/event/FirehoseRecord.java" />
@@ -437,6 +427,9 @@
       <jump line="38" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/lambda/transformer/RewardedVideoEventTransformer.scala" />
       <jump line="116" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
       <jump line="80" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" />
+      <jump line="136" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
+      <jump line="79" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/_iam_policies/fluct_developers.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -456,7 +449,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>artifact</text>
+        <text>sandbo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHsKICAgICAgIlNpZCI6ICIiLAogICAgICAiRWZmZWN0IjogIkFsbG93IiwKICAgICAgIkFjdGlvbiI6IFsKICAgICAgICAibGFtYmRhOkludm9rZUZ1bmN0aW9uIiwKICAgICAgICAibGFtYmRhOkdldEZ1bmN0aW9uQ29uZmlndXJhdGlvbiIKICAgICAgXSwKICAgICAgIlJlc291cmNlIjogImFybjphd3M6bGFtYmRhOmFwLW5vcnRoZWFzdC0xOjMyMjA5NTYwMzI3NjpmdW5jdGlvbjpIYXN0ZVJld2FyZGVkVmlkZW9FdmVudFRyYW5zZm9ybWVyMDE6JExBVEVTVCIKICAgIH0sCg==</text>
@@ -493,16 +486,14 @@
       </register>
     </registers>
     <search>
-      <last-search>artifact</last-search>
+      <last-search>sandbo</last-search>
       <last-offset />
-      <last-pattern>artifact</last-pattern>
+      <last-pattern>sandbo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Log</entry>
-        <entry encoding="base64">XDxvdmVycmlkZVw+</entry>
         <entry>result</entry>
         <entry>Result</entry>
         <entry>Env</entry>
@@ -521,6 +512,8 @@
         <entry>role</entry>
         <entry>arti</entry>
         <entry>artifact</entry>
+        <entry>sandbox</entry>
+        <entry>sandbo</entry>
       </history-search>
       <history-cmd>
         <entry>94</entry>
