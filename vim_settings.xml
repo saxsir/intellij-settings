@@ -89,6 +89,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="20" column="9" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/README.md" timestamp="1522215173675">
+        <mark key="[" line="38" column="61" />
+        <mark key="]" line="38" column="61" />
+        <mark key="." line="38" column="61" />
+        <mark key="^" line="38" column="61" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/SummaryImport/SiteImporter.php" timestamp="1520922411504">
         <mark key="[" line="59" column="20" />
         <mark key="]" line="59" column="20" />
@@ -100,9 +106,6 @@
         <mark key="]" line="55" column="21" />
         <mark key="." line="55" column="21" />
         <mark key="^" line="55" column="21" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/nicksnyder/go-i18n/i18n/translation/template.go" timestamp="1522128573792">
-        <mark key="[" line="9" column="5" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1520558024138">
         <mark key="[" line="28" column="27" />
@@ -146,11 +149,12 @@
         <mark key="." line="21" column="23" />
         <mark key="^" line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/lambda/transformer/RewardedVideoEventTransformer.scala" timestamp="1522212622673">
-        <mark key="[" line="38" column="41" />
-        <mark key="]" line="40" column="17" />
-        <mark key="." line="40" column="17" />
-        <mark key="^" line="40" column="17" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/lambda/transformer/RewardedVideoEventTransformer.scala" timestamp="1522215148950">
+        <mark key="'" line="21" column="54" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="22" column="68" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/debug/debug.go" timestamp="1520557926945">
         <mark key="[" line="28" column="29" />
@@ -188,17 +192,23 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/Makefile" timestamp="1522210867880">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="14" />
-        <mark key="." line="9" column="7" />
+      <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.1.0-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" timestamp="1522212868876">
+        <mark key="'" line="25" column="13" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/Makefile" timestamp="1522214967909">
+        <mark key="[" line="13" column="100" />
+        <mark key="]" line="13" column="114" />
+        <mark key="^" line="13" column="114" />
+        <mark key="." line="13" column="114" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/REAMDE.md" timestamp="1522030319349">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="53" />
         <mark key="^" line="6" column="53" />
         <mark key="." line="6" column="53" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-core/srcs/aws-lambda-java-core-1.1.0-sources.jar!/com/amazonaws/services/lambda/runtime/Context.java" timestamp="1522212995237">
+        <mark key="'" line="54" column="31" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/fluct/haste/lambda/android-retracer/retrace.scala" timestamp="1522113894791">
         <mark key="[" line="0" column="35" />
@@ -252,6 +262,13 @@
         <mark key="^" line="93" column="13" />
         <mark key="." line="93" column="13" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/java/fluct/haste/lambda/event/FirehoseRecord.java" timestamp="1522213444072">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="64" column="29" />
+        <mark key="]" line="65" column="7" />
+        <mark key="." line="65" column="7" />
+        <mark key="^" line="65" column="7" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/build.sbt" timestamp="1522210649482">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="26" />
@@ -300,10 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="80" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="32" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
-      <jump line="61" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="109" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="104" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" />
       <jump line="296" column="52" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.0.1-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
@@ -400,6 +413,10 @@
       <jump line="32" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
       <jump line="18" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
       <jump line="62" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
+      <jump line="25" column="13" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.1.0-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" />
+      <jump line="54" column="31" filename="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-core/srcs/aws-lambda-java-core-1.1.0-sources.jar!/com/amazonaws/services/lambda/runtime/Context.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/java/fluct/haste/lambda/event/FirehoseRecord.java" />
+      <jump line="31" column="54" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/lambda/transformer/RewardedVideoEventTransformer.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -416,58 +433,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvdW50</text>
+        <text encoding="base64">Y29tcGxldGVkIA==</text>
       </register>
       <register name="/" type="4">
-        <text>Get</text>
+        <text>Logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c19pYW1fcG9saWN5IiAiaGFzdGVfbGFtYmRhX2ludm9rYXRpb24iIHsKICBuYW1lICAgICAgICA9ICJoYXN0ZS1sYW1iZGEtaW52b2thdGlvbiIKICBwYXRoICAgICAgICA9ICIvaGFzdGUvIgogIGRlc2NyaXB0aW9uID0gIlByaXZpbGFnZSBvZiBpbnZva2Ugb24gaGFzdGUgbGFtYmRhIGZ1bmN0aW9ucyBvbmVzZWxmIgogIHBvbGljeSAgICAgID0gIiR7ZmlsZSgiX2lhbV9wb2xpY2llcy9oYXN0ZS1sYW1iZGEtaW52b2thdGlvbi5qc29uIil9Igp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZsdWN0Lmhhc3RlLmxhbWJkYS5ldmVudC57RmlyZWhvc2VSZXNwb25zZSwgRmlyZWhvc2VSZWNvcmR9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWF3cyBraW5lc2lzIGZpcmVob3NlIHB1dC1yZWNvcmQgLS1zdHJlYW0tbmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgcmV0cmFjZShzdGFja1RyYWNlOiBTdHJpbmcsIHNka1ZlcnNpb246IFN0cmluZykgOiBTdHJpbmcgPSB7CiAgICB2YWwgcmVhZGVyOiBMaW5lTnVtYmVyUmVhZGVyID0gbmV3IExpbmVOdW1iZXJSZWFkZXIobmV3IEJ1ZmZlcmVkUmVhZGVyKAogICAgICBuZXcgSW5wdXRTdHJlYW1SZWFkZXIobmV3IEJ5dGVBcnJheUlucHV0U3RyZWFtKHN0YWNrVHJhY2UuZ2V0Qnl0ZXMpKSkpCiAgICB2YWwgd3JpdGVyOiBTdHJpbmdXcml0ZXIgPSBuZXcgU3RyaW5nV3JpdGVyKCkKCiAgICBuZXcgUmVUcmFjZShTVEFDS19UUkFDRV9FWFBSRVNTSU9OLCBmYWxzZSwgbmV3IEZpbGUocyJtYXBwaW5nLnYke3Nka1ZlcnNpb259LnR4dCIpKQogICAgICAucmV0cmFjZShyZWFkZXIsIG5ldyBQcmludFdyaXRlcih3cml0ZXIpKQoKICAgIHdyaXRlci50b1N0cmluZwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBmb3JtYXRzID0gRGVmYXVsdEZvcm1hdHMKCiAgICB2YWwganNvbiA9IG5ldyBTdHJpbmcocmVjb3JkLmdldERhdGEuYXJyYXkoKSkKICAgIHZhbCBldmVudCA9IEpzb25NZXRob2RzLnBhcnNlKGpzb24pCgogICAgdmFsIHN0YWNrVHJhY2UgPSAoZXZlbnQgXCAic3QiKS5leHRyYWN0W1N0cmluZ10KICAgIHZhbCBzZGtWZXJzaW9uID0gKGV2ZW50IFwgInN2IikuZXh0cmFjdFtTdHJpbmddCiAgICB2YWwgcmV0cmFjZWRTdGFja1RyYWNlID0gcmV0cmFjZShzdGFja1RyYWNlLCBzZGtWZXJzaW9uKQoKICAgIHZhbCB0cmFuc2Zvcm1lZERhdGEgPSBldmVudCBtZXJnZSBKT2JqZWN0KCJkc3QiIC0+IEpTdHJpbmcocmV0cmFjZWRTdGFja1RyYWNlKSkKICAgIHZhbCBlbmNvZGVkRGF0YSA9IEJhc2U2NC5nZXRFbmNvZGVyLmVuY29kZVRvU3RyaW5nKFNlcmlhbGl6YXRpb24ud3JpdGUodHJhbnNmb3JtZWREYXRhKS5nZXRCeXRlcykKCiAgICBuZXcgRmlyZWhvc2VSZWNvcmQocmVjb3JkLmdldFJlY29yZElkKQogICAgICAud2l0aFJlc3VsdCgiT2siKQogICAgICAud2l0aERhdGEoZW5jb2RlZERhdGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICog44OG44K544OI55Soc3RyZWFt44KS55So5oSP44GZ44KM44Gw6YGp5b2T44Gr44Ot44O844Kr44Or44GL44KJcHV0IHJlY29yZOOBl+OBpuOAgeOBqOOBi+OCguOBp+OBjeOBvuOBmQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBQcm9jZXNzaW5nIGNvbXBsZXRlZC4gIFN1Y2Nlc3NmdWwgcmVjb3JkcyAke291dHB1dC5sZW5ndGh9LmApOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG86IOWkseaVl+ODkeOCv+ODvOODs+OBruWHpueQhgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICogYXNrIGZsdWN0IFNSRQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImFhYSIpCg==</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Get</last-search>
+      <last-search>Logger</last-search>
       <last-offset />
-      <last-pattern>Get</last-pattern>
+      <last-pattern>Logger</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setRe</entry>
         <entry>setRecords</entry>
         <entry>getKinesis</entry>
-        <entry>getData</entry>
         <entry>setRecord</entry>
         <entry>setData</entry>
         <entry>wrap</entry>
@@ -484,6 +499,8 @@
         <entry>Record</entry>
         <entry>recordId</entry>
         <entry>Get</entry>
+        <entry>getData</entry>
+        <entry>Logger</entry>
       </history-search>
       <history-cmd>
         <entry>87</entry>
