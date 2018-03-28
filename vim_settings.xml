@@ -95,6 +95,12 @@
         <mark key="." line="38" column="61" />
         <mark key="^" line="38" column="61" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/decoder/AndroidStackTraceDecoder.scala" timestamp="1522218120596">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/SummaryImport/SiteImporter.php" timestamp="1520922411504">
         <mark key="[" line="59" column="20" />
         <mark key="]" line="59" column="20" />
@@ -149,12 +155,12 @@
         <mark key="." line="21" column="23" />
         <mark key="^" line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/lambda/transformer/RewardedVideoEventTransformer.scala" timestamp="1522215148950">
-        <mark key="'" line="21" column="54" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="22" column="68" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/lambda/transformer/RewardedVideoEventTransformer.scala" timestamp="1522217961355">
+        <mark key="'" line="28" column="54" />
+        <mark key="[" line="41" column="51" />
+        <mark key="]" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+        <mark key="^" line="42" column="3" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/debug/debug.go" timestamp="1520557926945">
         <mark key="[" line="28" column="29" />
@@ -433,40 +439,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29tcGxldGVkIA==</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>Logger</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGZsdWN0Lmhhc3RlLmxhbWJkYS5ldmVudC57RmlyZWhvc2VSZXNwb25zZSwgRmlyZWhvc2VSZWNvcmR9Cg==</text>
+      <register name="0" type="4">
+        <text>fluct.haste.decoder</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWF3cyBraW5lc2lzIGZpcmVob3NlIHB1dC1yZWNvcmQgLS1zdHJlYW0tbmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHByb2d1YXJkLnJldHJhY2UuUmVUcmFjZQppbXBvcnQgcHJvZ3VhcmQucmV0cmFjZS5SZVRyYWNlLlNUQUNLX1RSQUNFX0VYUFJFU1NJT04K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>-
+-
+-
+-
+-
+-
+-</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICog44OG44K544OI55Soc3RyZWFt44KS55So5oSP44GZ44KM44Gw6YGp5b2T44Gr44Ot44O844Kr44Or44GL44KJcHV0IHJlY29yZOOBl+OBpuOAgeOBqOOBi+OCguOBp+OBjeOBvuOBmQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICogYXNrIGZsdWN0IFNSRQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">ICAgIHZhbCByZWFkZXI6IExpbmVOdW1iZXJSZWFkZXIgPSBuZXcgTGluZU51bWJlclJlYWRlcihuZXcgQnVmZmVyZWRSZWFkZXIoCiAgICAgIG5ldyBJbnB1dFN0cmVhbVJlYWRlcihuZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0oc3RhY2tUcmFjZS5nZXRCeXRlcykpKSkKICAgIHZhbCB3cml0ZXI6IFN0cmluZ1dyaXRlciA9IG5ldyBTdHJpbmdXcml0ZXIoKQoKICAgIG5ldyBSZVRyYWNlKFNUQUNLX1RSQUNFX0VYUFJFU1NJT04sIGZhbHNlLCBuZXcgRmlsZShzIm1hcHBpbmcudiR7c2RrVmVyc2lvbn0udHh0IikpCiAgICAgIC5yZXRyYWNlKHJlYWRlciwgbmV3IFByaW50V3JpdGVyKHdyaXRlcikpCgogICAgd3JpdGVyLnRvU3RyaW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
