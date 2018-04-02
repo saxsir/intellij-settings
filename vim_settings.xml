@@ -36,10 +36,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" timestamp="1522632932743">
         <mark key="'" line="60" column="20" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="99" column="21" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/src/main/scala/retrace/retrace.scala" timestamp="1522113191888">
         <mark key="'" line="20" column="0" />
@@ -57,13 +53,13 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Command/Report/Taboola/AggregateCommandTest.php" timestamp="1522633321596">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="54" column="18" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" timestamp="1522225496307">
         <mark key="'" line="80" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Currency/MizuhoScraper.php" timestamp="1522634690494">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="42" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/bot/processor.go" timestamp="1522132340764">
         <mark key="'" line="32" column="4" />
@@ -213,12 +209,12 @@
         <mark key="]" line="124" column="79" />
         <mark key="." line="124" column="79" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/UpdateCmnBidRate/DownloadCommand.php" timestamp="1522038018216">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="13" column="8" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="13" column="8" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/UpdateCmnBidRate/DownloadCommand.php" timestamp="1522634698867">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1521509082744">
         <mark key="'" line="41" column="34" />
@@ -357,11 +353,11 @@
       <register name="/" type="4">
         <text>parse</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgJGNvbW1hbmQgPSBuZXcgQWdncmVnYXRlQ29tbWFuZCgpOwogICAgICAgICAkZ290ID0gJGNvbW1hbmQtPmpzb24yQXJyYXkoJGpzb25TdHIpOwoKICAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkd2FudCwgJGdvdCk7Cg==</text>
+      <register name="0" type="4">
+        <text>Fluct\Batch\Http\Scraper\Currency</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGliL3BocC9zcmMvRmx1Y3QvQmF0Y2gvSHR0cC9TY3JhcGVyL0N1cnJlbmN5L01penVob1NjcmFwZXIucGhwCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -370,19 +366,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsiZGF0ZSI6IjIwMTgtMDItMDkgMDA6MDA6MDAuMCIsInB1Ymxpc2hlciI6ImZsdWN0aW5jLWFzYWdlaWNvbSIsInB1Ymxpc2hlcl9uYW1lIjoiRmx1Y3QgaW5jIC0gYXNhZ2VpLmNvbSIsInB1Ymxpc2hlcl9pZCI6MTExNTY3OSwicGFnZV90eXBlIjoicGhvdG8iLCJwbGFjZW1lbnQiOiLjgqLjgrXoirgrXzMzMDFfNjEwMDg3IiwicGFnZV92aWV3cyI6OTAsInBhZ2Vfdmlld3Nfd2l0aF9hZHMiOjkwLCJwYWdlX3ZpZXdzX3dpdGhfYWRzX3BjdCI6MTAwLjAwLCJjbGlja3MiOjIsImN0ciI6Mi4yMiwiYWRfY3BjIjozLjAxNCwiYWRfcnBtIjo2Ni45OCwiYWRfcmV2ZW51ZSI6Ni4wMywiY3VycmVuY3kiOiJKUFkifQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsiZGF0ZSI6IjIwMTgtMDItMDkgMDA6MDA6MDAuMCIsInB1Ymxpc2hlciI6ImZsdWN0aW5jLWFzYWdlaWNvbSIsInB1Ymxpc2hlcl9uYW1lIjoiRmx1Y3QgaW5jIC0gYXNhZ2VpLmNvbSIsInB1Ymxpc2hlcl9pZCI6MTExNTY3OSwicGFnZV90eXBlIjoicGhvdG8iLCJwbGFjZW1lbnQiOiJhc2FnZWlfMzMwMV82MTAwODgiLCJwYWdlX3ZpZXdzIjo1NCwicGFnZV92aWV3c193aXRoX2FkcyI6NTQsInBhZ2Vfdmlld3Nfd2l0aF9hZHNfcGN0IjoxMDAuMDAsImNsaWNrcyI6MiwiY3RyIjozLjcwLCJhZF9jcGMiOjguNDE5LCJhZF9ycG0iOjMxMS44MSwiYWRfcmV2ZW51ZSI6MTYuODQsImN1cnJlbmN5IjoiSlBZIn0sCg==</text>
+        <text encoding="base64">ICAgIHsiZGF0ZSI6IjIwMTgtMDItMDkgMDA6MDA6MDAuMCIsInB1Ymxpc2hlciI6ImZsdWN0aW5jLWFzYWdlaWNvbSIsInB1Ymxpc2hlcl9uYW1lIjoiRmx1Y3QgaW5jIC0gYXNhZ2VpLmNvbSIsInB1Ymxpc2hlcl9pZCI6MTExNTY3OSwicGFnZV90eXBlIjoicGhvdG8iLCJwbGFjZW1lbnQiOiLjgqLjgrXoirgrXzMzMDFfNjEwMDg3IiwicGFnZV92aWV3cyI6OTAsInBhZ2Vfdmlld3Nfd2l0aF9hZHMiOjkwLCJwYWdlX3ZpZXdzX3dpdGhfYWRzX3BjdCI6MTAwLjAwLCJjbGlja3MiOjIsImN0ciI6Mi4yMiwiYWRfY3BjIjozLjAxNCwiYWRfcnBtIjo2Ni45OCwiYWRfcmV2ZW51ZSI6Ni4wMywiY3VycmVuY3kiOiJKUFkifQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SlNPTjsK</text>
+        <text encoding="base64">ICAgIHsiZGF0ZSI6IjIwMTgtMDItMDkgMDA6MDA6MDAuMCIsInB1Ymxpc2hlciI6ImZsdWN0aW5jLWFzYWdlaWNvbSIsInB1Ymxpc2hlcl9uYW1lIjoiRmx1Y3QgaW5jIC0gYXNhZ2VpLmNvbSIsInB1Ymxpc2hlcl9pZCI6MTExNTY3OSwicGFnZV90eXBlIjoicGhvdG8iLCJwbGFjZW1lbnQiOiJhc2FnZWlfMzMwMV82MTAwODgiLCJwYWdlX3ZpZXdzIjo1NCwicGFnZV92aWV3c193aXRoX2FkcyI6NTQsInBhZ2Vfdmlld3Nfd2l0aF9hZHNfcGN0IjoxMDAuMDAsImNsaWNrcyI6MiwiY3RyIjozLjcwLCJhZF9jcGMiOjguNDE5LCJhZF9ycG0iOjMxMS44MSwiYWRfcmV2ZW51ZSI6MTYuODQsImN1cnJlbmN5IjoiSlBZIn0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">SlNPTjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
