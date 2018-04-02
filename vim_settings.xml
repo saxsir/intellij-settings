@@ -95,10 +95,10 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnRateMaster/UpdateCommand.php" timestamp="1522637759292">
-        <mark key="'" line="57" column="8" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="24" column="22" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnRateMaster/UpdateCommand.php" timestamp="1522647363722">
+        <mark key="'" line="36" column="23" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="52" column="8" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.json4s/json4s-native_2.12/srcs/json4s-native_2.12-3.5.3-sources.jar!/org/json4s/native/Serialization.scala" timestamp="1522221517606">
         <mark key="'" line="32" column="7" />
@@ -141,8 +141,8 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" timestamp="1522637377268">
-        <mark key="'" line="4" column="23" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" timestamp="1522647240923">
+        <mark key="'" line="61" column="15" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="153" column="0" />
         <mark key="." line="143" column="12" />
@@ -208,11 +208,12 @@
         <mark key="^" line="51" column="26" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/UpdateCmnBidRate/UpdateCommand.php" timestamp="1522637830373">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/UpdateCmnBidRate/UpdateCommand.php" timestamp="1522647371740">
         <mark key="'" line="39" column="4" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="53" column="11" />
+        <mark key="." line="53" column="11" />
+        <mark key="^" line="53" column="11" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/cmd/html2json/html2json.go" timestamp="1521509428580">
         <mark key="'" line="124" column="13" />
@@ -243,10 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" />
-      <jump line="70" column="32" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" />
-      <jump line="68" column="31" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" />
-      <jump line="20" column="23" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
       <jump line="41" column="12" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/model/message.go" />
       <jump line="64" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
       <jump line="93" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/controller/message.go" />
@@ -340,9 +337,13 @@
       <jump line="13" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Command/Report/Taboola/AggregateCommandTest.php" />
       <jump line="31" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Command/Report/Taboola/AggregateCommandTest.php" />
       <jump line="60" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Taboola/AggregateCommand.php" />
-      <jump line="4" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="35" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/UpdateCmnBidRate/UpdateCommand.php" />
       <jump line="57" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnRateMaster/UpdateCommand.php" />
+      <jump line="36" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnRateMaster/UpdateCommand.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="40" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="60" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
+      <jump line="61" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -359,55 +360,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>begin</text>
+        <text>Update</text>
       </register>
       <register name="/" type="4">
-        <text>parse</text>
+        <text>insert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKHNwcmludGYoJ2JlZ2luICVzJywgJHRoaXMtPmdldE5hbWUoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGlucHV0LT5nZXRBcmd1bWVudCgndGFyZ2V0X21vbnRoJykpIHsKICAgICAgICAgICAgJHRhcmdldE1vbnRoID0gbmV3IFxEYXRlVGltZSgkaW5wdXQtPmdldEFyZ3VtZW50KCd0YXJnZXRfbW9udGgnKS4nLzAxJyk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJHRhcmdldE1vbnRoID0gbmV3IFxEYXRlVGltZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKHNwcmludGYoJ2VuZCAlcyB0YXJnZXRfZGF0ZVslc106ICVzJywgJHRoaXMtPmdldE5hbWUoKSwgJGRhdGUtPmZvcm1hdCgnWS1tLWQnKSwgJHRpbWVyLT5nZXRSZXBvcnQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKHNwcmludGYoJ2VuZCAlcycsICR0aGlzLT5nZXROYW1lKCkpKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0KCR0aW1lciwgJGxvZ2dlciwgJG91dHB1dFBhdGgsICRkYXRlLCAkYXBpQ29uZmlnKSA9ICR0aGlzLT5pbml0KCRpbnB1dCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICog44G/44Ga44G76YqA6KGM44GuCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IExPR19OQU1FID0gJHRoaXMtPmdldE5hbWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKCdvdXRwdXQgcGF0aDogJy4gJG91dHB1dFBhdGgpOwogICAgICAgICRsb2dnZXItPmluZm8oc3ByaW50ZignZW5kICVzIHRhcmdldF9kYXRlWyVzXTogJXMnLCAkdGhpcy0+Z2V0TmFtZSgpLCAkZGF0ZS0+Zm9ybWF0KCdZLW0tZCcpLCAkdGltZXItPmdldFJlcG9ydCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKHNwcmludGYoJ2VuZCAlcyB0YXJnZXRfZGF0ZVslc106ICVzJywgJHRoaXMtPmdldE5hbWUoKSwgJGRhdGUtPmZvcm1hdCgnWS1tLWQnKSwgJHRpbWVyLT5nZXRSZXBvcnQoKSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0KCR0aW1lciwgJGxvZ2dlciwgJG91dHB1dFBhdGgsICRkYXRlLCAkYXBpQ29uZmlnKSA9ICR0aGlzLT5pbml0KCRpbnB1dCk7CiAgICAgICAgCiAgICAgICAgJGxvZ2dlci0+aW5mbyhzcHJpbnRmKCdiZWdpbiAlcyB0YXJnZXRfZGF0ZVslc10nLCAkdGhpcy0+Z2V0TmFtZSgpLCAkZGF0ZS0+Zm9ybWF0KCdZLW0tZCcpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9nZ2VyLT5pbmZvKHNwcmludGYoJ2VuZCAlcycsICR0aGlzLT5nZXROYW1lKCkpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNsaWVudCA9IG5ldyBSZXBvcnRDbGllbnQoCiAgICAgICAgICAgICAgICAkbG9nZ2VyLAogICAgICAgICAgICAgICAgJGRhdGUsCiAgICAgICAgICAgICAgICAkYXBpQ29uZmlnWyd1cmwnXSwKICAgICAgICAgICAgICAgIG5ldyBUb2tlbk1hbmFnZXIoJGxvZ2dlciwgJGFwaUNvbmZpZykKICAgICAgICAgICAgKTsKICAgICAgICAgICAgJGFsbFB1Ymxpc2hlcnNSZXBvcnQgPSAkY2xpZW50LT5nZXRSZXBvcnRzKCk7CgogICAgICAgICAgICAvLyDjg4/jg4Pjgrfjg6XljJbjgZXjgozjgZ/nlJ/jga7jg6zjg53jg7zjg4jjg4fjg7zjgr/jga/pmo7lsaTmp4vpgKDjgYzmt7HjgYTjga7jgafjgIEKICAgICAgICAgICAgLy8gUmVwb3J0Q29udmVydGVyIOOCkueUqOOBhOOBpiBDU1Yg44Gr5ZCQ44GN44KE44GZ44GP5aSJ5o+b44GZ44KLCiAgICAgICAgICAgICRjb252ZXJ0ZXIgPSBuZXcgUmVwb3J0Q29udmVydGVyKCk7CiAgICAgICAgICAgICRjb252ZXJ0ZWRSZXBvcnQgPSAkY29udmVydGVyLT5jb252ZXJ0VG9BcnJheSgkYWxsUHVibGlzaGVyc1JlcG9ydCk7CgogICAgICAgICAgICAvLyDjg4fjg7zjgr/jgYznhKHjgYTloLTlkIjjga/kuI3opoHjgarooYzjgYzlh7rlipvjgZXjgozjgabjgZfjgb7jgYbjga7jgafjgIEKICAgICAgICAgICAgLy8gUmVwb3J0RmlsdGVyIOOCkueUqOOBhOOBpuS4jeimgeihjOOCkumZpOWOu+OBmeOCiwogICAgICAgICAgICAkZmlsdGVyID0gbmV3IFJlcG9ydEZpbHRlcigpOwogICAgICAgICAgICAkZmlsdGVyZWRSZXBvcnQgPSAkZmlsdGVyLT5leGNsdWRlTm9EYXRhUmVwb3J0KCRjb252ZXJ0ZWRSZXBvcnQpOwoKICAgICAgICAgICAgJGZpbGUgPSBmb3Blbigkb3V0cHV0UGF0aCwgJ3cnKTsKICAgICAgICAgICAgZnB1dGNzdigkZmlsZSwgYXJyYXlfa2V5cygkZmlsdGVyZWRSZXBvcnRbMF0pKTsgLy8gaGVhZGVy44Gu5Ye65YqbCiAgICAgICAgICAgIGZvcmVhY2ggKCRmaWx0ZXJlZFJlcG9ydCBhcyAkcm93KSB7CiAgICAgICAgICAgICAgICBmcHV0Y3N2KCRmaWxlLCAkcm93KTsKICAgICAgICAgICAgfQogICAgICAgICAgICBmY2xvc2UoJGZpbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0KCR0aW1lciwgJGxvZ2dlciwgJG91dHB1dFBhdGgsICRkYXRlLCAkYXBpQ29uZmlnKSA9ICR0aGlzLT5pbml0KCRpbnB1dCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>parse</last-search>
+      <last-search>insert</last-search>
       <last-offset />
-      <last-pattern>parse</last-pattern>
+      <last-pattern>insert</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Env</entry>
         <entry>BATCH_NAME</entry>
         <entry>Record</entry>
         <entry>recordId</entry>
@@ -427,6 +427,7 @@
         <entry>develo</entry>
         <entry>haste-ci</entry>
         <entry>parse</entry>
+        <entry>insert</entry>
       </history-search>
       <history-cmd>
         <entry>94</entry>
