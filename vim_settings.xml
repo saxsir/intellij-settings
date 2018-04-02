@@ -61,10 +61,10 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Cmn/CmnBidRateManager.php" timestamp="1522653856498">
-        <mark key="[" line="37" column="29" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="29" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Cmn/CmnBidRateManager.php" timestamp="1522657321469">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/lambda/transformer/RewardedVideoEventTransformer.scala" timestamp="1522299522509">
         <mark key="'" line="38" column="34" />
@@ -302,28 +302,28 @@
         <text>cmnBidRateManager</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bWFwcGVyICA9IG5ldyBFbnRpdHlNYXBwZXIoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEZsdWN0XEJhdGNoXFV0aWxcRmlsZVV0aWw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEZsdWN0XEJhdGNoXFV0aWxcRmlsZVV0aWw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiDjgrnjgq/jg6zjgqTjg5Tjg7PjgrDntZDmnpzjgpLjganjgZPjgYvjgavmrovjgZfjgabjgYrjgY3jgZ/jgYTjgYzjgIHjgrnjgq/jg6zjgqTjg5Hjg7zlgbTjga7kv67mraPjgYzlv4XopoHjgarjga7jgafkuIDml6bopovpgIHjgosK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiDjgrnjgq/jg6zjgqTjg5Tjg7PjgrDntZDmnpzjgpLjganjgZPjgYvjgavmrovjgZfjgabjgYrjgY3jgZ/jgYTjgYzjgIHjgrnjgq/jg6zjgqTjg5Hjg7zlgbTjga7kv67mraPjgYzlv4XopoHjgarjga7jgafkuIDml6bopovpgIHjgosK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vTk9URTog44K544Kv44Os44Kk44OU44Oz44Kw57WQ5p6c44KS44Gp44GT44GL44Gr5q6L44GX44Gf44GECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9OT1RFOiBVU0Tku6XlpJbjgpLkvb/jgaPjgabjgYTjgotEU1DjgYzjgarjgYTjga7jgafjgajjgorjgYLjgYjjgZpVU0Tjga7jgb/lr77lv5wK</text>
+        <text encoding="base64">ICAgIC8vTk9URTog44K544Kv44Os44Kk44OU44Oz44Kw57WQ5p6c44KS44Gp44GT44GL44Gr5q6L44GX44Gf44GECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9OT1RFOiBVU0Tku6XlpJbjgpLkvb/jgaPjgabjgYTjgotEU1DjgYzjgarjgYTjga7jgafjgajjgorjgYLjgYjjgZpVU0Tjga7jgb/lr77lv5wK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
