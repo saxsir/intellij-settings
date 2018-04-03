@@ -206,11 +206,18 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1522734321824">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="180" column="15" />
-        <mark key="]" line="180" column="15" />
-        <mark key="." line="180" column="15" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1522739102388">
+        <mark key="'" line="207" column="7" />
+        <mark key="[" line="114" column="22" />
+        <mark key="]" line="114" column="22" />
+        <mark key="." line="114" column="22" />
+        <mark key="^" line="121" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1522738297687">
+        <mark key="'" line="304" column="15" />
+        <mark key="[" line="112" column="16" />
+        <mark key="]" line="112" column="17" />
+        <mark key="." line="112" column="17" />
         <mark key="^" line="180" column="15" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/android-event-transformer/Makefile" timestamp="1522203497976">
@@ -346,29 +353,15 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1522735015438">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1522739143674">
         <mark key="'" line="514" column="12" />
-        <mark key="[" line="589" column="14" />
-        <mark key="]" line="589" column="15" />
-        <mark key="^" line="513" column="57" />
-        <mark key="." line="589" column="15" />
+        <mark key="[" line="515" column="0" />
+        <mark key="]" line="515" column="62" />
+        <mark key="^" line="515" column="62" />
+        <mark key="." line="515" column="62" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-hv-kinesis-firehose-delivery.json" />
-      <jump line="64" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-hv-kinesis-firehose-delivery.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-hv-kinesis-firehose-delivery.json" />
-      <jump line="6" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-hv-kinesis-firehose-delivery.json" />
-      <jump line="9" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-hv-kinesis-firehose-delivery.json" />
-      <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-hv-kinesis-firehose-delivery.json" />
-      <jump line="28" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-hv-kinesis-firehose-delivery.json" />
-      <jump line="89" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-hv-kinesis-firehose-delivery.json" />
-      <jump line="60" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/iam.tf" />
-      <jump line="13" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-lambda-invokation.json" />
-      <jump line="71" column="76" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/haste/_iam_policies/haste-hv-kinesis-firehose-delivery.json" />
-      <jump line="38" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/lambda/transformer/RewardedVideoEventTransformer.scala" />
-      <jump line="116" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
-      <jump line="80" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" />
       <jump line="136" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" />
       <jump line="79" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/_iam_policies/fluct_developers.json" />
@@ -452,9 +445,23 @@
       <jump line="20" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
       <jump line="10" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="318" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="10" column="52" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
       <jump line="514" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
+      <jump line="112" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
+      <jump line="354" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
+      <jump line="122" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
+      <jump line="336" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
+      <jump line="0" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
+      <jump line="209" column="46" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
+      <jump line="56" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
+      <jump line="304" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
+      <jump line="20" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
+      <jump line="187" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
+      <jump line="198" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
+      <jump line="116" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
+      <jump line="120" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
+      <jump line="201" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -471,55 +478,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>criteo-video</text>
+        <text encoding="base64">ID0gRHNwQ29kZQ==</text>
       </register>
       <register name="/" type="4">
-        <text>RTB</text>
+        <text>dispatch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LWRlZmluZShSVEJfQ1JJVEVPX1ZJREVPX1NQLCAxMjQpLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgIC4uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cm1vbWVudHVtKERzcENvZGUsIFBhcmFtKSAtPgogICAgeyBSZXEsIFJlcVBhcmFtIH0gPSBkc3BfcnVsZTpyZXF1ZXN0KERzcENvZGUsIFBhcmFtKSwKICAgIGNhc2UgcnRiX2NsaWVudDpwb3N0KFJlcSkgb2YKICAgICAgICB7b2ssIFJlc30gLT4KICAgICAgICAgICAgUgogICAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgU2F2ZUZpbGVGYWlsZWRFeGNlcHRpb24gZXh0ZW5kcyBFeGNlcHRpb24ge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJG91dHB1dCA9PT0gJycpIHsKCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgU2F2ZUZpbGVGYWlsZWRFeGNlcHRpb24gZXh0ZW5kcyBFeGNlcHRpb24ge30K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY3N2VXRmOCA9IG1iX2NvbnZlcnRfZW5jb2RpbmcoJGNzdlNqaXMsICdVVEYtOCcsICdTSklTJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJG91dHB1dCA9PT0gJycpIHsKCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>RTB</last-search>
+      <last-search>dispatch</last-search>
       <last-offset />
-      <last-pattern>RTB</last-pattern>
+      <last-pattern>dispatch</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Logger</entry>
         <entry>merge</entry>
         <entry>kine</entry>
         <entry>log</entry>
@@ -539,9 +545,9 @@
         <entry>output</entry>
         <entry>parse</entry>
         <entry>RTB</entry>
+        <entry>dispatch</entry>
       </history-search>
       <history-cmd>
-        <entry>89</entry>
         <entry>ww</entry>
         <entry>111</entry>
         <entry>115</entry>
@@ -560,6 +566,7 @@
         <entry>107</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>237</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
