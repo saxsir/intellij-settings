@@ -62,7 +62,7 @@
         <mark key="." line="88" column="34" />
         <mark key="^" line="88" column="34" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/docker_env/README.md" timestamp="1522731778103">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/docker_env/README.md" timestamp="1522739782894">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Currency/MizuhoScraper.php" timestamp="1522723917281">
@@ -126,9 +126,6 @@
         <mark key="]" line="55" column="21" />
         <mark key="." line="55" column="21" />
         <mark key="^" line="55" column="21" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/nicksnyder/go-i18n/i18n/translation/template.go" timestamp="1522128573792">
-        <mark key="[" line="9" column="5" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper_test.go" timestamp="1520558024138">
         <mark key="[" line="28" column="27" />
@@ -206,12 +203,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1522739102388">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1522739897695">
         <mark key="'" line="207" column="7" />
-        <mark key="[" line="114" column="22" />
-        <mark key="]" line="114" column="22" />
-        <mark key="." line="114" column="22" />
-        <mark key="^" line="121" column="7" />
+        <mark key="[" line="120" column="10" />
+        <mark key="]" line="120" column="11" />
+        <mark key="." line="120" column="11" />
+        <mark key="^" line="120" column="11" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1522738297687">
         <mark key="'" line="304" column="15" />
@@ -478,7 +475,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gRHNwQ29kZQ==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>dispatch</text>
@@ -487,31 +484,31 @@
         <text encoding="base64">LWRlZmluZShSVEJfQ1JJVEVPX1ZJREVPX1NQLCAxMjQpLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdChPdGhlcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cm1vbWVudHVtKERzcENvZGUsIFBhcmFtKSAtPgogICAgeyBSZXEsIFJlcVBhcmFtIH0gPSBkc3BfcnVsZTpyZXF1ZXN0KERzcENvZGUsIFBhcmFtKSwKICAgIGNhc2UgcnRiX2NsaWVudDpwb3N0KFJlcSkgb2YKICAgICAgICB7b2ssIFJlc30gLT4KICAgICAgICAgICAgUgogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIC4uLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cm1vbWVudHVtKERzcENvZGUsIFBhcmFtKSAtPgogICAgeyBSZXEsIFJlcVBhcmFtIH0gPSBkc3BfcnVsZTpyZXF1ZXN0KERzcENvZGUsIFBhcmFtKSwKICAgIGNhc2UgcnRiX2NsaWVudDpwb3N0KFJlcSkgb2YKICAgICAgICB7b2ssIFJlc30gLT4KICAgICAgICAgICAgUgogICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgU2F2ZUZpbGVGYWlsZWRFeGNlcHRpb24gZXh0ZW5kcyBFeGNlcHRpb24ge30K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y2xhc3MgU2F2ZUZpbGVGYWlsZWRFeGNlcHRpb24gZXh0ZW5kcyBFeGNlcHRpb24ge30K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJG91dHB1dCA9PT0gJycpIHsKCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
