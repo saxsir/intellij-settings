@@ -206,6 +206,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/server.go" timestamp="1522825544518">
+        <mark key="'" line="66" column="32" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/Makefile" timestamp="1522724115656">
         <mark key="'" line="4" column="5" />
         <mark key="[" line="17" column="10" />
@@ -298,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/UpdateCmnBidRate/UpdateCommand.php" />
       <jump line="57" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnRateMaster/UpdateCommand.php" />
       <jump line="36" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnRateMaster/UpdateCommand.php" />
       <jump line="4" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
@@ -398,6 +400,7 @@
       <jump line="614" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" />
       <jump line="642" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" />
       <jump line="669" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" />
+      <jump line="66" column="32" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/server.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -450,7 +453,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>50</text>
       </register>
     </registers>
     <search>
@@ -484,7 +487,6 @@
         <entry>cmn_adnet</entry>
       </history-search>
       <history-cmd>
-        <entry>111</entry>
         <entry>115</entry>
         <entry>114</entry>
         <entry>113</entry>
@@ -504,6 +506,7 @@
         <entry>239</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>50</entry>
       </history-cmd>
       <history-expr />
       <history-input />
