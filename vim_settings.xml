@@ -28,9 +28,15 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" timestamp="1522225496307">
         <mark key="'" line="80" column="14" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DR.t" timestamp="1522834391982">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="1" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DR.t" timestamp="1522837531722">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="61" column="1" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Currency/MizuhoScraper.php" timestamp="1522723917281">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/docker_env/UNIT_TEST.md" timestamp="1522834492174" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180226105121_refs_9712_add_uliza_sp_dsp.sql" timestamp="1522831838665">
@@ -64,17 +70,16 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="59" column="26" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/Momentum.t" timestamp="1522834408496">
-        <mark key="[" line="9" column="2" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/Momentum.t" timestamp="1522837582866">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="11" column="20" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1522834686176">
-        <mark key="'" line="209" column="0" />
-        <mark key="[" line="1198" column="0" />
-        <mark key="]" line="1198" column="0" />
-        <mark key="." line="1198" column="0" />
+        <mark key="[" line="1207" column="0" />
+        <mark key="]" line="1207" column="0" />
+        <mark key="." line="1207" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/assets/js/app.js" timestamp="1522827638014">
         <mark key="'" line="0" column="0" />
@@ -117,7 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Currency/MizuhoScraper.php" />
       <jump line="41" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnBidRate/InsertCommand.php" />
       <jump line="46" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnBidRate/InsertCommand.php" />
       <jump line="47" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnBidRate/InsertCommand.php" />
@@ -217,6 +221,7 @@
       <jump line="551" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="83" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="209" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DR.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -233,40 +238,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>match_dsp_rule</text>
       </register>
       <register name="/" type="4">
         <text>DSP_CRITEO_VIDEO_PC</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIHN0cmljdDsKdXNlIHdhcm5pbmdzOwp1c2UgVGVzdDo6TW9yZTsKCnVzZSBSdGJDb25zdGFudHM7CnVzZSBSdGJIZWxwZXJzOwp1c2UgRmx1Y3Q6OlJ0Yjo6UmVxdWVzdEZhY3RvcnkgcXcvCiAgICBEU1BfRFJfUEMKICAgIERTUF9EUl9TUAovOwo=</text>
+        <text encoding="base64">c3VidGVzdCAnbWF0Y2hfZHNwX3J1bGUnID0+IHN1YnsKCiAgICBmb3IgbXkgJGRzcF9jb2RlIChEU1BfRFJfUEMsIERTUF9EUl9TUCl7CiAgICAgICAgbXkgJHVzZXJfcmVxID0gewogICAgICAgICAgICBJRCA9PiAnaGFzX3ZhbHVlJywKICAgICAgICAgICAgVSA9PiAnaVBob25lJywKICAgICAgICAgICAgZHJpZCA9PiAnaGFzX3ZhbHVlJwogICAgICAgIH07CiAgICAgICAgbXkgJHNldHRpbmcgPSB7CiAgICAgICAgICAgIGRzcF9jb2RlID0+ICRkc3BfY29kZSwKICAgICAgICAgICAgYWRiID0+ICdoYXNfdmFsdWUnCiAgICAgICAgfTsKICAgICAgICBzdWJ0ZXN0ICdzZW5kIGJpZCByZXF1ZXN0IGNhc2UnID0+IHN1YnsKICAgICAgICAgICAgc3VidGVzdCAndGFyZ2V0IGRzcCcgPT4gc3ViewogICAgICAgICAgICAgICAgaXMgRmx1Y3Q6OlJ0Yjo6UmVxdWVzdEZhY3Rvcnk6Om1hdGNoX2RzcF9ydWxlKCR1c2VyX3JlcSwgJHNldHRpbmcpLCAxOwogICAgICAgICAgICB9OwogICAgICAgIH07CiAgICB9Cn07Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciBteSAkZHNwX2NvZGUgKERTUF9NT01FKXsKICAgICAgICBteSAkdXNlcl9yZXEgPSB7CiAgICAgICAgICAgIElEID0+ICdoYXNfdmFsdWUnLAogICAgICAgICAgICBVID0+ICdpUGhvbmUnLAogICAgICAgICAgICBkcmlkID0+ICdoYXNfdmFsdWUnCiAgICAgICAgfTsKICAgICAgICBteSAkc2V0dGluZyA9IHsKICAgICAgICAgICAgZHNwX2NvZGUgPT4gJGRzcF9jb2RlLAogICAgICAgICAgICBhZGIgPT4gJ2hhc192YWx1ZScKICAgICAgICB9OwogICAgICAgIHN1YnRlc3QgJ3NlbmQgYmlkIHJlcXVlc3QgY2FzZScgPT4gc3ViewogICAgICAgICAgICBzdWJ0ZXN0ICd0YXJnZXQgZHNwJyA9PiBzdWJ7CiAgICAgICAgICAgICAgICBpcyBGbHVjdDo6UnRiOjpSZXF1ZXN0RmFjdG9yeTo6bWF0Y2hfZHNwX3J1bGUoJHVzZXJfcmVxLCAkc2V0dGluZyksIDE7CiAgICAgICAgICAgIH07CiAgICAgICAgfTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGbHVjdDo6UnRiOjpEc3A6Ok1vbWVudHVtOjptYXRjaCgkdXNlcl9yZXEsICRzZXR0aW5nKSBvciByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3VidGVzdCAnTW9tZW50dW3jg4bjgrnjg4gnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3ViIG1hdGNoX2NvbW1vbiB7IG15ICR1c2VyX3JlcSA9IHNoaWZ0OwogICAgaHYoJHVzZXJfcmVxLCAnbScpIG9yIHJldHVybjsKICAgIDE7Cn0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c3ViIG1hdGNoX2FwcCB7CiAgICBteSAkdXNlcl9yZXEgPSBzaGlmdDsKICAgIG15ICR1YWkgPSAkdXNlcl9yZXEtPnt1YWl9OwogICAgJHVhaS0+aXNfbW9iaWxlX29zIG9yIHJldHVybjsKICAgIGh2KCR1c2VyX3JlcSwgJ2lmYScpIG9yIHJldHVybjsKICAgIEZsdWN0OjpSdGI6OlJlcXVlc3RGYWN0b3J5OjpoYXNfYnVuZGxlKCR1c2VyX3JlcSkgb3IgcmV0dXJuOwogICAgMTsKfQoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hdGNoX2NvbW1vbigkdXNlcl9yZXEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBGbHVjdDo6UnRiOjpEc3A6Ok1vbWVudHVtOjptYXRjaCgkdXNlcl9yZXEsICRzZXR0aW5nKSBvciByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
