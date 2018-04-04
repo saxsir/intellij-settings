@@ -176,6 +176,9 @@
         <mark key="^" line="551" column="43" />
         <mark key="." line="551" column="43" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/assets/js/app.js" timestamp="1522827638014">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1522738297687">
         <mark key="'" line="304" column="15" />
         <mark key="[" line="112" column="16" />
@@ -301,8 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnRateMaster/UpdateCommand.php" />
-      <jump line="36" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnRateMaster/UpdateCommand.php" />
       <jump line="4" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="40" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
       <jump line="60" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/bin/main.php" />
@@ -401,6 +402,8 @@
       <jump line="642" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" />
       <jump line="669" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" />
       <jump line="66" column="32" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/server.go" />
+      <jump line="112" column="20" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/assets/js/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/assets/js/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -420,7 +423,7 @@
         <text>uliza_pc</text>
       </register>
       <register name="/" type="4">
-        <text>cmn_adnet</text>
+        <text>filter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgYHJlcF90b3RhbF91bGl6YV9wY2AgKAogIGByZXBfaWRgIGJpZ2ludCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwKICBgcmVwX3NlbmRfZGF0ZWAgZGF0ZSBOT1QgTlVMTCBDT01NRU5UICfphY3kv6HlubTmnIjml6UnLAogIGByZXBfYWRuZXR3b3JrX3NpdGVfaWRgIHZhcmNoYXIoMjU1KSBOT1QgTlVMTCBDT01NRU5UICfjgqLjg4njg43jg4Pjg4jjg6/jg7zjgq/jgrXjgqTjg4hJRCcsCiAgYHJlcF9zaXplYCB2YXJjaGFyKDE2KSBERUZBVUxUIE5VTEwgQ09NTUVOVCAn44K144Kk44K6JywKICBgcmVwX2ltcHNgIGludCBOT1QgTlVMTCBERUZBVUxUICcwJyBDT01NRU5UICdpbXDmlbAnLAogIGByZXBfY2xpY2tgIGludCBOT1QgTlVMTCBERUZBVUxUICcwJyBDT01NRU5UICdjbGlja+aVsCcsCiAgYHJlcF9wcmljZWAgZGVjaW1hbCgxMiwzKSBOT1QgTlVMTCBERUZBVUxUICcwLjAwMCcgQ09NTUVOVCAn5L6h5qC8JywKICBQUklNQVJZIEtFWSAoYHJlcF9pZGApLAogIEtFWSBgaWR4X3NpdGVfZGF0ZWAgKGByZXBfYWRuZXR3b3JrX3NpdGVfaWRgLGByZXBfc2VuZF9kYXRlYCksCiAgS0VZIGBpZHhfc2l0ZV9zaXplX2RhdGVgIChgcmVwX2FkbmV0d29ya19zaXRlX2lkYCxgcmVwX3NpemVgLGByZXBfc2VuZF9kYXRlYCksCiAgS0VZIGBpZHhfZGF0ZWAgKGByZXBfc2VuZF9kYXRlYCkKKSBFTkdJTkU9SW5ub0RCIERFRkFVTFQgQ0hBUlNFVD11dGY4OwoKQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgYHNwdF9ydGJfdWxpemFfcGNgICgKICBgc3B0X2lkYCBpbnQgQVVUT19JTkNSRU1FTlQsCiAgYHNwdF9zaXRlX2lkYCBpbnQgTk9UIE5VTEwsCiAgYHNwdF9zb3VyY2VfaWRgIGludCBOT1QgTlVMTCwKICBgc3B0X3JldmVudWVfc2hhcmVgIGludCBOT1QgTlVMTCBERUZBVUxUIDAsCiAgYHNwdF9yZXZlbnVlX21vbnRoYCBkYXRlIE5PVCBOVUxMLAogIGBzcHRfZGVsX2ZsZ2AgY2hhcigxKSBOT1QgTlVMTCBERUZBVUxUICcwJywKICBgc3B0X2N0aW1lYCBkYXRldGltZSBOT1QgTlVMTCwKICBgc3B0X3V0aW1lYCBkYXRldGltZSBERUZBVUxUIE5VTEwsCiAgUFJJTUFSWSBLRVkgKGBzcHRfaWRgKSwKICBVTklRVUUgS0VZIGB1bmlxX3NpdGVfbW9udGhgIChgc3B0X3NpdGVfaWRgLCBgc3B0X3JldmVudWVfbW9udGhgKSwKICBVTklRVUUgS0VZIGB1bmlxX3NvdXJjZV9tb250aGAgKGBzcHRfc291cmNlX2lkYCxgc3B0X3JldmVudWVfbW9udGhgKQopIEVOR0lORT1Jbm5vREIgREVGQVVMVCBDSEFSU0VUPXV0Zjg7CgpERUxFVEUgRlJPTSBjbW5fYWRuZXR3b3JrX21hc3RlciBXSEVSRSBjbW5fb3B0aW9uX2lkID0gJ3VsaXphX3BjJzsKCklOU0VSVCBJTlRPIGBjbW5fYWRuZXR3b3JrX21hc3RlcmAgU0VUCiAgYGNtbl9uYW1lYCAgICAgICAgICAgICAgICAgID0gJ1VsaXphIFBDJywKICBgY21uX3NpdGVfdGFibGVgICAgICAgICAgICAgPSAnc3B0X3J0Yl91bGl6YV9wYycsCiAgYGNtbl9yZXBvcnRfdGFibGVgICAgICAgICAgID0gJ3JlcF90b3RhbF91bGl6YV9wYycsCiAgYGNtbl9hZG5ldHdvcmtfdHlwZWAgICAgICAgID0gMiwKICBgY21uX2RzcF9jb2RlYCAgICAgICAgICAgICAgPSAxMjUsCiAgYGNtbl9kZXZpY2VgICAgICAgICAgICAgICAgID0gJzEwMDAwJywKICBgY21uX3NpemVgICAgICAgICAgICAgICAgICAgPSAnMzAww5cyNTAsMzM2w5cyODAnLAogIGBjbW5fc291cmNlX2Zvcm1hdGAgICAgICAgICA9ICcvXihkKykkLycsCiAgYGNtbl9zb3VyY2VfZm9ybWF0X2NvbW1lbnRgID0gJ+acquS9v+eUqCcsCiAgYGNtbl96aXBjb2RlYCAgICAgICAgICAgICAgID0gbnVsbCwKICBgY21uX2FkZHJlc3NgICAgICAgICAgICAgICAgPSBudWxsLAogIGBjbW5fY29tbWVudGAgICAgICAgICAgICAgICA9ICfigLvlkI3liY3jgpLlpInmm7TjgZfjgarjgYTjgafjgY/jgaDjgZXjgYTjgIInLAogIGBjbW5fY3RpbWVgICAgICAgICAgICAgICAgICA9IG5vdygpLAogIGBjbW5fYWRpbmdvX3JldmVudWVgICAgICAgICA9IDEwMCwKICBgY21uX3JlcF9jb21iaW5lZF9mbGFnYCAgICAgPSAnMScsCiAgYGNtbl9jYXRlZ29yeV91cGRhdGVfZmxnYCAgID0gJzEnLAogIGBjbW5fZmx1Y3Rfc3BlY19mbGdgICAgICAgICA9ICcwJywKICBgY21uX2RlZmF1bHRfc2V0dGluZ2AgICAgICAgPSAnMScsCiAgYGNtbl9wbXBfZmxnYCAgICAgICAgICAgICAgID0gJzAnLAogIGBjbW5fbmF0aXZlYWRfdHlwZWAgICAgICAgICA9ICcwJywKICBgY21uX29wdGlvbl9pZGAgICAgICAgICAgICAgPSAndWxpemFfcGMnOwoKU0VUIEBhZG5ldHdvcmtfaWQgPSBMQVNUX0lOU0VSVF9JRCgpOwoKSU5TRVJUIElOVE8gY21uX2FkbmV0d29ya19hZF9mb3JtYXQgKGNtbl9hZG5ldHdvcmtfaWQsIGNtbl9hZF9mb3JtYXRfaWQsIGNtbl9jdGltZSkgVkFMVUVTCihAYWRuZXR3b3JrX2lkLCAxLCBOT1coKSk7Cg==</text>
@@ -457,15 +460,14 @@
       </register>
     </registers>
     <search>
-      <last-search>cmn_adnet</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>cmn_adnet</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ESHTTP</entry>
         <entry>role</entry>
         <entry>arti</entry>
         <entry>artifact</entry>
@@ -485,6 +487,7 @@
         <entry>criteo</entry>
         <entry>momen</entry>
         <entry>cmn_adnet</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>115</entry>
