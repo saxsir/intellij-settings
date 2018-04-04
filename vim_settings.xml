@@ -70,11 +70,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="59" column="26" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/Momentum.t" timestamp="1522837582866">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="11" column="20" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/Momentum.t" timestamp="1522840997989">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1522834686176">
         <mark key="[" line="1207" column="0" />
@@ -238,7 +238,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>match_dsp_rule</text>
+        <text>sample</text>
       </register>
       <register name="/" type="4">
         <text>DSP_CRITEO_VIDEO_PC</text>
@@ -250,25 +250,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBteSAkZHNwX2NvZGUgKERTUF9NT01FKXsKICAgICAgICBteSAkdXNlcl9yZXEgPSB7CiAgICAgICAgICAgIElEID0+ICdoYXNfdmFsdWUnLAogICAgICAgICAgICBVID0+ICdpUGhvbmUnLAogICAgICAgICAgICBkcmlkID0+ICdoYXNfdmFsdWUnCiAgICAgICAgfTsKICAgICAgICBteSAkc2V0dGluZyA9IHsKICAgICAgICAgICAgZHNwX2NvZGUgPT4gJGRzcF9jb2RlLAogICAgICAgICAgICBhZGIgPT4gJ2hhc192YWx1ZScKICAgICAgICB9OwogICAgICAgIHN1YnRlc3QgJ3NlbmQgYmlkIHJlcXVlc3QgY2FzZScgPT4gc3ViewogICAgICAgICAgICBzdWJ0ZXN0ICd0YXJnZXQgZHNwJyA9PiBzdWJ7CiAgICAgICAgICAgICAgICBpcyBGbHVjdDo6UnRiOjpSZXF1ZXN0RmFjdG9yeTo6bWF0Y2hfZHNwX3J1bGUoJHVzZXJfcmVxLCAkc2V0dGluZyksIDE7CiAgICAgICAgICAgIH07CiAgICAgICAgfTsKICAgIH0K</text>
+        <text encoding="base64">dXNlIFJ0YkNvbnN0YW50czsKdXNlIFJ0YkhlbHBlcnM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEZsdWN0OjpSdGI6OlJlcXVlc3RGYWN0b3J5IHF3LwogICAgRFNQX01PTUVOVFVNX1BDCiAgICBEU1BfTU9NRU5UVU1fU1AKLzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3VidGVzdCAnTW9tZW50dW3jg4bjgrnjg4gnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBteSAkZHNwX2NvZGUgKERTUF9NT01FKXsKICAgICAgICBteSAkdXNlcl9yZXEgPSB7CiAgICAgICAgICAgIElEID0+ICdoYXNfdmFsdWUnLAogICAgICAgICAgICBVID0+ICdpUGhvbmUnLAogICAgICAgICAgICBkcmlkID0+ICdoYXNfdmFsdWUnCiAgICAgICAgfTsKICAgICAgICBteSAkc2V0dGluZyA9IHsKICAgICAgICAgICAgZHNwX2NvZGUgPT4gJGRzcF9jb2RlLAogICAgICAgICAgICBhZGIgPT4gJ2hhc192YWx1ZScKICAgICAgICB9OwogICAgICAgIHN1YnRlc3QgJ3NlbmQgYmlkIHJlcXVlc3QgY2FzZScgPT4gc3ViewogICAgICAgICAgICBzdWJ0ZXN0ICd0YXJnZXQgZHNwJyA9PiBzdWJ7CiAgICAgICAgICAgICAgICBpcyBGbHVjdDo6UnRiOjpSZXF1ZXN0RmFjdG9yeTo6bWF0Y2hfZHNwX3J1bGUoJHVzZXJfcmVxLCAkc2V0dGluZyksIDE7CiAgICAgICAgICAgIH07CiAgICAgICAgfTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">c3VidGVzdCAnTW9tZW50dW3jg4bjgrnjg4gnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGbHVjdDo6UnRiOjpEc3A6Ok1vbWVudHVtOjptYXRjaCgkdXNlcl9yZXEsICRzZXR0aW5nKSBvciByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
