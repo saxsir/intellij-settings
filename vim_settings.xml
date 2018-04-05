@@ -110,6 +110,9 @@
         <mark key="'" line="66" column="32" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180219052710_refs_9807_add_criteo_vid_pc_dsp.sql" timestamp="1522831413557" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/docker_env/dlv/Makefile" timestamp="1522922166550">
+        <mark key="'" line="0" column="58" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Throwable.java" timestamp="1522298875821">
         <mark key="'" line="193" column="5" />
       </file>
@@ -165,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="122" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="336" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="0" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
@@ -265,6 +267,7 @@
       <jump line="16" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/Makefile" />
       <jump line="51" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/Makefile" />
       <jump line="4" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/Makefile" />
+      <jump line="0" column="58" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/docker_env/dlv/Makefile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -284,7 +287,7 @@
         <text>600s</text>
       </register>
       <register name="/" type="4">
-        <text>run_go_baker</text>
+        <text>attach</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YmRiOgogIGRpcjogdG1wL2RiLnVwZGF0ZQogIGZpbGU6IGRhdGEuZGIudG1wCgpzZXR0aW5nOgogIGNkbl9wcmVmaXg6ICJodHRwczovL2ZsdWN0LWNkbi1kZXYuc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9pbWcvIgogIGJsb2NrX2lwOiAiL3Zhci90bXAvYmxvY2tfaXAudHh0IgoKbG9nOgogIGRpcjogLgogIGZpbGU6IGNhbXBhaWduLmxvZwo=</text>
@@ -321,9 +324,9 @@
       </register>
     </registers>
     <search>
-      <last-search>run_go_baker</last-search>
+      <last-search>attach</last-search>
       <last-offset />
-      <last-pattern>run_go_baker</last-pattern>
+      <last-pattern>attach</last-pattern>
       <last-replace>momentum</last-replace>
       <last-substitute>uliza</last-substitute>
       <last-dir>1</last-dir>
@@ -331,7 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>putContent</entry>
         <entry>put</entry>
         <entry>output</entry>
         <entry>parse</entry>
@@ -351,6 +353,7 @@
         <entry>env</entry>
         <entry>TIER</entry>
         <entry>run_go_baker</entry>
+        <entry>attach</entry>
       </history-search>
       <history-cmd>
         <entry>113</entry>
