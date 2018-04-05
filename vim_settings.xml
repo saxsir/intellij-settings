@@ -9,6 +9,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/main.go" timestamp="1522907307598">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/Gopkg.toml" timestamp="1522910996076">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180404062056_refs_9994_add_momentum_sp_dsp.sql" timestamp="1522832545112">
         <mark key="[" line="22" column="33" />
         <mark key="]" line="22" column="40" />
@@ -71,12 +76,6 @@
         <mark key="'" line="15" column="9" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="47" column="1" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180404062048_refs_9994_add_momentum_pc_dsp.sql" timestamp="1522832427562">
-        <mark key="'" line="23" column="48" />
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="26" column="35" />
-        <mark key="." line="26" column="35" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180226103332_refs_9712_add_uliza_pc_dsp.sql" timestamp="1522831857381">
         <mark key="'" line="3" column="0" />
@@ -281,28 +280,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZW5jb2RlZERhdGEpCg==</text>
+        <text encoding="base64">cmVxdWlyZWQgPSBbICJnaXRodWIuY29tL3ZhcmlhZGljby9zY2FuZW8iIF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZsdWN0Lmhhc3RlLmxhbWJkYS5ldmVudC57RmlyZWhvc2VSZXNwb25zZSwgRmlyZWhvc2VSZWNvcmR9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb2xsZWN0aW9uLkphdmFDb252ZXJzaW9ucy5fCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZW5jb2RlZERhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZsdWN0Lmhhc3RlLmxhbWJkYS5ldmVudC57RmlyZWhvc2VSZXNwb25zZSwgRmlyZWhvc2VSZWNvcmR9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb2xsZWN0aW9uLkphdmFDb252ZXJzaW9ucy5fCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQKaW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnNpb25zLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQKaW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnNpb25zLl8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
