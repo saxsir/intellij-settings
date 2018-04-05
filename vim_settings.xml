@@ -14,12 +14,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180404062056_refs_9994_add_momentum_sp_dsp.sql" timestamp="1522832545112">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="40" />
-        <mark key="^" line="22" column="40" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" timestamp="1522822296502">
         <mark key="'" line="669" column="15" />
       </file>
@@ -125,35 +119,52 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/etc/dev.yaml" timestamp="1522912857577">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="19" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/org.json4s/json4s-native_2.12/srcs/json4s-native_2.12-3.5.3-sources.jar!/org/json4s/native/JsonMethods.scala" timestamp="1522299074362">
         <mark key="'" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" timestamp="1522226481777">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/Makefile" timestamp="1522907708060">
-        <mark key="'" line="43" column="36" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="3" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/Makefile" timestamp="1522912518405">
+        <mark key="'" line="44" column="36" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="34" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/Dynalyst.t" timestamp="1522842400584">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Util.pm" timestamp="1522833782912" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/Dockerfile" timestamp="1522912187744">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="28" column="13" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/docker.mk" timestamp="1522912667830">
+        <mark key="'" line="4" column="13" />
+        <mark key="[" line="59" column="37" />
+        <mark key="]" line="59" column="38" />
+        <mark key="^" line="59" column="38" />
+        <mark key="." line="59" column="38" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180327034436_refs_9929_add_mone_bs_nad_sp_dsp.sql" timestamp="1522831636092">
         <mark key="[" line="35" column="13" />
         <mark key="]" line="35" column="32" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/database.yml" timestamp="1522907473547">
-        <mark key="'" line="24" column="13" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="18" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/database.yml" timestamp="1522912742802">
+        <mark key="'" line="35" column="13" />
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
-      <jump line="318" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="10" column="52" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
       <jump line="514" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
       <jump line="112" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
@@ -252,6 +263,8 @@
       <jump line="39" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/Makefile" />
       <jump line="40" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/Makefile" />
       <jump line="43" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/Makefile" />
+      <jump line="62" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/docker.mk" />
+      <jump line="4" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/docker.mk" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -268,40 +281,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DEd</text>
+        <text>600s</text>
       </register>
       <register name="/" type="4">
         <text>TIER</text>
       </register>
-      <register name="0" type="4">
-        <text>TIER</text>
+      <register name="0" type="2">
+        <text encoding="base64">YmRiOgogIGRpcjogdG1wL2RiLnVwZGF0ZQogIGZpbGU6IGRhdGEuZGIudG1wCgpzZXR0aW5nOgogIGNkbl9wcmVmaXg6ICJodHRwczovL2ZsdWN0LWNkbi1kZXYuc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9pbWcvIgogIGJsb2NrX2lwOiAiL3Zhci90bXAvYmxvY2tfaXAudHh0IgoKbG9nOgogIGRpcjogLgogIGZpbGU6IGNhbXBhaWduLmxvZwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZWQgPSBbICJnaXRodWIuY29tL3ZhcmlhZGljby9zY2FuZW8iIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzbGF2ZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZW5jb2RlZERhdGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGZsdWN0Lmhhc3RlLmxhbWJkYS5ldmVudC57RmlyZWhvc2VSZXNwb25zZSwgRmlyZWhvc2VSZWNvcmR9Cg==</text>
+        <text encoding="base64">cmVxdWlyZWQgPSBbICJnaXRodWIuY29tL3ZhcmlhZGljby9zY2FuZW8iIF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb2xsZWN0aW9uLkphdmFDb252ZXJzaW9ucy5fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZW5jb2RlZERhdGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZsdWN0Lmhhc3RlLmxhbWJkYS5ldmVudC57RmlyZWhvc2VSZXNwb25zZSwgRmlyZWhvc2VSZWNvcmR9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQKaW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnNpb25zLl8K</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzY2FsYS5jb2xsZWN0aW9uLkphdmFDb252ZXJzaW9ucy5fCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
