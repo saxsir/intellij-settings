@@ -45,6 +45,13 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="18" column="63" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/decoder/AndroidStackTraceDecoder.scala" timestamp="1522897183236">
+        <mark key="'" line="32" column="40" />
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180226105121_refs_9712_add_uliza_sp_dsp.sql" timestamp="1522831838665">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
@@ -82,6 +89,12 @@
         <mark key="]" line="31" column="35" />
         <mark key="." line="31" column="35" />
         <mark key="^" line="35" column="49" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/lambda/transformer/RewardedVideoEventTransformer.scala" timestamp="1522895923666">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="17" column="51" />
+        <mark key="." line="17" column="51" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1522834686176">
         <mark key="[" line="1207" column="0" />
@@ -130,8 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnBidRate/InsertCommand.php" />
-      <jump line="53" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnBidRate/InsertCommand.php" />
       <jump line="56" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnBidRate/InsertCommand.php" />
       <jump line="60" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnBidRate/InsertCommand.php" />
       <jump line="28" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnBidRate/InsertCommand.php" />
@@ -230,6 +241,8 @@
       <jump line="176" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/AppNexus.t" />
       <jump line="41" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/Momentum.t" />
       <jump line="29" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/Pubmatic.t" />
+      <jump line="52" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/lambda/transformer/RewardedVideoEventTransformer.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/lambda/transformer/RewardedVideoEventTransformer.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -246,49 +259,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>DEd</text>
       </register>
       <register name="/" type="4">
-        <text>DSP_CRITEO_VIDEO_PC</text>
+        <text>decode</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bXkgJHJlcXVlc3RfZCAgICA9ICdyZXF1ZXN0X2QnOwo=</text>
+      <register name="0" type="4">
+        <text>new ReTrace(STACK_TRACE_EXPRESSION, false, new File(s&quot;mapping-v4.4.0.txt&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bXkgJHJlcXVlc3Rfc3VybCA9ICdodHRwOi8vc2guYWRpbmdvLmpwLyc7Cg==</text>
+        <text encoding="base64">ICAgIHZhciAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VybCAgICAgID0+ICRyZXF1ZXN0X3N1cmwsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmYgICAgICAgID0+ICRyZXF1ZXN0X3IsCg==</text>
+        <text encoding="base64">ICAgIHZhbCB2ZXJzaW9uczogTGlzdFtTdHJpbmddID0gTGlzdCgiNC40LjAiLCAiNC40LjEiKQoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zICAgICAgID0+IDAsCiAgICAgICAgICAgIGRudCAgICAgICA9PiAwLAogICAgICAgICAgICBwdWIgICAgICAgPT4gMTIzLAogICAgICAgICAgICBjcmMgICAgICAgPT4gJ0pQJywK</text>
+        <text encoding="base64">ICAgIHZlcnNpb25zLm1hcChNYXAoXyAtPm5ldyBSZVRyYWNlKFNUQUNLX1RSQUNFX0VYUFJFU1NJT04sIGZhbHNlLCBuZXcgRmlsZShzIm1hcHBpbmctdjQuNC4wLnR4dCIpICkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBjdCAgICAgID0+ICRzZXR0aW5nLT57Y2F0ZWdvcnlfY29kZX0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bXkgJHB1Ymxpc2hlcl9pZCA9ICdwdWJsaXNoZXJpZCc7Cm15IEBhZGIgICAgICAgICAgPSAoJ2h0dHA6Ly9ob2dlLmNvbS8nLCAnaHR0cDovL2Z1Z2EubmV0L2Z1Z2EnKTsK</text>
+        <text encoding="base64">ICAgIE1hcCgKICAgICAgIjQuNC4wIiAtPiBuZXcgUmVUcmFjZShTVEFDS19UUkFDRV9FWFBSRVNTSU9OLCBmYWxzZSwgbmV3IEZpbGUocyJtYXBwaW5nLXY0LjQuMC50eHQiKSksCiAgICAgICI0LjQuMSIgLT4gbmV3IFJlVHJhY2UoU1RBQ0tfVFJBQ0VfRVhQUkVTU0lPTiwgZmFsc2UsIG5ldyBGaWxlKHMibWFwcGluZy12NC40LjEudHh0IikpCiAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bXkgJHJlcXVlc3RfZGJtICA9ICdyZXF1ZXN0X2RibSc7Cm15ICRyZXF1ZXN0X3JhdGUgPSAncmVxdWVzdF9yYXRlJzsK</text>
+        <text encoding="base64">ICAgICI0LjQuMCIgLT4gbmV3IFJlVHJhY2UoU1RBQ0tfVFJBQ0VfRVhQUkVTU0lPTiwgZmFsc2UsIG5ldyBGaWxlKHMibWFwcGluZy12NC40LjAudHh0IikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHByb2d1YXJkLnJldHJhY2UuUmVUcmFjZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>DSP_CRITEO_VIDEO_PC</last-search>
+      <last-search>decode</last-search>
       <last-offset />
-      <last-pattern>DSP_CRITEO_VIDEO_PC</last-pattern>
+      <last-pattern>decode</last-pattern>
       <last-replace>momentum</last-replace>
       <last-substitute>uliza</last-substitute>
       <last-dir>1</last-dir>
@@ -296,7 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry>artifact</entry>
         <entry>sandbox</entry>
         <entry>sandbo</entry>
         <entry>develo</entry>
@@ -316,6 +328,7 @@
         <entry>filter</entry>
         <entry>uliza</entry>
         <entry>DSP_CRITEO_VIDEO_PC</entry>
+        <entry>decode</entry>
       </history-search>
       <history-cmd>
         <entry>113</entry>
