@@ -16,6 +16,9 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/main.go" timestamp="1522907307598">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/Models/Rep/RepTotalAdnetwork.php" timestamp="1523000924483">
+        <mark key="'" line="180" column="12" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/Taboola/ReportFilter.php" timestamp="1521534302214">
         <mark key="'" line="18" column="45" />
         <mark key="[" line="18" column="45" />
@@ -27,12 +30,6 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180404062056_refs_9994_add_momentum_sp_dsp.sql" timestamp="1522832545112">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="40" />
-        <mark key="^" line="22" column="40" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/retrace-stacktrace-android/build.sbt" timestamp="1521802198747">
         <mark key="'" line="7" column="2" />
@@ -72,7 +69,7 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_ninja_admax/bin/run.sh" timestamp="1522997939770">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_ninja_admax/bin/run.sh" timestamp="1523000390963">
         <mark key="[" line="31" column="85" />
         <mark key="]" line="31" column="85" />
         <mark key="." line="31" column="85" />
@@ -141,11 +138,12 @@
         <mark key="." line="88" column="32" />
         <mark key="^" line="88" column="32" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_ninja_admax/README.md" timestamp="1522999087667">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_ninja_admax/README.md" timestamp="1523000001698">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="45" />
+        <mark key="^" line="4" column="45" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Cmn/CmnBidRateManager.php" timestamp="1522659559391">
         <mark key="'" line="24" column="42" />
@@ -170,8 +168,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="59" column="70" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" timestamp="1522997520637">
-        <mark key="'" line="192" column="17" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" timestamp="1523000554081">
+        <mark key="'" line="89" column="145" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1522739897695">
         <mark key="'" line="207" column="7" />
@@ -275,6 +273,9 @@
       <file name="$USER_HOME$/.ivy2/cache/org.json4s/json4s-native_2.12/srcs/json4s-native_2.12-3.5.3-sources.jar!/org/json4s/native/JsonMethods.scala" timestamp="1522299074362">
         <mark key="'" line="19" column="39" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/Models/Cmn/CmnRateMaster.php" timestamp="1523000854304">
+        <mark key="'" line="26" column="79" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/aws/s3.tf" timestamp="1522226481777">
         <mark key="'" line="0" column="0" />
       </file>
@@ -360,43 +361,13 @@
         <mark key="^" line="72" column="49" />
         <mark key="." line="72" column="49" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_ninja_admax/Makefile" timestamp="1522999135995">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="9" column="47" />
-        <mark key="." line="9" column="47" />
-        <mark key="^" line="9" column="47" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_ninja_admax/Makefile" timestamp="1522999913747">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
-      <jump line="893" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="371" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="629" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="783" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="552" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="1035" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="1059" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="1081" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="1109" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="1114" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="1132" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="17" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="18" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="33" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="42" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="376" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="391" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="44" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Dsp/Momentum.pm" />
-      <jump line="569" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="100" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="86" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/docs/DEVELOPMENT.md" />
-      <jump line="60" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180404053253_refs_9994_add_momentum_dsp.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" />
-      <jump line="289" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" />
-      <jump line="290" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" />
-      <jump line="292" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" />
       <jump line="586" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" />
       <jump line="614" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" />
       <jump line="642" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" />
@@ -468,6 +439,35 @@
       <jump line="44" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="9" column="41" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
+      <jump line="10" column="31" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="88" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="99" column="117" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="119" column="85" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="108" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="122" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="182" column="91" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="183" column="70" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="184" column="70" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="195" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="199" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="207" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="208" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="210" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="211" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="212" column="62" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="214" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="215" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="220" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="221" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="118" column="84" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="89" column="145" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" />
+      <jump line="145" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/Models/Rep/RepTotalAdnetwork.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/Models/Rep/RepTotalAdnetwork.php" />
+      <jump line="10" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/Models/Rep/RepTotalAdnetwork.php" />
+      <jump line="26" column="79" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/Models/Cmn/CmnRateMaster.php" />
+      <jump line="151" column="105" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/Models/Rep/RepTotalAdnetwork.php" />
+      <jump line="180" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/Models/Rep/RepTotalAdnetwork.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -484,49 +484,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text>ので気にしなくて良い</text>
       </register>
       <register name="/" type="4">
-        <text>admax</text>
+        <text>mail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWVjaG8gJChSQU5HRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIOacn+mWk+aMh+WumuWPluOCiui+vOOBv++8iAoKYG1ha2UgREFZUz1gCg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">REFURSAgICAgICA/PSAkKHNoZWxsIGRhdGUgLWQgJzEgZGF5cyBhZ28nICcrJVkvJW0vJWQnKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">cnVuXzdkYXlzOgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09ORl9ST09UICA6PSAkKFJFUE9SVF9CQVRDSF9DT05GSUdfUEFUSCkvbmluamFfYWRtYXgK</text>
+        <text encoding="base64">CmhlbHA6CglAY2F0IE1ha2VmaWxlCgpydW5fCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiMjIyDliY3ml6Xlj5blvpcKCumAmuW4uOmBi+eUqApgbWFrZSBydW5gCg==</text>
+        <text encoding="base64">IyMjIOacn+mWk+aMh+WumuWPluOCiui+vOOBv++8iAoKYG1ha2UgREFZUz1gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">REFURSAgICAgICA/PSAkKHNoZWxsIGRhdGUgLWQgJzEgZGF5cyBhZ28nICcrJVkvJW0vJWQnKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">Q09ORl9ST09UICA6PSAkKFJFUE9SVF9CQVRDSF9DT05GSUdfUEFUSCkvbmluamFfYWRtYXgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiMjIAoqIAo=</text>
+        <text encoding="base64">CiMjIyDliY3ml6Xlj5blvpcKCumAmuW4uOmBi+eUqApgbWFrZSBydW5gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>admax</last-search>
+      <last-search>mail</last-search>
       <last-offset />
-      <last-pattern>admax</last-pattern>
+      <last-pattern>mail</last-pattern>
       <last-replace>momentum</last-replace>
       <last-substitute>uliza</last-substitute>
       <last-dir>1</last-dir>
@@ -534,7 +534,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parse</entry>
         <entry>RTB</entry>
         <entry>dispatch</entry>
         <entry>Criteo</entry>
@@ -554,6 +553,7 @@
         <entry>attach</entry>
         <entry>ninja</entry>
         <entry>admax</entry>
+        <entry>mail</entry>
       </history-search>
       <history-cmd>
         <entry>113</entry>
