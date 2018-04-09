@@ -80,6 +80,12 @@
         <mark key="]" line="31" column="85" />
         <mark key="." line="31" column="85" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1523268853463">
+        <mark key="[" line="93" column="6" />
+        <mark key="]" line="93" column="21" />
+        <mark key="." line="93" column="21" />
+        <mark key="^" line="93" column="21" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" timestamp="1522225496307">
         <mark key="'" line="80" column="14" />
       </file>
@@ -178,12 +184,14 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork/bin/rep_batch_adnetwork.php" timestamp="1523000554081">
         <mark key="'" line="89" column="145" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1522739897695">
-        <mark key="'" line="207" column="7" />
-        <mark key="[" line="120" column="10" />
-        <mark key="]" line="120" column="11" />
-        <mark key="." line="120" column="11" />
-        <mark key="^" line="120" column="11" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1523266960931">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/_build/default/lib/fluct_rtb/src/dispatcher.erl" timestamp="1523268477527">
+        <mark key="'" line="42" column="36" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1522834686176">
         <mark key="[" line="1207" column="0" />
@@ -210,6 +218,9 @@
       <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.1.0-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" timestamp="1522212868876">
         <mark key="'" line="25" column="13" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" timestamp="1523268376524">
+        <mark key="'" line="38" column="13" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-core/srcs/aws-lambda-java-core-1.1.0-sources.jar!/com/amazonaws/services/lambda/runtime/Context.java" timestamp="1522212995237">
         <mark key="'" line="54" column="31" />
       </file>
@@ -233,6 +244,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/dev/rtb_node/bin/rtb_node" timestamp="1522923668689">
         <mark key="'" line="115" column="12" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_rtb.app.src" timestamp="1523267288884" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/update_cmn_bid_rate/Makefile" timestamp="1522724115656">
         <mark key="'" line="4" column="5" />
         <mark key="[" line="17" column="10" />
@@ -370,18 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="669" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" />
-      <jump line="66" column="32" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/server.go" />
-      <jump line="112" column="20" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/assets/js/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/assets/js/app.js" />
-      <jump line="51" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180226105121_refs_9712_add_uliza_sp_dsp.sql" />
-      <jump line="3" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180226105121_refs_9712_add_uliza_sp_dsp.sql" />
-      <jump line="33" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180226103332_refs_9712_add_uliza_pc_dsp.sql" />
-      <jump line="3" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180226103332_refs_9712_add_uliza_pc_dsp.sql" />
-      <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180404062048_refs_9994_add_momentum_pc_dsp.sql" />
-      <jump line="23" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180404062048_refs_9994_add_momentum_pc_dsp.sql" />
-      <jump line="4" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180404062056_refs_9994_add_momentum_sp_dsp.sql" />
-      <jump line="621" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="126" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="1106" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="1160" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
@@ -470,6 +470,18 @@
       <jump line="9" column="52" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="43" column="52" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="440" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/collector/collector.go" />
+      <jump line="93" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
+      <jump line="15" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
+      <jump line="22" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
+      <jump line="23" column="40" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
+      <jump line="24" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
+      <jump line="27" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
+      <jump line="28" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
+      <jump line="32" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
+      <jump line="37" column="40" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
+      <jump line="38" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
+      <jump line="42" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/_build/default/lib/fluct_rtb/src/dispatcher.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -486,49 +498,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>も</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>admax</text>
+        <text>dispa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWVjaG8gJChSQU5HRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGlzcGF0Y2goP1JUQl9NT01FTlRVTSwgUGFyYW0pIC0+CiAgICBSZXEgPSBtb21lbnR1bV9ydWxlOnJlcXVlc3QoUGFyYW0pLAogICAgY2FzZSBydGJfY2xpZW50OnBvc3QoUmVxKSBvZgogICAgICAgIHtvaywgUmVzfSAtPgogICAgICAgICAgICAiIjsKICAgICAgICBPdGhlciAtPgogICAgICAgICAgICAiIjsKICAgIGVuZDsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIE5PVEUuIOOCr+ODqeOCpOOCouODs+ODiOOBi+OCieOBruODquOCr+OCqOOCueODiOOBr+atouOCgeOBpuOBhOOBquOBhOOBruOBp+S9leOCguOBl+OBquOBhOOBjOOCqOODs+ODieODneOCpOODs+ODiOOBr+aui+OBl+OBpuOBhOOCiwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3ZveWFnZWdyb3VwL2ZsdWN0X2hhc3RlL2lzc3Vlcy8xNzQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Iwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CS8vIE5PVEUuIOOCr+ODqeOCpOOCouODs+ODiOOBi+OCieOBruODquOCr+OCqOOCueODiOOBr+atouOCgeOBpuOBhOOBquOBhOOBruOBp+S9leOCguOBl+OBquOBhOOBjOOCqOODs+ODieODneOCpOODs+ODiOOBr+aui+OBl+OBpuOBhOOCiwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3ZveWFnZWdyb3VwL2ZsdWN0X2hhc3RlL2lzc3Vlcy8xNzQK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">cnVuXzdkYXlzOgo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmhlbHA6CglAY2F0IE1ha2VmaWxlCgpydW5fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjIOacn+mWk+aMh+WumuWPluOCiui+vOOBv++8iAoKYG1ha2UgREFZUz1gCg==</text>
+        <text encoding="base64">cnVuXzdkYXlzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REFURSAgICAgICA/PSAkKHNoZWxsIGRhdGUgLWQgJzEgZGF5cyBhZ28nICcrJVkvJW0vJWQnKQo=</text>
+        <text encoding="base64">CmhlbHA6CglAY2F0IE1ha2VmaWxlCgpydW5fCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>admax</last-search>
+      <last-search>dispa</last-search>
       <last-offset />
-      <last-pattern>admax</last-pattern>
+      <last-pattern>dispa</last-pattern>
       <last-replace>momentum</last-replace>
       <last-substitute>uliza</last-substitute>
       <last-dir>1</last-dir>
@@ -536,12 +548,6 @@
     </search>
     <history>
       <history-search>
-        <entry>RTB</entry>
-        <entry>dispatch</entry>
-        <entry>Criteo</entry>
-        <entry>criteo</entry>
-        <entry>momen</entry>
-        <entry>cmn_adnet</entry>
         <entry>filter</entry>
         <entry>uliza</entry>
         <entry>DSP_CRITEO_VIDEO_PC</entry>
@@ -556,6 +562,12 @@
         <entry>ninja</entry>
         <entry>mail</entry>
         <entry>admax</entry>
+        <entry>DBM</entry>
+        <entry>GOOGLE</entry>
+        <entry>google</entry>
+        <entry>MOMEN</entry>
+        <entry>Unit</entry>
+        <entry>dispa</entry>
       </history-search>
       <history-cmd>
         <entry>113</entry>
