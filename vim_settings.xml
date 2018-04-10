@@ -13,6 +13,9 @@
         <mark key="." line="73" column="3" />
         <mark key="^" line="73" column="3" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018/original/bot/util.go" timestamp="1523347271030">
+        <mark key="'" line="13" column="5" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/main.go" timestamp="1522907307598">
         <mark key="'" line="0" column="0" />
       </file>
@@ -25,11 +28,6 @@
         <mark key="]" line="18" column="46" />
         <mark key="." line="18" column="46" />
         <mark key="^" line="20" column="93" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/Gopkg.toml" timestamp="1522910996076">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180404062056_refs_9994_add_momentum_sp_dsp.sql" timestamp="1522832545112">
         <mark key="[" line="22" column="33" />
@@ -75,11 +73,6 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_ninja_admax/bin/run.sh" timestamp="1523000390963">
-        <mark key="[" line="31" column="85" />
-        <mark key="]" line="31" column="85" />
-        <mark key="." line="31" column="85" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1523328204422">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="66" column="59" />
@@ -92,10 +85,8 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/README.md" timestamp="1522998448901">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Scraper/Currency/MizuhoScraper.php" timestamp="1522723917281">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018/original/bot/bot.go" timestamp="1523345990180">
+        <mark key="'" line="19" column="21" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/bot/processor.go" timestamp="1522132340764">
         <mark key="'" line="32" column="4" />
@@ -149,6 +140,13 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018/original/bot/processor.go" timestamp="1523347297949">
+        <mark key="'" line="63" column="85" />
+        <mark key="[" line="63" column="85" />
+        <mark key="]" line="63" column="85" />
+        <mark key="." line="63" column="85" />
+        <mark key="^" line="63" column="85" />
+      </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" timestamp="1522132103214">
         <mark key="'" line="72" column="38" />
         <mark key="[" line="88" column="28" />
@@ -192,11 +190,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/_build/default/lib/fluct_rtb/src/dispatcher.erl" timestamp="1523268477527">
         <mark key="'" line="42" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1522834686176">
-        <mark key="[" line="1207" column="0" />
-        <mark key="]" line="1207" column="0" />
-        <mark key="." line="1207" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/assets/js/app.js" timestamp="1522827638014">
         <mark key="'" line="0" column="0" />
       </file>
@@ -218,6 +211,12 @@
       </file>
       <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-core/srcs/aws-lambda-java-core-1.1.0-sources.jar!/com/amazonaws/services/lambda/runtime/Context.java" timestamp="1522212995237">
         <mark key="'" line="54" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018/original/env/env.go" timestamp="1523346167539">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="78" />
+        <mark key="^" line="9" column="78" />
+        <mark key="." line="9" column="78" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/CmnBidRate/InsertCommand.php" timestamp="1522723341607">
         <mark key="'" line="45" column="4" />
@@ -378,11 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_haste/aws_lambda/functions/hv-transformer/src/main/scala/fluct/haste/lambda/transformer/RewardedVideoEventTransformer.scala" />
-      <jump line="67" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/main.go" />
-      <jump line="68" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/main.go" />
-      <jump line="122" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/main.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/main.go" />
       <jump line="24" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/database.yml" />
       <jump line="10" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/Makefile" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/Makefile" />
@@ -478,6 +472,11 @@
       <jump line="440" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverController.php" />
       <jump line="441" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverController.php" />
       <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" />
+      <jump line="19" column="21" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018/original/bot/bot.go" />
+      <jump line="15" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018/original/bot/processor.go" />
+      <jump line="13" column="5" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018/original/bot/util.go" />
+      <jump line="60" column="5" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018/original/bot/processor.go" />
+      <jump line="63" column="85" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018/original/bot/processor.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -494,22 +493,22 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>msgIn.Body + &quot;, world!&quot;</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFVuaXRzID0gbGlzdHM6dXNvcnQoW1VuaXQgfHwgWyBfLCBVbml0LCBfIF0gPC0gQXJnc10pLAogICAgQXVjdGlvbklkcyA9IFt7VSwgbWFrZV9hdWN0aW9uX2lkKCl9IHx8IFUgPC0gVW5pdHNdLAogICAge0F1Y3Rpb25JZHMsIFtwcmVwYXJlX29uZShYLCBBdWN0aW9uSWRzKSB8fCBYIDwtIEFyZ3NdfS4K</text>
+        <text encoding="base64">Ly8gUHJvY2VzcyDjga8iaGVsbG8sIHdvcmxkISLjgajjgYTjgYZib2R544GM44K744OD44OI44GV44KM44Gf44Oh44OD44K744O844K444Gu44Od44Kk44Oz44K/44KS6L+U44GX44G+44GZCmZ1bmMgKHAgKkhlbGxvV29ybGRQcm9jZXNzb3IpIFByb2Nlc3MobXNnSW4gKm1vZGVsLk1lc3NhZ2UpICgqbW9kZWwuTWVzc2FnZSwgZXJyb3IpIHsKCXJldHVybiAmbW9kZWwuTWVzc2FnZXsKCQlCb2R5OiAiaGVsbG8iLAoJCS8vIEJvZHk6IG1zZ0luLkJvZHkgKyAiLCB3b3JsZCEiLAoJfSwgbmlsCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIOODpuODvOOCtuODvOWFpeWKm+OBneOBruOBvuOBvnRleHTjgaflhaXjgozjgabjgovjgZHjganjganjgYbjgarjgovjgpPjgaDjgo3jgYbvvJ8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGlzcGF0Y2goP1JUQl9NT01FTlRVTSwgUGFyYW0pIC0+CiAgICBSZXEgPSBtb21lbnR1bV9ydWxlOnJlcXVlc3QoUGFyYW0pLAogICAgY2FzZSBydGJfY2xpZW50OnBvc3QoUmVxKSBvZgogICAgICAgIHtvaywgUmVzfSAtPgogICAgICAgICAgICAiIjsKICAgICAgICBPdGhlciAtPgogICAgICAgICAgICAiIjsKICAgIGVuZDsKCg==</text>
+        <text encoding="base64">CXByaW50bG4odXJsKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -518,16 +517,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIE5PVEUuIOOCr+ODqeOCpOOCouODs+ODiOOBi+OCieOBruODquOCr+OCqOOCueODiOOBr+atouOCgeOBpuOBhOOBquOBhOOBruOBp+S9leOCguOBl+OBquOBhOOBjOOCqOODs+ODieODneOCpOODs+ODiOOBr+aui+OBl+OBpuOBhOOCiwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3ZveWFnZWdyb3VwL2ZsdWN0X2hhc3RlL2lzc3Vlcy8xNzQK</text>
+        <text encoding="base64">CXByaW50bG4odGV4dCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Iwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXByaW50bG4obWF0Y2hlZFN0cmluZ3MpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cnVuXzdkYXlzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
