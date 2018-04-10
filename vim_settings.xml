@@ -141,11 +141,11 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018/original/bot/processor.go" timestamp="1523347297949">
-        <mark key="'" line="63" column="85" />
-        <mark key="[" line="63" column="85" />
-        <mark key="]" line="63" column="85" />
-        <mark key="." line="63" column="85" />
-        <mark key="^" line="63" column="85" />
+        <mark key="'" line="62" column="85" />
+        <mark key="[" line="62" column="85" />
+        <mark key="]" line="62" column="85" />
+        <mark key="." line="62" column="85" />
+        <mark key="^" line="62" column="85" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/server.go" timestamp="1522132103214">
         <mark key="'" line="72" column="38" />
@@ -496,7 +496,7 @@
         <text>msgIn.Body + &quot;, world!&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>render</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gUHJvY2VzcyDjga8iaGVsbG8sIHdvcmxkISLjgajjgYTjgYZib2R544GM44K744OD44OI44GV44KM44Gf44Oh44OD44K744O844K444Gu44Od44Kk44Oz44K/44KS6L+U44GX44G+44GZCmZ1bmMgKHAgKkhlbGxvV29ybGRQcm9jZXNzb3IpIFByb2Nlc3MobXNnSW4gKm1vZGVsLk1lc3NhZ2UpICgqbW9kZWwuTWVzc2FnZSwgZXJyb3IpIHsKCXJldHVybiAmbW9kZWwuTWVzc2FnZXsKCQlCb2R5OiAiaGVsbG8iLAoJCS8vIEJvZHk6IG1zZ0luLkJvZHkgKyAiLCB3b3JsZCEiLAoJfSwgbmlsCn0K</text>
@@ -533,9 +533,9 @@
       </register>
     </registers>
     <search>
-      <last-search>render</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>render</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>momentum</last-replace>
       <last-substitute>uliza</last-substitute>
       <last-dir>1</last-dir>
@@ -543,7 +543,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bake</entry>
         <entry>env</entry>
         <entry>TIER</entry>
         <entry>run_go_baker</entry>
@@ -563,6 +562,7 @@
         <entry>mome</entry>
         <entry>Legacy</entry>
         <entry>render</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
