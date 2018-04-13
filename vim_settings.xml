@@ -73,11 +73,19 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1523588256724">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_handler.erl" timestamp="1523593293491">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="40" column="97" />
+        <mark key="]" line="40" column="104" />
+        <mark key="^" line="40" column="104" />
+        <mark key="." line="40" column="104" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1523593430622">
+        <mark key="'" line="15" column="15" />
         <mark key="[" line="44" column="69" />
-        <mark key="]" line="44" column="68" />
-        <mark key="." line="44" column="68" />
-        <mark key="^" line="44" column="68" />
+        <mark key="]" line="44" column="70" />
+        <mark key="." line="44" column="70" />
+        <mark key="^" line="44" column="70" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" timestamp="1522225496307">
         <mark key="'" line="80" column="14" />
@@ -407,10 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
-      <jump line="27" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
-      <jump line="28" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
-      <jump line="32" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
       <jump line="37" column="40" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
       <jump line="38" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
       <jump line="42" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/_build/default/lib/fluct_rtb/src/dispatcher.erl" />
@@ -507,6 +511,10 @@
       <jump line="201" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
       <jump line="322" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="336" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
+      <jump line="19" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_handler.erl" />
+      <jump line="43" column="46" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
+      <jump line="6" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
+      <jump line="15" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -523,10 +531,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rtb.jp.as.criteo.com/fluctvideo/auction/notify?profile=223</text>
+        <text>hoge</text>
       </register>
       <register name="/" type="4">
-        <text>VIDEO</text>
+        <text>jiffy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LWRlZmluZShCSURTV0lUQ0hfVklERU9fVVJMLCAiaHR0cDovL2hvc3QuZG9ja2VyLmludGVybmFsOjkwMDAvYmlkL2JpZHN3aXRjaC12aWRlby5qc29uIikuCg==</text>
@@ -563,9 +571,9 @@
       </register>
     </registers>
     <search>
-      <last-search>VIDEO</last-search>
+      <last-search>jiffy</last-search>
       <last-offset />
-      <last-pattern>VIDEO</last-pattern>
+      <last-pattern>jiffy</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -573,8 +581,6 @@
     </search>
     <history>
       <history-search>
-        <entry>legacy</entry>
-        <entry>mome</entry>
         <entry>Legacy</entry>
         <entry>render</entry>
         <entry>version</entry>
@@ -593,6 +599,8 @@
         <entry>CRITEO</entry>
         <entry>docker</entry>
         <entry>VIDEO</entry>
+        <entry>status</entry>
+        <entry>jiffy</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
