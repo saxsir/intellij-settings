@@ -86,12 +86,12 @@
         <mark key="^" line="40" column="110" />
         <mark key="." line="40" column="110" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1523597337420">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1523607563918">
         <mark key="'" line="117" column="4" />
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="49" column="19" />
-        <mark key="." line="49" column="19" />
-        <mark key="^" line="49" column="19" />
+        <mark key="[" line="49" column="5" />
+        <mark key="]" line="49" column="6" />
+        <mark key="." line="49" column="6" />
+        <mark key="^" line="49" column="6" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" timestamp="1522225496307">
         <mark key="'" line="80" column="14" />
@@ -374,12 +374,12 @@
         <mark key="^" line="88" column="14" />
         <mark key="." line="85" column="12" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1523601689980">
-        <mark key="'" line="82" column="14" />
-        <mark key="[" line="51" column="14" />
-        <mark key="]" line="51" column="14" />
-        <mark key="." line="51" column="14" />
-        <mark key="^" line="51" column="14" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1523607989621">
+        <mark key="'" line="2" column="10" />
+        <mark key="[" line="51" column="6" />
+        <mark key="]" line="51" column="7" />
+        <mark key="." line="51" column="7" />
+        <mark key="^" line="51" column="6" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/UpdateCmnBidRate/DownloadCommand.php" timestamp="1522637126810">
         <mark key="'" line="14" column="0" />
@@ -449,9 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/fluct_ad/lib/DeliverAdView.php" />
-      <jump line="373" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/fluct_ad/lib/DeliverAdView.php" />
-      <jump line="34" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverController.php" />
       <jump line="421" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverController.php" />
       <jump line="440" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverController.php" />
       <jump line="441" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverController.php" />
@@ -549,6 +546,9 @@
       <jump line="65" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" />
       <jump line="67" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" />
       <jump line="82" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" />
+      <jump line="53" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" />
+      <jump line="2" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -565,7 +565,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>var_dump</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
