@@ -45,12 +45,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" timestamp="1522822296502">
         <mark key="'" line="669" column="15" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" timestamp="1523599731014">
-        <mark key="'" line="242" column="16" />
-        <mark key="[" line="197" column="8" />
-        <mark key="]" line="197" column="9" />
-        <mark key="." line="197" column="9" />
-        <mark key="^" line="197" column="9" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" timestamp="1523601632090">
+        <mark key="[" line="197" column="23" />
+        <mark key="]" line="197" column="23" />
+        <mark key="^" line="196" column="19" />
+        <mark key="." line="197" column="23" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2017/saxsir/bot/bot.go" timestamp="1522132129387">
         <mark key="'" line="1" column="0" />
@@ -225,12 +224,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/_build/default/lib/fluct_rtb/src/dispatcher.erl" timestamp="1523268477527">
         <mark key="'" line="42" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1523599786139">
-        <mark key="'" line="622" column="20" />
-        <mark key="[" line="740" column="26" />
-        <mark key="]" line="740" column="26" />
-        <mark key="." line="740" column="26" />
-        <mark key="^" line="740" column="26" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1523601649531">
+        <mark key="'" line="626" column="20" />
+        <mark key="[" line="684" column="26" />
+        <mark key="]" line="684" column="40" />
+        <mark key="." line="684" column="40" />
+        <mark key="^" line="684" column="40" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/assets/js/app.js" timestamp="1522827638014">
         <mark key="'" line="0" column="0" />
@@ -375,11 +374,12 @@
         <mark key="^" line="88" column="14" />
         <mark key="." line="85" column="12" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1523600436580">
-        <mark key="'" line="81" column="14" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1523601689980">
+        <mark key="'" line="82" column="14" />
+        <mark key="[" line="51" column="14" />
+        <mark key="]" line="51" column="14" />
+        <mark key="." line="51" column="14" />
+        <mark key="^" line="51" column="14" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/UpdateCmnBidRate/DownloadCommand.php" timestamp="1522637126810">
         <mark key="'" line="14" column="0" />
@@ -565,40 +565,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBrYWlva2VuX29wcyA9PiAka2Fpb2tlbl9vcHMsCg==</text>
+        <text encoding="base64">ICAgIG15ICRrYWlva2VuX29wcyA9IGh2KFwlcnRiX2JpZGhhc2gsICdrYWlva2VuX29wcycsIHt9KTsKICAgIG15ICRtb21lbnR1bV9oZXJvbiA9IGh2KFwlcnRiX2JpZGhhc2gsICdtb21lbnR1bV9oZXJvbicsIHt9KTsKCiAgICAoXCV1bml0X2NhbXBhaWduLCAka2Fpb2tlbl9vcHMsICRtb21lbnR1bV9oZXJvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGFkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICRtb21lbnR1bV9oZXJvbiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGFkcyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICRtZXJnZWR7bW9tZW50dW1faGVyb259ID0gaHYoJGJpZGxpc3QsICdtb21lbnR1bV9oZXJvbicsIHt9KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzdWx0KTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICRtZXJnZWR7a2Fpb2tlbl9vcHN9ID0gaHYoJGJpZGxpc3QsICdrYWlva2VuX29wcycsIHt9KTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIE1vbWVudHVtSGVyb24gPSBrYWlva2VuOm9wZXJhdGlvbnNfcmVzcG9uc2UoQ29sbGVjdGVkLCBQcmVwYXJlZCksCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG15ICRtb21lbnR1bV9oZXJvbiA9IHt9Owo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBcJXVuaXRfY2FtcGFpZ24sICRydGJfYmlkaGFzaC0+e2thaW9rZW5fb3BzfSB8fCB7fSwgJHJ0Yl9iaWRoYXNoLT57bW9tZW50dW1faGVyb259IHx8IHt9Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG15ICRtb21lbnR1bV9oZXJvbiA9IHt9Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjICRtb21lbnR1bV9oZXJvbiwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">LXNwZWMgbW9tZW50dW1faGVyb24oKSAtPiBqaWZmeSgpLgptb21lbnR1bV9oZXJvbigpIC0+CiAge30uCg==</text>
+        <text encoding="base64">dmFyX2R1bXAoJGFkcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW1tbW1vbWVudAo=</text>
+        <text encoding="base64">dmFyX2R1bXAoJGFkcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
