@@ -92,11 +92,12 @@
         <mark key="^" line="40" column="110" />
         <mark key="." line="40" column="110" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1523856061674">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1523857473158">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="40" column="3" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" timestamp="1522225496307">
         <mark key="'" line="80" column="14" />
@@ -232,8 +233,9 @@
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/assets/js/app.js" timestamp="1522827638014">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1523854936324">
-        <mark key="'" line="341" column="16" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/collector.erl" timestamp="1523857231328" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1523857031119">
+        <mark key="'" line="182" column="53" />
         <mark key="[" line="180" column="2" />
         <mark key="]" line="180" column="33" />
         <mark key="." line="180" column="33" />
@@ -451,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/saxsir/bot/processor.go" />
       <jump line="44" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/saxsir/bot/processor.go" />
       <jump line="25" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/saxsir/server.go" />
       <jump line="78" column="4" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/saxsir/bot/processor.go" />
@@ -551,6 +552,7 @@
       <jump line="18" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
       <jump line="341" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="115" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
+      <jump line="182" column="53" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -567,49 +569,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>momentum_heron:select</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>criteo</text>
+        <text>is_BID</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3RlZCA9IGNvbGxlY3QoVG9Db2xsZWN0KSwK</text>
+        <text encoding="base64">ICAgIGZsYXR0ZW4oY29sbGVjdG9yOnN0YXJ0KGZ1biBiaWRfZ2V0dGVyOmdldF9vbmVfYmlkLzIsIFRvQ29sbGVjdCwgP1RJTUVPVVRfTVNFQykpLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1vbWVudHVtSGVyb24gPSBjb2xsZWN0KENvbGxlY3RlZCksCg==</text>
+        <text encoding="base64">ICAgICUgbGlzdCBwYXJ0aXRpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgQ29sbGVjdGVkID0gY29sbGVjdChUb0NvbGxlY3QpLAo=</text>
+        <text encoding="base64">ICAgICUgTk9URS4gbW9tZW50dW3jga7lj5bjgorntYTjgb/jgYzoia/jgZHjgozjgbBydGLjgajliKXjgafntZDmnpzjgpLjgoLjgonjgYbjgojjgYZjb2xsZWN044KS44Oq44OV44Kh44Kv44K/44GZ44KLCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuZC4K</text>
+        <text encoding="base64">ICAgICUgTk9URS4gbW9tZW50dW3jga7lj5bjgorntYTjgb/jgYzoia/jgZHjgozjgbBydGLjgajliKXjgafjg6rjgq/jgqjjgrnjg4jjgZnjgosK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9tZW50dW1faGVyb24oRHNwQ29kZSwgUGFyYW0pIC0+CiAgICB7IFJlcSwgUmVxUGFyYW0gfSA9IGRzcF9ydWxlOnJlcXVlc3QoRHNwQ29kZSwgUGFyYW0pLAogICAgY2FzZSBydGJfY2xpZW50OnBvc3QoUmVxKSBvZgogICAgICAgIHtvaywgUmVzfSAtPgogICAgICAgICAgICBSID0gY3JpdGVvX2Jhc2VfcnVsZTpyZXNwb25zZShEc3BDb2RlLCBQYXJhbSwgUmVzKSwKICAgICAgICAgICAgeyBfTW9kdWxlLCBEZWNvZGVkUmVzIH0gPSBSLAogICAgICAgICAgICBydGJfbG9nOmxvZ19yZXFfcmVzKERzcENvZGUsIFJlcVBhcmFtLCB7b2JqLCBEZWNvZGVkUmVzfSwgUGFyYW0pLAogICAgICAgICAgICBSOwogICAgICAgIE90aGVyIC0+CiAgICAgICAgICAgIFJlcXVlc3RJZCA9IHJ0Yl91dGlsOmdldF92YWx1ZSg/UkVRX0tFWV9BVUNUSU9OX0lELCBQYXJhbSksCiAgICAgICAgICAgIGNyaXRlb19ibG46bm90aWZ5X2xvc3MoRHNwQ29kZSwgUmVxdWVzdElkLCBub25lLCBjb25uZWN0aW9uX2Vycm9yKSwKICAgICAgICAgICAgZXhpdChPdGhlcikKICAgIGVuZC4K</text>
+        <text encoding="base64">ICAgIE1vbWVudHVtSGVyb24gPSBjb2xsZWN0KENvbGxlY3RlZCksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICUg44Gd44KM44GL44GT44GT44Gn5YWl44KM44KL77yfcGxhY2VtZW506KaL44GmbW9tZW50dW1z5beu44GX6L6844KACg==</text>
+        <text encoding="base64">ICAgQ29sbGVjdGVkID0gY29sbGVjdChUb0NvbGxlY3QpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1vbWVudHVtSGVyb24gPSBtb21lbnR1bV9oZXJvbjpzZWxlY3QoQ29sbGVjdGVkKSwK</text>
+        <text encoding="base64">bW9tZW50dW1faGVyb24oRHNwQ29kZSwgUGFyYW0pIC0+CiAgICB7IFJlcSwgUmVxUGFyYW0gfSA9IGRzcF9ydWxlOnJlcXVlc3QoRHNwQ29kZSwgUGFyYW0pLAogICAgY2FzZSBydGJfY2xpZW50OnBvc3QoUmVxKSBvZgogICAgICAgIHtvaywgUmVzfSAtPgogICAgICAgICAgICBSID0gY3JpdGVvX2Jhc2VfcnVsZTpyZXNwb25zZShEc3BDb2RlLCBQYXJhbSwgUmVzKSwKICAgICAgICAgICAgeyBfTW9kdWxlLCBEZWNvZGVkUmVzIH0gPSBSLAogICAgICAgICAgICBydGJfbG9nOmxvZ19yZXFfcmVzKERzcENvZGUsIFJlcVBhcmFtLCB7b2JqLCBEZWNvZGVkUmVzfSwgUGFyYW0pLAogICAgICAgICAgICBSOwogICAgICAgIE90aGVyIC0+CiAgICAgICAgICAgIFJlcXVlc3RJZCA9IHJ0Yl91dGlsOmdldF92YWx1ZSg/UkVRX0tFWV9BVUNUSU9OX0lELCBQYXJhbSksCiAgICAgICAgICAgIGNyaXRlb19ibG46bm90aWZ5X2xvc3MoRHNwQ29kZSwgUmVxdWVzdElkLCBub25lLCBjb25uZWN0aW9uX2Vycm9yKSwKICAgICAgICAgICAgZXhpdChPdGhlcikKICAgIGVuZC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YmlkX3Jlc3VsdAo=</text>
+        <text encoding="base64">ICAgICUg44Gd44KM44GL44GT44GT44Gn5YWl44KM44KL77yfcGxhY2VtZW506KaL44GmbW9tZW50dW1z5beu44GX6L6844KACg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LXNwZWMgbW9tZW50dW1faGVyb24oKSAtPiBqaWZmeSgpLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>criteo</last-search>
+      <last-search>is_BID</last-search>
       <last-offset />
-      <last-pattern>criteo</last-pattern>
+      <last-pattern>is_BID</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -617,7 +619,6 @@
     </search>
     <history>
       <history-search>
-        <entry>host.docker</entry>
         <entry>BIDSWITCH_VIDEO_PC_CONFIG</entry>
         <entry>pc_con</entry>
         <entry>bidswitch</entry>
@@ -637,6 +638,7 @@
         <entry>unknown</entry>
         <entry>VALID</entry>
         <entry>criteo</entry>
+        <entry>is_BID</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
