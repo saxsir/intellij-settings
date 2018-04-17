@@ -86,13 +86,6 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_handler.erl" timestamp="1523934056130">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="40" column="129" />
-        <mark key="]" line="40" column="129" />
-        <mark key="^" line="40" column="128" />
-        <mark key="." line="40" column="129" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1523941196266">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="44" column="73" />
@@ -300,8 +293,8 @@
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/server.go" timestamp="1522825544518">
         <mark key="'" line="66" column="32" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" timestamp="1523942370941">
-        <mark key="'" line="307" column="19" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" timestamp="1523946552142">
+        <mark key="'" line="308" column="23" />
         <mark key="[" line="986" column="25" />
         <mark key="]" line="986" column="26" />
         <mark key="^" line="1209" column="61" />
@@ -401,10 +394,10 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1523941288564">
         <mark key="'" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" timestamp="1523945230988">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" timestamp="1523946337619">
         <mark key="'" line="165" column="26" />
-        <mark key="[" line="165" column="53" />
-        <mark key="]" line="165" column="57" />
+        <mark key="[" line="165" column="26" />
+        <mark key="]" line="165" column="37" />
         <mark key="^" line="165" column="57" />
         <mark key="." line="165" column="57" />
       </file>
@@ -447,12 +440,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1523932922693">
-        <mark key="'" line="277" column="28" />
-        <mark key="[" line="305" column="0" />
-        <mark key="]" line="305" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1523946651794">
+        <mark key="'" line="305" column="0" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
         <mark key="^" line="305" column="0" />
-        <mark key="." line="305" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/database.yml" timestamp="1522912742802">
         <mark key="'" line="35" column="13" />
@@ -476,9 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="154" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
       <jump line="189" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" />
       <jump line="242" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" />
       <jump line="622" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" />
@@ -559,7 +549,6 @@
       <jump line="1083" column="56" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
       <jump line="1112" column="56" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
       <jump line="1124" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
-      <jump line="308" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
       <jump line="356" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
       <jump line="486" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
       <jump line="1209" column="61" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
@@ -569,13 +558,17 @@
       <jump line="207" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
       <jump line="217" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
       <jump line="479" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
       <jump line="365" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
       <jump line="507" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
       <jump line="307" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
       <jump line="12" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" />
       <jump line="166" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" />
       <jump line="165" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" />
+      <jump line="1212" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
+      <jump line="308" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
+      <jump line="307" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
+      <jump line="305" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -592,19 +585,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
-        <text>kaio</text>
+        <text>docker</text>
       </register>
       <register name="0" type="4">
-        <text>Stuff</text>
+        <text>KaiokenStuff</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1vbWVudHVtX2hlcm9uLAo=</text>
+        <text encoding="base64">LWRlZmluZShCSURTV0lUQ0hfVklERU9fVVJMLCAiaHR0cDovL2hvc3QuZG9ja2VyLmludGVybmFsOjkwMDAvYmlkL2JpZHN3aXRjaC12aWRlby5qc29uIikuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1vbWVudHVtX2hlcm9uLAo=</text>
+        <text encoding="base64">LWRlZmluZShDUklURU9fVklERU9fVVJMLCAiaHR0cDovL2hvc3QuZG9ja2VyLmludGVybmFsOjkwMDAvYmlkL2NyaXRlby12aWRlby5qc29uIikuCi1kZWZpbmUoQ1JJVEVPX1ZJREVPX0JMTl9VUkwsICJodHRwOi8vaG9zdC5kb2NrZXIuaW50ZXJuYWw6OTAwMC9ibGFja2hvbGUvIikuCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJG1vbWVudHVtX2hlcm9uLAo=</text>
@@ -613,28 +606,28 @@
         <text encoding="base64">ICAgICAgICAgICAgJG1vbWVudHVtX2hlcm9uLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9tZW50dW1faGVyb20gPT4gJ21vbWVudHVtX2hlcm9uX3N0cicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1vbWVudHVtX2hlcm9uLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9tZW50dW1faGVyb24gPT4gJ21vbWVudHVtX2hlcm9uX3N0cicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1vbWVudHVtX2hlcm9uLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9tZW50dW1faGVyb20gPT4gJ21vbWVudHVtX2hlcm9uX3N0cicsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LWRlZmluZShCSURTV0lUQ0hfVklERU9fVVJMLCAiaHR0cDovL2Rldi1nY2UtanAtMS5iaWRzd2l0Y2guaXBvbndlYi5uZXQvZmx1Y3RfYmFzaWNfYmlkIikuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9tZW50dW1faGVyb24gPT4gJ21vbWVudHVtX2hlcm9uX3N0cicsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnRfcigkYWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>kaio</last-search>
+      <last-search>docker</last-search>
       <last-offset />
-      <last-pattern>kaio</last-pattern>
+      <last-pattern>docker</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -642,8 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>RTB</entry>
-        <entry>RTB_SAZA</entry>
         <entry>DBM</entry>
         <entry>module</entry>
         <entry>unknown</entry>
@@ -657,11 +648,13 @@
         <entry>host.docker</entry>
         <entry>VIDEO</entry>
         <entry>CRITEO_VIDEO</entry>
-        <entry>kaioken</entry>
         <entry>cookie_sync</entry>
         <entry>one_creative</entry>
         <entry>herom</entry>
         <entry>kaio</entry>
+        <entry>KaiokenStuff</entry>
+        <entry>kaioken</entry>
+        <entry>docker</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
