@@ -217,8 +217,8 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/_build/default/lib/fluct_rtb/src/dispatcher.erl" timestamp="1523268477527">
         <mark key="'" line="42" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1523942497012">
-        <mark key="'" line="766" column="6" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1523950215320">
+        <mark key="'" line="701" column="48" />
         <mark key="[" line="425" column="67" />
         <mark key="]" line="425" column="67" />
         <mark key="." line="425" column="67" />
@@ -469,9 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" />
-      <jump line="242" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" />
-      <jump line="622" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" />
       <jump line="30" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
       <jump line="168" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
       <jump line="208" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
@@ -569,6 +566,9 @@
       <jump line="308" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
       <jump line="307" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
       <jump line="305" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
+      <jump line="700" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" />
+      <jump line="754" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" />
+      <jump line="701" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -588,7 +588,7 @@
         <text>%</text>
       </register>
       <register name="/" type="4">
-        <text>docker</text>
+        <text>empty</text>
       </register>
       <register name="0" type="4">
         <text>KaiokenStuff</text>
@@ -621,13 +621,13 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>702</text>
       </register>
     </registers>
     <search>
-      <last-search>docker</last-search>
+      <last-search>empty</last-search>
       <last-offset />
-      <last-pattern>docker</last-pattern>
+      <last-pattern>empty</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -635,7 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DBM</entry>
         <entry>module</entry>
         <entry>unknown</entry>
         <entry>VALID</entry>
@@ -655,9 +654,9 @@
         <entry>KaiokenStuff</entry>
         <entry>kaioken</entry>
         <entry>docker</entry>
+        <entry>empty</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>237</entry>
         <entry>239</entry>
         <entry>vs</entry>
@@ -677,6 +676,7 @@
         <entry>990</entry>
         <entry>1216</entry>
         <entry>w</entry>
+        <entry>702</entry>
       </history-cmd>
       <history-expr />
       <history-input />
