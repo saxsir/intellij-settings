@@ -86,12 +86,12 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1523953108007">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1523956775013">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="44" column="91" />
-        <mark key="]" line="44" column="98" />
-        <mark key="^" line="44" column="98" />
-        <mark key="." line="44" column="98" />
+        <mark key="[" line="44" column="110" />
+        <mark key="]" line="44" column="110" />
+        <mark key="^" line="44" column="72" />
+        <mark key="." line="44" column="110" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" timestamp="1522225496307">
         <mark key="'" line="80" column="14" />
@@ -585,7 +585,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>docker</text>
