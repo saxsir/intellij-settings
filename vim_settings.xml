@@ -401,6 +401,13 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1523941288564">
         <mark key="'" line="2" column="10" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" timestamp="1523945230988">
+        <mark key="'" line="165" column="26" />
+        <mark key="[" line="165" column="53" />
+        <mark key="]" line="165" column="57" />
+        <mark key="^" line="165" column="57" />
+        <mark key="." line="165" column="57" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/UpdateCmnBidRate/DownloadCommand.php" timestamp="1522637126810">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="27" column="42" />
@@ -469,9 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="15" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="46" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
       <jump line="113" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
       <jump line="154" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
@@ -569,6 +573,9 @@
       <jump line="365" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
       <jump line="507" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
       <jump line="307" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
+      <jump line="12" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" />
+      <jump line="166" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" />
+      <jump line="165" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -588,10 +595,10 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>herom</text>
+        <text>kaio</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG15ICRrYWlva2VuX29wcyA9ICdrYWlva2VuX29wc19zdHInOwo=</text>
+      <register name="0" type="4">
+        <text>Stuff</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJG1vbWVudHVtX2hlcm9uLAo=</text>
@@ -625,9 +632,9 @@
       </register>
     </registers>
     <search>
-      <last-search>herom</last-search>
+      <last-search>kaio</last-search>
       <last-offset />
-      <last-pattern>herom</last-pattern>
+      <last-pattern>kaio</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -635,7 +642,6 @@
     </search>
     <history>
       <history-search>
-        <entry>docker</entry>
         <entry>RTB</entry>
         <entry>RTB_SAZA</entry>
         <entry>DBM</entry>
@@ -655,6 +661,7 @@
         <entry>cookie_sync</entry>
         <entry>one_creative</entry>
         <entry>herom</entry>
+        <entry>kaio</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
