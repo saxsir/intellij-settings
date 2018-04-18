@@ -367,12 +367,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="59" column="70" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1524035762907">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1524038000926">
         <mark key="'" line="179" column="34" />
-        <mark key="[" line="217" column="27" />
-        <mark key="]" line="217" column="33" />
-        <mark key="^" line="217" column="33" />
-        <mark key="." line="217" column="33" />
+        <mark key="[" line="205" column="20" />
+        <mark key="]" line="205" column="28" />
+        <mark key="^" line="205" column="28" />
+        <mark key="." line="205" column="28" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1523950215320">
         <mark key="'" line="701" column="48" />
@@ -605,13 +605,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ー</text>
+        <text>no bid</text>
       </register>
       <register name="/" type="4">
         <text>information</text>
       </register>
-      <register name="0" type="4">
-        <text>ashboard/load_information_json/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXJsYW5nOmRpc3BsYXkoIm5vIGJpZCIpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
