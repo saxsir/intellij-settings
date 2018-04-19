@@ -73,10 +73,10 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/README.md" timestamp="1524036677708">
         <mark key="'" line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/criteo_base_rule.erl" timestamp="1524041000831">
-        <mark key="'" line="103" column="7" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="126" column="5" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/criteo_base_rule.erl" timestamp="1524099866369">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="31" column="17" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.json4s/json4s-native_2.12/srcs/json4s-native_2.12-3.5.3-sources.jar!/org/json4s/native/Serialization.scala" timestamp="1522221517606">
         <mark key="'" line="32" column="7" />
@@ -377,12 +377,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="59" column="70" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1524042316320">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
-        <mark key="^" line="209" column="3" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1524099925928">
+        <mark key="'" line="104" column="4" />
+        <mark key="[" line="204" column="24" />
+        <mark key="]" line="204" column="37" />
+        <mark key="." line="204" column="37" />
+        <mark key="^" line="204" column="37" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1523950215320">
         <mark key="'" line="701" column="48" />
@@ -499,9 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
-      <jump line="277" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" />
       <jump line="126" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" />
       <jump line="194" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" />
       <jump line="309" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" />
@@ -593,12 +590,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="48" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="49" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
-      <jump line="209" column="60" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
       <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/criteo_base_rule.erl" />
       <jump line="103" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/criteo_base_rule.erl" />
       <jump line="22" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
       <jump line="195" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
       <jump line="17" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/criteo_base_rule.erl" />
+      <jump line="209" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
+      <jump line="103" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
+      <jump line="104" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -615,13 +615,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Req</text>
+        <text>dsp</text>
       </register>
       <register name="/" type="4">
-        <text>decode</text>
+        <text>criteo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJSZXEiKSwK</text>
+        <text encoding="base64">cGFyYW0oW18sIFJlYywgXywgX10gPSBJbmZvKSAtPgogICAge29iaiwgW0lkLCBBdCwge1RtYXhLZXksIF9UbWF4fSwgQmNhdCwgSW1wLCBTaXRlQXBwLCBEZXZpY2UsIFVzZXJdfSA9IG9wZW5ydGJfcnVsZTpwYXJhbShJbmZvKSwKICAgIHtvYmosIFtJZAogICAgICAgICAsIEF0CiAgICAgICAgICwge1RtYXhLZXksID9GTFVDVF9TUEVDX1RNQVh9CiAgICAgICAgICwgQmNhdAogICAgICAgICAsIHsiYmFkdiIsIGdldF9iYWR2KFJlYyl9CiAgICAgICAgICwgbWFrZV9zb3VyY2UoUmVjKQogICAgICAgICAsIGFkanVzdF9pbXAoSW1wLCBSZWMpCiAgICAgICAgICwgU2l0ZUFwcAogICAgICAgICAsIERldmljZQogICAgICAgICAsIFVzZXJdfS4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJsYW5nOmRpc3BsYXkoIm90aGVyIiksCg==</text>
@@ -655,9 +655,9 @@
       </register>
     </registers>
     <search>
-      <last-search>decode</last-search>
+      <last-search>criteo</last-search>
       <last-offset />
-      <last-pattern>decode</last-pattern>
+      <last-pattern>criteo</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -665,7 +665,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kaioken</entry>
         <entry>empty</entry>
         <entry>docker</entry>
         <entry>unit_floor</entry>
@@ -685,6 +684,7 @@
         <entry>response</entry>
         <entry>bid</entry>
         <entry>decode</entry>
+        <entry>criteo</entry>
       </history-search>
       <history-cmd>
         <entry>221</entry>
