@@ -108,12 +108,18 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/common/top/output/view/InformationView.jsx" timestamp="1524129550334">
-        <mark key="'" line="7" column="8" />
-        <mark key="[" line="45" column="30" />
-        <mark key="]" line="45" column="30" />
-        <mark key="." line="45" column="30" />
-        <mark key="^" line="51" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/common/top/output/view/InformationView.jsx" timestamp="1524187718051">
+        <mark key="'" line="0" column="22" />
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="20" />
+        <mark key="." line="45" column="20" />
+        <mark key="^" line="45" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/public_html/css/news.css" timestamp="1524187629155">
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="27" column="23" />
+        <mark key="^" line="27" column="23" />
+        <mark key="." line="27" column="23" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/dev/rtb_node/bin/rtb_node" timestamp="1522923668689">
         <mark key="'" line="115" column="12" />
@@ -365,11 +371,11 @@
       <jump line="1204" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/dev/rtb_node/lib/stdlib-2.3/src/lists.erl" />
       <jump line="34" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/common/top/output/view/InformationView.jsx" />
       <jump line="48" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/common/top/output/view/InformationView.jsx" />
-      <jump line="0" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/common/top/output/view/InformationView.jsx" />
       <jump line="2" column="60" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/common/top/output/view/InformationView.jsx" />
       <jump line="4" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/common/top/output/view/InformationView.jsx" />
       <jump line="6" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/common/top/output/view/InformationView.jsx" />
       <jump line="7" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/common/top/output/view/InformationView.jsx" />
+      <jump line="0" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/common/top/output/view/InformationView.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -386,10 +392,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PHA+</text>
+        <text>news</text>
       </register>
       <register name="0" type="4">
         <text>props.description</text>
@@ -426,9 +432,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PHA+</last-search>
+      <last-search>news</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PHA+</last-pattern>
+      <last-pattern>news</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -436,7 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Docomo</entry>
         <entry>response</entry>
         <entry>bid</entry>
         <entry>decode</entry>
@@ -456,6 +461,7 @@
         <entry>top</entry>
         <entry>p</entry>
         <entry encoding="base64">PHA+</entry>
+        <entry>news</entry>
       </history-search>
       <history-cmd>
         <entry>e!</entry>
