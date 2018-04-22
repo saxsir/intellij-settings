@@ -134,11 +134,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" timestamp="1522741131838">
         <mark key="'" line="391" column="20" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" timestamp="1524377686429">
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" timestamp="1524380115247">
         <mark key="'" line="61" column="8" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="24" />
-        <mark key="." line="87" column="0" />
+        <mark key="[" line="110" column="54" />
+        <mark key="]" line="111" column="12" />
+        <mark key="^" line="111" column="12" />
+        <mark key="." line="111" column="12" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.1.0-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" timestamp="1522212868876">
         <mark key="'" line="25" column="13" />
@@ -262,10 +263,10 @@
         <mark key="^" line="165" column="57" />
         <mark key="." line="165" column="57" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/bot.go" timestamp="1524376985860">
-        <mark key="'" line="70" column="0" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/bot.go" timestamp="1524379863188">
+        <mark key="'" line="99" column="21" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/env/env.go" timestamp="1524378589645">
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/env/env.go" timestamp="1524380005061">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="54" />
         <mark key="." line="9" column="79" />
@@ -299,7 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
       <jump line="209" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
       <jump line="493" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
       <jump line="51" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
@@ -399,6 +399,7 @@
       <jump line="63" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" />
       <jump line="86" column="23" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" />
       <jump line="61" column="8" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" />
+      <jump line="99" column="21" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/bot.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -415,7 +416,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dj0zaiZpPWZwQU44eVhPcnRlciZzPWNvbnN1bWVyc2VjcmV0Jng9ZjY-</text>
+        <text>&quot;bot&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Bot</text>
@@ -424,31 +425,31 @@
         <text>HlaMTHhA3cjdkhytPRfmGeqSiFp9eGUb</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CVRhbGtBUElLZXkgICAgICA9ICJIbGFNVEhoQTNjamRraHl0UFJmbUdlcVNpRnA5ZUdVYiIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlCb2R5OiBtc2dJbi5Cb2R5ICsgIiwgd29ybGQhIiwK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CXJlcGx5IDo9ICIiCgkKCWlmICh0cnVlKSB7CgkJcmVwbHkgPSAiYWEiCgl9IGVsc2UgewoJCXJlcGx5ID0gImJiIgoJfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CVRhbGtBUElLZXkgICAgICA9ICJIbGFNVEhoQTNjamRraHl0UFJmbUdlcVNpRnA5ZUdVYiIK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIGlmIG1zZy5Cb2R5ID09ICIiIHsK</text>
+        <text encoding="base64">CQlCb2R5OiBtc2dJbi5Cb2R5ICsgIiwgd29ybGQhIiwK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlmIAo=</text>
+        <text encoding="base64">CS8vIGlmIG1zZy5Cb2R5ID09ICIiIHsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUtleXdvcmRBUElBcHBJRCA9ICIiCg==</text>
+        <text encoding="base64">CWlmIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CglyZXR1cm4gJm1vZGVsLk1lc3NhZ2V7CgkJQm9keTogIuOCreODvOODr+ODvOODie+8miIgKyBzdHJpbmdzLkpvaW4oa2V5d29yZHMsICIsICIpLAoJfSwgbmlsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -487,7 +488,6 @@
         <entry>Bot</entry>
       </history-search>
       <history-cmd>
-        <entry>1211</entry>
         <entry>685</entry>
         <entry>967</entry>
         <entry>799</entry>
@@ -506,6 +506,7 @@
         <entry>vs</entry>
         <entry>32</entry>
         <entry>q</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
