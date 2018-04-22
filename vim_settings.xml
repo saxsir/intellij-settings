@@ -265,9 +265,9 @@
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/bot.go" timestamp="1524376985860">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/env/env.go" timestamp="1524377348554">
-        <mark key="[" line="9" column="78" />
-        <mark key="]" line="9" column="79" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/env/env.go" timestamp="1524378589645">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="54" />
         <mark key="." line="9" column="79" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" timestamp="1523600232750">
@@ -420,8 +420,8 @@
       <register name="/" type="4">
         <text>Bot</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlVc2VyTmFtZTogImJvdCIsCg==</text>
+      <register name="0" type="4">
+        <text>HlaMTHhA3cjdkhytPRfmGeqSiFp9eGUb</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CVRhbGtBUElLZXkgICAgICA9ICJIbGFNVEhoQTNjamRraHl0UFJmbUdlcVNpRnA5ZUdVYiIK</text>
