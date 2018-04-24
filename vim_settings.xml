@@ -36,12 +36,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dynalyst_rule.erl" timestamp="1524100489166">
         <mark key="'" line="36" column="56" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1524553819865">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="46" column="2" />
-        <mark key="]" line="46" column="3" />
-        <mark key="." line="46" column="3" />
-        <mark key="^" line="46" column="3" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1524558236082">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="49" column="114" />
+        <mark key="]" line="49" column="127" />
+        <mark key="." line="49" column="127" />
+        <mark key="^" line="49" column="127" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/README.md" timestamp="1522998448901">
         <mark key="'" line="42" column="0" />
@@ -215,7 +215,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Throwable.java" timestamp="1522298875821">
         <mark key="'" line="193" column="5" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_util.erl" timestamp="1524208841316">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_util.erl" timestamp="1524555990138">
         <mark key="'" line="6" column="9" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/util.go" timestamp="1524363236541">
@@ -223,11 +223,11 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1524209507776">
-        <mark key="[" line="30" column="57" />
-        <mark key="]" line="30" column="57" />
-        <mark key="." line="30" column="57" />
-        <mark key="^" line="30" column="57" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1524557967021">
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="33" column="10" />
+        <mark key="." line="33" column="10" />
+        <mark key="^" line="33" column="10" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/checker.go" timestamp="1524366617573">
         <mark key="[" line="5" column="29" />
@@ -296,7 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="493" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
       <jump line="51" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="199" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
       <jump line="155" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
@@ -350,8 +349,6 @@
       <jump line="31" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" />
       <jump line="57" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
       <jump line="32" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_util.erl" />
-      <jump line="6" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_util.erl" />
       <jump line="18" column="12" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/bot.go" />
       <jump line="34" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" />
       <jump line="43" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" />
@@ -396,6 +393,9 @@
       <jump line="61" column="8" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" />
       <jump line="99" column="21" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/bot.go" />
       <jump line="77" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
+      <jump line="597" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_util.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_util.erl" />
+      <jump line="6" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_util.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -412,49 +412,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, {}</text>
       </register>
       <register name="/" type="4">
-        <text>Bot</text>
+        <text>get_value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICUgTW9tZW50dW1SZXN1bHQgPSBtb21lbnR1bV9oZXJvbjpleHRyYWN0X3Jlc3VsdChDb2xsZWN0ZWQpLAo=</text>
+        <text encoding="base64">ICAgICV7cnRiX3Jlc3VsdDpleHRlbmRfcmVzdWx0KFJlc3VsdHMsIEF1Y3Rpb25JZHMpLCBLYWlva2VuT3BlcmF0aW9ucywgTW9tZW50dW1SZXN1bHR9Lgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJEc3BSZXNwb25zZSIpLAogICAgZXJsYW5nOmRpc3BsYXkoRHNwUmVzcG9uc2UpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJlcGx5IDo9ICIiCgkKCWlmICh0cnVlKSB7CgkJcmVwbHkgPSAiYWEiCgl9IGVsc2UgewoJCXJlcGx5ID0gImJiIgoJfQo=</text>
+        <text encoding="base64">ICAgICVGcmF1ZCA9IHJ0Yl91dGlsOmdldF92YWx1ZSgiZnJhdWQiLCBNb21lbnR1bSksCiAgICAlZXJsYW5nOmRpc3BsYXkoRnJhdWQpLAogICAgJSBbeyJpZCIsPDw+Pn0seyJuYnIiLDR9LHsiZXh0Iix7b2JqLFt7Im1vbWVudHVtIix7b2JqLFt7Imhlcm9uIix7b2JqLFt7ImZyYXVkIix0cnVlfSx7ImFjY3VyYWN5IiwxMDB9LHsib3B0aW9uIiw8PCJob2dlaG9nZWZ1Z2FmdWdhcGl5b3BpeW8iPj59LHsia2V5IiwxfSx7ImV4cGlyeSIsMTQ0NDQ0NDR9XX19XX19XX19XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CVRhbGtBUElLZXkgICAgICA9ICJIbGFNVEhoQTNjamRraHl0UFJmbUdlcVNpRnA5ZUdVYiIK</text>
+        <text encoding="base64">ICAgICV7W3s8PCJmcmF1ZCI+PiwgdHJ1ZX1dfS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlCb2R5OiBtc2dJbi5Cb2R5ICsgIiwgd29ybGQhIiwK</text>
+        <text encoding="base64">ICAgIHtfLCB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJFeHQiKSwKICAgIGVybGFuZzpkaXNwbGF5KEV4dCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIGlmIG1zZy5Cb2R5ID09ICIiIHsK</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KENvbGxlY3RlZCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICUgQmlkOnRlcm0gdG8gZGljdDpkaWN0PwogICAgJSB0byBwcm9wbGlzdAogICAgJSBkaWN0OnRvX2xpc3QoZGljdDpmaWx0ZXIoRiwgRGljdCkKICAgICUgdG8gamlmZnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KHJ0Yl91dGlsOmdldF92YWx1ZSgibmJyIiwgRHNwUmVzcG9uc2UpKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Bot</last-search>
-      <last-offset>bot</last-offset>
-      <last-pattern>Bot</last-pattern>
+      <last-search>get_value</last-search>
+      <last-offset />
+      <last-pattern>get_value</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -473,7 +473,6 @@
         <entry encoding="base64">PHA+</entry>
         <entry>news</entry>
         <entry>update</entry>
-        <entry>get_value</entry>
         <entry encoding="base64">XDzmnKzmlodcPg==</entry>
         <entry>Gacha</entry>
         <entry>gacha</entry>
@@ -482,6 +481,7 @@
         <entry>println</entry>
         <entry>bot</entry>
         <entry>Bot</entry>
+        <entry>get_value</entry>
       </history-search>
       <history-cmd>
         <entry>685</entry>
