@@ -36,12 +36,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dynalyst_rule.erl" timestamp="1524100489166">
         <mark key="'" line="36" column="56" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1524209679305">
-        <mark key="'" line="57" column="13" />
-        <mark key="[" line="40" column="31" />
-        <mark key="]" line="40" column="30" />
-        <mark key="." line="40" column="30" />
-        <mark key="^" line="40" column="30" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1524553819865">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="46" column="2" />
+        <mark key="]" line="46" column="3" />
+        <mark key="." line="46" column="3" />
+        <mark key="^" line="46" column="3" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/README.md" timestamp="1522998448901">
         <mark key="'" line="42" column="0" />
@@ -244,10 +244,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1524201604372">
         <mark key="'" line="2" column="10" />
-        <mark key="[" line="51" column="12" />
-        <mark key="]" line="51" column="27" />
-        <mark key="." line="51" column="27" />
-        <mark key="^" line="51" column="27" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1524111889058">
         <mark key="'" line="15" column="11" />
@@ -300,7 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
       <jump line="493" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
       <jump line="51" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="199" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
@@ -400,6 +395,7 @@
       <jump line="86" column="23" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" />
       <jump line="61" column="8" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" />
       <jump line="99" column="21" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/bot.go" />
+      <jump line="77" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -416,13 +412,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;bot&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Bot</text>
       </register>
-      <register name="0" type="4">
-        <text>HlaMTHhA3cjdkhytPRfmGeqSiFp9eGUb</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICUgTW9tZW50dW1SZXN1bHQgPSBtb21lbnR1bV9oZXJvbjpleHRyYWN0X3Jlc3VsdChDb2xsZWN0ZWQpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -505,8 +501,8 @@
         <entry>116</entry>
         <entry>vs</entry>
         <entry>32</entry>
-        <entry>q</entry>
         <entry>e</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
