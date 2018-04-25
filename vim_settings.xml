@@ -223,11 +223,10 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1524568915447">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="34" column="9" />
-        <mark key="^" line="34" column="9" />
-        <mark key="." line="34" column="9" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1524619370281">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/checker.go" timestamp="1524366617573">
         <mark key="[" line="5" column="29" />
@@ -424,31 +423,31 @@
         <text encoding="base64">cHJpbnRfcigkYWRzWydtb21lbnR1bV9oZXJvbiddWydmcmF1ZCddKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnRfcigkYWRzWydtb21lbnR1bV9oZXJvbiddKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnRfcigkYWRzWydtb21lbnR1bV9oZXJvbiddWydvcHRpb24nXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnRfcigkYWRzWydtb21lbnR1bV9oZXJvbiddWydmcmF1ZCddKTsK</text>
+        <text encoding="base64">Zm9yX21zZ3BhY2soKSAtPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnRfcigkYWRzWydtb21lbnR1bV9oZXJvbiddWydmcmF1ZCddKTsK</text>
+        <text encoding="base64">cHJpbnRfcigkYWRzWydtb21lbnR1bV9oZXJvbiddKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KFJlcyksCg==</text>
+        <text encoding="base64">cHJpbnRfcigkYWRzWydtb21lbnR1bV9oZXJvbiddWydvcHRpb24nXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJlcyA9IHJ0Yl91dGlsOmdldF92YWx1ZSgibmJyIiwgRHNwUmVzcG9uc2UpLAo=</text>
+        <text encoding="base64">cHJpbnRfcigkYWRzWydtb21lbnR1bV9oZXJvbiddWydmcmF1ZCddKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICV0b2RvOiBqaWZmeSgpID0gW3Byb3BsaXN0KEssIFYpXSDjgrnjgr/jgqTjg6vjgavjgZnjgosgY29udmVydGVy44Go44GL44GM44GE44KK44Gd44GG44CC5LuW44GuRFNQ44Gu44KE44Gk6KaL44KLCg==</text>
+        <text encoding="base64">cHJpbnRfcigkYWRzWydtb21lbnR1bV9oZXJvbiddWydmcmF1ZCddKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KFJlcyksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVzX3RvX3Byb3BsaXN0KCkgLT4K</text>
+        <text encoding="base64">ICAgIFJlcyA9IHJ0Yl91dGlsOmdldF92YWx1ZSgibmJyIiwgRHNwUmVzcG9uc2UpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
