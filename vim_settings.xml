@@ -22,12 +22,6 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/20180404062056_refs_9994_add_momentum_sp_dsp.sql" timestamp="1522832545112">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="40" />
-        <mark key="^" line="22" column="40" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/controllers/dashboard.php" timestamp="1524037466567">
         <mark key="'" line="22" column="15" />
       </file>
@@ -50,6 +44,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/pam/s3.tf" timestamp="1522225496307">
         <mark key="'" line="80" column="14" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_test_cases.erl" timestamp="1524644559577">
+        <mark key="'" line="42" column="123" />
+        <mark key="[" line="114" column="28" />
+        <mark key="]" line="114" column="43" />
+      </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018/original/bot/bot.go" timestamp="1523345990180">
         <mark key="'" line="19" column="21" />
       </file>
@@ -64,11 +63,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/README.md" timestamp="1524036677708">
         <mark key="'" line="17" column="4" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/criteo_base_rule.erl" timestamp="1524103755331">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="20" column="26" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.json4s/json4s-native_2.12/srcs/json4s-native_2.12-3.5.3-sources.jar!/org/json4s/native/Serialization.scala" timestamp="1522221517606">
         <mark key="'" line="32" column="7" />
@@ -122,6 +116,12 @@
         <mark key="]" line="28" column="61" />
         <mark key="." line="28" column="44" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/apps/mock_dsp_server/include/mock_bid.hrl" timestamp="1524644715619">
+        <mark key="[" line="39" column="109" />
+        <mark key="]" line="39" column="109" />
+        <mark key="." line="39" column="109" />
+        <mark key="^" line="34" column="34" />
+      </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/original/assets/js/app.js" timestamp="1522827638014">
         <mark key="'" line="0" column="0" />
       </file>
@@ -148,25 +148,8 @@
       <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-events/srcs/aws-lambda-java-events-2.1.0-sources.jar!/com/amazonaws/services/lambda/runtime/events/KinesisFirehoseEvent.java" timestamp="1522212868876">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-test/saxsir/env/env.go" timestamp="1523522825115">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="78" />
-        <mark key="^" line="9" column="78" />
-        <mark key="." line="9" column="78" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" timestamp="1524208522610">
-        <mark key="'" line="32" column="14" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="51" column="46" />
-      </file>
       <file name="$USER_HOME$/.ivy2/cache/com.amazonaws/aws-lambda-java-core/srcs/aws-lambda-java-core-1.1.0-sources.jar!/com/amazonaws/services/lambda/runtime/Context.java" timestamp="1522212995237">
         <mark key="'" line="54" column="31" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018/original/env/env.go" timestamp="1523346167539">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="78" />
-        <mark key="^" line="9" column="78" />
-        <mark key="." line="9" column="78" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/common/top/output/view/InformationView.jsx" timestamp="1524187718051">
         <mark key="'" line="0" column="22" />
@@ -196,20 +179,8 @@
         <mark key="^" line="1209" column="61" />
         <mark key="." line="986" column="26" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/public_html/css/news.css" timestamp="1524187629155">
-        <mark key="[" line="24" column="1" />
-        <mark key="]" line="27" column="23" />
-        <mark key="^" line="27" column="23" />
-        <mark key="." line="27" column="23" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/dev/rtb_node/bin/rtb_node" timestamp="1522923668689">
         <mark key="'" line="115" column="12" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_result.erl" timestamp="1523594963853">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="5" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/kaioken.hrl" timestamp="1524620734344">
         <mark key="'" line="9" column="0" />
@@ -225,20 +196,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_util.erl" timestamp="1524555990138">
         <mark key="'" line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/util.go" timestamp="1524363236541">
-        <mark key="'" line="57" column="15" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="10" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1524631880566">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="23" column="9" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/checker.go" timestamp="1524366617573">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="40" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1524645160079">
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="35" column="25" />
+        <mark key="." line="35" column="25" />
+        <mark key="^" line="35" column="25" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.json4s/json4s-native_2.12/srcs/json4s-native_2.12-3.5.3-sources.jar!/org/json4s/native/JsonMethods.scala" timestamp="1522299074362">
         <mark key="'" line="19" column="39" />
@@ -262,8 +224,8 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="23" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" timestamp="1523946337619">
-        <mark key="'" line="165" column="26" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" timestamp="1524644556385">
+        <mark key="'" line="185" column="4" />
         <mark key="[" line="165" column="26" />
         <mark key="]" line="165" column="37" />
         <mark key="^" line="165" column="57" />
@@ -283,11 +245,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAdView.php" timestamp="1523340795028">
         <mark key="'" line="144" column="15" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/kaioken.erl" timestamp="1524192095093">
-        <mark key="'" line="87" column="12" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="49" column="56" />
-      </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/server.go" timestamp="1524375445513">
         <mark key="'" line="79" column="14" />
       </file>
@@ -296,21 +253,8 @@
         <mark key="]" line="520" column="0" />
         <mark key="." line="520" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_ninja_admax/Makefile" timestamp="1523238726616">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="13" column="10" />
-        <mark key="." line="13" column="10" />
-        <mark key="^" line="13" column="10" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="32" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
-      <jump line="18" column="12" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/bot.go" />
-      <jump line="34" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" />
-      <jump line="43" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" />
-      <jump line="95" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" />
-      <jump line="57" column="15" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/util.go" />
       <jump line="42" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" />
       <jump line="33" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/server.go" />
       <jump line="126" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/server.go" />
@@ -404,6 +348,13 @@
       <jump line="12" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dsp_rule.erl" />
       <jump line="14" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dsp_rule.erl" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="47" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_test_cases.erl" />
+      <jump line="15" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_test_cases.erl" />
+      <jump line="42" column="123" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_test_cases.erl" />
+      <jump line="138" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" />
+      <jump line="185" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -420,49 +371,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text>MomentumResps</text>
       </register>
       <register name="/" type="4">
-        <text>BUYERUID_KEY</text>
+        <text>fluct_siyou</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KFJlYyksCg==</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KEhlcm9uKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KFJlYyksCiAgICBlcmxhbmc6ZGlzcGxheShEc3BLZXkpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LWRlZmluZShNT01FTlRVTV9IRVJPTl9LRVksIDw8IiI+PikuCi1kZWZpbmUoTU9NRU5UVU1fSEVST05fSVYsIDw8IiI+PikuCg==</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KFJlYyksCiAgICBlcmxhbmc6ZGlzcGxheShEc3BLZXkpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JVRPRE86IOaal+WPt+WMluaWueW8j+OBqeOBhuOBmeOCi++8nwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">LWRlZmluZShNT01FTlRVTV9IRVJPTl9LRVksIDw8IiI+PikuCi1kZWZpbmUoTU9NRU5UVU1fSEVST05fSVYsIDw8IiI+PikuCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">LWRlZmluZShNT01FTlRVTV9IRVJPTl9LRVksIDw8IiI+PikuCi1kZWZpbmUoTU9NRU5UVU1fSEVST05fSVYsIDw8IiI+PikuCgo=</text>
+        <text encoding="base64">JVRPRE86IOaal+WPt+WMluaWueW8j+OBqeOBhuOBmeOCi++8nwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JVRPRE86IGtleSwgaXbjgaTjgYvjgYbvvJ9pdiBpcyDjgarjgasK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICUgZHNwIGNvZGUsIHVuaXQsIHtRdWVyeX0K</text>
+        <text encoding="base64">LWRlZmluZShNT01FTlRVTV9IRVJPTl9LRVksIDw8IiI+PikuCi1kZWZpbmUoTU9NRU5UVU1fSEVST05fSVYsIDw8IiI+PikuCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KEgpLAo=</text>
+        <text encoding="base64">JVRPRE86IGtleSwgaXbjgaTjgYvjgYbvvJ9pdiBpcyDjgarjgasK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>BUYERUID_KEY</last-search>
+      <last-search>fluct_siyou</last-search>
       <last-offset />
-      <last-pattern>BUYERUID_KEY</last-pattern>
+      <last-pattern>fluct_siyou</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -470,7 +421,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PHA+</entry>
         <entry>news</entry>
         <entry>update</entry>
         <entry encoding="base64">XDzmnKzmlodcPg==</entry>
@@ -490,6 +440,7 @@
         <entry>iv</entry>
         <entry>key</entry>
         <entry>BUYERUID_KEY</entry>
+        <entry>fluct_siyou</entry>
       </history-search>
       <history-cmd>
         <entry>799</entry>
