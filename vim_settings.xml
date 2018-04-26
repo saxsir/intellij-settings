@@ -38,12 +38,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dynalyst_rule.erl" timestamp="1524100489166">
         <mark key="'" line="36" column="56" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1524730469152">
-        <mark key="'" line="84" column="17" />
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="23" />
-        <mark key="." line="37" column="23" />
-        <mark key="^" line="37" column="23" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1524733258146">
+        <mark key="'" line="80" column="17" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/README.md" timestamp="1522998448901">
         <mark key="'" line="42" column="0" />
@@ -275,12 +274,12 @@
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/server.go" timestamp="1524375445513">
         <mark key="'" line="79" column="14" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1524730406166">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1524733365766">
         <mark key="'" line="88" column="7" />
-        <mark key="[" line="516" column="34" />
-        <mark key="]" line="516" column="47" />
+        <mark key="[" line="519" column="0" />
+        <mark key="]" line="519" column="0" />
         <mark key="." line="519" column="0" />
-        <mark key="^" line="520" column="0" />
+        <mark key="^" line="519" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -400,7 +399,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>docomoec</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>CRITEO</text>
@@ -409,31 +408,31 @@
         <text encoding="base64">ICAgICAgICAkZXhpc3RpbmctPntkb2NvbW9lY30gPSBodigkdXNlcl9yZXEsICdkb2NvbW9lYycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJUb0NvbGxlY3QiKSwKICAgIGVybGFuZzpkaXNwbGF5KFRvQ29sbGVjdCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnRfcigkYWRzWydtb21lbnR1bV9oZXJvbiddKTsK</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJBcmdzIiksCiAgICBlcmxhbmc6ZGlzcGxheShBcmdzKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRwYXJhbXNfc3RyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJG9wdGlvbik7Cg==</text>
+        <text encoding="base64">cHJpbnRfcigkYWRzWydtb21lbnR1bV9oZXJvbiddKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHRoaXMtPm9wdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRwYXJhbXNfc3RyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29va2llKTsK</text>
+        <text encoding="base64">dmFyX2R1bXAoJG9wdGlvbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjcml0ZW9fZHNwJyAgICA9PiAnY3JpdGVvX2RzcCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHRoaXMtPm9wdGlvbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtb21lbnR1bV9oZXJvbicgPT4gJ21vbWVudHVtX2hlcm9uJywK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29va2llKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnKCJVc2VyUmVxIiwgJHVzZXJfcmVxKSBpZiBERUJVRzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjcml0ZW9fZHNwJyAgICA9PiAnY3JpdGVvX2RzcCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
