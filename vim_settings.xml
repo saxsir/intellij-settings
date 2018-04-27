@@ -23,7 +23,7 @@
         <mark key="^" line="108" column="21" />
         <mark key="." line="108" column="21" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1524808643039">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1524809921797">
         <mark key="'" line="29" column="25" />
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
@@ -36,8 +36,8 @@
         <mark key="^" line="108" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/criteo_video_rule_tests.erl" timestamp="1524805315888">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/criteo_video_rule_tests.erl" timestamp="1524809139287">
+        <mark key="[" line="6" column="0" />
         <mark key="]" line="19" column="23" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/momentum_heron.hrl" timestamp="1524733750724">
@@ -90,7 +90,7 @@
         <mark key="." line="1145" column="4" />
         <mark key="^" line="1145" column="4" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" timestamp="1524808316960">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" timestamp="1524809377007">
         <mark key="'" line="30" column="33" />
         <mark key="[" line="28" column="44" />
         <mark key="]" line="28" column="61" />
@@ -101,11 +101,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_tests.erl" timestamp="1524806827779">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="6" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_tests.erl" timestamp="1524810182996">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="46" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="20" column="46" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1524807893842">
         <mark key="'" line="112" column="29" />
@@ -183,12 +183,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1524808531941">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="30" column="44" />
-        <mark key="]" line="30" column="49" />
-        <mark key="^" line="30" column="49" />
-        <mark key="." line="30" column="49" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1524810235271">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="5" />
+        <mark key="^" line="15" column="66" />
+        <mark key="." line="30" column="5" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1524730332184">
         <mark key="'" line="0" column="0" />
@@ -356,40 +356,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>mome</text>
       </register>
-      <register name="0" type="4">
-        <text>DomainBlock</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBGID0gZnVuKHtTdWJ0ZXN0LCBEc3BDb2RlLCBFeHBlY3RlZH0pIC0+CiAgICBBY3R1YWwgPSBtb21lbnR1bV9oZXJvbjppc19tb21lbnR1bV9yZXNwb25zZSh7RHNwQ29kZSwgZnAsIG1vZHVsZSwgYmlkfSksCiAgICB7U3VidGVzdCwgP19hc3NlcnRFcXVhbChFeHBlY3RlZCwgQWN0dWFsKX0KICAgICAgZW5kLAogIGxpc3RzOm1hcChGLCBDYXNlcykuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KENvbGxlY3RlZCksCg==</text>
+        <text encoding="base64">CmV4dHJhY3RfcmVzdWx0X3Rlc3RfKCkgLT4KICB0cnVlLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LWluY2x1ZGUoIm1vbWVudHVtX2hlcm9uLmhybCIpLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBXYW50ID0gW10sCiAgQ2FzZXMgPSBbXSwKICBGID0gZnVuKHtTdWJUZXN0fSkgLT4KICAgIHtvaywgR290fSA9IG1vbWVudHVtX2hlcm9uX3J1bGU6cGFyYW0oW0ltcElkLCBSZXEsIElkS2V5LCBVaWRdKSwKICAgIHtTdWJUZXN0LCA/IGFzc2VydEVxdWFsKFdhbnQsIEdvdCl9CiAgICBlbmQsCiAgbGlzdHM6bWFwKEYsIENhc2VzKS4K</text>
+        <text encoding="base64">LWluY2x1ZGUoIm1vbWVudHVtX2hlcm9uLmhybCIpLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci1pbmNsdWRlKCJydWxlLmhybCIpLgotaW5jbHVkZSgia2Fpb2tlbi5ocmwiKS4K</text>
+        <text encoding="base64">ICAgIHtvaywgQWN0dWFsfSA9IGNyaXRlb192aWRlb19ydWxlOmVuY29kZV9hZChJbXBQcmljZSwgSnNvbiwgRHNwQ29kZSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LWV4cG9ydChbb3BlcmF0aW9ucy8yLCBwYXJhbV93aXRoX2tmcC8yLCBvcGVyYXRpb25zX3Jlc3BvbnNlLzJdKS4KCi1pZmRlZihURVNUKS4KLWV4cG9ydChbb3BlcmF0aW9ucy8zLCBzZWxlY3Rfb3BlcmF0aW9uLzQsIHBhcmFtX3dpdGhfa2ZwLzQsCiAgY2FsY19rYWlva2VuX2ZwLzQsIGNwbV9iaWRfcHJpY2VzLzEsIGdyZWF0ZXJfdGhhbl96ZXJvX2JwX2JpZHMvMV0pLgotZW5kaWYuCg==</text>
+        <text encoding="base64">ICBFeHBlY3RlZCA9IFt7P1JFU19LRVlfUFJJQ0UsIEltcFByaWNlfSwKICAgIHs/UkVTX0tFWV9QUklDRV9VTklULCA/RkxVQ1RfQ09TVF9DUE19LAogICAgez9SRVNfS0VZX1ZBU1RfWE1MLCA8PCJsNUZKYUg2LWprcy4tJSVVUkxfRU5DJSUlMjZ1JTNEIj4+fSwKICAgIHs/UkVTX0tFWV9BRF9GT1JNQVRfSUQsID9GTFVDVF9BRF9GT1JNQVRfVklERU99XSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW5jb2RlX2FkX3Rlc3RfKCkgLT4KICBJbXBQcmljZSA9IDEuMjM0LAogIEpzb24gPSBbeyJzZWF0YmlkIiwgW3tvYmosIFt7ImJpZCIsIFt7b2JqLCBbeyJhZG0iLCA8PCIke0FVQ1RJT05fUFJJQ0V9LSR7Q0xJQ0tfVVJMX0VOQ30iPj59XX1dfV19XX1dLAogIEV4cGVjdGVkID0gW3s/UkVTX0tFWV9QUklDRSwgSW1wUHJpY2V9LAogICAgez9SRVNfS0VZX1BSSUNFX1VOSVQsID9GTFVDVF9DT1NUX0NQTX0sCiAgICB7P1JFU19LRVlfVkFTVF9YTUwsIDw8Imw1RkphSDYtamtzLi0lJVVSTF9FTkMlJSUyNnUlM0QiPj59LAogICAgez9SRVNfS0VZX0FEX0ZPUk1BVF9JRCwgP0ZMVUNUX0FEX0ZPUk1BVF9WSURFT31dLAogIENhc2VzID0gWwogICAgeyJjcml0ZW9fdmlkZW9fcGMiLCA/UlRCX0NSSVRFT19WSURFT19QQ30sCiAgICB7ImNyaXRlb192aWRlb19zcCIsID9SVEJfQ1JJVEVPX1ZJREVPX1NQfV0sCiAgRiA9IGZ1bih7U3VidGVzdCwgRHNwQ29kZX0pIC0+CiAgICB7b2ssIEFjdHVhbH0gPSBjcml0ZW9fdmlkZW9fcnVsZTplbmNvZGVfYWQoSW1wUHJpY2UsIEpzb24sIERzcENvZGUpLAogICAge1N1YnRlc3QsID9fYXNzZXJ0RXF1YWwoRXhwZWN0ZWQsIEFjdHVhbCl9CiAgICAgIGVuZCwKICBsaXN0czptYXAoRiwgQ2FzZXMpLgo=</text>
+        <text encoding="base64">ICBKc29uID0gW3sic2VhdGJpZCIsIFt7b2JqLCBbeyJiaWQiLCBbe29iaiwgW3siYWRtIiwgPDwiJHtBVUNUSU9OX1BSSUNFfS0ke0NMSUNLX1VSTF9FTkN9Ij4+fV19XX1dfV19XSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnVzZSBjb25zdCBNT01FTlRVTV9IRVJPTl9UQVJHRVRfRFNQUyA9PiB7CiAgICBEU1BfQ1JJVEVPX1ZJREVPX1BDKCkgPT4gMSwKICAgIERTUF9DUklURU9fVklERU9fU1AoKSA9PiAxLAp9Owo=</text>
+        <text encoding="base64">ICBJbXBQcmljZSA9IDEuMjM0LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0cnVlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpc3RzOgo=</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KENvbGxlY3RlZCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -444,9 +444,9 @@
         <entry>32</entry>
         <entry>e</entry>
         <entry>q</entry>
-        <entry>vs</entry>
         <entry>42</entry>
         <entry>w'</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
