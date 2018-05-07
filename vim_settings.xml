@@ -95,12 +95,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" timestamp="1525665765238">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" timestamp="1525667518892">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="32" />
-        <mark key="^" line="19" column="32" />
-        <mark key="." line="19" column="32" />
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="19" column="34" />
+        <mark key="." line="19" column="35" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1524731276370">
         <mark key="'" line="0" column="0" />
@@ -287,7 +287,7 @@
         <text>device</text>
       </register>
       <register name="0" type="4">
-        <text>d</text>
+        <text>DevicePixelRatio</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
