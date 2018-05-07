@@ -18,7 +18,7 @@
         <mark key="^" line="45" column="23" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" timestamp="1524730287305">
-        <mark key="'" line="202" column="28" />
+        <mark key="'" line="203" column="28" />
         <mark key="[" line="107" column="15" />
         <mark key="]" line="108" column="21" />
         <mark key="^" line="108" column="21" />
@@ -27,15 +27,15 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/105/t65633.js" timestamp="1525669568882">
         <mark key="'" line="200" column="15" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1524812639298">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1525676034011">
         <mark key="'" line="29" column="25" />
-        <mark key="[" line="45" column="86" />
-        <mark key="]" line="45" column="86" />
-        <mark key="." line="45" column="86" />
-        <mark key="^" line="45" column="86" />
+        <mark key="[" line="42" column="35" />
+        <mark key="]" line="42" column="39" />
+        <mark key="." line="42" column="39" />
+        <mark key="^" line="42" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" timestamp="1524814193194">
-        <mark key="'" line="17" column="11" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" timestamp="1525678366053">
+        <mark key="'" line="264" column="51" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="66" column="47" />
         <mark key="." line="164" column="0" />
@@ -54,9 +54,20 @@
         <mark key="^" line="108" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1524812002923">
-        <mark key="[" line="38" column="30" />
-        <mark key="]" line="38" column="30" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_log.erl" timestamp="1525678674873">
+        <mark key="'" line="23" column="47" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" timestamp="1525679054655">
+        <mark key="'" line="394" column="4" />
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1525675490727">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="61" column="5" />
         <mark key="." line="38" column="30" />
         <mark key="^" line="39" column="16" />
       </file>
@@ -67,6 +78,10 @@
         <mark key="." line="461" column="53" />
         <mark key="^" line="461" column="53" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_log_calculator.erl" timestamp="1525678010459">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="15" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1524816212324">
         <mark key="'" line="33" column="4" />
         <mark key="[" line="44" column="35" />
@@ -74,12 +89,12 @@
         <mark key="^" line="45" column="20" />
         <mark key="." line="45" column="20" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1524814229450">
-        <mark key="'" line="17" column="20" />
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="15" column="40" />
-        <mark key="." line="15" column="40" />
-        <mark key="^" line="15" column="33" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1525679741388">
+        <mark key="'" line="11" column="43" />
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="43" />
+        <mark key="." line="11" column="43" />
+        <mark key="^" line="11" column="43" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" timestamp="1525670548986">
         <mark key="'" line="6" column="59" />
@@ -95,10 +110,12 @@
         <mark key="[" line="40" column="21" />
         <mark key="]" line="40" column="212" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" timestamp="1524814391209">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" timestamp="1525680066127">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="1111" />
+        <mark key="." line="71" column="1111" />
+        <mark key="^" line="71" column="1111" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" timestamp="1525667518892">
         <mark key="'" line="0" column="0" />
@@ -107,35 +124,28 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1524731276370">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1525675220292">
+        <mark key="'" line="21" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/fluct_rule.hrl" timestamp="1524810712671">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="22" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1524815707104">
         <mark key="'" line="365" column="37" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1524807874210">
-        <mark key="'" line="520" column="0" />
-        <mark key="[" line="519" column="0" />
-        <mark key="]" line="519" column="0" />
-        <mark key="." line="519" column="0" />
-        <mark key="^" line="519" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1525674866046">
+        <mark key="'" line="527" column="0" />
+        <mark key="[" line="527" column="0" />
+        <mark key="]" line="527" column="0" />
+        <mark key="." line="527" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1524817278486">
-        <mark key="'" line="167" column="24" />
-        <mark key="[" line="287" column="8" />
-        <mark key="]" line="287" column="8" />
-        <mark key="m" line="284" column="4" />
-        <mark key="." line="287" column="8" />
-        <mark key="^" line="287" column="8" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1525674751698">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="1157" column="66" />
+        <mark key="]" line="1158" column="3" />
+        <mark key="." line="1158" column="3" />
+        <mark key="^" line="1158" column="3" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" timestamp="1524810448420">
         <mark key="'" line="30" column="33" />
@@ -143,19 +153,10 @@
         <mark key="]" line="28" column="61" />
         <mark key="." line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_tests.erl" timestamp="1524813172964">
-        <mark key="'" line="20" column="19" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="52" column="21" />
-        <mark key="." line="33" column="38" />
-        <mark key="^" line="33" column="41" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1524811850950">
-        <mark key="'" line="340" column="0" />
-        <mark key="[" line="359" column="32" />
-        <mark key="]" line="359" column="33" />
-        <mark key="." line="359" column="33" />
-        <mark key="^" line="359" column="33" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_tests.erl" timestamp="1525675523178">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-04-22/original/bot/processor.go" timestamp="1524380115247">
         <mark key="'" line="61" column="8" />
@@ -166,96 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="431" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="468" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="520" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" />
-      <jump line="203" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" />
-      <jump line="3" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="42" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
-      <jump line="50" column="31" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
-      <jump line="158" column="40" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
-      <jump line="159" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
-      <jump line="162" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
-      <jump line="165" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
-      <jump line="23" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
-      <jump line="33" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
-      <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
-      <jump line="17" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
-      <jump line="19" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
-      <jump line="23" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
-      <jump line="42" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
-      <jump line="43" column="49" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
-      <jump line="321" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
-      <jump line="64" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" />
-      <jump line="526" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
-      <jump line="8" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
-      <jump line="15" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
-      <jump line="27" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
-      <jump line="497" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
-      <jump line="201" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" />
-      <jump line="88" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
-      <jump line="1122" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
-      <jump line="278" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="1144" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="287" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="1102" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="19" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dsp_rule.erl" />
-      <jump line="3" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dsp_rule.erl" />
-      <jump line="87" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="520" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
-      <jump line="333" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
-      <jump line="112" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
-      <jump line="1093" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="104" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="29" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="27" column="41" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" />
-      <jump line="17" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/fluct_rule.hrl" />
-      <jump line="20" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
-      <jump line="340" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
-      <jump line="20" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_tests.erl" />
-      <jump line="30" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dsp_rule.erl" />
-      <jump line="44" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
-      <jump line="46" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
-      <jump line="21" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
-      <jump line="17" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
-      <jump line="51" column="56" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
-      <jump line="163" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
-      <jump line="17" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
-      <jump line="422" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="280" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="98" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="99" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="160" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="161" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="440" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="33" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="37" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="176" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="1044" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="1045" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="1068" column="52" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="168" column="57" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="441" column="40" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="169" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="29" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="790" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="1057" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="1129" column="60" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="1160" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="82" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="83" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="219" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="220" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="521" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="634" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="167" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="65" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" />
       <jump line="2" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" />
       <jump line="30" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/105/t65633.js" />
@@ -266,6 +177,96 @@
       <jump line="13" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/104/t64607.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" />
       <jump line="6" column="59" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" />
+      <jump line="296" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="75" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
+      <jump line="485" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
+      <jump line="4" column="66" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
+      <jump line="527" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
+      <jump line="34" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_tests.erl" />
+      <jump line="226" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
+      <jump line="26" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
+      <jump line="83" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
+      <jump line="231" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
+      <jump line="21" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
+      <jump line="36" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="10" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_tests.erl" />
+      <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_tests.erl" />
+      <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="17" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="35" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="16" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="52" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="58" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="60" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="42" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="62" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="32" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="22" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="2" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="12" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="3" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="59" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="73" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="16" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="47" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="241" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="242" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="244" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="246" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="247" column="70" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="249" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="251" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="255" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="256" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="257" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="258" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="259" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="260" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="261" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="262" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="263" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="265" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="266" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="267" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="268" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="280" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="61" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="184" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="192" column="56" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="194" column="56" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="196" column="54" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="197" column="58" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="204" column="83" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="205" column="51" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="212" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="213" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="214" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="215" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="216" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="278" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="29" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_log.erl" />
+      <jump line="24" column="63" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_log.erl" />
+      <jump line="25" column="70" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_log.erl" />
+      <jump line="54" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="65" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="6" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="63" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="264" column="51" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="23" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_log.erl" />
+      <jump line="50" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="12" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="202" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="203" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="206" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="394" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/openrtb_rule_tests.erl" />
+      <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="58" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="57" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="11" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="70" column="1176" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -282,49 +283,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>?assertEqual</text>
       </register>
       <register name="0" type="4">
-        <text>https://adingo-redmine.sjdc.voyage/projects/canalis/wiki/%E9%85%8D%E4%BF%A1%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E4%BD%9C%E6%A5%AD%E3%81%AE%E4%BD%9C%E6%A5%AD%E6%89%8B%E9%A0%86</text>
+        <text>[ImpId, Rec, DspKey, Uid]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LDw8Im1vbWVudHVtX2hlcm9uIj4+LDw8IjkzYjg4YTYxN2MyODhiNGNkZTYyOGVlNWYxM2ZlNDY1MDVlMjlkZDYiPj5dCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgbW9tZW50dW3jgYTjgozjgosK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBCaWRSZXEgPSBbXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAle29iaiwgW0lkLCBfLCBfLCBfLCBJbXAsIF8sIERldmljZSwgVXNlcl19ID0gb3BlbnJ0Yl9ydWxlOnBhcmFtKEluZm8pLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wKEltcElkKSAtPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICwgVXNlcgogICAgLCBJbXAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICwgb0RldmljZQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBJbmZvID0gLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB0cnVlLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICA/YXNzZXJ0RXF1YWwoMCwgbW9tZW50dW1faGVyb25fcnVsZTpwcmljZShqc29uKS4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsiZXh0IG1pc3NpbmciLCBbe3VpZCwge2RjLCBmcCwgbW9kdWxlLCBFeHRNaXNzaW5nfX1dLCBSZXNGYWlsdXJlfSwKICAgIHsibW9tZW50dW0gbWlzc2luZyIsIFt7dWlkLCB7ZGMsIGZwLCBtb2R1bGUsIE1vbWVudHVtTWlzc2luZ319XSwgUmVzRmFpbHVyZX0sCiAgICB7Imhlcm9uIG1pc3NpbmciLCBbe3VpZCwge2RjLCBmcCwgbW9kdWxlLCBIZXJvbk1pc3Npbmd9fV0sIFJlc0ZhaWx1cmV9LAogICAgeyJvayIsIFt7dWlkLCB7ZGMsIGZwLCBtb2R1bGUsIE9LfX1dLCBSZXNTdWNjZXNzfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>?assertEqual</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>?assertEqual</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -332,15 +333,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PUBMATIC</entry>
-        <entry>request</entry>
-        <entry>mome</entry>
-        <entry>requ</entry>
-        <entry>devi</entry>
-        <entry>user</entry>
-        <entry>criteo_video</entry>
-        <entry>DBM</entry>
-        <entry>match</entry>
         <entry>reqeust_for</entry>
         <entry>PUBMA</entry>
         <entry>a_request</entry>
@@ -352,12 +344,17 @@
         <entry>adingo</entry>
         <entry>POST</entry>
         <entry>build</entry>
+        <entry encoding="base64">Pj4=</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry encoding="base64">Pj4+</entry>
+        <entry>extract_result_failure</entry>
+        <entry>make_ext</entry>
+        <entry>price</entry>
+        <entry>log_bid</entry>
+        <entry>get_bidded_price</entry>
+        <entry>?assertEqual</entry>
       </history-search>
       <history-cmd>
-        <entry>990</entry>
-        <entry>1216</entry>
-        <entry>702</entry>
-        <entry>118</entry>
         <entry>238</entry>
         <entry>57</entry>
         <entry>45</entry>
@@ -373,6 +370,10 @@
         <entry>vs</entry>
         <entry>38</entry>
         <entry>q</entry>
+        <entry>17</entry>
+        <entry>76</entry>
+        <entry>23</entry>
+        <entry>;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
