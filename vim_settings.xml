@@ -10,10 +10,6 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" timestamp="1524808667906">
-        <mark key="[" line="87" column="48" />
-        <mark key="]" line="87" column="58" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/common/top/output/view/InformationView.jsx" timestamp="1524187718051">
         <mark key="'" line="0" column="22" />
         <mark key="[" line="45" column="20" />
@@ -27,6 +23,9 @@
         <mark key="]" line="108" column="21" />
         <mark key="^" line="108" column="21" />
         <mark key="." line="108" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/105/t65633.js" timestamp="1525669568882">
+        <mark key="'" line="200" column="15" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1524812639298">
         <mark key="'" line="29" column="25" />
@@ -55,19 +54,18 @@
         <mark key="^" line="108" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/adomain_filter_tests.erl" timestamp="1524806061368">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="26" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1524812002923">
         <mark key="[" line="38" column="30" />
         <mark key="]" line="38" column="30" />
         <mark key="." line="38" column="30" />
         <mark key="^" line="39" column="16" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/criteo_video_rule_tests.erl" timestamp="1524809139287">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="19" column="23" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/104/t64607.js" timestamp="1525669858597">
+        <mark key="'" line="13" column="17" />
+        <mark key="[" line="461" column="52" />
+        <mark key="]" line="461" column="53" />
+        <mark key="." line="461" column="53" />
+        <mark key="^" line="461" column="53" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1524816212324">
         <mark key="'" line="33" column="4" />
@@ -83,12 +81,19 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="33" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" timestamp="1525670548986">
+        <mark key="'" line="6" column="59" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" timestamp="1524644556385">
         <mark key="'" line="185" column="4" />
         <mark key="[" line="165" column="26" />
         <mark key="]" line="165" column="37" />
         <mark key="^" line="165" column="57" />
         <mark key="." line="165" column="57" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/README.md" timestamp="1525670487333">
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="212" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" timestamp="1524814391209">
         <mark key="[" line="17" column="0" />
@@ -108,10 +113,6 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/kaioken.erl" timestamp="1524806027684">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/fluct_rule.hrl" timestamp="1524810712671">
         <mark key="'" line="17" column="0" />
@@ -165,14 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
-      <jump line="7" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" />
-      <jump line="43" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="244" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_util.erl" />
-      <jump line="81" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="32" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="1071" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="551" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="431" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="468" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="520" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
@@ -265,6 +258,14 @@
       <jump line="65" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" />
       <jump line="2" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" />
+      <jump line="30" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/105/t65633.js" />
+      <jump line="72" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/105/t65633.js" />
+      <jump line="74" column="31" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/105/t65633.js" />
+      <jump line="75" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/105/t65633.js" />
+      <jump line="200" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/105/t65633.js" />
+      <jump line="13" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/104/t64607.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" />
+      <jump line="6" column="59" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -281,13 +282,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>device</text>
+        <text>build</text>
       </register>
       <register name="0" type="4">
-        <text>DevicePixelRatio</text>
+        <text>https://adingo-redmine.sjdc.voyage/projects/canalis/wiki/%E9%85%8D%E4%BF%A1%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E4%BD%9C%E6%A5%AD%E3%81%AE%E4%BD%9C%E6%A5%AD%E6%89%8B%E9%A0%86</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -321,9 +322,9 @@
       </register>
     </registers>
     <search>
-      <last-search>device</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>device</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -331,11 +332,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mm</entry>
-        <entry>MOMENTUM</entry>
-        <entry>CRITEO</entry>
-        <entry>momentum_heron</entry>
-        <entry>momentum</entry>
         <entry>PUBMATIC</entry>
         <entry>request</entry>
         <entry>mome</entry>
@@ -351,6 +347,11 @@
         <entry>request_for</entry>
         <entry>getBrowserInfo</entry>
         <entry>device</entry>
+        <entry>hs.adingo</entry>
+        <entry>hs</entry>
+        <entry>adingo</entry>
+        <entry>POST</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>990</entry>
