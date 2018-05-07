@@ -10,6 +10,17 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="17" column="2" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" timestamp="1524808667906">
+        <mark key="[" line="87" column="48" />
+        <mark key="]" line="87" column="58" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/common/top/output/view/InformationView.jsx" timestamp="1524187718051">
+        <mark key="'" line="0" column="22" />
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="20" />
+        <mark key="." line="45" column="20" />
+        <mark key="^" line="45" column="23" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" timestamp="1524730287305">
         <mark key="'" line="202" column="28" />
         <mark key="[" line="107" column="15" />
@@ -24,14 +35,35 @@
         <mark key="." line="45" column="86" />
         <mark key="^" line="45" column="86" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/kanade_rule_tests.erl" timestamp="1524814485589" />
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/bidswitch_video_sp_rule_tests.erl" timestamp="1524814502485" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" timestamp="1524814193194">
+        <mark key="'" line="17" column="11" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="66" column="47" />
+        <mark key="." line="164" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" timestamp="1523946552142">
+        <mark key="'" line="308" column="23" />
+        <mark key="[" line="986" column="25" />
+        <mark key="]" line="986" column="26" />
+        <mark key="^" line="1209" column="61" />
+        <mark key="." line="986" column="26" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_test_cases.erl" timestamp="1524721431851">
         <mark key="'" line="42" column="123" />
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="^" line="108" column="0" />
         <mark key="." line="109" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/adomain_filter_tests.erl" timestamp="1524806061368">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1524812002923">
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="38" column="30" />
+        <mark key="." line="38" column="30" />
+        <mark key="^" line="39" column="16" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/criteo_video_rule_tests.erl" timestamp="1524809139287">
         <mark key="[" line="6" column="0" />
@@ -44,10 +76,29 @@
         <mark key="^" line="45" column="20" />
         <mark key="." line="45" column="20" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1524814229450">
+        <mark key="'" line="17" column="20" />
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" timestamp="1524644556385">
+        <mark key="'" line="185" column="4" />
+        <mark key="[" line="165" column="26" />
+        <mark key="]" line="165" column="37" />
+        <mark key="^" line="165" column="57" />
+        <mark key="." line="165" column="57" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" timestamp="1524814391209">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" timestamp="1525661247333">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="26" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1524731276370">
         <mark key="'" line="0" column="0" />
@@ -56,8 +107,24 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/kaioken.erl" timestamp="1524806027684">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/fluct_rule.hrl" timestamp="1524810712671">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="22" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1524815707104">
         <mark key="'" line="365" column="37" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1524807874210">
+        <mark key="'" line="520" column="0" />
+        <mark key="[" line="519" column="0" />
+        <mark key="]" line="519" column="0" />
+        <mark key="." line="519" column="0" />
+        <mark key="^" line="519" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1524817278486">
         <mark key="'" line="167" column="24" />
@@ -94,76 +161,8 @@
         <mark key="^" line="111" column="12" />
         <mark key="." line="111" column="12" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" timestamp="1524808667906">
-        <mark key="[" line="87" column="48" />
-        <mark key="]" line="87" column="58" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/client/script/common/top/output/view/InformationView.jsx" timestamp="1524187718051">
-        <mark key="'" line="0" column="22" />
-        <mark key="[" line="45" column="20" />
-        <mark key="]" line="45" column="20" />
-        <mark key="." line="45" column="20" />
-        <mark key="^" line="45" column="23" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" timestamp="1524814193194">
-        <mark key="'" line="17" column="11" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="66" column="47" />
-        <mark key="." line="164" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" timestamp="1523946552142">
-        <mark key="'" line="308" column="23" />
-        <mark key="[" line="986" column="25" />
-        <mark key="]" line="986" column="26" />
-        <mark key="^" line="1209" column="61" />
-        <mark key="." line="986" column="26" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/adomain_filter_tests.erl" timestamp="1524806061368">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="26" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1524812002923">
-        <mark key="[" line="38" column="30" />
-        <mark key="]" line="38" column="30" />
-        <mark key="." line="38" column="30" />
-        <mark key="^" line="39" column="16" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1524814229450">
-        <mark key="'" line="17" column="20" />
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="15" column="40" />
-        <mark key="." line="15" column="40" />
-        <mark key="^" line="15" column="33" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" timestamp="1524644556385">
-        <mark key="'" line="185" column="4" />
-        <mark key="[" line="165" column="26" />
-        <mark key="]" line="165" column="37" />
-        <mark key="^" line="165" column="57" />
-        <mark key="." line="165" column="57" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/kaioken.erl" timestamp="1524806027684">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/fluct_rule.hrl" timestamp="1524810712671">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="22" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/dev/rtb_node/lib/stdlib-2.3/src/proplists.erl" timestamp="1524810795357" />
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1524807874210">
-        <mark key="'" line="520" column="0" />
-        <mark key="[" line="519" column="0" />
-        <mark key="]" line="519" column="0" />
-        <mark key="." line="519" column="0" />
-        <mark key="^" line="519" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_util.erl" />
-      <jump line="273" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
-      <jump line="23" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="7" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" />
       <jump line="43" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
@@ -261,6 +260,9 @@
       <jump line="634" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="167" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="65" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" />
+      <jump line="2" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -280,10 +282,10 @@
         <text encoding="base64">JF8tPntkc3BfY29kZX0gPT0gRFNQX0RCTSB8fCAkXy0+e2RzcF9jb2RlfSA9PSBEU1BfUFVCTUFUSUNfUEM=</text>
       </register>
       <register name="/" type="4">
-        <text>request_for</text>
+        <text>device</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbW9tZW50dW1fcmVxdWlyZWQgPSAkXy0+e21vbWVtdHVtX3JlcXVpcmVkfTsK</text>
+      <register name="0" type="4">
+        <text>devicePixelRatio</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -317,9 +319,9 @@
       </register>
     </registers>
     <search>
-      <last-search>request_for</last-search>
+      <last-search>device</last-search>
       <last-offset />
-      <last-pattern>request_for</last-pattern>
+      <last-pattern>device</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -327,8 +329,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cookie</entry>
-        <entry>ID_KEY</entry>
         <entry>mm</entry>
         <entry>MOMENTUM</entry>
         <entry>CRITEO</entry>
@@ -347,6 +347,8 @@
         <entry>PUBMA</entry>
         <entry>a_request</entry>
         <entry>request_for</entry>
+        <entry>getBrowserInfo</entry>
+        <entry>device</entry>
       </history-search>
       <history-cmd>
         <entry>990</entry>
