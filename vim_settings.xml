@@ -147,11 +147,11 @@
         <mark key="." line="519" column="0" />
         <mark key="^" line="519" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525778360700">
-        <mark key="[" line="123" column="29" />
-        <mark key="]" line="123" column="39" />
-        <mark key="." line="123" column="39" />
-        <mark key="^" line="123" column="39" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525780122742">
+        <mark key="[" line="136" column="20" />
+        <mark key="]" line="137" column="22" />
+        <mark key="." line="137" column="22" />
+        <mark key="^" line="137" column="22" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1525774221319">
         <mark key="'" line="1178" column="32" />
@@ -303,13 +303,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;dispatcher:dispatch DspCode&quot;</text>
+        <text>ReqParamJsonObj</text>
       </register>
       <register name="/" type="4">
         <text>MOME</text>
       </register>
-      <register name="0" type="4">
-        <text>?IS_VALID_DSP(DspCode)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KFJlcSksCiAgICBlcmxhbmc6ZGlzcGxheShSZXFQYXJhbUpzb25PYmopLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KD9JU19WQUxJRF9EU1AoRHNwQ29kZSkpLAo=</text>
