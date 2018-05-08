@@ -147,9 +147,11 @@
         <mark key="." line="519" column="0" />
         <mark key="^" line="519" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525776546516">
-        <mark key="[" line="115" column="11" />
-        <mark key="]" line="115" column="21" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525778360700">
+        <mark key="[" line="123" column="29" />
+        <mark key="]" line="123" column="39" />
+        <mark key="." line="123" column="39" />
+        <mark key="^" line="123" column="39" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1525774221319">
         <mark key="'" line="1178" column="32" />
@@ -301,49 +303,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Dsp</text>
+        <text>&quot;dispatcher:dispatch DspCode&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>dispatch</text>
+        <text>MOME</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KERzcCksCg==</text>
+      <register name="0" type="4">
+        <text>?IS_VALID_DSP(DspCode)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KD9JU19WQUxJRF9EU1AoRHNwQ29kZSkpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJnZXRfb25lX2JpZDpEc3AiKSwKICAgIGVybGFuZzpkaXNwbGF5KERzcCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJnZXRfb25lX2JpZDpEc3BDb2RlIiksCiAgICBlcmxhbmc6ZGlzcGxheShEc3BDb2RlKSwK</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJnZXRfb25lX2JpZDpEc3AiKSwKICAgIGVybGFuZzpkaXNwbGF5KERzcCksCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJnZXRfb25lX2JpZDpEc3BDb2RlIiksCiAgICBlcmxhbmc6ZGlzcGxheShEc3BDb2RlKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJUb0NvbGxlY3QiKSwKICAgIGVybGFuZzpkaXNwbGF5KFRvQ29sbGVjdCksCg==</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJnZXRfb25lX2JpZDpEc3BDb2RlIiksCiAgICBlcmxhbmc6ZGlzcGxheShEc3BDb2RlKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJQcmVwYXJlZCIpLAogICAgZXJsYW5nOmRpc3BsYXkoUHJlcGFyZWQpLAo=</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJUb0NvbGxlY3QiKSwKICAgIGVybGFuZzpkaXNwbGF5KFRvQ29sbGVjdCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJQcmVwYXJlZCIpLAogICAgZXJsYW5nOmRpc3BsYXkoUHJlcGFyZWQpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJsYW5nOmRpc3BsYXkoIkVsYXBzZWQiKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnKCLmipXjgZLjgovjgogiLCAkbW9tZW50dW1fcmVxdWlyZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJsYW5nOmRpc3BsYXkoIkVsYXBzZWQiKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dispatch</last-search>
+      <last-search>MOME</last-search>
       <last-offset />
-      <last-pattern>dispatch</last-pattern>
+      <last-pattern>MOME</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -351,7 +353,6 @@
     </search>
     <history>
       <history-search>
-        <entry>?assertEqual</entry>
         <entry>U</entry>
         <entry>REQ</entry>
         <entry>id</entry>
@@ -371,6 +372,7 @@
         <entry>timeout</entry>
         <entry>S_VALID_DSP</entry>
         <entry>dispatch</entry>
+        <entry>MOME</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
