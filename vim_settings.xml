@@ -153,12 +153,12 @@
         <mark key="^" line="372" column="28" />
         <mark key="." line="372" column="28" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1525832019231">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1525834691448">
         <mark key="'" line="592" column="9" />
-        <mark key="[" line="520" column="78" />
-        <mark key="]" line="520" column="79" />
-        <mark key="." line="520" column="79" />
-        <mark key="^" line="520" column="79" />
+        <mark key="[" line="519" column="0" />
+        <mark key="]" line="519" column="0" />
+        <mark key="." line="519" column="0" />
+        <mark key="^" line="520" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525832121544">
         <mark key="'" line="0" column="0" />
@@ -317,7 +317,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;hackney:send_request:Resp&quot;</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>invalid</text>
