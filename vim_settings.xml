@@ -153,11 +153,11 @@
         <mark key="^" line="372" column="28" />
         <mark key="." line="372" column="28" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1525834691448">
-        <mark key="'" line="592" column="9" />
-        <mark key="[" line="519" column="0" />
-        <mark key="]" line="519" column="0" />
-        <mark key="." line="519" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1525837550626">
+        <mark key="'" line="593" column="9" />
+        <mark key="[" line="519" column="89" />
+        <mark key="]" line="520" column="0" />
+        <mark key="." line="520" column="0" />
         <mark key="^" line="520" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525832121544">
