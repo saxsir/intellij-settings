@@ -63,10 +63,11 @@
         <mark key="^" line="108" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_client.erl" timestamp="1525830428230">
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="44" column="8" />
-        <mark key="." line="44" column="8" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_client.erl" timestamp="1525833461669">
+        <mark key="[" line="46" column="23" />
+        <mark key="]" line="46" column="25" />
+        <mark key="." line="46" column="25" />
+        <mark key="^" line="46" column="25" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_log.erl" timestamp="1525678674873">
         <mark key="'" line="23" column="47" />
@@ -145,6 +146,13 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/_build/default/lib/hackney/src/hackney.erl" timestamp="1525833754611">
+        <mark key="'" line="350" column="0" />
+        <mark key="[" line="372" column="25" />
+        <mark key="]" line="372" column="28" />
+        <mark key="^" line="372" column="28" />
+        <mark key="." line="372" column="28" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1525832019231">
         <mark key="'" line="592" column="9" />
         <mark key="[" line="520" column="78" />
@@ -193,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
       <jump line="73" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="413" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="399" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
@@ -293,6 +300,7 @@
       <jump line="133" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
       <jump line="134" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
+      <jump line="350" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/_build/default/lib/hackney/src/hackney.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -309,49 +317,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;hackney:send_request:Resp&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>display</text>
+        <text>invalid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVybGFuZzpkaXNwbGF5KE90aGVyKSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGVybGFuZzpkaXNwbGF5KCJoYWNrbmV5OnNlbmRfcmVxdWVzdDpSZXNwIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGVybGFuZzpkaXNwbGF5KCJiYmJiYmJiYiIpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KD9JU19FWENIQU5HRV9SQVRFX0RTUChEc3BDb2RlKSksCg==</text>
+        <text encoding="base64">ICAgICAgZXJsYW5nOmRpc3BsYXkoImVlZWVlZWVlZWVlZSIpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJkaXNwYXRjaDpFbGFwc2VkIiksCiAgICBlcmxhbmc6ZGlzcGxheShFbGFwc2VkKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJsYW5nOmRpc3BsYXkoIkRpc3BhdGNoZWQiKSwKICAgICAgICAgICAgZXJsYW5nOmRpc3BsYXkoRGlzcGF0Y2hlZCksCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJsYW5nOmRpc3BsYXkoIkVsYXBzZWQiKSwKICAgICAgICAgICAgZXJsYW5nOmRpc3BsYXkoRWxhcHNlZCksCg==</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KD9JU19FWENIQU5HRV9SQVRFX0RTUChEc3BDb2RlKSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJnZXRfb25lX2JpZDpEc3AiKSwKICAgIGVybGFuZzpkaXNwbGF5KERzcCksCg==</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJkaXNwYXRjaDpFbGFwc2VkIiksCiAgICBlcmxhbmc6ZGlzcGxheShFbGFwc2VkKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJkaXNwYXRjaGVyOmRpc3BhdGNoIERzcENvZGUiKSwKICAgIGVybGFuZzpkaXNwbGF5KERzcENvZGUpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJsYW5nOmRpc3BsYXkoIkRpc3BhdGNoZWQiKSwKICAgICAgICAgICAgZXJsYW5nOmRpc3BsYXkoRGlzcGF0Y2hlZCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KD9JU19WQUxJRF9EU1AoRHNwQ29kZSkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJsYW5nOmRpc3BsYXkoIkVsYXBzZWQiKSwKICAgICAgICAgICAgZXJsYW5nOmRpc3BsYXkoRWxhcHNlZCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJnZXRfb25lX2JpZDpEc3AiKSwKICAgIGVybGFuZzpkaXNwbGF5KERzcCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>display</last-search>
+      <last-search>invalid</last-search>
       <last-offset />
-      <last-pattern>display</last-pattern>
+      <last-pattern>invalid</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -359,9 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry>REQ</entry>
-        <entry>id</entry>
-        <entry>Args</entry>
         <entry>SITE_ID</entry>
         <entry>param</entry>
         <entry>send</entry>
@@ -379,6 +384,9 @@
         <entry>dispatch</entry>
         <entry>MOME</entry>
         <entry>display</entry>
+        <entry>invalid status code</entry>
+        <entry>invalid_status_code</entry>
+        <entry>invalid</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
