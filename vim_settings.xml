@@ -44,12 +44,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" timestamp="1525670548986">
         <mark key="'" line="6" column="59" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1525916390031">
-        <mark key="'" line="27" column="21" />
-        <mark key="[" line="237" column="37" />
-        <mark key="]" line="237" column="36" />
-        <mark key="." line="237" column="36" />
-        <mark key="^" line="237" column="36" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1525926243581">
+        <mark key="'" line="22" column="20" />
+        <mark key="[" line="206" column="13" />
+        <mark key="]" line="206" column="15" />
+        <mark key="." line="236" column="15" />
+        <mark key="^" line="236" column="15" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1524815707104">
         <mark key="'" line="365" column="37" />
@@ -62,8 +62,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1525776582988">
-        <mark key="'" line="52" column="13" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1525926258385">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="293" column="8" />
         <mark key="]" line="293" column="22" />
         <mark key="." line="368" column="33" />
@@ -100,12 +100,19 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/Checkers/AbstractSyncChecker.php" timestamp="1525917678390">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/Checkers/AbstractSyncChecker.php" timestamp="1525926169769">
+        <mark key="[" line="57" column="26" />
+        <mark key="]" line="57" column="27" />
+        <mark key="^" line="57" column="27" />
+        <mark key="." line="57" column="27" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/apps/mock_dsp_server/src/mock_bid_maker.erl" timestamp="1525854861048" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1525675490727">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="61" column="5" />
+        <mark key="." line="38" column="30" />
+        <mark key="^" line="39" column="16" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/bidswitch_video_rule_tests.erl" timestamp="1525745849012">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="60" />
@@ -156,6 +163,9 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="85" column="62" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1525926249609">
+        <mark key="'" line="491" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Config/ConcreteShConfig.php" timestamp="1525916043056">
         <mark key="'" line="81" column="0" />
         <mark key="[" line="3" column="6" />
@@ -163,13 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="2" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="519" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
-      <jump line="52" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
-      <jump line="46" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="51" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="52" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
       <jump line="58" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
       <jump line="59" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
       <jump line="60" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
@@ -263,6 +266,13 @@
       <jump line="40" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" />
       <jump line="58" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" />
       <jump line="64" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" />
+      <jump line="202" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
+      <jump line="236" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
+      <jump line="22" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
+      <jump line="491" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
+      <jump line="148" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -279,49 +289,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'''''''''</text>
+        <text>114</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>101</text>
       </register>
       <register name="0" type="4">
-        <text>$syncs</text>
+        <text>101</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiYWFhXG4iOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRkc3Bfc3luY19rZXlfaW4gLiAiXG4iOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRkc3Bfc3luY19rZXlfaW4gLiAiXG4iOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY2hlY2tlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZHNwX2lkc190b19zeW5jKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiYWFhXG4iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkc2VhcmNoX2ZvciAuICJcbiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZHNwX2lkc190b19zeW5jKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkc3luY3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZHNwX3N5bmNfa2V5X2luKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJiYmIiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiYWFhXG4iOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJhYWEiOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY2hlY2tlcnMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>101</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>101</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -329,8 +339,6 @@
     </search>
     <history>
       <history-search>
-        <entry>a_requ</entry>
-        <entry>momentum_heron</entry>
         <entry>123</entry>
         <entry>debug</entry>
         <entry>pubmatic</entry>
@@ -349,6 +357,8 @@
         <entry>run_group</entry>
         <entry>display</entry>
         <entry>log</entry>
+        <entry>pubma</entry>
+        <entry>101</entry>
       </history-search>
       <history-cmd>
         <entry>116</entry>
