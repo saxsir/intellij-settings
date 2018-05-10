@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/fragment.js" timestamp="1525941661270">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/105/t65633.js" timestamp="1525669568882">
         <mark key="'" line="200" column="15" />
       </file>
@@ -28,6 +31,12 @@
         <mark key="'" line="6" column="8" />
         <mark key="[" line="236" column="38" />
         <mark key="]" line="236" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/index2.html" timestamp="1525942885453">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="9" column="7" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/DeliverAdViewSyncer.php" timestamp="1525918040550">
         <mark key="[" line="42" column="0" />
@@ -76,6 +85,13 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/testing_sync/helpers/index.php" timestamp="1525855900272">
         <mark key="'" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/index.html" timestamp="1525942096430">
+        <mark key="'" line="16" column="43" />
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/SyncFactory.php" timestamp="1525917866625">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -84,6 +100,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/criteo_sp_rule_tests.erl" timestamp="1525745414869">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="93" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/hello.js" timestamp="1525941377200">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/Dsp/Pubmatic.t" timestamp="1525850145347">
         <mark key="[" line="14" column="60" />
@@ -94,6 +116,14 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_cs/lib/SyncUtil.php" timestamp="1525916833967">
         <mark key="[" line="22" column="5" />
         <mark key="]" line="22" column="16" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1525939455345">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/Makefile" timestamp="1525941342707">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_client.erl" timestamp="1525838908798">
         <mark key="[" line="45" column="0" />
@@ -106,12 +136,14 @@
         <mark key="^" line="57" column="27" />
         <mark key="." line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/apps/mock_dsp_server/src/mock_bid_maker.erl" timestamp="1525854861048" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron.erl" timestamp="1525675490727">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="61" column="5" />
         <mark key="." line="38" column="30" />
         <mark key="^" line="39" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1525942571840">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/bidswitch_video_rule_tests.erl" timestamp="1525745849012">
         <mark key="[" line="21" column="0" />
@@ -173,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
       <jump line="59" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
       <jump line="60" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
       <jump line="61" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
@@ -273,6 +304,7 @@
       <jump line="491" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
       <jump line="148" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
+      <jump line="16" column="32" filename="$USER_HOME$/IdeaProjects/untitled/index.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -289,40 +321,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>114</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>101</text>
       </register>
-      <register name="0" type="4">
-        <text>101</text>
+      <register name="0" type="2">
+        <text encoding="base64">PGRpdiBjbGFzcz0iaGVsbG8iPjwvZGl2PgoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRkc3Bfc3luY19rZXlfaW4gLiAiXG4iOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRkc3Bfc3luY19rZXlfaW4gLiAiXG4iOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZHNwX2lkc190b19zeW5jKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkc2VhcmNoX2ZvciAuICJcbiIpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZHNwX2lkc190b19zeW5jKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZHNwX3N5bmNfa2V5X2luKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiYWFhXG4iOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aWZkZWYK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBiOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIChhID4gYikgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmICgpIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY2hlY2tlcnMpOwo=</text>
+        <text encoding="base64">ICAgIGlmICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -430,6 +462,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
