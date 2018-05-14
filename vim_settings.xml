@@ -57,6 +57,13 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" timestamp="1525670548986">
         <mark key="'" line="6" column="59" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" timestamp="1526284919547">
+        <mark key="'" line="66" column="45" />
+        <mark key="[" line="110" column="4" />
+        <mark key="]" line="110" column="4" />
+        <mark key="^" line="110" column="4" />
+        <mark key="." line="110" column="4" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1525926243581">
         <mark key="'" line="22" column="20" />
       </file>
@@ -109,6 +116,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" timestamp="1526284189690">
+        <mark key="'" line="44" column="13" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/Dsp/Pubmatic.t" timestamp="1525850145347">
         <mark key="[" line="14" column="60" />
         <mark key="]" line="14" column="67" />
@@ -143,12 +153,12 @@
       <file name="/Dummy.txt" timestamp="1525943126414">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1525855293437">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="28" />
-        <mark key="." line="29" column="28" />
-        <mark key="^" line="29" column="28" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1526284210937">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="38" column="40" />
+        <mark key="]" line="38" column="40" />
+        <mark key="." line="38" column="40" />
+        <mark key="^" line="38" column="40" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1525917791019">
         <mark key="'" line="64" column="16" />
@@ -180,37 +190,15 @@
         <mark key="]" line="371" column="0" />
         <mark key="." line="371" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1526278435847">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1526284239966">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="526" column="30" />
-        <mark key="]" line="526" column="81" />
-        <mark key="." line="526" column="30" />
-        <mark key="^" line="526" column="0" />
+        <mark key="[" line="525" column="0" />
+        <mark key="]" line="525" column="0" />
+        <mark key="." line="525" column="0" />
+        <mark key="^" line="525" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="45" column="54" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="592" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
-      <jump line="66" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="45" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="97" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="99" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="100" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
-      <jump line="54" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="55" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="56" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="57" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="50" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="28" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="29" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="41" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="42" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="43" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="44" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="48" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="49" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" />
-      <jump line="133" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
       <jump line="134" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" />
       <jump line="350" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/_build/default/lib/hackney/src/hackney.erl" />
@@ -289,6 +277,28 @@
       <jump line="37" column="67" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" />
       <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/CampaignDb.pm" />
       <jump line="148" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/CampaignDb.pm" />
+      <jump line="15" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
+      <jump line="81" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="241" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="242" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="244" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="8" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="39" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="44" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="72" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="77" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="85" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="95" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="96" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="106" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="108" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="110" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="113" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="127" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="58" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="66" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -308,7 +318,7 @@
         <text>%</text>
       </register>
       <register name="/" type="4">
-        <text>crsdk</text>
+        <text>imp</text>
       </register>
       <register name="0" type="4">
         <text>odr_creative_setting_sdk_tapjoy_rvid_sp</text>
@@ -345,9 +355,9 @@
       </register>
     </registers>
     <search>
-      <last-search>crsdk</last-search>
+      <last-search>imp</last-search>
       <last-offset />
-      <last-pattern>crsdk</last-pattern>
+      <last-pattern>imp</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -355,7 +365,6 @@
     </search>
     <history>
       <history-search>
-        <entry>invalid</entry>
         <entry>export</entry>
         <entry>MOMEN</entry>
         <entry>PUBMATIC</entry>
@@ -375,6 +384,7 @@
         <entry>Maio</entry>
         <entry>Tap</entry>
         <entry>crsdk</entry>
+        <entry>imp</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
