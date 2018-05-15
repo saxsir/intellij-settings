@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1525941661270">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" timestamp="1526273925627">
         <mark key="'" line="147" column="18" />
       </file>
@@ -39,6 +36,13 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/DeliverAdViewSyncer.php" timestamp="1526372910254">
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="49" column="57" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1526296253814">
         <mark key="'" line="159" column="22" />
         <mark key="[" line="45" column="20" />
@@ -55,8 +59,10 @@
         <mark key="^" line="115" column="23" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1525926243581">
-        <mark key="'" line="22" column="20" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1526371937517">
+        <mark key="'" line="230" column="1" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="25" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/CampaignDb.pm" timestamp="1526280920971">
         <mark key="'" line="148" column="43" />
@@ -106,9 +112,6 @@
         <mark key="." line="14" column="67" />
         <mark key="^" line="14" column="67" />
       </file>
-      <file name="/JavaScript Console" timestamp="1525939455345">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/Checkers/AbstractSyncChecker.php" timestamp="1525926169769">
         <mark key="[" line="52" column="26" />
         <mark key="]" line="52" column="27" />
@@ -120,9 +123,6 @@
         <mark key="]" line="61" column="5" />
         <mark key="." line="38" column="30" />
         <mark key="^" line="39" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1525943126414">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1526292865984">
         <mark key="'" line="43" column="3" />
@@ -174,9 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1073" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="1163" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="170" column="57" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" />
       <jump line="102" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" />
       <jump line="41" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" />
@@ -274,6 +271,9 @@
       <jump line="249" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="17" column="58" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
       <jump line="374" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="185" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
+      <jump line="230" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
+      <jump line="46" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/DeliverAdViewSyncer.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -295,35 +295,35 @@
       <register name="/" type="4">
         <text>Delete</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2dSAgPT4gJGJpZC0+e3Z1fSwgIyBWQVNUIFVSTAo=</text>
+      <register name="0" type="4">
+        <text>$ads</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZHNwc190b19zeW5jKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISAkYWRzWydtb21lbnR1bV9oZXJvbiddWydvayddKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aWYgKCAhIGlzc2V0KCRhZHNbJ21vbWVudHVtX2hlcm9uJ10pICkgewogICAgJGVycmxpbmUgPSBfX0xJTkVfXzsKICAgICRlcnJzdHIgPSAnYWRzZXJ2ZXJcJ3MgcmVzcG9uc2UgaXMgaW52YWxpZC4gbW9tZW50dW1faGVyb24gaW5mbyBkb2VzIG5vdCBleGlzdCc7CiAgICAkc3RhdHVzID0gRl9MT0dfU1RBVFVTX1BBUlNFX0VSUk9SOwogICAgJGFkc1snbW9tZW50dW1faGVyb24nXSA9IFtdOwogICAgZXJyb3JfbG9nKCBfX0ZJTEVfXyAuICI6IiAuICRlcnJsaW5lIC4gIiAiIC4gJGVycnN0cik7Cn0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBtb21lbnR1beOBr+WVj+etlOeEoeeUqOOBp+WHuuOBmQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYWRzKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJtb21lbnR1bSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISAkYWRzWydtb21lbnR1bV9oZXJvbiddWydvayddKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISAkbW9tZW50dW1SZXNbJ29rJ10pIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
+        <text encoding="base64">aWYgKCAhIGlzc2V0KCRhZHNbJ21vbWVudHVtX2hlcm9uJ10pICkgewogICAgJGVycmxpbmUgPSBfX0xJTkVfXzsKICAgICRlcnJzdHIgPSAnYWRzZXJ2ZXJcJ3MgcmVzcG9uc2UgaXMgaW52YWxpZC4gbW9tZW50dW1faGVyb24gaW5mbyBkb2VzIG5vdCBleGlzdCc7CiAgICAkc3RhdHVzID0gRl9MT0dfU1RBVFVTX1BBUlNFX0VSUk9SOwogICAgJGFkc1snbW9tZW50dW1faGVyb24nXSA9IFtdOwogICAgZXJyb3JfbG9nKCBfX0ZJTEVfXyAuICI6IiAuICRlcnJsaW5lIC4gIiAiIC4gJGVycnN0cik7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
