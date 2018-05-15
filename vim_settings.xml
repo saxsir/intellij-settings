@@ -161,6 +161,9 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/model_campaign.go" timestamp="1526280313823">
         <mark key="'" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1526366306888">
+        <mark key="'" line="374" column="35" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1526294511767">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="526" column="0" />
@@ -170,9 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1155" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="177" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/Criteo_Video.t" />
-      <jump line="653" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="1073" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="1163" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="170" column="57" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
@@ -270,6 +270,9 @@
       <jump line="308" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="239" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAdView.php" />
       <jump line="94" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
+      <jump line="249" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="17" column="58" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
+      <jump line="374" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -289,7 +292,7 @@
         <text encoding="base64">ICMgVkFTVCBVUkw=</text>
       </register>
       <register name="/" type="4">
-        <text>imp</text>
+        <text>Delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2dSAgPT4gJGJpZC0+e3Z1fSwgIyBWQVNUIFVSTAo=</text>
@@ -326,9 +329,9 @@
       </register>
     </registers>
     <search>
-      <last-search>imp</last-search>
+      <last-search>Delete</last-search>
       <last-offset />
-      <last-pattern>imp</last-pattern>
+      <last-pattern>Delete</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -336,9 +339,6 @@
     </search>
     <history>
       <history-search>
-        <entry>export</entry>
-        <entry>MOMEN</entry>
-        <entry>PUBMATIC</entry>
         <entry>match_dsp</entry>
         <entry>run_group</entry>
         <entry>display</entry>
@@ -356,6 +356,9 @@
         <entry>Tap</entry>
         <entry>crsdk</entry>
         <entry>imp</entry>
+        <entry>Find</entry>
+        <entry>DELETE</entry>
+        <entry>Delete</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
