@@ -36,12 +36,6 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/DeliverAdViewSyncer.php" timestamp="1526383587535">
-        <mark key="[" line="49" column="76" />
-        <mark key="]" line="49" column="76" />
-        <mark key="^" line="49" column="76" />
-        <mark key="." line="49" column="76" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1526296253814">
         <mark key="'" line="159" column="22" />
         <mark key="[" line="45" column="20" />
@@ -58,13 +52,6 @@
         <mark key="^" line="115" column="23" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1526383561037">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="237" column="47" />
-        <mark key="]" line="237" column="48" />
-        <mark key="^" line="237" column="48" />
-        <mark key="." line="237" column="48" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/CampaignDb.pm" timestamp="1526280920971">
         <mark key="'" line="148" column="43" />
       </file>
@@ -76,10 +63,9 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1526383373593">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1232" column="66" />
-        <mark key="]" line="1233" column="5" />
-        <mark key="^" line="1233" column="5" />
-        <mark key="." line="1233" column="5" />
+        <mark key="]" line="102" column="5" />
+        <mark key="^" line="102" column="5" />
+        <mark key="." line="102" column="5" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1526274423153">
         <mark key="'" line="270" column="30" />
@@ -174,10 +160,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1526383352211">
         <mark key="'" line="14" column="35" />
-        <mark key="[" line="526" column="0" />
-        <mark key="]" line="526" column="0" />
-        <mark key="." line="526" column="0" />
-        <mark key="^" line="526" column="0" />
       </file>
     </filemarks>
     <jumps>
