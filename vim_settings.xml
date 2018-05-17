@@ -33,6 +33,16 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron_targets.mk" timestamp="1526540838174">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/Checkers/AllDspsChecker.php" timestamp="1525918222559">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/DeliverAdViewSyncer.php" timestamp="1526546133876">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1526447822812">
         <mark key="'" line="29" column="12" />
         <mark key="[" line="36" column="0" />
@@ -42,6 +52,13 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" timestamp="1525670548986">
         <mark key="'" line="6" column="59" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1526546071912">
+        <mark key="'" line="240" column="17" />
+        <mark key="[" line="238" column="69" />
+        <mark key="]" line="238" column="69" />
+        <mark key="^" line="238" column="69" />
+        <mark key="." line="238" column="69" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/CampaignDb.pm" timestamp="1526280920971">
         <mark key="'" line="148" column="43" />
@@ -66,6 +83,11 @@
         <mark key="]" line="579" column="0" />
         <mark key="." line="579" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_tests.erl" timestamp="1525675523178">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1526446236728">
         <mark key="^" line="374" column="33" />
       </file>
@@ -79,11 +101,26 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/SyncFactory.php" timestamp="1525917866625">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" timestamp="1526286070672">
         <mark key="'" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Midway/DeleteCommandReceiver.php" timestamp="1526541219653">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/Makefile" timestamp="1525941342707">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb_client.erl" timestamp="1525838908798">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/Checkers/AbstractSyncChecker.php" timestamp="1526380901757">
         <mark key="'" line="104" column="0" />
@@ -141,6 +178,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/model_campaign.go" timestamp="1526280313823">
         <mark key="'" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/_build/default/lib/hackney/src/hackney.erl" timestamp="1525854123008">
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="371" column="0" />
+        <mark key="." line="371" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1526366306888">
         <mark key="'" line="374" column="35" />
       </file>
@@ -153,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/CampaignDb.pm" />
       <jump line="148" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/CampaignDb.pm" />
       <jump line="15" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
       <jump line="81" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
@@ -253,6 +294,7 @@
       <jump line="525" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
       <jump line="201" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
+      <jump line="240" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -269,7 +311,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text>localhost:9000/blackhole?%s&quot;</text>
       </register>
       <register name="/" type="4">
         <text>docker</text>
@@ -278,31 +320,31 @@
         <text>DSP_MOMENTUM_HERON</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LWRlZmluZShDUklURU9fVklERU9fVVJMLCAiaHR0cDovL2hvc3QuZG9ja2VyLmludGVybmFsOjkwMDAvYmlkL2NyaXRlby12aWRlby5qc29uIikuCi1kZWZpbmUoQ1JJVEVPX1ZJREVPX0JMTl9VUkwsICJodHRwOi8vaG9zdC5kb2NrZXIuaW50ZXJuYWw6OTAwMC9ibGFja2hvbGUvIikuCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">LWRlZmluZShCSURTV0lUQ0hfVklERU9fVVJMLCAiaHR0cDovL2hvc3QuZG9ja2VyLmludGVybmFsOjkwMDAvYmlkL2JpZHN3aXRjaC12aWRlby5qc29uIikuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">JS1kZWZpbmUoTU9NRU5UVU1fSEVST05fVVJMLCAiaHR0cDovL2hvc3QuZG9ja2VyLmludGVybmFsOjkwMDAvYmlkL21vbWVudHVtLWhlcm9uLmpzb24iKS4K</text>
-      </register>
-      <register name="4" type="8">
-        <text>-</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2lmICgkZHNwX2NvZGUgPT0gRFNQX01PTUVOVFVNX0hFUk9OKSB7CiAgICAgICAgaHYoJHVzZXJfcmVxLCAnbW9tZW50dW1faGVyb24nKSBvciByZXR1cm47CiAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXMgJHJlc3VsdHNbMV1bMF0sIERTUF9NT01FTlRVTV9IRVJPTgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">LWRlZmluZShDUklURU9fVklERU9fVVJMLCAiaHR0cDovL2hvc3QuZG9ja2VyLmludGVybmFsOjkwMDAvYmlkL2NyaXRlby12aWRlby5qc29uIikuCi1kZWZpbmUoQ1JJVEVPX1ZJREVPX0JMTl9VUkwsICJodHRwOi8vaG9zdC5kb2NrZXIuaW50ZXJuYWw6OTAwMC9ibGFja2hvbGUvIikuCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LWRlZmluZShCSURTV0lUQ0hfVklERU9fVVJMLCAiaHR0cDovL2hvc3QuZG9ja2VyLmludGVybmFsOjkwMDAvYmlkL2JpZHN3aXRjaC12aWRlby5qc29uIikuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">JS1kZWZpbmUoTU9NRU5UVU1fSEVST05fVVJMLCAiaHR0cDovL2hvc3QuZG9ja2VyLmludGVybmFsOjkwMDAvYmlkL21vbWVudHVtLWhlcm9uLmpzb24iKS4K</text>
+      </register>
+      <register name="5" type="8">
+        <text>-</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVsc2lmICgkZHNwX2NvZGUgPT0gRFNQX01PTUVOVFVNX0hFUk9OKSB7CiAgICAgICAgaHYoJHVzZXJfcmVxLCAnbW9tZW50dW1faGVyb24nKSBvciByZXR1cm47CiAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXMgJHJlc3VsdHNbMV1bMF0sIERTUF9NT01FTlRVTV9IRVJPTgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBteSAkZHNwX2NvZGUgKEBkc3BfY29kZXMpIHsKICAgICAgICBteSAkc2V0dGluZyA9IGJ1aWxkX3NldHRpbmcoe2RzcF9jb2RlID0+ICRkc3BfY29kZX0pOwogICAgICAgIG15IEByZXN1bHRzID0gcmVxdWVzdF9mb3IoJHVzZXJfcmVxLCAkc2V0dGluZyk7CgogICAgICAgIG9rIGV4aXN0cyAkcmVzdWx0c1swXTsKICAgICAgICBvayBleGlzdHMgJHJlc3VsdHNbMV07CiAgICAgICAgaXMgJHJlc3VsdHNbMV1bMF0sIERTUF9NT01FTlRVTV9IRVJPTgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBteSAkdXNlcl9yZXEgPSBidWlsZF91c2VyX3JlcSh7VT0+J01vemlsbGEvNS4wIChpUGFkOyBDUFUgT1MgNV8xXzEgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNTM0LjQ2IChLSFRNTCwgbGlrZSBHZWNrbykgTW9iaWxlLzlCMjA2JywgcHVibT0+JzEyMzQxMjM0MTIzNCd9KTsK</text>
+        <text encoding="base64">ICAgIGZvciBteSAkZHNwX2NvZGUgKEBkc3BfY29kZXMpIHsKICAgICAgICBteSAkc2V0dGluZyA9IGJ1aWxkX3NldHRpbmcoe2RzcF9jb2RlID0+ICRkc3BfY29kZX0pOwogICAgICAgIG15IEByZXN1bHRzID0gcmVxdWVzdF9mb3IoJHVzZXJfcmVxLCAkc2V0dGluZyk7CgogICAgICAgIG9rIGV4aXN0cyAkcmVzdWx0c1swXTsKICAgICAgICBvayBleGlzdHMgJHJlc3VsdHNbMV07CiAgICAgICAgaXMgJHJlc3VsdHNbMV1bMF0sIERTUF9NT01FTlRVTV9IRVJPTgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -344,7 +386,6 @@
         <entry>17</entry>
         <entry>76</entry>
         <entry>23</entry>
-        <entry>;w</entry>
         <entry>77</entry>
         <entry>98</entry>
         <entry>59</entry>
@@ -360,6 +401,7 @@
         <entry>53</entry>
         <entry>300</entry>
         <entry>57</entry>
+        <entry>;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
