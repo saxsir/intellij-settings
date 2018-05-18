@@ -47,11 +47,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" timestamp="1526286070672">
         <mark key="'" line="65" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1526613163848">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="33" />
-        <mark key="." line="1" column="33" />
-        <mark key="^" line="1" column="33" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1526617203032">
+        <mark key="'" line="2" column="167" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="2" column="167" />
+        <mark key="^" line="3" column="173" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Midway/DeleteCommandReceiver.php" timestamp="1526541219653">
         <mark key="'" line="0" column="0" />
@@ -208,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
       <jump line="106" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
       <jump line="108" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
       <jump line="110" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
@@ -308,6 +308,7 @@
       <jump line="8" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" />
       <jump line="0" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" />
+      <jump line="2" column="167" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -324,40 +325,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ALL</text>
+        <text>rate_</text>
       </register>
       <register name="/" type="4">
         <text>floor_price_OAA</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLCBzdW0oY2FzZSB3aGVuICh0cmFuc2FjdGlvbl90eXBlX2NvZGUgPD4gJ09wZW4gQXVjdGlvbicpIHRoZW4gMSBlbHNlIDAgZW5kKQo=</text>
+        <text encoding="base64">c2VsZWN0IHVuaXRfaWQKLCAgc3VtKG1hdGNoZWRfYWRfcmVxdWVzdHMpCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlID0gJ09wZW4gQXVjdGlvbicgYW5kIGJyYW5kaW5nX3R5cGVfY29kZSA9ICdCcmFuZGVkJykgdGhlbiBtYXRjaGVkX2FkX3JlcXVlc3RzIGVsc2UgMCBlbmQpIC8gc3VtKG1hdGNoZWRfYWRfcmVxdWVzdHMpIGFzIG1hdGNoZWRfT0FCCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlID0gJ09wZW4gQXVjdGlvbicgYW5kIGJyYW5kaW5nX3R5cGVfY29kZSA9ICdBbm9ueW1vdXMnKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgLyBzdW0obWF0Y2hlZF9hZF9yZXF1ZXN0cykgYXMgbWF0Y2hlZF9PQUEKZnJvbSBtYXRjaGVkX2FkX3JlcXVlc3RzCldIRVJFIGBkYXRlYCBCRVRXRUVOIChDVVJEQVRFKCkgLSBpbnRlcnZhbCAoV0VFS0RBWShDVVJEQVRFKCkpICsgOCkgREFZKSBBTkQgKENVUkRBVEUoKSAtIGludGVydmFsIChXRUVLREFZKENVUkRBVEUoKSkgKyAyKSBEQVkpCmdyb3VwIGJ5IHVuaXRfaWQKOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LCBzdW0oY2FzZSB3aGVuICh0cmFuc2FjdGlvbl90eXBlX2NvZGUgPSAnT3BlbiBBdWN0aW9uJykgdGhlbiBtYXRjaGVkX2FkX3JlcXVlc3RzIGVsc2UgMCBlbmQpIGFzIE9BCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlIDw+ICdPcGVuIEF1Y3Rpb24nKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgYXMgTm90T0EK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LCBzdW0obWF0Y2hlZF9hZF9yZXF1ZXN0cykgYXMgQUxMCg==</text>
+        <text encoding="base64">ICAsIHRyYW5zYWN0aW9uX3R5cGVfY29kZQogICwgYnJhbmRpbmdfdHlwZV9jb2RlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGltaXQgMTA7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICApIGFzIHQgdXNpbmcgKHVuaXRfaWQpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZXhwbGFpbgpzZWxlY3QgKgpmcm9tCiAgKFNFTEVDVAogICAgIHVuaXRfaWQsCiAgICAgdW5pdF9uYW1lCiAgIEZST00gYWRfdW5pdHMKICApIGFzIHgKICBsZWZ0IGpvaW4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">LCBzdW0oY2FzZSB3aGVuICh0cmFuc2FjdGlvbl90eXBlX2NvZGUgPSAnT3BlbiBBdWN0aW9uJyBhbmQgYnJhbmRpbmdfdHlwZV9jb2RlID0gJ0JyYW5kZWQnKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgLyBzdW0obWF0Y2hlZF9hZF9yZXF1ZXN0cykgYXMgT0FCCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlID0gJ09wZW4gQXVjdGlvbicgYW5kIGJyYW5kaW5nX3R5cGVfY29kZSA9ICdBbm9ueW1vdXMnKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgLyBzdW0obWF0Y2hlZF9hZF9yZXF1ZXN0cykgYXMgT0FBCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bGltaXQgMTA7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LCAgYXMgT0FCCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLCBzdW0obWF0Y2hlZF9hZF9yZXF1ZXN0cykgYXMgQUxMCg==</text>
+        <text encoding="base64">LCBzdW0oY2FzZSB3aGVuICh0cmFuc2FjdGlvbl90eXBlX2NvZGUgPSAnT3BlbiBBdWN0aW9uJykgdGhlbiAwIGVsc2UgbWF0Y2hlZF9hZF9yZXF1ZXN0cyBlbmQpIGFzIE5vdE9BCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlID0gJ09wZW4gQXVjdGlvbicpIHRoZW4gbWF0Y2hlZF9hZF9yZXF1ZXN0cyBlbHNlIDAgZW5kKSBhcyBPQQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgd2hlcmUgYGRhdGVgID0gJzIwMTgtMDUtMTUnCg==</text>
+        <text encoding="base64">LCBzdW0obWF0Y2hlZF9hZF9yZXF1ZXN0cykgYXMgQUxMCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
