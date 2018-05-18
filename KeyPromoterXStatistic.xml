@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Execute">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
+          <ShortCut>'⌘⏎'</ShortCut>
+          <Description>Execute</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find Usages">
         <Item>
           <IdeaActionID>FindUsages</IdeaActionID>
@@ -94,7 +102,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -102,6 +110,14 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Console...">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
+          <ShortCut>'⇧⌘F10'</ShortCut>
+          <Description>Jump to Console...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -158,6 +174,14 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'⌥⌘L'</ShortCut>
           <Description>Reformat Code</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Remove</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
