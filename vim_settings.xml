@@ -115,12 +115,11 @@
         <mark key="." line="70" column="62" />
         <mark key="^" line="70" column="62" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1526295472640">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1526879529675">
         <mark key="'" line="64" column="16" />
-        <mark key="[" line="83" column="28" />
-        <mark key="]" line="83" column="28" />
-        <mark key="." line="83" column="28" />
-        <mark key="^" line="83" column="43" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" timestamp="1525670548986">
         <mark key="'" line="6" column="59" />
@@ -131,6 +130,10 @@
         <mark key="]" line="0" column="16" />
         <mark key="^" line="165" column="57" />
         <mark key="." line="165" column="57" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/README.md" timestamp="1526879625718">
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="212" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" timestamp="1525667518892">
         <mark key="'" line="0" column="0" />
@@ -325,40 +328,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rate_</text>
+        <text>wrapper</text>
       </register>
       <register name="/" type="4">
         <text>gsh</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IHVuaXRfaWQKLCAgc3VtKG1hdGNoZWRfYWRfcmVxdWVzdHMpCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlID0gJ09wZW4gQXVjdGlvbicgYW5kIGJyYW5kaW5nX3R5cGVfY29kZSA9ICdCcmFuZGVkJykgdGhlbiBtYXRjaGVkX2FkX3JlcXVlc3RzIGVsc2UgMCBlbmQpIC8gc3VtKG1hdGNoZWRfYWRfcmVxdWVzdHMpIGFzIG1hdGNoZWRfT0FCCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlID0gJ09wZW4gQXVjdGlvbicgYW5kIGJyYW5kaW5nX3R5cGVfY29kZSA9ICdBbm9ueW1vdXMnKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgLyBzdW0obWF0Y2hlZF9hZF9yZXF1ZXN0cykgYXMgbWF0Y2hlZF9PQUEKZnJvbSBtYXRjaGVkX2FkX3JlcXVlc3RzCldIRVJFIGBkYXRlYCBCRVRXRUVOIChDVVJEQVRFKCkgLSBpbnRlcnZhbCAoV0VFS0RBWShDVVJEQVRFKCkpICsgOCkgREFZKSBBTkQgKENVUkRBVEUoKSAtIGludGVydmFsIChXRUVLREFZKENVUkRBVEUoKSkgKyAyKSBEQVkpCmdyb3VwIGJ5IHVuaXRfaWQKOwo=</text>
+      <register name="0" type="4">
+        <text>https://adingo-redmine.sjdc.voyage/projects/canalis/wiki/%E9%85%8D%E4%BF%A1%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E4%BD%9C%E6%A5%AD%E3%81%AE%E4%BD%9C%E6%A5%AD%E6%89%8B%E9%A0%86</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LCBzdW0oY2FzZSB3aGVuICh0cmFuc2FjdGlvbl90eXBlX2NvZGUgPSAnT3BlbiBBdWN0aW9uJykgdGhlbiBtYXRjaGVkX2FkX3JlcXVlc3RzIGVsc2UgMCBlbmQpIGFzIE9BCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlIDw+ICdPcGVuIEF1Y3Rpb24nKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgYXMgTm90T0EK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAsIHRyYW5zYWN0aW9uX3R5cGVfY29kZQogICwgYnJhbmRpbmdfdHlwZV9jb2RlCg==</text>
+        <text encoding="base64">ZWNobyAnPC9kaXY+JzsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LCBzdW0oY2FzZSB3aGVuICh0cmFuc2FjdGlvbl90eXBlX2NvZGUgPSAnT3BlbiBBdWN0aW9uJyBhbmQgYnJhbmRpbmdfdHlwZV9jb2RlID0gJ0JyYW5kZWQnKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgLyBzdW0obWF0Y2hlZF9hZF9yZXF1ZXN0cykgYXMgT0FCCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlID0gJ09wZW4gQXVjdGlvbicgYW5kIGJyYW5kaW5nX3R5cGVfY29kZSA9ICdBbm9ueW1vdXMnKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgLyBzdW0obWF0Y2hlZF9hZF9yZXF1ZXN0cykgYXMgT0FBCg==</text>
+        <text encoding="base64">ZWNobyAnPGRpdiBjbGFzcz0iZmx1Y3RfYWRfY29udGFpbmVyIj4nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGltaXQgMTA7Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoJGFkcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LCAgYXMgT0FCCg==</text>
+        <text encoding="base64">LCBzdW0oY2FzZSB3aGVuICh0cmFuc2FjdGlvbl90eXBlX2NvZGUgPSAnT3BlbiBBdWN0aW9uJykgdGhlbiBtYXRjaGVkX2FkX3JlcXVlc3RzIGVsc2UgMCBlbmQpIGFzIE9BCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlIDw+ICdPcGVuIEF1Y3Rpb24nKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgYXMgTm90T0EK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LCBzdW0oY2FzZSB3aGVuICh0cmFuc2FjdGlvbl90eXBlX2NvZGUgPSAnT3BlbiBBdWN0aW9uJykgdGhlbiAwIGVsc2UgbWF0Y2hlZF9hZF9yZXF1ZXN0cyBlbmQpIGFzIE5vdE9BCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlID0gJ09wZW4gQXVjdGlvbicpIHRoZW4gbWF0Y2hlZF9hZF9yZXF1ZXN0cyBlbHNlIDAgZW5kKSBhcyBPQQo=</text>
+        <text encoding="base64">ICAsIHRyYW5zYWN0aW9uX3R5cGVfY29kZQogICwgYnJhbmRpbmdfdHlwZV9jb2RlCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LCBzdW0obWF0Y2hlZF9hZF9yZXF1ZXN0cykgYXMgQUxMCg==</text>
+        <text encoding="base64">LCBzdW0oY2FzZSB3aGVuICh0cmFuc2FjdGlvbl90eXBlX2NvZGUgPSAnT3BlbiBBdWN0aW9uJyBhbmQgYnJhbmRpbmdfdHlwZV9jb2RlID0gJ0JyYW5kZWQnKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgLyBzdW0obWF0Y2hlZF9hZF9yZXF1ZXN0cykgYXMgT0FCCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlID0gJ09wZW4gQXVjdGlvbicgYW5kIGJyYW5kaW5nX3R5cGVfY29kZSA9ICdBbm9ueW1vdXMnKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgLyBzdW0obWF0Y2hlZF9hZF9yZXF1ZXN0cykgYXMgT0FBCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
