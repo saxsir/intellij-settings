@@ -71,6 +71,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9994.js" timestamp="1526957792268">
+        <mark key="'" line="210" column="0" />
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/Checkers/AllDspsChecker.php" timestamp="1525918222559">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -213,8 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
-      <jump line="66" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
       <jump line="38" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
       <jump line="0" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
       <jump line="10" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
@@ -313,6 +317,8 @@
       <jump line="369" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
       <jump line="199" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9994.js" />
+      <jump line="210" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9994.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -332,46 +338,46 @@
         <text>wrapper</text>
       </register>
       <register name="/" type="4">
-        <text>fromCookie</text>
+        <text>render</text>
       </register>
       <register name="0" type="4">
         <text>https://adingo-redmine.sjdc.voyage/projects/canalis/wiki/%E9%85%8D%E4%BF%A1%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E4%BD%9C%E6%A5%AD%E3%81%AE%E4%BD%9C%E6%A5%AD%E6%89%8B%E9%A0%86</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInRlc3Rob2dlaG9nZSIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAnPC9kaXY+JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAnPC9kaXY+JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAnPGRpdiBjbGFzcz0iZmx1Y3RfYWRfY29udGFpbmVyIj4nOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGFkcyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LCBzdW0oY2FzZSB3aGVuICh0cmFuc2FjdGlvbl90eXBlX2NvZGUgPSAnT3BlbiBBdWN0aW9uJykgdGhlbiBtYXRjaGVkX2FkX3JlcXVlc3RzIGVsc2UgMCBlbmQpIGFzIE9BCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlIDw+ICdPcGVuIEF1Y3Rpb24nKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgYXMgTm90T0EK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAsIHRyYW5zYWN0aW9uX3R5cGVfY29kZQogICwgYnJhbmRpbmdfdHlwZV9jb2RlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZWNobyAnPGRpdiBjbGFzcz0iZmx1Y3RfYWRfY29udGFpbmVyIj4nOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dmFyX2R1bXAoJGFkcyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LCBzdW0oY2FzZSB3aGVuICh0cmFuc2FjdGlvbl90eXBlX2NvZGUgPSAnT3BlbiBBdWN0aW9uJykgdGhlbiBtYXRjaGVkX2FkX3JlcXVlc3RzIGVsc2UgMCBlbmQpIGFzIE9BCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlIDw+ICdPcGVuIEF1Y3Rpb24nKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgYXMgTm90T0EK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAsIHRyYW5zYWN0aW9uX3R5cGVfY29kZQogICwgYnJhbmRpbmdfdHlwZV9jb2RlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">LCBzdW0oY2FzZSB3aGVuICh0cmFuc2FjdGlvbl90eXBlX2NvZGUgPSAnT3BlbiBBdWN0aW9uJyBhbmQgYnJhbmRpbmdfdHlwZV9jb2RlID0gJ0JyYW5kZWQnKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgLyBzdW0obWF0Y2hlZF9hZF9yZXF1ZXN0cykgYXMgT0FCCiwgc3VtKGNhc2Ugd2hlbiAodHJhbnNhY3Rpb25fdHlwZV9jb2RlID0gJ09wZW4gQXVjdGlvbicgYW5kIGJyYW5kaW5nX3R5cGVfY29kZSA9ICdBbm9ueW1vdXMnKSB0aGVuIG1hdGNoZWRfYWRfcmVxdWVzdHMgZWxzZSAwIGVuZCkgLyBzdW0obWF0Y2hlZF9hZF9yZXF1ZXN0cykgYXMgT0FBCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fromCookie</last-search>
+      <last-search>render</last-search>
       <last-offset />
-      <last-pattern>fromCookie</last-pattern>
+      <last-pattern>render</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -379,7 +385,6 @@
     </search>
     <history>
       <history-search>
-        <entry>%s</entry>
         <entry>needs</entry>
         <entry>PUBM</entry>
         <entry>debug</entry>
@@ -399,6 +404,7 @@
         <entry>gsh</entry>
         <entry>momentum_heron</entry>
         <entry>fromCookie</entry>
+        <entry>render</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>
