@@ -213,11 +213,10 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" timestamp="1526972913808">
-        <mark key="'" line="309" column="1" />
-        <mark key="[" line="328" column="0" />
-        <mark key="]" line="328" column="0" />
-        <mark key="." line="328" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" timestamp="1526973549853">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1526366306888">
         <mark key="'" line="374" column="35" />
@@ -234,9 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/Checkers/AbstractSyncChecker.php" />
-      <jump line="199" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
-      <jump line="22" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/fluct_ad/lib/Sync/Checkers/AbstractSyncChecker.php" />
       <jump line="4" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/fluct_ad/lib/Sync/Checkers/AbstractSyncChecker.php" />
       <jump line="194" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
       <jump line="65" column="58" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
@@ -334,6 +330,9 @@
       <jump line="143" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
       <jump line="207" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
       <jump line="309" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
+      <jump line="154" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
+      <jump line="119" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -356,34 +355,34 @@
         <text>html</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogaHR0cHM6Ly9lY25zdGFmZi5iYWNrbG9nLmpwL3ZpZXcvRkxVQ1RfU1NQLTEwMzYxCg==</text>
+        <text encoding="base64">ICB2YXIgaHRtbCA9IGZ1bmN0aW9uICh1bml0X2lkLCBhZCkgewogICAgd3JpdGVJbkNvbnRhaW5lcih1bml0X2lkLCAnJyk7CiAgICB2YXIgaWZyYW1lID0gY3JlYXRlRnJpZW5kbHlJZnJhbWUodW5pdF9pZCwgYWRbM10sIGFkWzRdKTsKICAgIHZhciBiYXNlRGl2ID0gYmFzZSh1bml0X2lkKTsKICAgIGJhc2VEaXYuYXBwZW5kQ2hpbGQoaWZyYW1lKTsKICAgIC8vIEZyaWVuZGx5IGlGcmFtZQogICAgdmFyIGlmcmFtZURvYyA9IGlmcmFtZS5jb250ZW50V2luZG93LmRvY3VtZW50OwogICAgaWZyYW1lRG9jLm9wZW4oJ3RleHQvaHRtbCcsICdyZXBsYWNlJyk7CiAgICB2YXIgc3RyID0gJzxodG1sPjxoZWFkPjxzY3InCiAgICAgICsgJ2lwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPndpbmRvdy5pbkRhcElGID0gdHJ1ZTs8L3NjcicKICAgICAgKyAnaXB0PjwvaGVhZD48Ym9keSBzdHlsZT0icGFkZGluZzowcHg7bWFyZ2luOjBweDtib3JkZXI6bm9uZTsiPicgKyBhZFsyXSArICc8L2JvZHk+PC9odG1sPic7CiAgICBpZnJhbWVEb2Mud3JpdGUoc3RyKTsKICAgIGlmcmFtZURvYy5jbG9zZSgpOwogIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbW9tZW50dW0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhqc29uKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWRfbGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgbW9tZW50dW0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbampkZF0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhqc29uKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYWRfaW5mbyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWRfbGlzdCk7Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBbampkZF0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWQpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYWRfaW5mbyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGFkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWRfbGlzdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
