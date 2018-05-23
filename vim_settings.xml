@@ -183,11 +183,12 @@
         <mark key="." line="70" column="62" />
         <mark key="^" line="70" column="62" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1527059829775">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1527063901067">
         <mark key="'" line="20" column="19" />
-        <mark key="[" line="50" column="51" />
-        <mark key="]" line="50" column="62" />
-        <mark key="." line="51" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="2" />
+        <mark key="." line="72" column="2" />
+        <mark key="^" line="72" column="2" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" timestamp="1525854053166">
         <mark key="'" line="122" column="26" />
@@ -210,12 +211,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" timestamp="1526884791003">
         <mark key="'" line="199" column="17" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAdView.php" timestamp="1527040358137">
-        <mark key="'" line="252" column="9" />
-        <mark key="[" line="264" column="17" />
-        <mark key="]" line="264" column="17" />
-        <mark key="." line="264" column="17" />
-        <mark key="^" line="264" column="17" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAdView.php" timestamp="1527064123710">
+        <mark key="'" line="253" column="9" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="^" line="240" column="11" />
+        <mark key="." line="241" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/model_campaign.go" timestamp="1526280313823">
         <mark key="'" line="21" column="0" />
@@ -361,40 +362,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>auction/21</text>
+        <text>print_r</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LWRlZmluZShNT01FTlRVTV9IRVJPTl9VUkwsICJodHRwOi8vanAtYXhpYS12ZXJpZmljYXRpb24ubTBtZW50dW0ubmV0L2F1Y3Rpb24vMjEiKS4K</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRkZWxpdmVyX2Fkcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRkZWxpdmVyX2Fkcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNwWyRpXXtIT0dFfSA9ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRqc29uKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXkgJGFpZCA9IGdldF9haWQoJGNwWyRpXSwgJGFpZHMpOwogICAgICAgICAgICBpZiAoICRhaWQgKSB7ICRjcFskaV17QUlEfSA9ICRhaWQ7IH0KICAgICAgICAgICAgJGNwWyRpXXtIT0dFfSA9ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBSUQgPT4gZ2V0X2FpZCgkXywgJHJ0Yl9iaWRoYXNoLT57YWlkc30pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNwWyRpXXtIT0dFfSA9ICcnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAiYWRzIjsKdmFyX2R1bXAoJGFkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXkgJGFpZCA9IGdldF9haWQoJGNwWyRpXSwgJGFpZHMpOwogICAgICAgICAgICBpZiAoICRhaWQgKSB7ICRjcFskaV17QUlEfSA9ICRhaWQ7IH0KICAgICAgICAgICAgJGNwWyRpXXtIT0dFfSA9ICcnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAiZGVsaXZlcl9hZHMiOwp2YXJfZHVtcCgkZGVsaXZlcl9hZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBSUQgPT4gZ2V0X2FpZCgkXywgJHJ0Yl9iaWRoYXNoLT57YWlkc30pLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICMg44GT44GTCg==</text>
+        <text encoding="base64">ZWNobyAiYWRzIjsKdmFyX2R1bXAoJGFkcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICMg44GT44GTCg==</text>
+        <text encoding="base64">ZWNobyAiZGVsaXZlcl9hZHMiOwp2YXJfZHVtcCgkZGVsaXZlcl9hZHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgSE9HRSA9PiAiYWFhYWFhIgo=</text>
+        <text encoding="base64">ICAgICAgICMg44GT44GTCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
