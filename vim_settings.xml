@@ -42,6 +42,16 @@
         <mark key="." line="2" column="167" />
         <mark key="^" line="3" column="173" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_scraper/fluct_scraper.py" timestamp="1527043743364">
+        <mark key="'" line="61" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" timestamp="1527043704430">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="57" column="24" />
+        <mark key="]" line="58" column="22" />
+        <mark key="^" line="58" column="22" />
+        <mark key="." line="58" column="22" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron_targets.mk" timestamp="1526540838174">
         <mark key="'" line="0" column="0" />
       </file>
@@ -148,6 +158,13 @@
         <mark key="'" line="61" column="53" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/JsView.js" timestamp="1526970913603" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_web_api/fluct_web_api.py" timestamp="1527043772287">
+        <mark key="'" line="28" column="44" />
+        <mark key="[" line="102" column="37" />
+        <mark key="]" line="103" column="17" />
+        <mark key="." line="103" column="17" />
+        <mark key="^" line="103" column="17" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/fluct_ad/lib/Sync/Checkers/AbstractSyncChecker.php" timestamp="1526381882574">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="46" column="0" />
@@ -223,18 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="232" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="233" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="348" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="55" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="57" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="58" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="67" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="177" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="226" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="237" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="239" column="40" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
       <jump line="194" column="31" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
       <jump line="223" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
       <jump line="235" column="54" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
@@ -323,6 +328,18 @@
       <jump line="772" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" />
       <jump line="53" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" />
       <jump line="20" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" />
+      <jump line="28" column="44" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_web_api/fluct_web_api.py" />
+      <jump line="54" column="40" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" />
+      <jump line="16" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" />
+      <jump line="17" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" />
+      <jump line="18" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" />
+      <jump line="96" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_scraper/fluct_scraper.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_scraper/fluct_scraper.py" />
+      <jump line="25" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_scraper/fluct_scraper.py" />
+      <jump line="45" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_scraper/fluct_scraper.py" />
+      <jump line="61" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_scraper/fluct_scraper.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -342,7 +359,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>__web_api</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlYnVnKCJib2R5IiwgJGJvZHkpOwo=</text>
@@ -379,9 +396,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search>__web_api</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>__web_api</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -389,10 +406,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fout</entry>
-        <entry>FOUT</entry>
-        <entry>no regexp</entry>
-        <entry>_checkDidNotSync</entry>
         <entry>_testNewSync</entry>
         <entry>_testSync</entry>
         <entry>testSyncMain</entry>
@@ -409,12 +422,13 @@
         <entry>momentum_heron</entry>
         <entry>ここ</entry>
         <entry>debug</entry>
+        <entry>log</entry>
+        <entry>:88</entry>
+        <entry>__S</entry>
+        <entry>__web_api</entry>
       </history-search>
       <history-cmd>
-        <entry>23</entry>
-        <entry>77</entry>
         <entry>98</entry>
-        <entry>59</entry>
         <entry>1226</entry>
         <entry>402</entry>
         <entry>41</entry>
@@ -430,6 +444,9 @@
         <entry>74</entry>
         <entry>87</entry>
         <entry>q</entry>
+        <entry>88</entry>
+        <entry>59</entry>
+        <entry>GET</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
