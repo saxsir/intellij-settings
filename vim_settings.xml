@@ -168,6 +168,13 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" timestamp="1527040799073">
         <mark key="'" line="318" column="35" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/bid_getter_tests.erl" timestamp="1527248263668">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="40" column="71" />
+        <mark key="]" line="41" column="5" />
+        <mark key="^" line="41" column="5" />
+        <mark key="." line="41" column="5" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Midway/DeleteCommandReceiver.php" timestamp="1526541219653">
         <mark key="'" line="0" column="0" />
       </file>
@@ -278,7 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
       <jump line="39" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
       <jump line="40" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
       <jump line="43" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" />
@@ -378,6 +384,7 @@
       <jump line="15" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
       <jump line="14" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
       <jump line="93" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="33" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/bid_getter_tests.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -397,7 +404,7 @@
         <text>Bids</text>
       </register>
       <register name="/" type="4">
-        <text>filter</text>
+        <text>run_test_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICwgeyJmaWx0ZXIgaWYgZnJhdWQgaXMgdHJ1ZSIsIFt7P1JFU19LRVlfTU9NRU5UVU1fUkVTUE9ORCwgdHJ1ZX0sIHs/UkVTX0tFWV9NT01FTlRVTV9GUkFVRCwgdHJ1ZX1dLCBbUHVibVBjQmlkLCBQdWJtU3BCaWQsIE90aGVyQmlkXSwgW090aGVyQmlkXX0K</text>
@@ -434,9 +441,9 @@
       </register>
     </registers>
     <search>
-      <last-search>filter</last-search>
+      <last-search>run_test_</last-search>
       <last-offset />
-      <last-pattern>filter</last-pattern>
+      <last-pattern>run_test_</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -444,7 +451,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AID</entry>
         <entry>console.log</entry>
         <entry>True</entry>
         <entry>ドメイン</entry>
@@ -464,6 +470,7 @@
         <entry>PUBMATIC</entry>
         <entry>DBM</entry>
         <entry>filter</entry>
+        <entry>run_test_</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
