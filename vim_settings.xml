@@ -42,6 +42,9 @@
         <mark key="." line="2" column="167" />
         <mark key="^" line="3" column="173" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_spec_2_1.erl" timestamp="1527569657295">
+        <mark key="'" line="3" column="9" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_scraper/fluct_scraper.py" timestamp="1527043743364">
         <mark key="'" line="61" column="17" />
       </file>
@@ -94,6 +97,7 @@
         <mark key="." line="130" column="72" />
         <mark key="^" line="130" column="72" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_rule.erl" timestamp="1527569623797" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1526975698784">
         <mark key="'" line="6" column="23" />
         <mark key="[" line="238" column="69" />
@@ -172,6 +176,13 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" timestamp="1527568886702">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="142" column="29" />
+        <mark key="]" line="142" column="39" />
+        <mark key="." line="115" column="0" />
+        <mark key="o" line="115" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" timestamp="1527040799073">
         <mark key="'" line="318" column="35" />
       </file>
@@ -185,6 +196,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/84/t57635.js" timestamp="1526881762604" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Midway/DeleteCommandReceiver.php" timestamp="1526541219653">
         <mark key="'" line="0" column="0" />
       </file>
@@ -222,6 +234,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Midway/DeleteCommand.php" timestamp="1526541309919">
         <mark key="'" line="61" column="53" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/JsView.js" timestamp="1526970913603" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_web_api/fluct_web_api.py" timestamp="1527043772287">
         <mark key="'" line="28" column="44" />
         <mark key="[" line="102" column="37" />
@@ -241,11 +254,6 @@
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/GlobalConstants.php" timestamp="1527215182559">
-        <mark key="'" line="88" column="8" />
-        <mark key="[" line="63" column="8" />
-        <mark key="]" line="63" column="23" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" timestamp="1525854053166">
         <mark key="'" line="122" column="26" />
@@ -312,10 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
-      <jump line="36" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
-      <jump line="19" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
-      <jump line="46" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
       <jump line="77" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
       <jump line="2" column="82" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
       <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
@@ -412,6 +416,10 @@
       <jump line="164" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
       <jump line="246" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
       <jump line="275" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
+      <jump line="135" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_spec_2_1.erl" />
+      <jump line="3" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_spec_2_1.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -431,46 +439,46 @@
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>app</text>
       </register>
       <register name="0" type="4">
-        <text>date_interval_create_from_date_string</text>
+        <text>REQ_KEY_DNT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBpZCxhcHBuYW1lLHN0b3JldXJsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gbW9tZW50dW0oKSB7CiAgICAgICAgJGpzID0gPDw8RU9GCnZhciBkb2MgPSBkb2N1bWVudDsKdmFyIGxvYWRNb21lbnR1bVNjcmlwdCA9IGZ1bmN0aW9uKGNiKSB7CiAgdmFyIHN0YWcgPSBkb2MuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7CiAgc3RhZy5zcmMgPSAnLy9hc3NldHMtdmVyaWZpY2F0aW9uLW1vbWVudHVtLm5ldGRuYS1zc2wuY29tL2pzL2F4c3MuanMnOwogIGlmICh0eXBlb2Ygc3RhZy5vbmxvYWQgIT09ICd1bmRlZmluZWQnKSB7CiAgICBzdGFnLm9ubG9hZCA9IGNiOwogIH0gZWxzZSBpZiAoc3RhZy5yZWFkeVN0YXRlKSB7CiAgICBzdGFnLm9ucmVhZHlzdGF0ZWNoYW5nZSA9IGNiOwogIH0KICBkb2MuYm9keS5hcHBlbmRDaGlsZChzdGFnKTsKfTsKdmFyIHBvc3RNb21lbnR1bSA9IGZ1bmN0aW9uICh1bml0X2lkLCBhaWQsIHRhZ2lkKSB7CiAgdmFyIHVpZCA9IHBhcnNlSW50KHVuaXRfaWQsIDEwKTsKICB2YXIgcG9zdEJpZE9wdGlvbiA9IHt9OwogIHBvc3RCaWRPcHRpb25bJ2ludGVybmFsJ10gPSAnJzsKICBwb3N0QmlkT3B0aW9uWydkZXN0J10gPSAnJzsKICBwb3N0QmlkT3B0aW9uWydwYXlsb2FkJ10gPSB7fTsKCiAgY29uc29sZS5sb2cobW9tZW50dW1faGVyb25bJ3NldF9wb3N0YmlkX29ic2VydmVyJ10pOwogIC8vICBtb21lbnR1bV9oZXJvblsnc2V0X3Bvc3RiaWRfb2JzZXJ2ZXInXSgnYWQtJyArIHVuaXRfaWQsIDIxLCBhaWQsIDEsIHRhZ2lkLCBwb3N0QmlkT3B0aW9uKTsKfTsKdmFyIG1vbWVudHVtUG9zdEJpZCA9IGZ1bmN0aW9uICh1bml0X2lkLCBhaWQsIHRhZ2lkKSB7CiAgaWYgKHdpblsnYWRpbmdvRmx1Y3QnXVsnbWhfbG9hZGVkJ10gPT09IHRydWUpIHsKICAgICAgcmV0dXJuIHBvc3RNb21lbnR1bSh1bml0X2lkLCBhaWQsIHRhZ2lkKTsKICB9CgogIHZhciBjYiA9IGZ1bmN0aW9uKCkgewogICAgd2luWydhZGluZ29GbHVjdCddWydtaF9sb2FkZWQnXSA9IHRydWU7CiAgICBwb3N0TW9tZW50dW0odW5pdF9pZCwgYWlkLCB0YWdpZCk7CiAgfTsKICBsb2FkTW9tZW50dW1TY3JpcHQoY2IpOwp9OwpFT0Y7CgogICAgICAgIGVjaG8gJyhmdW5jdGlvbih3LGopeyc7CiAgICAgICAgZWNobyAkanM7CiAgICAgICAgZWNobyAnfSkod2luZG93LCcgLiBqc29uX2VuY29kZSgkanNvbikgLiAnKTsnOwogICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">KGZ1bmN0aW9uKCkgewo=</text>
-      </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">RU9GRU9GOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gbW9tZW50dW0oKSB7CiAgICAgICAgJGpzID0gPDw8RU9GCnZhciBkb2MgPSBkb2N1bWVudDsKdmFyIGxvYWRNb21lbnR1bVNjcmlwdCA9IGZ1bmN0aW9uKGNiKSB7CiAgdmFyIHN0YWcgPSBkb2MuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7CiAgc3RhZy5zcmMgPSAnLy9hc3NldHMtdmVyaWZpY2F0aW9uLW1vbWVudHVtLm5ldGRuYS1zc2wuY29tL2pzL2F4c3MuanMnOwogIGlmICh0eXBlb2Ygc3RhZy5vbmxvYWQgIT09ICd1bmRlZmluZWQnKSB7CiAgICBzdGFnLm9ubG9hZCA9IGNiOwogIH0gZWxzZSBpZiAoc3RhZy5yZWFkeVN0YXRlKSB7CiAgICBzdGFnLm9ucmVhZHlzdGF0ZWNoYW5nZSA9IGNiOwogIH0KICBkb2MuYm9keS5hcHBlbmRDaGlsZChzdGFnKTsKfTsKdmFyIHBvc3RNb21lbnR1bSA9IGZ1bmN0aW9uICh1bml0X2lkLCBhaWQsIHRhZ2lkKSB7CiAgdmFyIHVpZCA9IHBhcnNlSW50KHVuaXRfaWQsIDEwKTsKICB2YXIgcG9zdEJpZE9wdGlvbiA9IHt9OwogIHBvc3RCaWRPcHRpb25bJ2ludGVybmFsJ10gPSAnJzsKICBwb3N0QmlkT3B0aW9uWydkZXN0J10gPSAnJzsKICBwb3N0QmlkT3B0aW9uWydwYXlsb2FkJ10gPSB7fTsKCiAgY29uc29sZS5sb2cobW9tZW50dW1faGVyb25bJ3NldF9wb3N0YmlkX29ic2VydmVyJ10pOwogIC8vICBtb21lbnR1bV9oZXJvblsnc2V0X3Bvc3RiaWRfb2JzZXJ2ZXInXSgnYWQtJyArIHVuaXRfaWQsIDIxLCBhaWQsIDEsIHRhZ2lkLCBwb3N0QmlkT3B0aW9uKTsKfTsKdmFyIG1vbWVudHVtUG9zdEJpZCA9IGZ1bmN0aW9uICh1bml0X2lkLCBhaWQsIHRhZ2lkKSB7CiAgaWYgKHdpblsnYWRpbmdvRmx1Y3QnXVsnbWhfbG9hZGVkJ10gPT09IHRydWUpIHsKICAgICAgcmV0dXJuIHBvc3RNb21lbnR1bSh1bml0X2lkLCBhaWQsIHRhZ2lkKTsKICB9CgogIHZhciBjYiA9IGZ1bmN0aW9uKCkgewogICAgd2luWydhZGluZ29GbHVjdCddWydtaF9sb2FkZWQnXSA9IHRydWU7CiAgICBwb3N0TW9tZW50dW0odW5pdF9pZCwgYWlkLCB0YWdpZCk7CiAgfTsKICBsb2FkTW9tZW50dW1TY3JpcHQoY2IpOwp9OwpFT0Y7CgogICAgICAgIGVjaG8gJyhmdW5jdGlvbih3LGopeyc7CiAgICAgICAgZWNobyAkanM7CiAgICAgICAgZWNobyAnfSkod2luZG93LCcgLiBqc29uX2VuY29kZSgkanNvbikgLiAnKTsnOwogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">KGZ1bmN0aW9uKCkgewo=</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">RU9GRU9GOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIuiqreOBv+i+vOOBvuOCjOOBpuOBquOBhOOBruOBp+iqreOBv+i+vOOBv+OBvuOBmSIsIHVuaXRfaWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygi6Kqt44G/6L6844G/44G+44Gb44KTIiwgdW5pdF9pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIuiqreOBv+i+vOOBvuOCjOOBpuOBquOBhOOBruOBp+iqreOBv+i+vOOBv+OBvuOBmSIsIHVuaXRfaWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>app</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>app</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -478,10 +486,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DBM</entry>
-        <entry>filter</entry>
-        <entry>run_test_</entry>
-        <entry>run</entry>
         <entry>regF3</entry>
         <entry>creative</entry>
         <entry>F_SHORT_NAME_AID</entry>
@@ -498,6 +502,10 @@
         <entry>regF</entry>
         <entry>win</entry>
         <entry>version</entry>
+        <entry>idfa</entry>
+        <entry>bundle</entry>
+        <entry>device</entry>
+        <entry>app</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
