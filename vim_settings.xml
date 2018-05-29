@@ -68,11 +68,7 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/SummaryImport/SiteImporter.php" timestamp="1527557667148">
-        <mark key="'" line="153" column="66" />
-        <mark key="[" line="143" column="41" />
-        <mark key="]" line="143" column="44" />
-        <mark key="." line="143" column="44" />
-        <mark key="^" line="143" column="44" />
+        <mark key="'" line="150" column="66" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverUtil.php" timestamp="1526977164407">
         <mark key="'" line="186" column="17" />
@@ -168,8 +164,8 @@
         <mark key="^" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Entity/Cmn/CmnAdnetworkMaster.php" timestamp="1527240990769">
-        <mark key="[" line="116" column="11" />
-        <mark key="]" line="116" column="23" />
+        <mark key="[" line="115" column="11" />
+        <mark key="]" line="115" column="23" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/SyncFactory.php" timestamp="1525917866625">
         <mark key="[" line="35" column="0" />
@@ -178,6 +174,10 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" timestamp="1527040799073">
         <mark key="'" line="318" column="35" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/Tapjoy/DownloadCommand.php" timestamp="1527563720265">
+        <mark key="[" line="83" column="43" />
+        <mark key="]" line="83" column="79" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/bid_getter_tests.erl" timestamp="1527250159340">
         <mark key="'" line="21" column="0" />
@@ -433,8 +433,8 @@
       <register name="/" type="4">
         <text>version</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICcoZnVuY3Rpb24odyxqKXsnOwo=</text>
+      <register name="0" type="4">
+        <text>date_interval_create_from_date_string</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
