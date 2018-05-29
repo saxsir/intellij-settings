@@ -138,6 +138,10 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525838933281">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_db/docs/DEVELOPMENT.md" timestamp="1527588542186">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="24" column="34" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" timestamp="1527243558151">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="23" column="51" />
@@ -210,6 +214,12 @@
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Sync/Checkers/AbstractSyncChecker.php" timestamp="1526380901757">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1526540833090">
         <mark key="'" line="84" column="36" />
       </file>
@@ -234,6 +244,12 @@
         <mark key="]" line="46" column="29" />
         <mark key="^" line="620" column="103" />
         <mark key="." line="46" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/fluct_ad/lib/Sync/Checkers/AbstractSyncChecker.php" timestamp="1526381882574">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1527250379518">
         <mark key="'" line="1" column="0" />
@@ -288,12 +304,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/DeliverUtilTest.php" timestamp="1526975942116">
         <mark key="'" line="341" column="40" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" timestamp="1527587257550">
-        <mark key="'" line="249" column="0" />
-        <mark key="[" line="156" column="27" />
-        <mark key="]" line="156" column="27" />
-        <mark key="." line="156" column="27" />
-        <mark key="^" line="160" column="3" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" timestamp="1527588151873">
+        <mark key="'" line="244" column="0" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1526366306888">
         <mark key="'" line="374" column="35" />
@@ -426,40 +441,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>た</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>readyState</text>
       </register>
       <register name="0" type="4">
-        <text>onreadystatechange</text>
+        <text>mysql -uroot -pfluct -h 127.0.0.1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgLy8gSUU45Lul5LiL44Gn44Gv5YuV44GL44Gq44GE44GM5pio5LuK44G744Go44KT44GpSUU444GL44KJ44Gu44Oq44Kv44Ko44K544OI44Gv44Gq44GECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gSUU45Lul5LiL44Gg44Gob25sb2Fk44GM44Gq44GECg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gSUU45Lul5LiL44Gg44Gob25sb2Fk44GM5YuV44GL44Gq44GEIHN0YWcub25yZWFkeXN0YXRlY2hhbmdlID0gZnVuY3Rpb24oKSB7CiAgICAgICAgICBjYgogICAgICB9OwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGxhY2VtZW50SWQgPT09IDApOwogICAgICBjb25zb2xlLmxvZyhwbGFjZW1lbnRJZCA9PT0gJzAnKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGxhY2VtZW50SWQgPT09IDApOwogICAgICBjb25zb2xlLmxvZyhwbGFjZW1lbnRJZCA9PT0gJzAnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGFnSWQuaXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWlkLCBwbGFjZW1lbnRJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciB0YWdpZCAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGxhY2VtZW50SWQgPT09IDApOwogICAgICBjb25zb2xlLmxvZyhwbGFjZW1lbnRJZCA9PT0gJzAnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
