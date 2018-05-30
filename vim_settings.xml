@@ -67,6 +67,13 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" timestamp="1527660012004">
+        <mark key="'" line="175" column="0" />
+        <mark key="[" line="172" column="21" />
+        <mark key="]" line="173" column="14" />
+        <mark key="." line="173" column="14" />
+        <mark key="^" line="173" column="14" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/SummaryImport/SiteImporter.php" timestamp="1527557667148">
         <mark key="'" line="150" column="66" />
       </file>
@@ -115,12 +122,10 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/CampaignDb.pm" timestamp="1526280920971">
         <mark key="'" line="148" column="43" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/Pubmatic.t" timestamp="1526544130936">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="56" column="47" />
-        <mark key="]" line="56" column="47" />
-        <mark key="." line="56" column="47" />
-        <mark key="^" line="59" column="18" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/Pubmatic.t" timestamp="1527659947883">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/auction_tests.erl" timestamp="1527231832437">
         <mark key="'" line="318" column="4" />
@@ -150,12 +155,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="23" column="51" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1527657814641">
-        <mark key="'" line="294" column="4" />
-        <mark key="[" line="1262" column="4" />
-        <mark key="]" line="1262" column="6" />
-        <mark key="^" line="1262" column="6" />
-        <mark key="." line="1262" column="6" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1527660024545">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="299" column="0" />
+        <mark key="]" line="299" column="0" />
+        <mark key="." line="299" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1527244209176">
         <mark key="'" line="42" column="12" />
@@ -326,22 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="77" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="91" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="97" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="111" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="352" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="85" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="165" column="63" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="220" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="223" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="325" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="150" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="151" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="164" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="275" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="135" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_spec_2_1.erl" />
       <jump line="3" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_spec_2_1.erl" />
       <jump line="7" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
@@ -426,6 +414,22 @@
       <jump line="1264" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="294" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="1222" column="31" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="1251" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="41" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
+      <jump line="104" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
+      <jump line="51" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
+      <jump line="111" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
+      <jump line="171" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
+      <jump line="53" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
+      <jump line="170" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
+      <jump line="47" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/Pubmatic.t" />
+      <jump line="52" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
+      <jump line="189" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
+      <jump line="36" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
+      <jump line="175" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
+      <jump line="318" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="73" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -448,34 +452,34 @@
         <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlYnVnKCJkc3BfY29kZSIsICRkc3BfY29kZSk7Cg==</text>
+        <text encoding="base64">ICAgIHN1YnRlc3QgJ21vbWVudHVt44Gr44KC44Oq44Kv44Ko44K544OI44KS5oqV44GS44KL44Kx44O844K5JyA9PiBzdWJ7CiAgICAgICAgIyBEQk0g44GL44GkIHNldHRpbmfjga5wbGFjZW1lbnQgLyB1bml044Gu5p2h5Lu244GM44GC44KM44Gg44Gj44Gf44KJ5oqV44GS44KL5oSf44GYLiDjgYLjgahjb29raWUKICAgIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnKCJzZXR0aW5ncyIsIEB2YWxpZF9zZXR0aW5nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRkc3BfY29kZSA9PSBEU1BfUFVCTUFUSUNfUEMgfHwgJGRzcF9jb2RlID09IERTUF9QVUJNQVRJQ19TUDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1bml0X2lkID0+IDYxMDcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBsYWNlbWVudF9pZCA9PiA2MTA3LAo=</text>
+        <text encoding="base64">c3ViIGRlYnVnIHsKICAgIG15ICgkbGFiZWwsICR2YXIpID0gQF87CiAgICBsb2NhbCAkRGF0YTo6RHVtcGVyOjpJbmRlbnQgICAgPSAxOwogICAgbG9jYWwgJERhdGE6OkR1bXBlcjo6VGVyc2UgICAgID0gMTsKICAgIGxvY2FsICREYXRhOjpEdW1wZXI6OlNvcnRrZXlzICA9IDE7CiAgICBsb2NhbCAkRGF0YTo6RHVtcGVyOjpRdW90ZWtleXMgPSAwOwogICAgd2FybiAkbGFiZWwsICI6ICIsIER1bXBlcigkdmFyKSwgIlxuIjsKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBEU1BfUFVCTUFUSUNfUEMsIERTUF9QVUJNQVRJQ19TUAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1bml0X2lkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3VidGVzdCAnbW9tZW50dW3jgavjgoLjg6rjgq/jgqjjgrnjg4jjgpLmipXjgZLjgovjgrHjg7zjgrknID0+IHN1YnsKfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
