@@ -113,12 +113,12 @@
         <mark key="[" line="246" column="0" />
         <mark key="]" line="251" column="5" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" timestamp="1527668437226">
-        <mark key="'" line="182" column="58" />
-        <mark key="[" line="160" column="44" />
-        <mark key="]" line="160" column="47" />
-        <mark key="." line="160" column="47" />
-        <mark key="^" line="160" column="47" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" timestamp="1527670440891">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="161" column="45" />
+        <mark key="^" line="161" column="45" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1527573994613">
         <mark key="'" line="199" column="5" />
@@ -334,8 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="237" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
       <jump line="204" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAd.php" />
       <jump line="237" column="121" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAd.php" />
       <jump line="653" column="101" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAd.php" />
@@ -434,6 +432,8 @@
       <jump line="272" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
       <jump line="159" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
       <jump line="182" column="58" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
+      <jump line="191" column="46" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
+      <jump line="157" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -450,49 +450,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>momentumのscriptが、</text>
       </register>
       <register name="/" type="4">
-        <text>fluct_ad_container</text>
+        <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpdi5zZXRBdHRyaWJ1dGUoJ2NsYXNzJywgJ2ZsdWN0X2FkX2NvbnRhaW5lcicpOwo=</text>
+      <register name="0" type="4">
+        <text>ズームインライン広告(momentum対応)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGl2LnNldEF0dHJpYnV0ZSgnY2xhc3MnLCAnYWQtJyArIHBhcnNlSW50KHVuaXRfaWQsIDEwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIG1vbWVudHVt44Guc2NyaXB044GM44CB5oyH5a6a44GX44GfY2xhc3PjgYzjgarjgYTjgajjgrPjg7Pjgr3jg7zjg6vjgavjgqjjg6njg7zjgpLlkJDjgY/jgZ/jgoHnorroqo3jgZfjgabjgYTjgosK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGMK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRvYy5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCdhZC0nICsgdW5pdF9pZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRvYy53cml0ZSgnPGRpdiBpZD0iZmx1Y3RfYWRfdW5pdF8nICsgcGFyc2VJbnQodW5pdF9pZCwgMTApICsgJyIgY2xhc3M9ImZsdWN0X2FkX2NvbnRhaW5lciI+JyArIHN0ciArICc8L2Rpdj4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHVuaXRfaWQsIHZlbmRvcklkLCBpbXBJZCwgcG9zdEJpZE9wdGlvbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGl2LnNldEF0dHJpYnV0ZSgnY2xhc3MnLCAnYWQtJyArIHBhcnNlSW50KHVuaXRfaWQsIDEwKSk7Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGMK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnKCJzZXR0aW5ncyIsIEB2YWxpZF9zZXR0aW5nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fluct_ad_container</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>fluct_ad_container</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -500,7 +500,6 @@
     </search>
     <history>
       <history-search>
-        <entry>testFluctRTB</entry>
         <entry>F_SHORT_NAME_PLACEMENT_ID</entry>
         <entry>testIM</entry>
         <entry>AID</entry>
@@ -520,6 +519,7 @@
         <entry>momentum</entry>
         <entry>render</entry>
         <entry>fluct_ad_container</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
