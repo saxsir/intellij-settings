@@ -83,7 +83,7 @@
         <mark key="." line="190" column="56" />
         <mark key="^" line="190" column="56" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1527041415698">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1527648016768">
         <mark key="'" line="29" column="12" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="43" column="0" />
@@ -149,6 +149,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bid_getter.erl" timestamp="1527243558151">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="23" column="51" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1527648109145">
+        <mark key="[" line="309" column="36" />
+        <mark key="]" line="309" column="36" />
+        <mark key="." line="309" column="36" />
+        <mark key="^" line="308" column="3" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1527244209176">
         <mark key="'" line="42" column="12" />
@@ -443,40 +449,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>BUNDLE</text>
       </register>
-      <register name="0" type="4">
-        <text>REQ_KEY_APP_ID</text>
+      <register name="0" type="2">
+        <text encoding="base64">c3ViIGRlYnVnIHsKICAgIG15ICgkbGFiZWwsICR2YXIpID0gQF87CiAgICBsb2NhbCAkRGF0YTo6RHVtcGVyOjpJbmRlbnQgICAgPSAxOwogICAgbG9jYWwgJERhdGE6OkR1bXBlcjo6VGVyc2UgICAgID0gMTsKICAgIGxvY2FsICREYXRhOjpEdW1wZXI6OlNvcnRrZXlzICA9IDE7CiAgICBsb2NhbCAkRGF0YTo6RHVtcGVyOjpRdW90ZWtleXMgPSAwOwogICAgd2FybiAkbGFiZWwsICI6ICIsIER1bXBlcigkdmFyKSwgIlxuIjsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBBdWN0aW9uSWQgPSBhdWN0aW9uaWQsCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnKCJzZXR0aW5ncyIsIEBzZXR0aW5ncyk7Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF19Cg==</text>
+        <text encoding="base64">ICBBdWN0aW9uSWQgPSBhdWN0aW9uaWQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICwgeyJiYW5uZXIiLCB7b2JqLCBbeyJ3IiwgV2lkdGh9CiAgICAgICwgeyJoIiwgSGVpZ2h0fQogICAgICAsIHsiYnR5cGUiLCBbXX0KICAgICAgLCB7ImJhdHRyIiwgW119CiAgICAgICwgeyJwb3MiLCBQb3NpdGlvbn0K</text>
+        <text encoding="base64">ICAgIF19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICwgeyJ0YWdpZCIsIFVuaXRJZH0K</text>
+        <text encoding="base64">ICAgICwgeyJiYW5uZXIiLCB7b2JqLCBbeyJ3IiwgV2lkdGh9CiAgICAgICwgeyJoIiwgSGVpZ2h0fQogICAgICAsIHsiYnR5cGUiLCBbXX0KICAgICAgLCB7ImJhdHRyIiwgW119CiAgICAgICwgeyJwb3MiLCBQb3NpdGlvbn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICwgez9SRVFfS0VZXywgQnVuZGxlfQo=</text>
+        <text encoding="base64">ICAgICwgeyJ0YWdpZCIsIFVuaXRJZH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBEc3BLZXkgPSBkc3BrZXksCiAgVXNlcklkID0gdXNlcmlkLAo=</text>
+        <text encoding="base64">ICAgICwgez9SRVFfS0VZXywgQnVuZGxlfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBVbml0SWQgPSB1bml0aWQsCg==</text>
+        <text encoding="base64">ICBEc3BLZXkgPSBkc3BrZXksCiAgVXNlcklkID0gdXNlcmlkLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBXaWR0aCA9IDMwMCwKICBIZWlnaHQgPSAyNTAsCiAgUG9zaXRpb24gPSBwb3MsCg==</text>
+        <text encoding="base64">ICBVbml0SWQgPSB1bml0aWQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICwgez9SRVFfS0VZX1BPU0lUSU9OLCBQb3NpdGlvbn0K</text>
+        <text encoding="base64">ICBXaWR0aCA9IDMwMCwKICBIZWlnaHQgPSAyNTAsCiAgUG9zaXRpb24gPSBwb3MsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
