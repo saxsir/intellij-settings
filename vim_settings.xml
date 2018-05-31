@@ -166,8 +166,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="23" column="51" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1527660024545">
-        <mark key="'" line="73" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1527745466324">
+        <mark key="'" line="1141" column="25" />
+        <mark key="[" line="1247" column="0" />
+        <mark key="]" line="1247" column="0" />
+        <mark key="." line="1247" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1527244209176">
         <mark key="'" line="42" column="12" />
@@ -322,7 +325,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1526366306888">
         <mark key="'" line="374" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1527589588120">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1527745753700">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="526" column="85" />
         <mark key="]" line="526" column="85" />
@@ -334,8 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAd.php" />
-      <jump line="237" column="121" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAd.php" />
       <jump line="653" column="101" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAd.php" />
       <jump line="695" column="48" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAd.php" />
       <jump line="192" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAd.php" />
@@ -434,6 +435,8 @@
       <jump line="182" column="58" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
       <jump line="191" column="46" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
       <jump line="157" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
+      <jump line="241" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="1141" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -450,40 +453,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>momentumのscriptが、</text>
+        <text>http://doc</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="4">
-        <text>ズームインライン広告(momentum対応)</text>
+      <register name="0" type="2">
+        <text encoding="base64">LWRlZmluZShNT01FTlRVTV9IRVJPTl9VUkwsICJodHRwOi8vanAtYXhpYS12ZXJpZmljYXRpb24ubTBtZW50dW0ubmV0L2F1Y3Rpb24vMjEiKS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIG1vbWVudHVt44Guc2NyaXB044GM44CB5oyH5a6a44GX44GfY2xhc3PjgYzjgarjgYTjgajjgrPjg7Pjgr3jg7zjg6vjgavjgqjjg6njg7zjgpLlkJDjgY/jgZ/jgoHnorroqo3jgZfjgabjgYTjgosK</text>
+        <text encoding="base64">ICAgICMg44OG44K544OI44GM57WC44KP44KM44GwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICMgbW9tZW50dW3jga7lirnmnpzjgpLmuKzjgovjgZ/jgoHjgIHjg6njgqTjg5bjg4njgqLjga7kuIDpg6jjga7mnqDjgatEQk3jgpLjgaTjgarjgYTjgafjg4bjgrnjg4jjgpLjgZnjgosKICAgICMgaHR0cHM6Ly9mbHVjdC5qcC9jaGFyZ2UvNTM1OC9zcHRfc2l0ZS9kZXRhaWwvMTAwMDAwMzIyNwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciAK</text>
+        <text encoding="base64">ICAgICMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRvYy5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCdhZC0nICsgdW5pdF9pZCk7Cg==</text>
+        <text encoding="base64">ICAgICMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHVuaXRfaWQsIHZlbmRvcklkLCBpbXBJZCwgcG9zdEJpZE9wdGlvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGl2LnNldEF0dHJpYnV0ZSgnY2xhc3MnLCAnYWQtJyArIHBhcnNlSW50KHVuaXRfaWQsIDEwKSk7Cg==</text>
+        <text encoding="base64">CiAgICAjIOOBn+OBtuOCk+OBk+OCk+OBquaEn+OBmOOBp+WIpOWumuOBmeOCiywg44Gq44Gr44Gn5YiG44GR44KL44GL44Gv44GT44Gu5b6MCiAgICBteSAkcGxhY2VtZW50X2lkID0gJHNldHRpbmctPntwbGFjZW1lbnRfaWR9OwogICAgbXkgJHVuaXRfaWQgPSAkc2V0dGluZy0+e3VuaXRfaWR9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGMK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIG1vbWVudHVt44Guc2NyaXB044GM44CB5oyH5a6a44GX44GfY2xhc3PjgYzjgarjgYTjgajjgrPjg7Pjgr3jg7zjg6vjgavjgqjjg6njg7zjgpLlkJDjgY/jgZ/jgoHnorroqo3jgZfjgabjgYTjgosK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
