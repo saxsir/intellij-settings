@@ -27,11 +27,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" timestamp="1525853411861">
         <mark key="'" line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1527829462970">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1527832356494">
         <mark key="'" line="4" column="9" />
-        <mark key="[" line="97" column="15" />
-        <mark key="]" line="97" column="25" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="42" column="60" />
+        <mark key="]" line="42" column="60" />
+        <mark key="." line="42" column="60" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1526617203032">
         <mark key="'" line="2" column="167" />
@@ -210,12 +210,11 @@
         <mark key="^" line="620" column="103" />
         <mark key="." line="46" column="29" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1527829469745">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1527831900487">
         <mark key="'" line="2" column="93" />
-        <mark key="[" line="101" column="63" />
-        <mark key="]" line="104" column="1" />
-        <mark key="." line="104" column="1" />
-        <mark key="^" line="104" column="1" />
+        <mark key="]" line="98" column="57" />
+        <mark key="." line="98" column="57" />
+        <mark key="^" line="98" column="57" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1527653948572">
         <mark key="'" line="20" column="19" />
@@ -383,7 +382,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;Collected&quot;</text>
+        <text encoding="base64">VG9Db2xsZWN0LCA=</text>
       </register>
       <register name="/" type="4">
         <text>DBM</text>
@@ -392,31 +391,31 @@
         <text>lists:member(DspCode, ?MOMENTUM_TAISYOU_DSPS)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlcmxhbmc6ZGlzcGxheSgiQ29sbGVjdGVkIiksCiAgZXJsYW5nOmRpc3BsYXkoQ29sbGVjdGVkKSwK</text>
+        <text encoding="base64">ICAlIOOBk+OBk+OBvuOBp+OBr+OChOOBo+OBseOCiuiJr+OBleOBneOBhgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIE1vbWVudHVtUmVzdWx0ID0gbW9tZW50dW1faGVyb25fcnVsZTpleHRyYWN0X3Jlc3VsdChNb21lbnR1bSksCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3RlZDIgPSBtb21lbnR1bV9oZXJvbl9ydWxlOmNob29zZV9zZWxlY3RhYmxlX2JpZHMoQ29sbGVjdGVkLCBNb21lbnR1bVJlc3VsdCksCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICUgc2l0ZeOBp+e1nuOCi+OBruOBp+OAgeOBk+OCjOOBoOOBqERCTeOBruOBu+OBqOOCk+OBqeOBrmJpZCByZXPjgarjgYvjgaPjgZ/jgZPjgajjgavjgZfjgabjgZfjgb7jgYbjgoTjgpMuLi7jgZPjgo/jgYTjgaoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBsaXN0czptZW1iZXIoRHNwQ29kZSwgP01PTUVOVFVNX1RBSVNZT1VfRFNQUykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBUb0NvbGxlY3QK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBlcmxhbmc6ZGlzcGxheSgiQ29sbGVjdGVkIiksCiAgZXJsYW5nOmRpc3BsYXkoQ29sbGVjdGVkKSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">JSBzZWNyZXQgdG9rZW7jgYzlv4XopoHjgarjga7jgafjgZvjgpMK</text>
+        <text encoding="base64">ICAgIE1vbWVudHVtUmVzdWx0ID0gbW9tZW50dW1faGVyb25fcnVsZTpleHRyYWN0X3Jlc3VsdChNb21lbnR1bSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LWRlZmluZShNT01FTlRVTV9IRVJPTl9VUkwsICJodHRwOi8vaG9zdC5kb2NrZXIuaW50ZXJuYWw6OTAwMC9iaWQvbW9tZW50dW0taGVyb24uanNvbiIpLgo=</text>
+        <text encoding="base64">ICAgIENvbGxlY3RlZDIgPSBtb21lbnR1bV9oZXJvbl9ydWxlOmNob29zZV9zZWxlY3RhYmxlX2JpZHMoQ29sbGVjdGVkLCBNb21lbnR1bVJlc3VsdCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpdGVfaWQgID0+ICRzaXRlX2xpdmVkb29yLAo=</text>
+        <text encoding="base64">ICAgICUgc2l0ZeOBp+e1nuOCi+OBruOBp+OAgeOBk+OCjOOBoOOBqERCTeOBruOBu+OBqOOCk+OBqeOBrmJpZCByZXPjgarjgYvjgaPjgZ/jgZPjgajjgavjgZfjgabjgZfjgb7jgYbjgoTjgpMuLi7jgZPjgo/jgYTjgaoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
