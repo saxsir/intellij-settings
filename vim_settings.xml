@@ -30,8 +30,8 @@
         <mark key="^" line="323" column="19" />
         <mark key="." line="323" column="19" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" timestamp="1525853411861">
-        <mark key="'" line="41" column="27" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" timestamp="1527840589410">
+        <mark key="'" line="2" column="59" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1527838061024">
         <mark key="'" line="4" column="9" />
@@ -55,6 +55,12 @@
         <mark key="]" line="58" column="22" />
         <mark key="^" line="58" column="22" />
         <mark key="." line="58" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_test_cases.erl" timestamp="1527841634301">
+        <mark key="[" line="124" column="13" />
+        <mark key="]" line="124" column="13" />
+        <mark key="." line="124" column="13" />
+        <mark key="^" line="124" column="15" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron_targets.mk" timestamp="1526540838174">
         <mark key="'" line="0" column="0" />
@@ -157,6 +163,12 @@
         <mark key="[" line="1240" column="0" />
         <mark key="]" line="1240" column="0" />
         <mark key="." line="1240" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/apps/mock_dsp_server/include/mock_bid.hrl" timestamp="1527841488698">
+        <mark key="[" line="36" column="77" />
+        <mark key="]" line="36" column="77" />
+        <mark key="^" line="36" column="77" />
+        <mark key="." line="36" column="77" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1527834551974">
         <mark key="'" line="371" column="23" />
@@ -289,23 +301,11 @@
         <mark key="]" line="527" column="0" />
         <mark key="." line="527" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/_build/test/lib/fluct_rtb/src/momentum_heron_rule.erl" timestamp="1527835031236">
-        <mark key="[" line="101" column="70" />
-        <mark key="]" line="102" column="1" />
-        <mark key="^" line="102" column="1" />
-        <mark key="." line="102" column="1" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js.tmp.js" timestamp="1526970613485">
         <mark key="'" line="198" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
-      <jump line="88" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
-      <jump line="268" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
-      <jump line="100" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_rule.erl" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_rule.erl" />
       <jump line="55" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_rule.erl" />
       <jump line="56" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_rule.erl" />
       <jump line="57" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_rule.erl" />
@@ -400,6 +400,12 @@
       <jump line="886" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="143" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
       <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" />
+      <jump line="70" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" />
+      <jump line="80" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" />
+      <jump line="82" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" />
+      <jump line="2" column="59" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -416,49 +422,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FilterdBids</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>DBM</text>
+        <text>FOUT_BID_INFO</text>
       </register>
-      <register name="0" type="4">
-        <text>{&quot;filter anyway when momentum not responded&quot;, [{?RES_KEY_MOMENTUM_RESPOND, false}], Bids, FilterdBids}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFdpbm5lcnMgPSBbP05PX1dJTk5FUl0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIEJpZHMgPSBtb2NrX2JpZF9tYWtlcjptYWtlX2JpZHMoW0RibSwgU2NhbGVvdXRdKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJNb21lbnR1bVJlcXVpcmVkIiksCiAgICBlcmxhbmc6ZGlzcGxheShNb21lbnR1bVJlcXVpcmVkKSwK</text>
+        <text encoding="base64">ICAgIERibSA9ID9EU1BfQklEX0lORk8oMzgsIDAsIDApLAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KCJNb21lbnR1bVJlcXVpcmVkIiksCiAgICBlcmxhbmc6ZGlzcGxheShNb21lbnR1bVJlcXVpcmVkKSwK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIE1vbWVudHVtUmVzdWx0ID0gbW9tZW50dW1faGVyb25fcnVsZTpleHRyYWN0X3Jlc3VsdChNb21lbnR1bSksCg==</text>
-      </register>
-      <register name="4" type="8">
-        <text />
-      </register>
-      <register name="5" type="8">
-        <text />
       </register>
       <register name="6" type="8">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG15ICRkc3BfY29kZSA9ICRzZXR0aW5nLT57ZHNwX2NvZGV9OwogICAgaWYgKCRkc3BfY29kZSAhPSBEU1BfREJNICYmICRkc3BfY29kZSAhPSBEU1BfREJNX1NQKSB7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9Cg==</text>
+      <register name="7" type="8">
+        <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAlIG1vbWVudHVt44GL44KJ44Os44K544GM44Gq44GE5aC05ZCI44GvYmlkIHJlceOCkumAgeOBo+OBpuOBhOOBquOBhCA9IOODleOCo+ODq+OCv+ODvOOBmeOCi+OCguOBruOBjOOBquOBhCBvciB0aW1lb3V0562J44Gn5a6J5YWo44Go5Yik5pat44Gn44GN44Gq44GE44Kx44O844K5Cg==</text>
+      <register name="8" type="8">
+        <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG15ICRkc3BfY29kZSA9ICRzZXR0aW5nLT57ZHNwX2NvZGV9OwogICAgaWYgKCRkc3BfY29kZSAhPSBEU1BfREJNICYmICRkc3BfY29kZSAhPSBEU1BfREJNX1NQKSB7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>DBM</last-search>
+      <last-search>FOUT_BID_INFO</last-search>
       <last-offset />
-      <last-pattern>DBM</last-pattern>
+      <last-pattern>FOUT_BID_INFO</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -466,8 +472,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AID</entry>
-        <entry>tagid</entry>
         <entry>momentum_heron</entry>
         <entry>readyState</entry>
         <entry>is_site</entry>
@@ -486,6 +490,8 @@
         <entry>debug</entry>
         <entry>config.hrl</entry>
         <entry>DBM</entry>
+        <entry>run</entry>
+        <entry>FOUT_BID_INFO</entry>
       </history-search>
       <history-cmd>
         <entry>;w</entry>
