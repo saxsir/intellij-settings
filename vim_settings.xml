@@ -326,15 +326,18 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1526366306888">
         <mark key="'" line="374" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1527745753700">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1527820391240">
+        <mark key="'" line="473" column="41" />
+        <mark key="[" line="526" column="78" />
+        <mark key="]" line="526" column="95" />
+        <mark key="." line="526" column="95" />
+        <mark key="^" line="526" column="95" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js.tmp.js" timestamp="1526970613485">
         <mark key="'" line="198" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAd.php" />
       <jump line="692" column="95" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAd.php" />
       <jump line="534" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverAd.php" />
       <jump line="140" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
@@ -434,6 +437,7 @@
       <jump line="203" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
       <jump line="15" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
       <jump line="195" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
+      <jump line="473" column="41" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -450,40 +454,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>る、かつsiteがlivedoorだったらmomentumにも投げる</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2sgbm90IGV4aXN0cyAkcmVzdWx0c1sxXTsK</text>
+        <text encoding="base64">LWRlZmluZShNT01FTlRVTV9IRVJPTl9VUkwsICJodHRwOi8vaG9zdC5kb2NrZXIuaW50ZXJuYWw6OTAwMC9iaWQvbW9tZW50dW0taGVyb24uanNvbiIpLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpdGVfaWQgID0+ICRzaXRlX2xpdmVkb29yLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2sgZXhpc3RzICRyZXN1bHRzWzFdOwogICAgICAgICAgICBpcyAkcmVzdWx0c1sxXVswXSwgRFNQX01PTUVOVFVNX0hFUk9OCg==</text>
+        <text encoding="base64">JSBzZWNyZXQgdG9rZW7jgYzlv4XopoHjgarjga7jgafjgZvjgpMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZGJt44GuY29va2ll44Gg44GR44GC44Gj44GmbW9tZW50dW3jga5jb29raWXjgYzjgarjgYTloLTlkIjjga/vvJ8KICAgICMgPT4gbW9tZW50dW3jga/ntbblr75jb29raWUgc3luY+OBl+OBpuOCi+OBruOBp+OBguOCi+OBr+OBmuOAgeOBoOOBjGJhY2vlgbTjgafjgZ3jga7jg5Hjgr/jg7zjg7PjgpLjganjgYbjgZnjgovjgYsK</text>
+        <text encoding="base64">LWRlZmluZShNT01FTlRVTV9IRVJPTl9VUkwsICJodHRwOi8vaG9zdC5kb2NrZXIuaW50ZXJuYWw6OTAwMC9iaWQvbW9tZW50dW0taGVyb24uanNvbiIpLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBteSAkc2l0ZV9saXZlZG9vciA9IDEwMDAwMDMyMjc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpdGVfaWQgID0+ICRzaXRlX2xpdmVkb29yLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2sgZXhpc3RzICRyZXN1bHRzWzFdOwogICAgICAgICAgICBpcyAkcmVzdWx0c1sxXVswXSwgRFNQX01PTUVOVFVNX0hFUk9OCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBteSAkc2l0ZV9saXZlZG9vciA9IDEwMDAwMDMyMjc7Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogZGJt44GuY29va2ll44Gg44GR44GC44Gj44GmbW9tZW50dW3jga5jb29raWXjgYzjgarjgYTloLTlkIjjga/vvJ8KICAgICMgPT4gbW9tZW50dW3jga/ntbblr75jb29raWUgc3luY+OBl+OBpuOCi+OBruOBp+OBguOCi+OBr+OBmuOAgeOBoOOBjGJhY2vlgbTjgafjgZ3jga7jg5Hjgr/jg7zjg7PjgpLjganjgYbjgZnjgovjgYsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBteSAkc2l0ZV9saXZlZG9vciA9IDEwMDAwMDMyMjc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBteSAkc2l0ZV9saXZlZG9vciA9IDEwMDAwMDMyMjc7CiAgICAgICAgbXkgJHJlcXVlc3RfbW9tZW50dW1faGVyb24gPSAncmVxdWVzdF9tb21lbnR1bV9oZXJvbic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bXkgJHJlcXVlc3RfbW9tZW50dW1faGVyb24gPSAncmVxdWVzdF9tb21lbnR1bV9oZXJvbic7Cg==</text>
+        <text encoding="base64">ICAgICAgICBteSAkc2l0ZV9saXZlZG9vciA9IDEwMDAwMDMyMjc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
