@@ -23,12 +23,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" timestamp="1527840589410">
         <mark key="'" line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1528085624264">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1528089557114">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="44" column="57" />
-        <mark key="]" line="44" column="72" />
-        <mark key="^" line="44" column="72" />
-        <mark key="." line="44" column="72" />
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="40" column="29" />
+        <mark key="^" line="40" column="29" />
+        <mark key="." line="40" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1526617203032">
         <mark key="'" line="2" column="167" />
@@ -74,12 +74,12 @@
         <mark key="." line="190" column="56" />
         <mark key="^" line="190" column="56" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1528080515564">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="163" column="4" />
-        <mark key="." line="163" column="4" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1528089410192">
+        <mark key="'" line="138" column="0" />
+        <mark key="[" line="167" column="4" />
+        <mark key="]" line="167" column="4" />
+        <mark key="^" line="172" column="4" />
+        <mark key="." line="167" column="4" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" timestamp="1525670548986">
         <mark key="'" line="6" column="59" />
@@ -141,12 +141,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525838933281">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1528085997280">
-        <mark key="'" line="393" column="4" />
-        <mark key="[" line="458" column="0" />
-        <mark key="]" line="459" column="13" />
-        <mark key="." line="459" column="13" />
-        <mark key="^" line="459" column="13" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1528089256157">
+        <mark key="'" line="180" column="24" />
+        <mark key="[" line="323" column="50" />
+        <mark key="]" line="323" column="50" />
+        <mark key="." line="323" column="50" />
+        <mark key="^" line="323" column="50" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/apps/mock_dsp_server/include/mock_bid.hrl" timestamp="1527848410751">
         <mark key="'" line="30" column="62" />
@@ -253,25 +253,18 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1526366306888">
         <mark key="'" line="374" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1528086212151">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1528089584927">
         <mark key="'" line="178" column="36" />
-        <mark key="[" line="525" column="0" />
-        <mark key="]" line="525" column="0" />
-        <mark key="." line="525" column="0" />
-        <mark key="^" line="525" column="0" />
+        <mark key="[" line="526" column="0" />
+        <mark key="]" line="526" column="0" />
+        <mark key="." line="526" column="0" />
+        <mark key="^" line="525" column="1" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js.tmp.js" timestamp="1526970613485">
         <mark key="'" line="198" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/31/t9889.js" />
-      <jump line="90" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/31/t9889.js" />
-      <jump line="159" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="21" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
-      <jump line="200" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
-      <jump line="219" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
-      <jump line="248" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js" />
       <jump line="272" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
       <jump line="159" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
       <jump line="182" column="58" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
@@ -365,6 +358,13 @@
       <jump line="393" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="48" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" />
       <jump line="178" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
+      <jump line="474" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="1204" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="152" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
+      <jump line="355" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="137" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="180" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="138" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -381,13 +381,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>secret_</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
-        <text>filter</text>
+        <text>debug</text>
       </register>
-      <register name="0" type="4">
-        <text>match_dsp_rule($user_req, $setting)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGVybGFuZzpkaXNwbGF5KFRvQ29sbGVjdCksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRlYnVnKCJtYXRjaF9kc3BfcnVsZSIsIG1hdGNoX2RzcF9ydWxlKCR1c2VyX3JlcSwgJHNldHRpbmcpKTsK</text>
@@ -421,9 +421,9 @@
       </register>
     </registers>
     <search>
-      <last-search>filter</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>filter</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.17.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -431,7 +431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BUNDLE</entry>
         <entry>!=</entry>
         <entry>class</entry>
         <entry>beaconBasic</entry>
@@ -448,9 +447,10 @@
         <entry>SRC</entry>
         <entry>GATHER</entry>
         <entry>GATHER_REPORT</entry>
-        <entry>debug</entry>
         <entry>a_request</entry>
         <entry>filter</entry>
+        <entry>request_for</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
