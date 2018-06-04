@@ -29,11 +29,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" timestamp="1527840589410">
         <mark key="'" line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1527847054368">
-        <mark key="'" line="4" column="9" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1528076678180">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="97" column="33" />
+        <mark key="]" line="97" column="55" />
+        <mark key="." line="90" column="49" />
+        <mark key="^" line="90" column="49" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1526617203032">
         <mark key="'" line="2" column="167" />
@@ -51,12 +52,6 @@
         <mark key="]" line="58" column="22" />
         <mark key="^" line="58" column="22" />
         <mark key="." line="58" column="22" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_test_cases.erl" timestamp="1527848425670">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="123" column="14" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron_targets.mk" timestamp="1526540838174">
         <mark key="'" line="0" column="0" />
@@ -154,7 +149,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525838933281">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1527836619275">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1528077090028">
         <mark key="'" line="886" column="45" />
         <mark key="[" line="1240" column="0" />
         <mark key="]" line="1240" column="0" />
@@ -164,15 +159,14 @@
         <mark key="'" line="30" column="62" />
         <mark key="[" line="36" column="8" />
         <mark key="]" line="36" column="24" />
-        <mark key="^" line="37" column="46" />
         <mark key="." line="36" column="26" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1527834551974">
-        <mark key="'" line="371" column="23" />
-        <mark key="[" line="118" column="8" />
-        <mark key="]" line="118" column="25" />
-        <mark key="." line="375" column="11" />
-        <mark key="^" line="375" column="11" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1528077182849">
+        <mark key="'" line="118" column="8" />
+        <mark key="[" line="370" column="37" />
+        <mark key="]" line="370" column="43" />
+        <mark key="." line="370" column="43" />
+        <mark key="^" line="370" column="43" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/testing_sync/helpers/index.php" timestamp="1525855900272">
         <mark key="'" line="11" column="0" />
@@ -247,18 +241,16 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1527836410168">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1528077161064">
         <mark key="'" line="2" column="92" />
-        <mark key="[" line="2" column="92" />
-        <mark key="]" line="2" column="93" />
-        <mark key="." line="2" column="93" />
-        <mark key="^" line="2" column="95" />
+        <mark key="[" line="60" column="6" />
+        <mark key="]" line="60" column="29" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1527653948572">
         <mark key="'" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_SUITE.erl" timestamp="1527847289468">
-        <mark key="'" line="123" column="26" />
         <mark key="[" line="33" column="9" />
         <mark key="]" line="33" column="16" />
         <mark key="^" line="33" column="16" />
@@ -292,8 +284,8 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1526366306888">
         <mark key="'" line="374" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1527835911344">
-        <mark key="'" line="548" column="9" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" timestamp="1528076880163">
+        <mark key="'" line="363" column="28" />
         <mark key="[" line="527" column="0" />
         <mark key="]" line="527" column="0" />
         <mark key="." line="527" column="0" />
@@ -303,10 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1251" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="41" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
-      <jump line="104" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
-      <jump line="51" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
       <jump line="111" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
       <jump line="171" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
       <jump line="53" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
@@ -403,6 +391,10 @@
       <jump line="26" column="78" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/apps/mock_dsp_server/include/mock_bid.hrl" />
       <jump line="30" column="62" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/apps/mock_dsp_server/include/mock_bid.hrl" />
       <jump line="123" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_test_cases.erl" />
+      <jump line="91" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
+      <jump line="39" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" />
+      <jump line="363" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/config.hrl" />
+      <jump line="118" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -419,40 +411,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>omentum</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>SRC</text>
       </register>
       <register name="0" type="4">
-        <text>MOMENTUN_BID_INFO</text>
+        <text>RES_KEY_MOMENTUM_RESPOND</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1vbWVudHVtID0gP01PTUVOVFVNX0JJRF9JTkZPKCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LXNwZWMgaXNfbW9tZW50dW1fcmVxdWlyZWQoW2JpZF9hcmcoKSkgLT4gYm9vbGVhbigpLgppc19tb21lbnR1bV9yZXF1aXJlZChCaWRzKSAtPgogIGxpc3RzOmZpbHRlcihmdW4oe0RzcENvZGUsIF8sIF99KSAtPiBEc3BDb2RlID06PSA/UlRCX01PTUVOVFVNX0hFUk9OIGVuZCwgTm9uQnN3RFNQcykuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LWRlZmluZShNRURJQU1BVEhfQklEX0lORk8oQmlkUHJpY2UsIEZsb29yUHJpY2UsIEJpZFByb2NUaW1lKSwKICA/RFNQX0JJRF9JTkZPKD9SVEJfTUVESUFNQVRILCBCaWRQcmljZSwgRmxvb3JQcmljZSwgQmlkUHJvY1RpbWUsID9NRURJQU1BVEhfU1JDKSkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG15ICRkc3BfY29kZSA9ICRzZXR0aW5nLT57ZHNwX2NvZGV9OwogICAgaWYgKCRkc3BfY29kZSAhPSBEU1BfREJNICYmICRkc3BfY29kZSAhPSBEU1BfREJNX1NQKSB7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9CgogICAgIyBtb21lbnR1beOBruWKueaenOOCkua4rOOCi+OBn+OCgeOAgeODqeOCpOODluODieOCouOBruS4gOmDqOOBruaeoOOBq0RCTeOCkuOBpOOBquOBhOOBp+ODhuOCueODiOOCkuOBmeOCiwogICAgIyBodHRwczovL2ZsdWN0LmpwL2NoYXJnZS81MzU4L3NwdF9zaXRlL2RldGFpbC8xMDAwMDAzMjI3CiAgICBteSAkc2l0ZV9pZCA9ICRzZXR0aW5nLT57c2l0ZV9pZH07CiAgICBpZiAoJHNpdGVfaWQgIT0gMTAwMDAwMzIyNykgewogICAgICAgIHJldHVybiAwOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1vbWVudHVtID0gP01PTUVOVFVOX0JJRF9JTkZPKDk5OSksCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAxOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1vbWVudHVtUmVxID0gbGlzdHM6ZmlsdGVyKGZ1bih7WCwgXywgX30pIC0+IFggPTo9ID9SVEJfTU9NRU5UVU1fSEVST04gZW5kLCBOb25Cc3dEU1BzKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBEc3BDb2RlID0gYmlkX2dldHRlcjpiaWRfYm9keV9kc3BfY29kZShCaWRCb2R5KSwKICBEc3BDb2RlID06PSA/UlRCX01PTUVOVFVNX0hFUk9OLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEJpZHMgPSBtb2NrX2JpZF9tYWtlcjptYWtlX2JpZHMoW0RibSwgU2NhbGVvdXRdKSwK</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
