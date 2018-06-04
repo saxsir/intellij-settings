@@ -277,8 +277,10 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/model_campaign.go" timestamp="1526280313823">
         <mark key="'" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/libraries/Fluct/AdnetworkReport/PcFrameReport/Manager/PcAdnFrameReportManager.php" timestamp="1528097606497">
-        <mark key="'" line="20" column="20" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/libraries/Fluct/AdnetworkReport/PcFrameReport/Manager/PcAdnFrameReportManager.php" timestamp="1528098525996">
+        <mark key="'" line="25" column="22" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/DeliverUtilTest.php" timestamp="1526975942116">
         <mark key="'" line="341" column="40" />
@@ -304,7 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" />
       <jump line="80" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" />
       <jump line="82" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" />
       <jump line="2" column="59" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" />
@@ -404,6 +405,7 @@
       <jump line="237" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
       <jump line="163" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" />
       <jump line="20" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/libraries/Fluct/AdnetworkReport/PcFrameReport/Manager/PcAdnFrameReportManager.php" />
+      <jump line="25" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_ms/lib/applications/libraries/Fluct/AdnetworkReport/PcFrameReport/Manager/PcAdnFrameReportManager.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -426,7 +428,7 @@
         <text>target</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXkgJGFwcF9pZF9zZXR0aW5nID0gYnVpbGRfc2V0dGluZyh7CiAgICAgICAgICAgICAgICBkc3BfY29kZSAgICAgICA9PiBEU1BfREJNX1NQLAogICAgICAgICAgICAgICAgcmF0ZSAgICAgICAgICAgPT4gJHJlcXVlc3RfcmF0ZSwKICAgICAgICAgICAgICAgIGFwcF9pZCAgICAgICAgID0+ICRyZXF1ZXN0X2FwcF9pZCwKICAgICAgICAgICAgICAgIHB1Ymxpc2hlcl9pZCAgID0+ICRwdWJsaXNoZXJfaWQsCiAgICAgICAgICAgICAgICBhZGIgICAgICAgICAgICA9PiBcQGFkYgogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnkgPSAkdGhpcy0+cWIKICAgICAgICAgICAgLT5mcm9tKCdwY19hZG5fZnJhbWVfcmVwb3J0JykKICAgICAgICAgICAgLT5zZWxlY3QobnVsbCkKICAgICAgICAgICAgLT5zZWxlY3QoYXJyYXlfbWVyZ2Uoc2VsZjo6bm90TnVtYmVyRmllbGRzKCRwYXJhbXMpLCBzZWxmOjpudW1iZXJGaWVsZHMoJHBhcmFtcykpKQogICAgICAgICAgICAtPmlubmVySm9pbignYWRuX2FkX2ZyYW1lIE9OIHBjX2Fkbl9mcmFtZV9yZXBvcnQucmVwX2ZyYW1lX2lkID0gYWRuX2FkX2ZyYW1lLnJlcF9mcmFtZV9pZCcpCiAgICAgICAgICAgIC0+aW5uZXJKb2luKCdhZF9mcmFtZSBPTiBhZG5fYWRfZnJhbWUuZnJhbWVfaWQgPSBhZF9mcmFtZS5mcmFtZV9pZCcpCiAgICAgICAgICAgIC0+aW5uZXJKb2luKCdzcHRfc2l0ZSBPTiBhZF9mcmFtZS5zaXRlX2lkID0gc3B0X3NpdGUuc3B0X2lkJykKICAgICAgICAgICAgLT5pbm5lckpvaW4oJ3NwdF91bml0IE9OIGFkX2ZyYW1lLnVuaXRfaWQgPSBzcHRfdW5pdC5zcHRfaWQnKQogICAgICAgICAgICAtPmlubmVySm9pbignYWN0X2NvbXBhbnkgT04gc3B0X3NpdGUuc3B0X2NvbXBhbnlfaWQgPSBhY3RfY29tcGFueS5hY3RfaWQnKQogICAgICAgICAgICAtPmxlZnRKb2luKCdhY3RfYWNjb3VudCBPTiBhY3RfYWNjb3VudC5hY3RfaWQgPSBzcHRfc2l0ZS5zcHRfbWFuYWdlbWVudF91c2VyJykKICAgICAgICAgICAgLT5pbm5lckpvaW4oCiAgICAgICAgICAgICAgICA8PDxFT0QKY21uX2FkbmV0d29ya19tYXN0ZXIgT04gKAogICAgY21uX2FkbmV0d29ya19tYXN0ZXIuY21uX2lkID0gcGNfYWRuX2ZyYW1lX3JlcG9ydC5yZXBfYWRuZXR3b3JrX2lkIEFORAogICAgY21uX2FkbmV0d29ya19tYXN0ZXIuY21uX2lkID0gYWRuX2FkX2ZyYW1lLmFkbl9pZAopCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAogICAgc3VidGVzdCAnb3Pjgr/jg7zjgrLjg4bjgqPjg7PjgrDjgYzjgaTjgYTjgabjgYTjgosgeCB1c2VyYWdlbnTjgYzjg57jg4Pjg4HjgZfjgarjgY/jgabjgoLmipXjgZLjgosnID0+IHN1YnsKICAgICAgICAKICAgIH0K</text>
