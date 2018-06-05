@@ -63,6 +63,12 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.sql" timestamp="1528167283671">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" timestamp="1528095482178">
         <mark key="'" line="163" column="12" />
         <mark key="[" line="236" column="0" />
@@ -130,6 +136,9 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="159" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" timestamp="1528167038557">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/auction_tests.erl" timestamp="1527231832437">
         <mark key="'" line="318" column="4" />
@@ -220,6 +229,13 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1004ca06-b877-405e-8fd8-d7f6adc9e3ea/console.sql" timestamp="1528167534267">
+        <mark key="'" line="28" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="28" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1526540833090">
         <mark key="'" line="84" column="36" />
       </file>
@@ -232,6 +248,9 @@
         <mark key="]" line="103" column="17" />
         <mark key="." line="103" column="17" />
         <mark key="^" line="103" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1528167011864">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/buildAdInfoTest.php" timestamp="1527580783086">
         <mark key="'" line="0" column="0" />
@@ -306,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/apps/mock_dsp_server/include/mock_bid.hrl" />
       <jump line="17" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/apps/mock_dsp_server/include/mock_bid.hrl" />
       <jump line="18" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/apps/mock_dsp_server/include/mock_bid.hrl" />
       <jump line="19" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/apps/mock_dsp_server/include/mock_bid.hrl" />
@@ -406,6 +424,7 @@
       <jump line="1277" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="1286" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="311" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="30" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1004ca06-b877-405e-8fd8-d7f6adc9e3ea/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -422,7 +441,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[map {{%$_}} $)]</text>
+        <text>odr_</text>
       </register>
       <register name="/" type="4">
         <text>request_for</text>
@@ -431,31 +450,31 @@
         <text encoding="base64">ICAgIG15ICRtb21lbnR1bV9zZXR0aW5nID0gJHNldHRpbmc7CiAgICAkbW9tZW50dW1fc2V0dGluZy0+e2RzcF9jb2RlfSA9IERTUF9NT01FTlRVTV9IRVJPTjsKICAgIGlmIChkZWZpbmVkIGh2KCRtb21lbnR1bV9zZXR0aW5nLCAnbXVsdGlwdXJwb3NlJykpIHsKICAgICAgICBtdWx0aXB1cnBvc2UoJG1vbWVudHVtX3NldHRpbmcpLT57dGFyZ2V0X29zfSA9IDA7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnN1YiBtb21lbnR1bV9zZXR0aW5nIHsKICAgIG15ICgkc2V0dGluZykgPSBAXzsKCiAgICAjIOOBk+OCjOOBoOOBqOWPgueFp++8nwogICAgbXkgJG1vbWVudHVtX3NldHRpbmcgPSAkc2V0dGluZzsKICAgICRtb21lbnR1bV9zZXR0aW5nLT57ZHNwX2NvZGV9ID0gRFNQX01PTUVOVFVNX0hFUk9OOwogICAgaWYgKGRlZmluZWQgaHYoJG1vbWVudHVtX3NldHRpbmcsICdtdWx0aXB1cnBvc2UnKSkgewogICAgICAgIG11bHRpcHVycG9zZSgkbW9tZW50dW1fc2V0dGluZyktPnt0YXJnZXRfb3N9ID0gMDsKICAgIH0KCiAgICAkbW9tZW50dW1fc2V0dGluZzsKfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICRtb21lbnR1bV9zZXR0aW5nCiAgICBteSAkbW9tZW50dW1fc2V0dGluZyA9ICRzZXR0aW5nOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICNkZWJ1ZygicmVxcyIsQHJlcXMpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Zygic2V0dGluZyIsICRfKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoIm55YW4iLCAkXyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhwbGFpbgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVzYyBhZF9mcmFtZTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CnN1YiBtb21lbnR1bV9zZXR0aW5nIHsKICAgIG15ICgkc2V0dGluZykgPSBAXzsKCiAgICAjIOOBk+OCjOOBoOOBqOWPgueFp++8nwogICAgbXkgJG1vbWVudHVtX3NldHRpbmcgPSAkc2V0dGluZzsKICAgICRtb21lbnR1bV9zZXR0aW5nLT57ZHNwX2NvZGV9ID0gRFNQX01PTUVOVFVNX0hFUk9OOwogICAgaWYgKGRlZmluZWQgaHYoJG1vbWVudHVtX3NldHRpbmcsICdtdWx0aXB1cnBvc2UnKSkgewogICAgICAgIG11bHRpcHVycG9zZSgkbW9tZW50dW1fc2V0dGluZyktPnt0YXJnZXRfb3N9ID0gMDsKICAgIH0KCiAgICAkbW9tZW50dW1fc2V0dGluZzsKfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICRtb21lbnR1bV9zZXR0aW5nCiAgICBteSAkbW9tZW50dW1fc2V0dGluZyA9ICRzZXR0aW5nOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICNkZWJ1ZygicmVxcyIsQHJlcXMpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG15CgogICAgewogICAgICAgIGRzcF9jb2RlICAgICA9PiAkc2V0dGluZy0+e2RzcF9jb2RlfSwKICAgICAgICBtdWx0aXB1cnBvc2UgPT4KICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Zygic2V0dGluZyIsICRfKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoIm55YW4iLCAkXyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Zygic2V0dGluZzIiLCAkXyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
