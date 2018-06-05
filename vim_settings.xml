@@ -229,12 +229,12 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1004ca06-b877-405e-8fd8-d7f6adc9e3ea/console.sql" timestamp="1528167534267">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1004ca06-b877-405e-8fd8-d7f6adc9e3ea/console.sql" timestamp="1528171276805">
         <mark key="'" line="28" column="1" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="28" column="1" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1526540833090">
         <mark key="'" line="84" column="36" />
@@ -453,28 +453,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwbGFpbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVzYyBhZF9mcmFtZTsK</text>
+        <text encoding="base64">ZXhwbGFpbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnN1YiBtb21lbnR1bV9zZXR0aW5nIHsKICAgIG15ICgkc2V0dGluZykgPSBAXzsKCiAgICAjIOOBk+OCjOOBoOOBqOWPgueFp++8nwogICAgbXkgJG1vbWVudHVtX3NldHRpbmcgPSAkc2V0dGluZzsKICAgICRtb21lbnR1bV9zZXR0aW5nLT57ZHNwX2NvZGV9ID0gRFNQX01PTUVOVFVNX0hFUk9OOwogICAgaWYgKGRlZmluZWQgaHYoJG1vbWVudHVtX3NldHRpbmcsICdtdWx0aXB1cnBvc2UnKSkgewogICAgICAgIG11bHRpcHVycG9zZSgkbW9tZW50dW1fc2V0dGluZyktPnt0YXJnZXRfb3N9ID0gMDsKICAgIH0KCiAgICAkbW9tZW50dW1fc2V0dGluZzsKfQo=</text>
+        <text encoding="base64">ZGVzYyBhZF9mcmFtZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRtb21lbnR1bV9zZXR0aW5nCiAgICBteSAkbW9tZW50dW1fc2V0dGluZyA9ICRzZXR0aW5nOwo=</text>
+        <text encoding="base64">CnN1YiBtb21lbnR1bV9zZXR0aW5nIHsKICAgIG15ICgkc2V0dGluZykgPSBAXzsKCiAgICAjIOOBk+OCjOOBoOOBqOWPgueFp++8nwogICAgbXkgJG1vbWVudHVtX3NldHRpbmcgPSAkc2V0dGluZzsKICAgICRtb21lbnR1bV9zZXR0aW5nLT57ZHNwX2NvZGV9ID0gRFNQX01PTUVOVFVNX0hFUk9OOwogICAgaWYgKGRlZmluZWQgaHYoJG1vbWVudHVtX3NldHRpbmcsICdtdWx0aXB1cnBvc2UnKSkgewogICAgICAgIG11bHRpcHVycG9zZSgkbW9tZW50dW1fc2V0dGluZyktPnt0YXJnZXRfb3N9ID0gMDsKICAgIH0KCiAgICAkbW9tZW50dW1fc2V0dGluZzsKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICNkZWJ1ZygicmVxcyIsQHJlcXMpOwo=</text>
+        <text encoding="base64">ICAgICRtb21lbnR1bV9zZXR0aW5nCiAgICBteSAkbW9tZW50dW1fc2V0dGluZyA9ICRzZXR0aW5nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Zygic2V0dGluZyIsICRfKTsK</text>
+        <text encoding="base64">ICAgICNkZWJ1ZygicmVxcyIsQHJlcXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoIm55YW4iLCAkXyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Zygic2V0dGluZyIsICRfKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoIm55YW4iLCAkXyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
