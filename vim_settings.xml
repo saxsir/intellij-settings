@@ -240,11 +240,12 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/AdColony/ReportClient.php" timestamp="1528340131252">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/AdColony/ReportClient.php" timestamp="1528344923593">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
         <mark key="^" line="11" column="11" />
-        <mark key="." line="23" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" timestamp="1526884791003">
         <mark key="'" line="199" column="17" />
@@ -268,19 +269,18 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1526366306888">
         <mark key="'" line="374" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/AdColony/DownloadCommand.php" timestamp="1528341444060">
-        <mark key="'" line="81" column="26" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="73" column="66" />
-        <mark key="^" line="88" column="7" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/AdColony/DownloadCommand.php" timestamp="1528344955868">
+        <mark key="'" line="80" column="26" />
+        <mark key="[" line="78" column="62" />
+        <mark key="]" line="78" column="63" />
+        <mark key="^" line="78" column="63" />
+        <mark key="." line="78" column="63" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js.tmp.js" timestamp="1526970613485">
         <mark key="'" line="198" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="465" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="201" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="477" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
@@ -380,6 +380,7 @@
       <jump line="83" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/AdColony/DownloadCommand.php" />
       <jump line="108" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/vendor/symfony/console/Symfony/Component/Console/Command/Command.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/vendor/symfony/console/Symfony/Component/Console/Command/Command.php" />
+      <jump line="121" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/AdColony/ReportClient.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -396,7 +397,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFdoZW4gdGhpcyBhYnN0cmFjdCBtZXRob2QgaXMgbm90IGltcGxlbWVudGVk</text>
+        <text>apivh</text>
       </register>
       <register name="/" type="4">
         <text>execute</text>
@@ -405,31 +406,31 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogRXhlY3V0ZXMgdGhlIGN1cnJlbnQgY29tbWFuZC4KICAgICAqCiAgICAgKiBUaGlzIG1ldGhvZCBpcyBub3QgYWJzdHJhY3QgYmVjYXVzZSB5b3UgY2FuIHVzZSB0aGlzIGNsYXNzCiAgICAgKiBhcyBhIGNvbmNyZXRlIGNsYXNzLiBJbiB0aGlzIGNhc2UsIGluc3RlYWQgb2YgZGVmaW5pbmcgdGhlCiAgICAgKiBleGVjdXRlKCkgbWV0aG9kLCB5b3Ugc2V0IHRoZSBjb2RlIHRvIGV4ZWN1dGUgYnkgcGFzc2luZwogICAgICogYSBDbG9zdXJlIHRvIHRoZSBzZXRDb2RlKCkgbWV0aG9kLgogICAgICoKICAgICAqIEBwYXJhbSBJbnB1dEludGVyZmFjZSAgJGlucHV0ICBBbiBJbnB1dEludGVyZmFjZSBpbnN0YW5jZQogICAgICogQHBhcmFtIE91dHB1dEludGVyZmFjZSAkb3V0cHV0IEFuIE91dHB1dEludGVyZmFjZSBpbnN0YW5jZQogICAgICoKICAgICAqIEByZXR1cm4gbnVsbHxpbnRlZ2VyIG51bGwgb3IgMCBpZiBldmVyeXRoaW5nIHdlbnQgZmluZSwgb3IgYW4gZXJyb3IgY29kZQogICAgICoKICAgICAqIEB0aHJvd3MgXExvZ2ljRXhjZXB0aW9uIFdoZW4gdGhpcyBhYnN0cmFjdCBtZXRob2QgaXMgbm90IGltcGxlbWVudGVkCiAgICAgKiBAc2VlICAgIHNldENvZGUoKQogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhdGggPSAkaW5wdXQtPmdldE9wdGlvbignb3V0cHV0LXBhdGgnKTsKICAgICAgICAgICAgJGNvbmZpZyA9IEZpbGVVdGlsOjpsb2FkWWFtbCgkaW5wdXQtPmdldE9wdGlvbignY29uZmlnJykpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFxaZW5kXEh0dHBcQ2xpZW50XEFkYXB0ZXIgJGFkYXB0ZXIKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldFplbmRBZGFwdGVyKCRhZGFwdGVyKQogICAgewogICAgICAgICR0aGlzLT5jbGllbnRDb25maWdbJ2FkYXB0ZXInXSA9ICRhZGFwdGVyOwogICAgICAgICR0aGlzLT5jbGllbnQtPnNldE9wdGlvbnMoJHRoaXMtPmNsaWVudENvbmZpZyk7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAvLyBpbml0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGUgID0gbmV3IFxEYXRlVGltZSgkaW5wdXQtPmdldE9wdGlvbignZGF0ZScpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBzZWUgICAgc2V0Q29kZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAkcGF0aCA9ICRpbnB1dC0+Z2V0T3B0aW9uKCdvdXRwdXQtcGF0aCcpOwogICAgICAgICRkYXRlICA9IG5ldyBcRGF0ZVRpbWUoJGlucHV0LT5nZXRPcHRpb24oJ2RhdGUnKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIFRoaXMgbWV0aG9kIGlzIG5vdCBhYnN0cmFjdCBiZWNhdXNlIHlvdSBjYW4gdXNlIHRoaXMgY2xhc3MKICAgICAqIGFzIGEgY29uY3JldGUgY2xhc3MuIEluIHRoaXMgY2FzZSwgaW5zdGVhZCBvZiBkZWZpbmluZyB0aGUKICAgICAqIGV4ZWN1dGUoKSBtZXRob2QsIHlvdSBzZXQgdGhlIGNvZGUgdG8gZXhlY3V0ZSBieSBwYXNzaW5nCiAgICAgKiBhIENsb3N1cmUgdG8gdGhlIHNldENvZGUoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAkcGF0aCA9ICRpbnB1dC0+Z2V0T3B0aW9uKCdvdXRwdXQtcGF0aCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEB2YXIgXERhdGVUaW1lSW1tdXRhYmxlCiAgICAgKi8KICAgIHByb3RlY3RlZCAkZGF0ZTsKCiAgICAvKioKICAgICAqIEB2YXIgXFRpbWVyCiAgICAgKi8KICAgIHByb3RlY3RlZCAkdGltZXI7CgogICAgcHJvdGVjdGVkICRwYXRoOwogICAgcHJvdGVjdGVkICRjb25maWc7CiAgICBwcm90ZWN0ZWQgJGFwaUluZm87Cgo=</text>
+        <text encoding="base64">ICAgICAgICAkY29uZmlnID0gRmlsZVV0aWw6OmxvYWRZYW1sKCRpbnB1dC0+Z2V0T3B0aW9uKCdjb25maWcnKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBcUHNyXExvZ1xMb2dnZXJJbnRlcmZhY2UKICAgICAqLwogICAgcHJvdGVjdGVkICRsb2dnZXI7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhdGggPSAkaW5wdXQtPmdldE9wdGlvbignb3V0cHV0LXBhdGgnKTsKICAgICAgICAgICAgJGNvbmZpZyA9IEZpbGVVdGlsOjpsb2FkWWFtbCgkaW5wdXQtPmdldE9wdGlvbignY29uZmlnJykpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRpbWVyID0gbmV3IFRpbWVyKCk7CiAgICAgICAgICAgICRkYXRlICA9IG5ldyBcRGF0ZVRpbWUoJGlucHV0LT5nZXRPcHRpb24oJ2RhdGUnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAvLyBpbml0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAqIEBzZWUgICAgc2V0Q29kZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
