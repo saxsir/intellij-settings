@@ -107,10 +107,6 @@
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="39" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_maio/bin/RewardedVideo/console.php" timestamp="1528356259387">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="41" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/SummaryImport/SiteImporter.php" timestamp="1527557667148">
         <mark key="'" line="150" column="66" />
       </file>
@@ -144,10 +140,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" timestamp="1525670548986">
         <mark key="'" line="6" column="59" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_maio/Makefile" timestamp="1528078945290">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/999/templates/index.html" timestamp="1528425103287">
         <mark key="[" line="28" column="0" />
@@ -237,6 +229,13 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525838933281">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1528448990091">
+        <mark key="'" line="305" column="8" />
+        <mark key="[" line="306" column="0" />
+        <mark key="]" line="306" column="0" />
+        <mark key="." line="306" column="0" />
+        <mark key="^" line="303" column="37" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Http/Client/AdColony/ReportClientTest.php" timestamp="1528356079540">
         <mark key="'" line="42" column="15" />
@@ -427,10 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1277" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="1286" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="311" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="30" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1004ca06-b877-405e-8fd8-d7f6adc9e3ea/console.sql" />
       <jump line="0" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1004ca06-b877-405e-8fd8-d7f6adc9e3ea/console.sql" />
       <jump line="196" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.phar/vendor/symfony/console/Command/Command.php" />
       <jump line="663" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.phar/vendor/symfony/console/Command/Command.php" />
@@ -527,6 +522,10 @@
       <jump line="69" column="20" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/999/assets/js/app.js" />
       <jump line="83" column="11" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/999/assets/js/app.js" />
       <jump line="11" column="13" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/original/assets/js/app.js" />
+      <jump line="1212" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="127" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="1185" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="305" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -543,49 +542,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1000019732</text>
+        <text>(!%$momentum_setting)</text>
       </register>
       <register name="/" type="4">
-        <text>clearMessage</text>
+        <text>momentum_se</text>
       </register>
       <register name="0" type="4">
         <text>CMN_OPTION_ID_ADCOLONY_RVID_SP</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhbmQgYy5jbW5fYWRuZXR3b3JrX2lkIDw+IDEwNAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Li4uCmlmICghZGVmaW5lZCAkbW9tZW50dW1fc2V0dGluZyAmJiAuLi4pIHsgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVzYyByZXBfdG90YWxfYWRuZXR3b3JrX3NwOwoKCgo=</text>
+        <text encoding="base64">ICAgIG15ICRtb21lbnR1bV9zZXR0aW5nID0ge307Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbmQgZi51bml0X2lkID0gMTAwMDAyODc4Mwo=</text>
+        <text encoding="base64">ICAgICAgICBteSAkbW9tZW50dW1fc2V0dGluZyA9IHVuZGVmOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
+        <text encoding="base64">ICAgIGlmIChkZWZpbmVkIGh2KCRtb21lbnR1bV9zZXR0aW5nLCAnbXVsdGlwdXJwb3NlJykpIHsKICAgICAgICBtdWx0aXB1cnBvc2UoJG1vbWVudHVtX3NldHRpbmcpLT57dGFyZ2V0X29zfSA9IDA7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ICBhbmQgYy5jbW5fYWRuZXR3b3JrX2lkIDw+IDEwNAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ZGVzYyByZXBfdG90YWxfYWRuZXR3b3JrX3NwOwoKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
+        <text encoding="base64">ICBhbmQgZi51bml0X2lkID0gMTAwMDAyODc4Mwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>clearMessage</last-search>
+      <last-search>momentum_se</last-search>
       <last-offset />
-      <last-pattern>clearMessage</last-pattern>
+      <last-pattern>momentum_se</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -593,8 +592,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Clone</entry>
-        <entry>request_for</entry>
         <entry>try</entry>
         <entry>includeStacktraces</entry>
         <entry>Tapjoy</entry>
@@ -613,6 +610,8 @@
         <entry>sendMessa</entry>
         <entry>newMessage</entry>
         <entry>clearMessage</entry>
+        <entry>momentum_sett</entry>
+        <entry>momentum_se</entry>
       </history-search>
       <history-cmd>
         <entry>122</entry>
