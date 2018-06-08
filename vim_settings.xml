@@ -248,11 +248,11 @@
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/original/server.go" timestamp="1528425525660">
         <mark key="'" line="30" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1528436457705">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1528440125877">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/testing_sync/helpers/index.php" timestamp="1525855900272">
         <mark key="'" line="11" column="0" />
@@ -543,7 +543,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1000019732</text>
       </register>
       <register name="/" type="4">
         <text>clearMessage</text>
@@ -552,31 +552,31 @@
         <text>CMN_OPTION_ID_ADCOLONY_RVID_SP</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
+        <text encoding="base64">ICBhbmQgYy5jbW5fYWRuZXR3b3JrX2lkIDw+IDEwNAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
+        <text encoding="base64">ZGVzYyByZXBfdG90YWxfYWRuZXR3b3JrX3NwOwoKCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ICBhbmQgZi51bml0X2lkID0gMTAwMDAyODc4Mwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
+        <text encoding="base64">CQkvLyBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgLS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLS0+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgPCEtLSBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLS0+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPCEtLSBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
