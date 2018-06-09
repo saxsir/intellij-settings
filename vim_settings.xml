@@ -175,6 +175,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="10" column="55" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/saxsir/server.go" timestamp="1528560864676">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="62" column="5" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1527573994613">
         <mark key="'" line="199" column="5" />
         <mark key="[" line="241" column="0" />
@@ -426,7 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1004ca06-b877-405e-8fd8-d7f6adc9e3ea/console.sql" />
       <jump line="196" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.phar/vendor/symfony/console/Command/Command.php" />
       <jump line="663" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.phar/vendor/symfony/console/Command/Command.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.phar/vendor/symfony/console/Command/Command.php" />
@@ -526,6 +530,7 @@
       <jump line="127" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="1185" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="305" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="31" column="4" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/saxsir/server.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -547,8 +552,8 @@
       <register name="/" type="4">
         <text>momentum_se</text>
       </register>
-      <register name="0" type="4">
-        <text>CMN_OPTION_ID_ADCOLONY_RVID_SP</text>
+      <register name="0" type="2">
+        <text encoding="base64">CWFwaS5HRVQoIi9waW5nIiwgZnVuYyhjICpnaW4uQ29udGV4dCkgewoJCWMuU3RyaW5nKGh0dHAuU3RhdHVzT0ssICJwb25nIikKCX0pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
