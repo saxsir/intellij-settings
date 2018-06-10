@@ -351,6 +351,11 @@
         <mark key="." line="103" column="17" />
         <mark key="^" line="103" column="17" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/saxsir/env/env.go" timestamp="1528612590880">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/buildAdInfoTest.php" timestamp="1527580783086">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="28" />
@@ -443,7 +448,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1526366306888">
         <mark key="'" line="374" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/sawa/bot/poster.go" timestamp="1528609581569">
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/sawa/bot/poster.go" timestamp="1528612519220">
         <mark key="'" line="4" column="7" />
         <mark key="[" line="27" column="28" />
         <mark key="]" line="27" column="30" />
@@ -576,35 +581,35 @@
       <register name="/" type="4">
         <text>fmt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50bG4oImhvZ2UiKQo=</text>
+      <register name="0" type="4">
+        <text>HlaMTHhA3cjdkhytPRfmGeqSiFp9eGUb</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWpra2sK</text>
+        <text encoding="base64">CS8vIEtleXdvcmRBUElBcHBJRCDjga9ZYWhvbyHjg4fjg5njg63jg4Pjg5Hjg7zjg43jg4Pjg4jjg6/jg7zjgq/vvIhodHRwczovL2RldmVsb3Blci55YWhvby5jby5qcC/vvInjga7jgqLjg5fjg6rjgrHjg7zjgrfjg6fjg7NJROOBp+OBmQoJS2V5d29yZEFQSUFwcElEID0gIiIKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiUjdlxuIiwgZGF0YSkK</text>
+        <text encoding="base64">CQkJCWpra2sK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIiUjdlxuIiwgZGF0YSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJob2dlIikK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLS0+Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJob2dlIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgLS0+Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgPCEtLSBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLS0+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CVVzZXJOYW1lIHN0cmluZyBganNvbjoidXNlcm5hbWUiYAo=</text>
+        <text encoding="base64">ICAgICAgPCEtLSBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
