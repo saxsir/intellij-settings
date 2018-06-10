@@ -371,6 +371,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1527653948572">
         <mark key="'" line="20" column="19" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/saxsir/templates/index.html" timestamp="1528595116000">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/original/templates/index.html" timestamp="1528425491351">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -420,6 +425,13 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/saxsir/model/message.go" timestamp="1528595168605">
+        <mark key="'" line="44" column="116" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="66" column="28" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/DeliverUtilTest.php" timestamp="1526975942116">
         <mark key="'" line="341" column="40" />
       </file>
@@ -431,7 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.phar/vendor/symfony/console/Command/Command.php" />
       <jump line="663" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.phar/vendor/symfony/console/Command/Command.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.phar/vendor/symfony/console/Command/Command.php" />
       <jump line="83" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Factory/LoggerFactory.php" />
@@ -531,6 +542,7 @@
       <jump line="1185" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="305" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="31" column="4" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/saxsir/server.go" />
+      <jump line="44" column="116" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/saxsir/model/message.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -556,31 +568,31 @@
         <text encoding="base64">CWFwaS5HRVQoIi9waW5nIiwgZnVuYyhjICpnaW4uQ29udGV4dCkgewoJCWMuU3RyaW5nKGh0dHAuU3RhdHVzT0ssICJwb25nIikKCX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Li4uCmlmICghZGVmaW5lZCAkbW9tZW50dW1fc2V0dGluZyAmJiAuLi4pIHsgfQo=</text>
+        <text encoding="base64">ICAgICAgLS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG15ICRtb21lbnR1bV9zZXR0aW5nID0ge307Cg==</text>
+        <text encoding="base64">ICAgICAgPCEtLSBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBteSAkbW9tZW50dW1fc2V0dGluZyA9IHVuZGVmOwo=</text>
+        <text encoding="base64">ICAgICAgLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChkZWZpbmVkIGh2KCRtb21lbnR1bV9zZXR0aW5nLCAnbXVsdGlwdXJwb3NlJykpIHsKICAgICAgICBtdWx0aXB1cnBvc2UoJG1vbWVudHVtX3NldHRpbmcpLT57dGFyZ2V0X29zfSA9IDA7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgPCEtLSBUdXRvcmlhbCAxLTIuIOODpuODvOOCtuODvOWQjeOCkui/veWKoOOBl+OCiOOBhgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmQgYy5jbW5fYWRuZXR3b3JrX2lkIDw+IDEwNAo=</text>
+        <text encoding="base64">CS8vIFR1dG9yaWFsIDEtMS4g44Om44O844K244O85ZCN44KS6KGo56S644GX44KI44GGCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVzYyByZXBfdG90YWxfYWRuZXR3b3JrX3NwOwoKCgo=</text>
+        <text encoding="base64">Li4uCmlmICghZGVmaW5lZCAkbW9tZW50dW1fc2V0dGluZyAmJiAuLi4pIHsgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhbmQgZi51bml0X2lkID0gMTAwMDAyODc4Mwo=</text>
+        <text encoding="base64">ICAgIG15ICRtb21lbnR1bV9zZXR0aW5nID0ge307Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
