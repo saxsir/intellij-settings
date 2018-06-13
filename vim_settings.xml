@@ -336,10 +336,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/RVidConvertMapper.php" timestamp="1528356614914">
         <mark key="'" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" timestamp="1528868475354">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" timestamp="1528871780612">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="1" />
+        <mark key="." line="49" column="1" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Midway/DeleteCommand.php" timestamp="1526541309919">
         <mark key="'" line="61" column="53" />
@@ -471,11 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/AdColony/DownloadCommand.php" />
-      <jump line="94" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/AdColony/DownloadCommand.php" />
-      <jump line="68" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/AdColony/DownloadCommand.php" />
-      <jump line="80" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/AdColony/ReportClient.php" />
-      <jump line="83" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/AdColony/DownloadCommand.php" />
       <jump line="108" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/vendor/symfony/console/Symfony/Component/Console/Command/Command.php" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/vendor/symfony/console/Symfony/Component/Console/Command/Command.php" />
       <jump line="121" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/AdColony/ReportClient.php" />
@@ -571,6 +567,11 @@
       <jump line="15" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="34" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="125" column="49" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
+      <jump line="78" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
+      <jump line="38" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
+      <jump line="91" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
+      <jump line="81" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
+      <jump line="73" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -590,46 +591,46 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>imobile</text>
+        <text>bsw</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">MDAgMDMgKiAqICogZmx1Y3QgbWFrZSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2gvaW1wb3J0X2ZsdWN0X2JjbG9nMl9yZXBvcnQgcnVuIEVOVj1wcmUgPi9kZXYvbnVsbAowMCAwMyAqICogKiBmbHVjdCBtYWtlIC1DIC9ob21lL2ZsdWN0X3JlcG9ydF9iYXRjaC9zcHRfcGFydG5lcl9yZXZlbnVlX3NoYXJlIHJ1bl9pbnNlcnQgRU5WPXByZSA+L2Rldi9udWxsCjAwIDAzICogKiAqIGZsdWN0IG1ha2UgLUMgL2hvbWUvZmx1Y3RfcmVwb3J0X2JhdGNoL21vbWVudHVtX2ZpbHRlciAtZiBpbXBvcnQubWsgaW1wb3J0IEVOVj1wcmUgPi9kZXYvbnVsbAoKMDAgMDQgKiAqICogZmx1Y3QgbWFrZSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2gvcmVwX2JhdGNoX3J0YiAtZiBuZXcubWsgRU5WPXByZSA+L2Rldi9udWxsCjEwIDA0ICogKiAqIGZsdWN0IG1ha2UgLUMgL2hvbWUvZmx1Y3RfcmVwb3J0X2JhdGNoL3JlcF9iYXRjaF9hZG5ldHdvcmtfaW1vYmlsZSBydW5fcGMgRU5WPXByZSA+L2Rldi9udWxsCjIwIDA0ICogKiAqIGZsdWN0IG1ha2UgLUMgL2hvbWUvZmx1Y3RfcmVwb3J0X2JhdGNoL3JlcF9iYXRjaF9hZG5ldHdvcmtfemdvayBydW4gRU5WPXByZSA+L2Rldi9udWxsCg==</text>
+      <register name="0" type="4">
+        <text>APP_ENV</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MDAgMDQgKiAqICogZmx1Y3Qgc291cmNlIC9ldGMvcHJvZmlsZSAmJiBtYWtlIC1pcyAtaiAwMF8wNF9BX0FfQSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2ggRU5WPXByZSA+IC9kZXYvbnVsbAoKMDAgMDQgKiAqICogZmx1Y3QgbWFrZSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2gvcmVwX2JhdGNoX3J0YiAtZiBuZXcubWsgRU5WPXByZSA+L2Rldi9udWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IzAwIDA0ICogKiAqIGZsdWN0IHNvdXJjZSAvZXRjL3Byb2ZpbGUgJiYgbWFrZSAtaXMgLWogMDBfMDRfQV9BX0EgLUMgL2hvbWUvZmx1Y3RfcmVwb3J0X2JhdGNoIEVOVj1wcmUgPiAvZGV2L251bGwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CS1tYWtlIHJ1bl9wYyAtQyAuL3JlcF9iYXRjaF9hZG5ldHdvcmtfaW1vYmlsZQoJIyB6Z29r44Gu5Y+W44KK6L6844G/44GvOOaZguWPsOOBq+OChOOBo+OBpuOBhOOBn+OBjDnmmYLjgavooqvjgorjgZ3jgYbjgaDjgaPjgZ/jga7jgac05pmC5Y+w44Gr56e744GX44GfCgktbWFrZSBydW4gLUMgLi9yZXBfYmF0Y2hfYWRuZXR3b3JrX3pnb2sK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">MDAgMDMgKiAqICogZmx1Y3QgbWFrZSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2gvaW1wb3J0X2ZsdWN0X2JjbG9nMl9yZXBvcnQgcnVuIEVOVj1wcmUgPi9kZXYvbnVsbAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">MDAgMDMgKiAqICogZmx1Y3Qgc291cmNlIC9ldGMvcHJvZmlsZSAmJiBtYWtlIC1pcyAtaiAwMF8wM19BX0FfQSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2ggRU5WPXByZSA+IC9kZXYvbnVsbAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IzAwIDAzICogKiAqIGZsdWN0IHNvdXJjZSAvZXRjL3Byb2ZpbGUgJiYgbWFrZSAtaXMgLWogMDBfMDNfQV9BX0EgLUMgL2hvbWUvZmx1Y3RfcmVwb3J0X2JhdGNoIEVOVj1wcmUgPiAvZGV2L251bGwK</text>
+        <text encoding="base64">MDAgMDMgKiAqICogZmx1Y3QgbWFrZSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2gvc3B0X3BhcnRuZXJfcmV2ZW51ZV9zaGFyZSBydW5faW5zZXJ0IEVOVj1wcmUgPi9kZXYvbnVsbAowMCAwMyAqICogKiBmbHVjdCBtYWtlIC1DIC9ob21lL2ZsdWN0X3JlcG9ydF9iYXRjaC9tb21lbnR1bV9maWx0ZXIgLWYgaW1wb3J0Lm1rIGltcG9ydCBFTlY9cHJlID4vZGV2L251bGwK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IzAwIDA0ICogKiAqIGZsdWN0IHNvdXJjZSAvZXRjL3Byb2ZpbGUgJiYgbWFrZSAtaXMgLWogMDBfMDRfQV9BX0EgLUMgL2hvbWUvZmx1Y3RfcmVwb3J0X2JhdGNoIEVOVj1wcmUgPiAvZGV2L251bGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS1tYWtlIGltcG9ydCAtQyAuL21vbWVudHVtX2ZpbHRlciAtZiBpbXBvcnQubWsK</text>
+        <text encoding="base64">CS1tYWtlIHJ1bl9wYyAtQyAuL3JlcF9iYXRjaF9hZG5ldHdvcmtfaW1vYmlsZQoJIyB6Z29r44Gu5Y+W44KK6L6844G/44GvOOaZguWPsOOBq+OChOOBo+OBpuOBhOOBn+OBjDnmmYLjgavooqvjgorjgZ3jgYbjgaDjgaPjgZ/jga7jgac05pmC5Y+w44Gr56e744GX44GfCgktbWFrZSBydW4gLUMgLi9yZXBfYmF0Y2hfYWRuZXR3b3JrX3pnb2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS1tYWtlIGltcG9ydCAtQyAuL21vbWVudHVtX2ZpbHRlciAtZiBpbXBvcnQubWsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>imobile</last-search>
+      <last-search>bsw</last-search>
       <last-offset />
-      <last-pattern>imobile</last-pattern>
+      <last-pattern>bsw</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -637,7 +638,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Maio</entry>
         <entry>adco</entry>
         <entry>tap</entry>
         <entry>tapjoy</entry>
@@ -657,9 +657,9 @@
         <entry>spt_reve</entry>
         <entry>momentum</entry>
         <entry>imobile</entry>
+        <entry>bsw</entry>
       </history-search>
       <history-cmd>
-        <entry>122</entry>
         <entry>124</entry>
         <entry>75</entry>
         <entry>333</entry>
@@ -678,6 +678,7 @@
         <entry>vs</entry>
         <entry>%s/maio/adcolony/g</entry>
         <entry>%s/Maio/AdColony/g</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
