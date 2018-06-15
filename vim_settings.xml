@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/AdColony/AssignMapper.php" timestamp="1529045831927">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/AdColony/AssignMapper.php" timestamp="1529048668616">
         <mark key="[" line="20" column="19" />
         <mark key="]" line="20" column="19" />
         <mark key="." line="20" column="19" />
@@ -297,10 +297,10 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525838933281">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Http/Client/AdColony/ReportClientTest.php" timestamp="1529045664501">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="211" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Http/Client/AdColony/ReportClientTest.php" timestamp="1529049230720">
+        <mark key="'" line="136" column="4" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="136" />
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/original/server.go" timestamp="1528425525660">
@@ -308,6 +308,12 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/_build/test/lib/fluct_rtb/src/auction.erl" timestamp="1527239184351">
         <mark key="'" line="111" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/AdColony/AssignMapperTest.php" timestamp="1529049500122">
+        <mark key="[" line="32" column="56" />
+        <mark key="]" line="32" column="57" />
+        <mark key="." line="32" column="57" />
+        <mark key="^" line="32" column="57" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/original/assets/js/app.js" timestamp="1528425795180">
         <mark key="'" line="11" column="13" />
@@ -413,7 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
       <jump line="325" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
       <jump line="288" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
       <jump line="251" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
@@ -513,54 +518,66 @@
       <jump line="43" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Http/Client/AdColony/ReportClientTest.php" />
       <jump line="143" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Http/Client/AdColony/ReportClientTest.php" />
       <jump line="110" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/AdColony/ImportSpCommand.php" />
+      <jump line="136" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Http/Client/AdColony/ReportClientTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <keys>
-          <key char="102" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
           <key char="44" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="113" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="120" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
         </keys>
       </register>
       <register name="-" type="4">
-        <text>protected</text>
+        <text>actual</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcGF0aCAgICAgPSAkaW5wdXQtPmdldE9wdGlvbigncGF0aCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3ByaWNlJyA9PiAnJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBpbml0KElucHV0SW50ZXJmYWNlICRpbnB1dCkKICAgIHsKICAgICAgICAkcGF0aCAgICAgPSAkaW5wdXQtPmdldE9wdGlvbigncGF0aCcpOwoKICAgICAgICByZXR1cm4gWyRsb2dnZXIsICRkYXRlLCAkdGltZXIsICRkYk1hc3RlciwgJGRiU2xhdmUsICRhZG4sICRzcWxpdGUsICRwYXRoXTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2ltcHMnID0+ICc5JywK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xpc3QoJGxvZ2dlciwgJGRhdGUsICR0aW1lciwgJGRiTWFzdGVyLCAkZGJTbGF2ZSwgJGFkbiwgJHNxbGl0ZSwgJHBhdGgpID0gJHRoaXMtPmluaXQoJGlucHV0KTsK</text>
+      <register name="3" type="8">
+        <text>+
++
++
++
++
++
++
++
++
++
++
++
++
++
++</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2ltcCcgPT4gJycsCiAgICAgICAgICAgICAgICAgICAgICAgICdwcmljZScgPT4gJycsCiAgICAgICAgICAgICAgICAgICAgICAgICdjbGljaycgPT4gJycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2ltcCcgPT4gJycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc3FsaXRlICAgPSBTcWxpdGVGYWN0b3J5OjpjcmVhdGVSZXBGcmFtZU5vdGljZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3ByaWNlJyA9PiAnJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3ByaWNlJyA9PiAnJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYWRuID0gJG1hbmFnZXItPmZpbmRBZG5ldHdvcmtCeU9wdGlvbklkKENtbkFkbmV0d29ya01hc3Rlcjo6Q01OX09QVElPTl9JRF9BRENPTE9OWV9SVklEX1NQKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2ltcCcgPT4gJycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYWRuID0gJG1hbmFnZXItPmZpbmRBZG5ldHdvcmtCeU9wdGlvbklkKENtbkFkbmV0d29ya01hc3Rlcjo6Q01OX09QVElPTl9JRF9BRENPTE9OWV9SVklEX1NQKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ19zdGF0dXMnID0+ICfphY3kv6HkuK0nLAogICAgICAgICAgICAgICAgICAgICAgICAnX2NyZWF0ZWRBdCcgPT4gJzIwMTcvMTAvMjAgMTI6MDA6MDAnLAogICAgICAgICAgICAgICAgICAgICAgICAnX3BsYXlzJyA9PiAnMScsCiAgICAgICAgICAgICAgICAgICAgICAgICdfcGxheXNDb21wbGV0ZWQnID0+ICcxJywKICAgICAgICAgICAgICAgICAgICAgICAgJ19jcGN2JyA9PiAnMS4xMzkwJywKICAgICAgICAgICAgICAgICAgICAgICAgJ19jcG0nID0+ICcxMTM5LjAwMDAnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYWRuID0gJG1hbmFnZXItPmZpbmRBZG5ldHdvcmtCeU9wdGlvbklkKENtbkFkbmV0d29ya01hc3Rlcjo6Q01OX09QVElPTl9JRF9BRENPTE9OWV9SVklEX1NQKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDjgrnjg53jg4Pjg4jlkI0s44K544OG44O844K/44K5LOeZu+mMsuaXpSzlho3nlJ/mlbAs5YaN55Sf5a6M5LqG5pWwLENQQ1YsQ1BNLOWPjuebiumHkemhjQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
