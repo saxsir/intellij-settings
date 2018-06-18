@@ -291,10 +291,10 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/JsViewPretty.js" timestamp="1528879199495">
         <mark key="'" line="56" column="19" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" timestamp="1529302367659">
-        <mark key="'" line="66" column="51" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="1" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" timestamp="1529305401502">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="83" />
         <mark key="." line="62" column="1" />
         <mark key="^" line="65" column="3" />
       </file>
@@ -426,7 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
       <jump line="177" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
       <jump line="118" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" />
@@ -526,6 +525,7 @@
       <jump line="61" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
       <jump line="65" column="51" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
       <jump line="93" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
+      <jump line="42" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -543,7 +543,7 @@
         <text>fluct_log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">MDAgMDggKiAqICogZmx1Y3Qgc291cmNlIC9ldGMvcHJvZmlsZSAmJiBtYWtlIC1pcyAtaiAwMF8wOF9BX0FfQSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2ggRU5WPXByZSA+IC9kZXYvbnVsbAo=</text>
+        <text encoding="base64">Q0xPVURTREtfUFlUSE9OX1NJVEVQQUNLQUdFUz0vb3B0L3B5ZW52L3ZlcnNpb25zLzIuNy4xMi9saWIvcHl0aG9uMi43L3NpdGUtcGFja2FnZXMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyAwIDMgKiAqICogZmx1Y3QgbWFrZSAtaiAwMF8wM19BX0FfQSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2gKMDBfMDNfQV9BX0E6IHNwdF9yZXZlbnVlX2luc2VydCBtb21lbnR1bV9maWx0ZXJfaW1wb3J0Cg==</text>
