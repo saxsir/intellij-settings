@@ -538,7 +538,7 @@
         <text>BQに</text>
       </register>
       <register name="/" type="4">
-        <text>media</text>
+        <text>ENV</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyDjgqTjg7Pjg5XjgqPjg7zjg4njgqLjgqvjgqbjg7Pjg4jjgavjgojjgovlqpLkvZPliKXjg6zjg53jg7zjg4jjga7jg4Djgqbjg7Pjg63jg7zjg4kKJFBZICRCQVNFRElSL25hdGl2ZV9zY3JhcGVyLnB5IC1jICRDT05GX0RJUi9sb2dseV9pbmZlZWRfc2NyYXBlci5pbmkgLWwgJENPTkZfRElSL2xvZ2x5X2xvZ2dlci5pbmkgLWQgJERBVEUKaWYgWyAkPyAtbmUgMCBdOyB0aGVuCiAgICBleGl0IDE7CmZpCmNhdCAvdmFyL3RtcC9yZXBvcnQvbG9nbHkvaW5mZWVkLyR7REFURX1fKi5jc3YgPiAvdmFyL3RtcC9yZXBvcnQvbG9nbHkvaW5mZWVkLyR7REFURX0uY3N2CgojIOODrOOCs+ODoeODs+ODieOCouOCq+OCpuODs+ODiOOBq+OCiOOCi+W6g+WRiuaeoOWIpeODrOODneODvOODiOOBruODgOOCpuODs+ODreODvOODiQokUFkgJEJBU0VESVIvbmF0aXZlX3NjcmFwZXIucHkgLWMgJENPTkZfRElSL2xvZ2x5X3JlY29tbWVuZF9zY3JhcGVyLmluaSAtbCAkQ09ORl9ESVIvbG9nbHlfbG9nZ2VyLmluaSAtZCAkREFURQppZiBbICQ/IC1uZSAwIF07IHRoZW4KICAgIGV4aXQgMTsKZmkKY2F0IC92YXIvdG1wL3JlcG9ydC9sb2dseS9yZWNvbW1lbmQvJHtEQVRFfV8qLmNzdiA+IC92YXIvdG1wL3JlcG9ydC9sb2dseS9yZWNvbW1lbmQvJHtEQVRFfS5jc3YK</text>
@@ -575,9 +575,9 @@
       </register>
     </registers>
     <search>
-      <last-search>media</last-search>
+      <last-search>ENV</last-search>
       <last-offset />
-      <last-pattern>media</last-pattern>
+      <last-pattern>ENV</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -585,7 +585,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>console</entry>
         <entry>spt_reve</entry>
         <entry>momentum</entry>
@@ -605,6 +604,7 @@
         <entry>fluct_log</entry>
         <entry>log</entry>
         <entry>media</entry>
+        <entry>ENV</entry>
       </history-search>
       <history-cmd>
         <entry>75</entry>
