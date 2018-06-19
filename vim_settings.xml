@@ -86,10 +86,10 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/Makefile" timestamp="1529390273795">
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="48" column="4" />
-        <mark key="." line="48" column="4" />
-        <mark key="^" line="48" column="4" />
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+        <mark key="^" line="3" column="4" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_rtb/bin/rep_batch_rtb_bclog2.php" timestamp="1529300830934" />
       <file name="$USER_HOME$/IdeaProjects/untitled/index.html" timestamp="1525942096430">
@@ -118,12 +118,12 @@
         <mark key="^" line="121" column="10" />
         <mark key="." line="121" column="10" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" timestamp="1529377013052">
-        <mark key="'" line="83" column="26" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="85" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" timestamp="1529394429496">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="82" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1528250161279">
         <mark key="'" line="48" column="24" />
@@ -266,10 +266,10 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01_sjdc" timestamp="1529388922452">
-        <mark key="'" line="41" column="27" />
-        <mark key="[" line="80" column="109" />
-        <mark key="]" line="80" column="192" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01_sjdc" timestamp="1529394345929">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/Sync/DeliverAdViewSyncerTest.php" timestamp="1526977122901">
         <mark key="'" line="254" column="21" />
@@ -283,6 +283,11 @@
         <mark key="]" line="4" column="21" />
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01_aws" timestamp="1529394439912">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1529377060413">
         <mark key="'" line="10" column="0" />
@@ -344,7 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="83" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="34" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="125" column="49" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
@@ -444,6 +448,7 @@
       <jump line="52" column="68" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/bin/dsp_reporter_mediamath.sh" />
       <jump line="41" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01_sjdc" />
       <jump line="37" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/bin/dsp_reporter_mediamath.sh" />
+      <jump line="59" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -458,46 +463,46 @@
         <text>S</text>
       </register>
       <register name="/" type="4">
-        <text>visu</text>
+        <text>dsp</text>
       </register>
       <register name="0" type="4">
         <text>/var/mediamath_results.csv</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAwIDMgKiAqICogZmx1Y3QgbWFrZSAtaiAwMF8wM19BX0FfQSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2gKMDBfMDNfQV9BX0E6IHNwdF9yZXZlbnVlX2luc2VydCBtb21lbnR1bV9maWx0ZXJfaW1wb3J0Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyA05pmC5Y+w44Gr5Y+W44KK6L6844KB44KLQUROV+OBruODrOODneODvOODiOWPluOCiui+vOOBvwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">MDAgMDQgKiAqICogZmx1Y3QgbWFrZSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2gvcmVwX2JhdGNoX2FkbmV0d29ya19pbW9iaWxlIHJ1bl9wYyBFTlY9cHJlID4vZGV2L251bGwKMTAgMDQgKiAqICogZmx1Y3QgbWFrZSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2gvcmVwX2JhdGNoX2FkbmV0d29ya196Z29rIHJ1biBFTlY9cHJlID4vZGV2L251bGwK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBEU1Djgavml6XmrKHjgafjg6zjg53jg7zjg4jjg6Hjg7zjg6vjgpLpgIHkv6EKIyMgcm9ja2V0ZnVlbAojMDAgMjEgKiAqICogZmx1Y3Qgc291cmNlIC9ldGMvcHJvZmlsZSAmJiBleHBvcnQgSE9NRT0vaG9tZS9mbHVjdCAmJiBleHBvcnQgQ0xPVURTREtfUFlUSE9OX1NJVEVQQUNLQUdFUz0xICYmIG1ha2Ugc2VuZF9yZl9yZXBvcnQgLUMgL2hvbWUvZmx1Y3RfcmVwb3J0X2JhdGNoL2RzcF9yZXBvcnRfbWFpbGVyID4gL2Rldi9udWxsCgojIyBtZWRpYW1hdGgKIzAwIDIyICogKiAqIGZsdWN0IHNvdXJjZSAvZXRjL3Byb2ZpbGUgJiYgZXhwb3J0IEhPTUU9L2hvbWUvZmx1Y3QgJiYgZXhwb3J0IENMT1VEU0RLX1BZVEhPTl9TSVRFUEFDS0FHRVM9MSAmJiBtYWtlIHNlbmRfbWVkaWFtYXRoX3JlcG9ydCAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2gvZHNwX3JlcG9ydF9tYWlsZXIgPiAvZGV2L251bGwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBEU1DjgavpgLHmrKHjgafjg6zjg53jg7zjg4jpgIHkv6EKIzAgMTEgKiAqIDEgZmx1Y3Qgc291cmNlIC9ldGMvcHJvZmlsZSAmJiBtYWtlIHNlbmRfZHNwX3JlcG9ydF9vbl9ldmVyeV9tb25kYXkgLUMgL2hvbWUvZmx1Y3RfcmVwb3J0X2JhdGNoL2RzcF9yZXBvcnRfbWFpbGVyID4gL2Rldi9udWxsCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyA05pmC44Gr44Gk44GP44KJ44KM44KLCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyDjgZPjgozjgY/jgonjgYTjga7mmYLplpPjgavjga/jgafjgY3jgabjgYTjgovjgaDjgo3jgYbjgIHjgajjgYTjgYblrp/ooYzjgr/jgqTjg5/jg7PjgrDjgavjgarjgaPjgabjgYTjgosK</text>
+        <text encoding="base64">IyBEU1DjgavpgLHmrKHjgafjg6zjg53jg7zjg4jjg6Hjg7zjg6vjgpLpgIHkv6EKIzAgMTEgKiAqIDEgZmx1Y3Qgc291cmNlIC9ldGMvcHJvZmlsZSAmJiBtYWtlIHNlbmRfZHNwX3JlcG9ydF9vbl9ldmVyeV9tb25kYXkgLUMgL2hvbWUvZmx1Y3RfcmVwb3J0X2JhdGNoL2RzcF9yZXBvcnRfbWFpbGVyID4gL2Rldi9udWxsCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiMgRFNQ44Gr5pel5qyh44Gn44Os44Od44O844OI44Oh44O844Or44KS6YCB5L+hCiMjIHJvY2tldGZ1ZWwKIzAwIDIxICogKiAqIGZsdWN0IHNvdXJjZSAvZXRjL3Byb2ZpbGUgJiYgZXhwb3J0IEhPTUU9L2hvbWUvZmx1Y3QgJiYgZXhwb3J0IENMT1VEU0RLX1BZVEhPTl9TSVRFUEFDS0FHRVM9MSAmJiBtYWtlIHNlbmRfcmZfcmVwb3J0IC1DIC9ob21lL2ZsdWN0X3JlcG9ydF9iYXRjaC9kc3BfcmVwb3J0X21haWxlciA+IC9kZXYvbnVsbAoKIyMgbWVkaWFtYXRoCiMwMCAyMiAqICogKiBmbHVjdCBzb3VyY2UgL2V0Yy9wcm9maWxlICYmIGV4cG9ydCBIT01FPS9ob21lL2ZsdWN0ICYmIGV4cG9ydCBDTE9VRFNES19QWVRIT05fU0lURVBBQ0tBR0VTPTEgJiYgbWFrZSBzZW5kX21lZGlhbWF0aF9yZXBvcnQgLUMgL2hvbWUvZmx1Y3RfcmVwb3J0X2JhdGNoL2RzcF9yZXBvcnRfbWFpbGVyID4gL2Rldi9udWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2ltcHMnID0+ICc5JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>visu</last-search>
+      <last-search>dsp</last-search>
       <last-offset />
-      <last-pattern>visu</last-pattern>
+      <last-pattern>dsp</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +510,6 @@
     </search>
     <history>
       <history-search>
-        <entry>momentum</entry>
         <entry>imobile</entry>
         <entry>bsw</entry>
         <entry>ndi</entry>
@@ -525,6 +529,7 @@
         <entry>query</entry>
         <entry>media</entry>
         <entry>visu</entry>
+        <entry>dsp</entry>
       </history-search>
       <history-cmd>
         <entry>75</entry>
@@ -540,13 +545,13 @@
         <entry>85</entry>
         <entry>63</entry>
         <entry>;w</entry>
-        <entry>wq</entry>
         <entry>%s/maio/adcolony/g</entry>
         <entry>%s/Maio/AdColony/g</entry>
         <entry>q</entry>
         <entry>;;w</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
