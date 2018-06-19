@@ -85,10 +85,11 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/Makefile" timestamp="1529389542850">
-        <mark key="[" line="48" column="76" />
-        <mark key="]" line="48" column="101" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/Makefile" timestamp="1529390273795">
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="48" column="4" />
+        <mark key="." line="48" column="4" />
+        <mark key="^" line="48" column="4" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_rtb/bin/rep_batch_rtb_bclog2.php" timestamp="1529300830934" />
       <file name="$USER_HOME$/IdeaProjects/untitled/index.html" timestamp="1525942096430">
@@ -145,7 +146,6 @@
         <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/bin/dsp_reporter_mediamath.sh" timestamp="1529389510364">
-        <mark key="'" line="37" column="7" />
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="37" />
         <mark key="^" line="12" column="16" />
@@ -458,7 +458,7 @@
         <text>S</text>
       </register>
       <register name="/" type="4">
-        <text>media</text>
+        <text>visu</text>
       </register>
       <register name="0" type="4">
         <text>/var/mediamath_results.csv</text>
@@ -495,9 +495,9 @@
       </register>
     </registers>
     <search>
-      <last-search>media</last-search>
+      <last-search>visu</last-search>
       <last-offset />
-      <last-pattern>media</last-pattern>
+      <last-pattern>visu</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +505,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spt_reve</entry>
         <entry>momentum</entry>
         <entry>imobile</entry>
         <entry>bsw</entry>
@@ -525,6 +524,7 @@
         <entry>fluct_log</entry>
         <entry>query</entry>
         <entry>media</entry>
+        <entry>visu</entry>
       </history-search>
       <history-cmd>
         <entry>75</entry>
