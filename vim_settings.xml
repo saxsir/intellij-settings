@@ -85,7 +85,11 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/Makefile" timestamp="1529309457388" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/Makefile" timestamp="1529389542850">
+        <mark key="[" line="48" column="76" />
+        <mark key="]" line="48" column="101" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_rtb/bin/rep_batch_rtb_bclog2.php" timestamp="1529300830934" />
       <file name="$USER_HOME$/IdeaProjects/untitled/index.html" timestamp="1525942096430">
         <mark key="'" line="16" column="43" />
@@ -140,7 +144,7 @@
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/bin/dsp_reporter_mediamath.sh" timestamp="1529388853313">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/bin/dsp_reporter_mediamath.sh" timestamp="1529389510364">
         <mark key="'" line="37" column="7" />
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="37" />
@@ -457,7 +461,7 @@
         <text>media</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bWFrZSBzZW5kX21lZGlhbWF0aF9yZXBvcnQgLUMgL2hvbWUvZmx1Y3RfcmVwb3J0X2JhdGNoL2RzcF9yZXBvcnRfbWFpbGVyID4gL2Rldi9udWxs</text>
+        <text>/var/mediamath_results.csv</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyAwIDMgKiAqICogZmx1Y3QgbWFrZSAtaiAwMF8wM19BX0FfQSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2gKMDBfMDNfQV9BX0E6IHNwdF9yZXZlbnVlX2luc2VydCBtb21lbnR1bV9maWx0ZXJfaW1wb3J0Cg==</text>
