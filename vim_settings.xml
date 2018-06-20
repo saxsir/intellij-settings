@@ -72,12 +72,12 @@
         <mark key="." line="34" column="25" />
         <mark key="^" line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1529470486606">
-        <mark key="'" line="159" column="0" />
-        <mark key="[" line="1242" column="13" />
-        <mark key="]" line="1242" column="28" />
-        <mark key="." line="1241" column="0" />
-        <mark key="^" line="1240" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1529471584665">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="1256" column="14" />
+        <mark key="]" line="1256" column="14" />
+        <mark key="." line="1256" column="14" />
+        <mark key="^" line="1246" column="18" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1528440125877">
         <mark key="[" line="19" column="0" />
@@ -345,10 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
-      <jump line="91" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
-      <jump line="81" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
-      <jump line="73" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
       <jump line="15" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron_targets.mk" />
@@ -445,6 +441,10 @@
       <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/AdColony/ReportClient.php" />
       <jump line="1266" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="159" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="444" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="1243" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="16" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="115" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -456,49 +456,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>error</text>
+        <text>MAP</text>
       </register>
       <register name="0" type="4">
-        <text>NATIVEAD_DSP_MAP</text>
+        <text>MOMENTUM_TAISYO_MAP</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBtb21lbnR1beWvvuixoeOBruOCteOCpOODiOOBi+ODgeOCp+ODg+OCr+OCkuihjOOBhgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkaGVhZGVyID0gc3RyX2dldGNzdigkcm93c1swXSk7Cg==</text>
+        <text encoding="base64">ICAgICMgbW9tZW50dW3jga7lirnmnpzjgpLmuKzjgovjgZ/jgoHjgIHjg6njgqTjg5bjg4njgqLjga7kuIDpg6jjga7mnqDjgatEQk3jgpLjgaTjgarjgYTjgafjg4bjgrnjg4jjgpLjgZnjgosKICAgICMgaHR0cHM6Ly9mbHVjdC5qcC9jaGFyZ2UvNTM1OC9zcHRfc2l0ZS9kZXRhaWwvMTAwMDAwMzIyNwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkaGVhZGVyID0gcm93WzBdOwo=</text>
+        <text encoding="base64">IyBuYXRpdmXlr77lv5zjga5EU1Djga/jgZPjgZPjgavov73liqDjgZnjgovjgZPjgajjgadtdWx0aXB1cnBvc2XjgatuYXRpdmXjgpLlkKvjgoDjgYvjganjgYbjgYvjga7jg4Hjgqfjg4Pjgq/jgpLooYzjgYbjgIIo5ZCr44G+44KM44Gm44Gq44GE5aC05ZCI44Gv6YCB5L+h5a++6LGh44GL44KJ6Zmk5aSW44GZ44KLKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcm93cyA9IGV4cGxvZGUoIlxuIiwgJGJvZHkpOwogICAgICAgICRjb2xzID0gc3RyX2dldGNzdigkcm93c1swXSk7Cgo=</text>
+        <text encoding="base64">ICAgIGlmICgkc2l0ZV9pZCAhPSAxMDAwMDAzMjI3KSB7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0Rmlyc3RMaW5lKCRib2R5KQogICAgewogICAgICAgIHJldHVybiAkcm93c1swXTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIDEwMDAwMDI3MjMg54Sh5paZ5YuV55S75o6i44GX44OB44Oj44KqIOOAgAogICAgMTAwMDAxMDkzNSDnhKHmlpnli5XnlLvmjqLjgZfjg4Hjg6PjgqrvvIjjgrnjg57jg5vvvIkKICAgIDEwMDAwMDkzNjUg5Y2g44GE44Gk44GP44O844KL77yIb3Zlcu+8ie+8iOOCueODnuODm++8iQogICAgMTAwMDAxOTk4MiB5dW1tee+8iOOCueODnuODm++8iQogICAgMTAwMDAxOTY5MCDjgqvjg4rjgqbvvIjjgrnjg57jg5vvvIkKICAgIDEwMDAwMDkxODQg44K544OX44Op44OI44Kl44O844Oz5pS755Wl44OK44Ov44OQ44Oq6YCf5aCxCiAgICAgICAgMTAwMDAwOTE1NSDjgrnjg5fjg6njg4jjgqXjg7zjg7PmlLvnlaUgLSDjg4rjg6/jg5Djg6rpgJ/loLHvvIjjgrnjg57jg5vvvIkKICAgIDEwMDAwMTY1ODcgRmFuYmxvZ++8iOOCueODnuODm++8iQogICAgMTAwMDAxNzk2NCBTZWVzYWHjg5bjg63jgrBB44OV44Kj44Or44K/77yI44K544Oe44Ob77yJCiAgICAxMDAwMDE4OTgzIHNvbmV044OW44Ot44KwMu+8iOOCueODnuODm++8iQogICAgMTAwMDAwNjc2MCDjgrfjg7zjgrXjg7zjg5bjg63jgrBvdmVy77yI44K544Oe44Ob77yJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcm93cyA9IGV4cGxvZGUoIlxuIiwgJGJvZHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBEU1BfQklEU1dJVENIX0E5X1ZJREVPX1BDLAogICAgICAgIERTUF9CSURTV0lUQ0hfTU9ORV9WSURFT19QQywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RyX2dldGNzdigkcm93c1swXSk7Cg==</text>
+        <text encoding="base64">ICAgICV7IEJJRFNXSVRDSF9OQVRJVkVfU1BfRFNQX01BUCgpIH0sCiAgICBtYXAgeyAkXyA9PiAxIH0gKAogICAgICAgIERTUF9TQ0FMRU9VVF9OQVRJVkVfU1AsIERTUF9ESVJFQ1RfUkVBQ0hfTkFUSVZFX1NQLAogICAgICAgIERTUF9GUkVBS09VVF9OQVRJVkVfU1AsIERTUF9MT0dJQ0FEX05BVElWRV9TUCwKICAgICAgICBEU1BfTE9HSUNBRF9OQVRJVkVfUEMsICBEU1BfS0FOQURFX05BVElWRV9TUCwKICAgICAgICBEU1BfRE9UX0dBTUVTX05BVElWRV9TUCwKICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICgkc2l0ZV9pZCAhPSAxMDAwMDAzMjI3KSB7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>error</last-search>
+      <last-search>MAP</last-search>
       <last-offset />
-      <last-pattern>error</last-pattern>
+      <last-pattern>MAP</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -506,7 +506,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ndi</entry>
         <entry>pmc</entry>
         <entry>mail_repo</entry>
         <entry>container</entry>
@@ -526,9 +525,9 @@
         <entry>dsp</entry>
         <entry>adrou</entry>
         <entry>error</entry>
+        <entry>MAP</entry>
       </history-search>
       <history-cmd>
-        <entry>333</entry>
         <entry>351</entry>
         <entry>695</entry>
         <entry>1281</entry>
@@ -547,6 +546,7 @@
         <entry>vs</entry>
         <entry>wq</entry>
         <entry>121</entry>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
