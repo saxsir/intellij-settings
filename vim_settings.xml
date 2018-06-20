@@ -127,10 +127,6 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptSiteManager.php" timestamp="1528939281919">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="59" column="57" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1528250161279">
         <mark key="'" line="48" column="24" />
         <mark key="[" line="83" column="100" />
@@ -144,10 +140,6 @@
         <mark key="]" line="79" column="88" />
         <mark key="^" line="79" column="36" />
         <mark key="." line="79" column="88" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/spt_partner_revenue_share/README.md" timestamp="1528879567919">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="16" column="32" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_conf/report_batch/adroute/adroute_scraper.ini" timestamp="1529457494456">
         <mark key="[" line="1" column="7" />
@@ -223,10 +215,6 @@
         <mark key="." line="314" column="30" />
         <mark key="^" line="314" column="30" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/bsw_daily_report_send/README.md" timestamp="1528880033564">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="33" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1527754666865">
         <mark key="'" line="753" column="0" />
         <mark key="[" line="352" column="25" />
@@ -286,9 +274,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1529457252986">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="21" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1529480539445">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="23" column="44" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="40" column="46" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_web_api/fluct_web_api.py" timestamp="1527043772287">
         <mark key="'" line="28" column="44" />
@@ -460,40 +450,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>モッピー漢字（スマホ）</text>
+        <text>outbrain</text>
       </register>
       <register name="/" type="4">
         <text>MAP</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTAwMDAxNjE3MywKICAgICAgICAgICAgMTAwMDAxOTYzMSwKICAgICAgICAgICAgMTAwMDAxODA4MywK</text>
+      <register name="0" type="4">
+        <text>make run -C ./rep_batch_adnetwork_tapjoy</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTAwMDAxODA4MywK</text>
+        <text encoding="base64">CSMgZm9ybXVsYSDjga/lj5bjgorovrzjgb/jgavmmYLplpPjgYzjgYvjgYvjgovjga7jgafmnIDlvozjgavjgZfjgabjgYLjgosKCS1tYWtlIHJ1biAtQyAuL3JlcF9iYXRjaF9hZG5ldHdvcmtfZm9ybXVsYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTAwMDAwNjc2MSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAwMDAxODA4MywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAwMDAwNjc2MSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBteSAkc2l0ZV9saXZlZG9vciA9IDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRFNQX0RCTSwgRFNQX0RCTV9TUCwK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBteSAkc2l0ZV9saXZlZG9vciA9IDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRFNQX0RCTSwgRFNQX0RCTV9TUCwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAxMDAwMDAyNzIzLAogICAgICAgIDEwMDAwMTA5MzUsCiAgICAgICAgMTAwMDAwOTM2NSwKICAgICAgICAxMDAwMDE5OTgyLAogICAgICAgIDEwMDAwMTk2OTAsCiAgICAgICAgMTAwMDAwOTE4NCwKICAgICAgICAxMDAwMDA5MTU1LAogICAgICAgIDEwMDAwMTY1ODcsCiAgICAgICAgMTAwMDAxNzk2NCwKICAgICAgICAxMDAwMDE4OTgzLAogICAgICAgIDEwMDAwMDY3NjAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBtb21lbnR1beWvvuixoeOBruOCteOCpOODiOOBi+ODgeOCp+ODg+OCr+OCkuihjOOBhgo=</text>
+        <text encoding="base64">ICAgICAgICAxMDAwMDAyNzIzLAogICAgICAgIDEwMDAwMTA5MzUsCiAgICAgICAgMTAwMDAwOTM2NSwKICAgICAgICAxMDAwMDE5OTgyLAogICAgICAgIDEwMDAwMTk2OTAsCiAgICAgICAgMTAwMDAwOTE4NCwKICAgICAgICAxMDAwMDA5MTU1LAogICAgICAgIDEwMDAwMTY1ODcsCiAgICAgICAgMTAwMDAxNzk2NCwKICAgICAgICAxMDAwMDE4OTgzLAogICAgICAgIDEwMDAwMDY3NjAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
