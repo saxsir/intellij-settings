@@ -9,11 +9,6 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_google_adx/bin/main.rb" timestamp="1529314193282">
-        <mark key="'" line="88" column="4" />
-        <mark key="[" line="63" column="22" />
-        <mark key="]" line="63" column="65" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" timestamp="1526280386569">
         <mark key="'" line="37" column="67" />
         <mark key="[" line="694" column="9" />
@@ -206,6 +201,10 @@
         <mark key="^" line="106" column="10" />
         <mark key="." line="106" column="10" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_maio/Makefile" timestamp="1529463300058">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="122" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" timestamp="1527837576034">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="158" column="102" />
@@ -338,11 +337,11 @@
         <mark key="[" line="28" column="9" />
         <mark key="]" line="28" column="32" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_adcolony/Makefile" timestamp="1529044746643">
-        <mark key="[" line="19" column="102" />
-        <mark key="]" line="19" column="102" />
-        <mark key="^" line="19" column="53" />
-        <mark key="." line="19" column="102" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_adcolony/Makefile" timestamp="1529463335403">
+        <mark key="[" line="23" column="108" />
+        <mark key="]" line="23" column="115" />
+        <mark key="^" line="23" column="115" />
+        <mark key="." line="23" column="115" />
       </file>
     </filemarks>
     <jumps>
@@ -457,13 +456,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>maio</text>
       </register>
       <register name="/" type="4">
         <text>adrou</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBBTkQgU0Euc3B0X3JldmVudWVfbW9udGggPSA6c3B0X3JldmVudWVfbW9udGgK</text>
+        <text encoding="base64">CSQoTUFLRSkgaW1wb3J0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
