@@ -72,12 +72,12 @@
         <mark key="." line="34" column="25" />
         <mark key="^" line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1528448990091">
-        <mark key="'" line="305" column="8" />
-        <mark key="[" line="306" column="0" />
-        <mark key="]" line="306" column="0" />
-        <mark key="." line="306" column="0" />
-        <mark key="^" line="303" column="37" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1529470486606">
+        <mark key="'" line="159" column="0" />
+        <mark key="[" line="1242" column="13" />
+        <mark key="]" line="1242" column="28" />
+        <mark key="." line="1241" column="0" />
+        <mark key="^" line="1240" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1528440125877">
         <mark key="[" line="19" column="0" />
@@ -345,8 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="49" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
-      <jump line="78" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
       <jump line="38" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
       <jump line="91" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
       <jump line="81" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
@@ -445,6 +443,8 @@
       <jump line="59" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
       <jump line="36" column="40" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Http/Client/AdColony/ReportClient.php" />
+      <jump line="1266" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="159" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -461,8 +461,8 @@
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY29scyA9IHN0cl9nZXRjc3YoJHJvd3NbMF0pOwo=</text>
+      <register name="0" type="4">
+        <text>NATIVEAD_DSP_MAP</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
