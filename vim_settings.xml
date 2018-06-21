@@ -292,6 +292,11 @@
         <mark key="." line="254" column="21" />
         <mark key="^" line="254" column="21" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/haste/hs_ecs.tf" timestamp="1529576551071">
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="37" column="40" />
+        <mark key="." line="37" column="40" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/YieldSpValidator.php" timestamp="1529460485200">
         <mark key="[" line="27" column="22" />
         <mark key="]" line="27" column="41" />
@@ -516,7 +521,7 @@
         <text encoding="base64">ICAgICAgICAxMDAwMDAyNzIzLAogICAgICAgIDEwMDAwMTA5MzUsCiAgICAgICAgMTAwMDAwOTM2NSwKICAgICAgICAxMDAwMDE5OTgyLAogICAgICAgIDEwMDAwMTk2OTAsCiAgICAgICAgMTAwMDAwOTE4NCwKICAgICAgICAxMDAwMDA5MTU1LAogICAgICAgIDEwMDAwMTY1ODcsCiAgICAgICAgMTAwMDAxNzk2NCwKICAgICAgICAxMDAwMDE4OTgzLAogICAgICAgIDEwMDAwMDY3NjAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -568,10 +573,10 @@
         <entry>q</entry>
         <entry>;;w</entry>
         <entry>vs</entry>
-        <entry>wq</entry>
         <entry>121</entry>
         <entry>ww</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
