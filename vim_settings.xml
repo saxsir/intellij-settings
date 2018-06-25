@@ -163,8 +163,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525838933281">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1529907821489">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1529910658971">
         <mark key="'" line="249" column="12" />
+        <mark key="[" line="691" column="0" />
+        <mark key="]" line="691" column="0" />
+        <mark key="." line="691" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1529909199367">
         <mark key="'" line="115" column="28" />
@@ -172,11 +175,11 @@
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/original/server.go" timestamp="1528425525660">
         <mark key="'" line="30" column="11" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" timestamp="1529908577173">
-        <mark key="[" line="431" column="26" />
-        <mark key="]" line="431" column="26" />
-        <mark key="." line="431" column="26" />
-        <mark key="^" line="431" column="26" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" timestamp="1529910732709">
+        <mark key="[" line="702" column="26" />
+        <mark key="]" line="702" column="26" />
+        <mark key="." line="702" column="26" />
+        <mark key="^" line="702" column="26" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/get_site_of_page_url.t" timestamp="1529908245578">
         <mark key="[" line="26" column="0" />
@@ -514,7 +517,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://example.com/test2'</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>Page</text>
@@ -523,31 +526,31 @@
         <text>?REQ_KEY_REFERER</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmYgICAgICAgPT4gJycsCg==</text>
+        <text encoding="base64">ICAgICAgICByCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmYgICAgICAgPT4gJycsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9rICEoZGVmaW5lZCBnZXRfc2l0ZV9vZl9wYWdlX3VybChcJXJlcSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9rICEoZGVmaW5lZCBnZXRfc2l0ZV9vZl9wYWdlX3VybChcJXJlcSkpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICggbXkgJHBhZ2UgPSAgKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSMgZm9ybXVsYSDjga/lj5bjgorovrzjgb/jgavmmYLplpPjgYzjgYvjgYvjgovjga7jgafmnIDlvozjgavjgZfjgabjgYLjgosKCS1tYWtlIHJ1biAtQyAuL3JlcF9iYXRjaF9hZG5ldHdvcmtfZm9ybXVsYQo=</text>
+        <text encoding="base64">ICAgIGlmICggbXkgJHBhZ2UgPSAgKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTAwMDAxODA4MywK</text>
+        <text encoding="base64">CSMgZm9ybXVsYSDjga/lj5bjgorovrzjgb/jgavmmYLplpPjgYzjgYvjgYvjgovjga7jgafmnIDlvozjgavjgZfjgabjgYLjgosKCS1tYWtlIHJ1biAtQyAuL3JlcF9iYXRjaF9hZG5ldHdvcmtfZm9ybXVsYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
