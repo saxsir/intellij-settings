@@ -163,11 +163,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525838933281">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1529910658971">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1529913700715">
         <mark key="'" line="249" column="12" />
-        <mark key="[" line="691" column="0" />
-        <mark key="]" line="691" column="0" />
-        <mark key="." line="691" column="0" />
+        <mark key="[" line="957" column="15" />
+        <mark key="]" line="957" column="15" />
+        <mark key="." line="957" column="15" />
+        <mark key="^" line="957" column="15" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1529909199367">
         <mark key="'" line="115" column="28" />
@@ -255,6 +256,9 @@
         <mark key="]" line="121" column="10" />
         <mark key="^" line="121" column="10" />
         <mark key="." line="121" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bypass_rule.erl" timestamp="1529913171127">
+        <mark key="'" line="31" column="9" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/haste/hs_ecs.tf" timestamp="1529576551071">
         <mark key="[" line="37" column="39" />
@@ -408,9 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
-      <jump line="10" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
-      <jump line="63" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/bin/dsp_reporter_mediamath.sh" />
       <jump line="65" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/bin/dsp_reporter_mediamath.sh" />
       <jump line="8" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/bin/dsp_reporter_mediamath.sh" />
       <jump line="12" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/bin/dsp_reporter_mediamath.sh" />
@@ -508,6 +509,9 @@
       <jump line="415" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
       <jump line="982" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
       <jump line="123" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
+      <jump line="22" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bypass_rule.erl" />
+      <jump line="24" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bypass_rule.erl" />
+      <jump line="31" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/bypass_rule.erl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -519,10 +523,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>bypass</text>
+        <text>imp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJmICAgICAgID0+ICcnLAo=</text>
@@ -559,9 +563,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bypass</last-search>
+      <last-search>imp</last-search>
       <last-offset />
-      <last-pattern>bypass</last-pattern>
+      <last-pattern>imp</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -569,7 +573,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spt_rtb_unicorn_</entry>
         <entry>info</entry>
         <entry>log</entry>
         <entry>ENV</entry>
@@ -589,6 +592,7 @@
         <entry>Page</entry>
         <entry>DirectReach</entry>
         <entry>bypass</entry>
+        <entry>imp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/tapjoy/adcolony/g</entry>
