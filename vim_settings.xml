@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/112/t9907.js" timestamp="1528879140747">
+        <mark key="'" line="153" column="13" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Command/Report/Tapjoy/ReportFormatterTest.php" timestamp="1528191982410">
         <mark key="'" line="48" column="30" />
       </file>
@@ -19,6 +22,16 @@
         <mark key="^" line="694" column="0" />
         <mark key="." line="694" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/105/t65633.js" timestamp="1527475745541">
+        <mark key="'" line="138" column="33" />
+        <mark key="[" line="323" column="19" />
+        <mark key="]" line="323" column="19" />
+        <mark key="^" line="323" column="19" />
+        <mark key="." line="323" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" timestamp="1527840589410">
+        <mark key="'" line="2" column="59" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1526617203032">
         <mark key="'" line="2" column="167" />
         <mark key="[" line="0" column="0" />
@@ -26,9 +39,15 @@
         <mark key="." line="2" column="167" />
         <mark key="^" line="3" column="173" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1528089557114">
+        <mark key="'" line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" timestamp="1529460637481">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="47" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_scraper/fluct_scraper.py" timestamp="1527043743364">
+        <mark key="'" line="61" column="17" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" timestamp="1527043704430">
         <mark key="'" line="18" column="13" />
@@ -37,8 +56,18 @@
         <mark key="^" line="58" column="22" />
         <mark key="." line="58" column="22" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/Tapjoy/AggregateCommand.php" timestamp="1528189816327">
+        <mark key="'" line="11" column="37" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.phar/vendor/symfony/console/Command/Command.php" timestamp="1528183881804">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9994.js" timestamp="1526964899249">
+        <mark key="'" line="15" column="20" />
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="49" />
+        <mark key="." line="2" column="49" />
+        <mark key="^" line="2" column="49" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" timestamp="1529478628917">
         <mark key="[" line="228" column="0" />
@@ -47,7 +76,20 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/SummaryImport/SiteImporter.php" timestamp="1527557667148">
         <mark key="'" line="150" column="66" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_adroute/tables.mk" timestamp="1529459103660" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverUtil.php" timestamp="1526977164407">
+        <mark key="'" line="186" column="17" />
+        <mark key="[" line="186" column="17" />
+        <mark key="]" line="186" column="31" />
+        <mark key="." line="190" column="56" />
+        <mark key="^" line="190" column="56" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/AdColony/ImportSpCommand.php" timestamp="1529460374672">
+        <mark key="'" line="103" column="4" />
+        <mark key="[" line="106" column="4" />
+        <mark key="]" line="106" column="10" />
+        <mark key="^" line="106" column="10" />
+        <mark key="." line="106" column="10" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_adcolony/bin/console.php" timestamp="1529460336600">
         <mark key="[" line="6" column="53" />
         <mark key="]" line="6" column="53" />
@@ -56,6 +98,27 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1528107866092">
         <mark key="'" line="53" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" timestamp="1525670548986">
+        <mark key="'" line="6" column="59" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_maio/Makefile" timestamp="1529463300058">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="122" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" timestamp="1527837576034">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="158" column="102" />
+        <mark key="]" line="158" column="105" />
+        <mark key="^" line="158" column="105" />
+        <mark key="." line="158" column="105" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" timestamp="1528788469259">
+        <mark key="'" line="142" column="10" />
+        <mark key="[" line="160" column="18" />
+        <mark key="]" line="160" column="39" />
+        <mark key="." line="314" column="30" />
+        <mark key="^" line="314" column="30" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1527573994613">
         <mark key="'" line="199" column="5" />
@@ -85,12 +148,28 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/bootstrap.sql" timestamp="1528962194401">
         <mark key="'" line="9707" column="22" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1529478640668">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="1257" column="0" />
-        <mark key="]" line="1259" column="19" />
-        <mark key="^" line="1256" column="18" />
-        <mark key="." line="1257" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1527754666865">
+        <mark key="'" line="753" column="0" />
+        <mark key="[" line="352" column="25" />
+        <mark key="]" line="352" column="25" />
+        <mark key="." line="352" column="25" />
+        <mark key="^" line="352" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525838933281">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1529902305795">
+        <mark key="'" line="361" column="32" />
+        <mark key="[" line="711" column="16" />
+        <mark key="]" line="711" column="16" />
+        <mark key="." line="711" column="16" />
+        <mark key="^" line="706" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/original/server.go" timestamp="1528425525660">
+        <mark key="'" line="30" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" timestamp="1529564814742">
+        <mark key="'" line="896" column="55" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_adroute/bin/run.sh" timestamp="1529458416299">
         <mark key="[" line="39" column="0" />
@@ -102,7 +181,9 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/auction.erl" timestamp="1527244542526">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_rtb/bin/rep_batch_rtb_bclog2.php" timestamp="1529300830934" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/_build/test/lib/fluct_rtb/src/auction.erl" timestamp="1527239184351">
+        <mark key="'" line="111" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/index.html" timestamp="1525942096430">
         <mark key="'" line="16" column="43" />
         <mark key="[" line="16" column="47" />
@@ -110,8 +191,23 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/original/assets/js/app.js" timestamp="1528425795180">
+        <mark key="'" line="11" column="13" />
+        <mark key="[" line="121" column="8" />
+        <mark key="]" line="121" column="8" />
+        <mark key="^" line="121" column="10" />
+        <mark key="." line="121" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" timestamp="1527040799073">
+        <mark key="'" line="318" column="35" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/Tapjoy/DownloadCommand.php" timestamp="1528348797808">
         <mark key="'" line="63" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01_sjdc" timestamp="1529476053552">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="113" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Midway/DeleteCommandReceiver.php" timestamp="1526541219653">
         <mark key="'" line="0" column="0" />
@@ -119,12 +215,28 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/33/t42126.js" timestamp="1528879187641">
         <mark key="'" line="71" column="35" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/Sync/DeliverAdViewSyncerTest.php" timestamp="1526977122901">
+        <mark key="'" line="254" column="21" />
+        <mark key="[" line="254" column="31" />
+        <mark key="]" line="254" column="21" />
+        <mark key="." line="254" column="21" />
+        <mark key="^" line="254" column="21" />
+      </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/999/assets/js/app.js" timestamp="1528425730842">
         <mark key="'" line="83" column="11" />
         <mark key="[" line="121" column="8" />
         <mark key="]" line="121" column="10" />
         <mark key="^" line="121" column="10" />
         <mark key="." line="121" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/haste/hs_ecs.tf" timestamp="1529576551071">
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="37" column="40" />
+        <mark key="." line="37" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/YieldSpValidator.php" timestamp="1529460485200">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="41" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/RVidConvertMapper.php" timestamp="1528356614914">
         <mark key="'" line="9" column="6" />
@@ -139,172 +251,13 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Midway/DeleteCommand.php" timestamp="1526541309919">
-        <mark key="'" line="61" column="53" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1528250161279">
-        <mark key="'" line="48" column="24" />
-        <mark key="[" line="83" column="100" />
-        <mark key="]" line="83" column="100" />
-        <mark key="." line="83" column="100" />
-        <mark key="^" line="83" column="102" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1528788188643">
-        <mark key="'" line="20" column="19" />
-        <mark key="[" line="79" column="88" />
-        <mark key="]" line="79" column="88" />
-        <mark key="^" line="79" column="36" />
-        <mark key="." line="79" column="88" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" timestamp="1526884791003">
-        <mark key="'" line="199" column="17" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/model_campaign.go" timestamp="1526280313823">
-        <mark key="'" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/vendor/zendframework/zend-http/src/Client/Adapter/Curl.php" timestamp="1528349170360">
-        <mark key="'" line="27" column="16" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_conf/report_batch/adroute/adroute_scraper.ini" timestamp="1529457494456">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="29" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/bin/dsp_reporter_mediamath.sh" timestamp="1529389510364">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="37" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_logly/bin/run.sh" timestamp="1529310326606">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="26" column="95" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/sawa/bot/poster.go" timestamp="1528612519220">
-        <mark key="'" line="4" column="7" />
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="30" />
-        <mark key="." line="27" column="30" />
-        <mark key="^" line="27" column="30" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/112/t9907.js" timestamp="1528879140747">
-        <mark key="'" line="153" column="13" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/105/t65633.js" timestamp="1527475745541">
-        <mark key="'" line="138" column="33" />
-        <mark key="[" line="323" column="19" />
-        <mark key="]" line="323" column="19" />
-        <mark key="^" line="323" column="19" />
-        <mark key="." line="323" column="19" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" timestamp="1527840589410">
-        <mark key="'" line="2" column="59" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1528089557114">
-        <mark key="'" line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_scraper/fluct_scraper.py" timestamp="1527043743364">
-        <mark key="'" line="61" column="17" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/Tapjoy/AggregateCommand.php" timestamp="1528189816327">
-        <mark key="'" line="11" column="37" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/bsw_daily_report_send/upload.py" timestamp="1529309143452" />
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9994.js" timestamp="1526964899249">
-        <mark key="'" line="15" column="20" />
-        <mark key="[" line="2" column="46" />
-        <mark key="]" line="2" column="49" />
-        <mark key="." line="2" column="49" />
-        <mark key="^" line="2" column="49" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverUtil.php" timestamp="1526977164407">
-        <mark key="'" line="186" column="17" />
-        <mark key="[" line="186" column="17" />
-        <mark key="]" line="186" column="31" />
-        <mark key="." line="190" column="56" />
-        <mark key="^" line="190" column="56" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/AdColony/ImportSpCommand.php" timestamp="1529460374672">
-        <mark key="'" line="103" column="4" />
-        <mark key="[" line="106" column="4" />
-        <mark key="]" line="106" column="10" />
-        <mark key="^" line="106" column="10" />
-        <mark key="." line="106" column="10" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" timestamp="1525670548986">
-        <mark key="'" line="6" column="59" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_maio/Makefile" timestamp="1529463300058">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="122" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" timestamp="1527837576034">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="158" column="102" />
-        <mark key="]" line="158" column="105" />
-        <mark key="^" line="158" column="105" />
-        <mark key="." line="158" column="105" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/34/t9995.js" timestamp="1528788469259">
-        <mark key="'" line="142" column="10" />
-        <mark key="[" line="160" column="18" />
-        <mark key="]" line="160" column="39" />
-        <mark key="." line="314" column="30" />
-        <mark key="^" line="314" column="30" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1527754666865">
-        <mark key="'" line="753" column="0" />
-        <mark key="[" line="352" column="25" />
-        <mark key="]" line="352" column="25" />
-        <mark key="." line="352" column="25" />
-        <mark key="^" line="352" column="25" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dispatcher.erl" timestamp="1525838933281">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/original/server.go" timestamp="1528425525660">
-        <mark key="'" line="30" column="11" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" timestamp="1529564814742">
-        <mark key="'" line="896" column="55" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/_build/test/lib/fluct_rtb/src/auction.erl" timestamp="1527239184351">
-        <mark key="'" line="111" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/original/assets/js/app.js" timestamp="1528425795180">
-        <mark key="'" line="11" column="13" />
-        <mark key="[" line="121" column="8" />
-        <mark key="]" line="121" column="8" />
-        <mark key="^" line="121" column="10" />
-        <mark key="." line="121" column="8" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" timestamp="1527040799073">
-        <mark key="'" line="318" column="35" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01_sjdc" timestamp="1529476053552">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="113" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/Sync/DeliverAdViewSyncerTest.php" timestamp="1526977122901">
-        <mark key="'" line="254" column="21" />
-        <mark key="[" line="254" column="31" />
-        <mark key="]" line="254" column="21" />
-        <mark key="." line="254" column="21" />
-        <mark key="^" line="254" column="21" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_funnel/orchestration/ssp/haste/hs_ecs.tf" timestamp="1529576551071">
-        <mark key="[" line="37" column="39" />
-        <mark key="]" line="37" column="40" />
-        <mark key="." line="37" column="40" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/YieldSpValidator.php" timestamp="1529460485200">
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="41" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01_aws" timestamp="1529476157367">
         <mark key="[" line="50" column="0" />
         <mark key="." line="50" column="0" />
         <mark key="^" line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Midway/DeleteCommand.php" timestamp="1526541309919">
+        <mark key="'" line="61" column="53" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1529480539445">
         <mark key="[" line="23" column="5" />
@@ -326,6 +279,20 @@
         <mark key="^" line="620" column="103" />
         <mark key="." line="46" column="29" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1528250161279">
+        <mark key="'" line="48" column="24" />
+        <mark key="[" line="83" column="100" />
+        <mark key="]" line="83" column="100" />
+        <mark key="." line="83" column="100" />
+        <mark key="^" line="83" column="102" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1528788188643">
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="79" column="88" />
+        <mark key="]" line="79" column="88" />
+        <mark key="^" line="79" column="36" />
+        <mark key="." line="79" column="88" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" timestamp="1525667518892">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="7" />
@@ -340,6 +307,12 @@
         <mark key="." line="97" column="64" />
         <mark key="^" line="97" column="64" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" timestamp="1526884791003">
+        <mark key="'" line="199" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/model_campaign.go" timestamp="1526280313823">
+        <mark key="'" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/Tapjoy/ReportFormatter.php" timestamp="1528191761524">
         <mark key="'" line="150" column="20" />
         <mark key="[" line="217" column="58" />
@@ -350,11 +323,28 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/special/4/t56289.js" timestamp="1528879171933">
         <mark key="'" line="70" column="35" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/vendor/zendframework/zend-http/src/Client/Adapter/Curl.php" timestamp="1528349170360">
+        <mark key="'" line="27" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_conf/report_batch/adroute/adroute_scraper.ini" timestamp="1529457494456">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/saxsir/model/message.go" timestamp="1528599869108">
         <mark key="'" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/DeliverUtilTest.php" timestamp="1526975942116">
         <mark key="'" line="341" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/dsp_report_mailer/bin/dsp_reporter_mediamath.sh" timestamp="1529389510364">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_logly/bin/run.sh" timestamp="1529310326606">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="26" column="95" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1526366306888">
         <mark key="'" line="374" column="35" />
@@ -362,6 +352,13 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_conf/report_batch/adroute/adroute_logger.ini" timestamp="1529457566501">
         <mark key="[" line="28" column="9" />
         <mark key="]" line="28" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/sawa/bot/poster.go" timestamp="1528612519220">
+        <mark key="'" line="4" column="7" />
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="27" column="30" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js.tmp.js" timestamp="1526970613485">
         <mark key="'" line="198" column="21" />
@@ -374,13 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5385" column="40" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/bootstrap.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/bootstrap.sql" />
-      <jump line="9710" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/bootstrap.sql" />
-      <jump line="9726" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/bootstrap.sql" />
-      <jump line="9729" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/bootstrap.sql" />
-      <jump line="9732" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/bootstrap.sql" />
-      <jump line="10335" column="47361" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/bootstrap.sql" />
       <jump line="13989" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/bootstrap.sql" />
       <jump line="13992" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/bootstrap.sql" />
       <jump line="13993" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/bootstrap.sql" />
@@ -474,6 +464,13 @@
       <jump line="839" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
       <jump line="840" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
       <jump line="896" column="55" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
+      <jump line="1237" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="101" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="102" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="140" column="63" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="357" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="361" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -485,49 +482,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>outbrain</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>rf</text>
+        <text>ref</text>
       </register>
       <register name="0" type="4">
         <text>make run -C ./rep_batch_adnetwork_tapjoy</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSMgZm9ybXVsYSDjga/lj5bjgorovrzjgb/jgavmmYLplpPjgYzjgYvjgYvjgovjga7jgafmnIDlvozjgavjgZfjgabjgYLjgosKCS1tYWtlIHJ1biAtQyAuL3JlcF9iYXRjaF9hZG5ldHdvcmtfZm9ybXVsYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTAwMDAxODA4MywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTAwMDAwNjc2MSwK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmICggbXkgJHBhZ2UgPSAgKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSMgZm9ybXVsYSDjga/lj5bjgorovrzjgb/jgavmmYLplpPjgYzjgYvjgYvjgovjga7jgafmnIDlvozjgavjgZfjgabjgYLjgosKCS1tYWtlIHJ1biAtQyAuL3JlcF9iYXRjaF9hZG5ldHdvcmtfZm9ybXVsYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBteSAkc2l0ZV9saXZlZG9vciA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAwMDAxODA4MywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRFNQX0RCTSwgRFNQX0RCTV9TUCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAwMDAwNjc2MSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAxMDAwMDAyNzIzLAogICAgICAgIDEwMDAwMTA5MzUsCiAgICAgICAgMTAwMDAwOTM2NSwKICAgICAgICAxMDAwMDE5OTgyLAogICAgICAgIDEwMDAwMTk2OTAsCiAgICAgICAgMTAwMDAwOTE4NCwKICAgICAgICAxMDAwMDA5MTU1LAogICAgICAgIDEwMDAwMTY1ODcsCiAgICAgICAgMTAwMDAxNzk2NCwKICAgICAgICAxMDAwMDE4OTgzLAogICAgICAgIDEwMDAwMDY3NjAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rf</last-search>
+      <last-search>ref</last-search>
       <last-offset />
-      <last-pattern>rf</last-pattern>
+      <last-pattern>ref</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -535,7 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mail_repo</entry>
         <entry>container</entry>
         <entry>class</entry>
         <entry>mail</entry>
@@ -555,6 +551,7 @@
         <entry>error</entry>
         <entry>MAP</entry>
         <entry>rf</entry>
+        <entry>ref</entry>
       </history-search>
       <history-cmd>
         <entry>351</entry>
@@ -575,8 +572,8 @@
         <entry>vs</entry>
         <entry>121</entry>
         <entry>ww</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
