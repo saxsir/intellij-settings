@@ -289,10 +289,10 @@
         <mark key="." line="112" column="57" />
         <mark key="^" line="112" column="57" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01_aws" timestamp="1529982252910">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01_aws" timestamp="1529987097937">
+        <mark key="'" line="79" column="14" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="13" column="15" />
         <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Midway/DeleteCommand.php" timestamp="1526541309919">
@@ -421,7 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="920" column="54" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
       <jump line="924" column="57" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
       <jump line="928" column="54" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
       <jump line="932" column="57" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
@@ -521,6 +520,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
       <jump line="76" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01_sjdc" />
       <jump line="112" column="57" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" />
+      <jump line="79" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01_aws" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -538,7 +538,7 @@
         <text>momentum</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBtb21lbnR1beOBleOCk+eUqOOBq3Mz44Gr44OV44Kh44Kk44Or44KS44GC44GS44KLCiMgMzAgMDcgKiAqICogZmx1Y3QgbWFrZSAtQyAvaG9tZS9mbHVjdF9yZXBvcnRfYmF0Y2ggbW9tZW50dW1fZmlsdGVyX2V4cG9ydCBFTlY9cHJlID4gL2Rldi9udWxsCg==</text>
+        <text encoding="base64">U0hFTEw9L2Jpbi9iYXNoClBBVEg9L29wdC9weWVudi9zaGltczovb3B0L3B5ZW52L2Jpbjovb3B0L3BsZW52L3NoaW1zOi9vcHQvcGxlbnYvYmluOi9vcHQvcmJlbnYvc2hpbXM6L29wdC9yYmVudi9iaW46L3NiaW46L2JpbjovdXNyL3NiaW46L3Vzci9iaW46L3Vzci9sb2NhbC9iaW46L2hvbWUvZmx1Y3QvZ29vZ2xlLWNsb3VkLXNkay9iaW4KUExFTlZfUk9PVD0vb3B0L3BsZW52ClJCRU5WX1JPT1Q9L29wdC9yYmVudgpQWUVOVl9ST09UPS9vcHQvcHllbnYKQ0xPVURTREtfUFlUSE9OPS9vcHQvcHllbnYvdmVyc2lvbnMvMi43LjEyL2Jpbi9weXRob24KQ0xPVURTREtfUFlUSE9OX1NJVEVQQUNLQUdFUz0vb3B0L3B5ZW52L3ZlcnNpb25zLzIuNy4xMi9saWIvcHl0aG9uMi43L3NpdGUtcGFja2FnZXMKSE9NRT0vaG9tZS9mbHVjdAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
