@@ -21,10 +21,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1528089557114">
         <mark key="'" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Manager/Spt/SptUnitManager.php" timestamp="1529460637481">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="47" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_scraper/fluct_scraper.py" timestamp="1527043743364">
         <mark key="'" line="61" column="17" />
       </file>
@@ -33,10 +29,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.phar/vendor/symfony/console/Command/Command.php" timestamp="1528183881804">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/DBM.t" timestamp="1529478628917">
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="230" column="22" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/SummaryImport/SiteImporter.php" timestamp="1527557667148">
         <mark key="'" line="150" column="66" />
@@ -61,10 +53,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/Makefile" timestamp="1525670548986">
         <mark key="'" line="6" column="59" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_maio/Makefile" timestamp="1529463300058">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="122" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_rule.erl" timestamp="1529907882490">
         <mark key="'" line="237" column="37" />
@@ -122,10 +110,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/turn_sp_rule.erl" timestamp="1529909610113">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_adroute/bin/run.sh" timestamp="1529458416299">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="154" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/testing_sync/helpers/index.php" timestamp="1525855900272">
         <mark key="'" line="11" column="0" />
       </file>
@@ -171,10 +155,6 @@
         <mark key="]" line="37" column="40" />
         <mark key="." line="37" column="40" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/YieldSpValidator.php" timestamp="1529460485200">
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="41" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/RVidConvertMapper.php" timestamp="1528356614914">
         <mark key="'" line="9" column="6" />
       </file>
@@ -219,10 +199,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/vendor/zendframework/zend-http/src/Client/Adapter/Curl.php" timestamp="1528349170360">
         <mark key="'" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_conf/report_batch/adroute/adroute_scraper.ini" timestamp="1529457494456">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="29" />
-      </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/saxsir/model/message.go" timestamp="1528599869108">
         <mark key="'" line="68" column="0" />
       </file>
@@ -233,6 +209,9 @@
         <mark key="^" line="100" column="25" />
         <mark key="." line="100" column="25" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/adnetwork_report_hourly/Makefile" timestamp="1529996594395">
+        <mark key="'" line="20" column="21" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/DeliverUtilTest.php" timestamp="1526975942116">
         <mark key="'" line="341" column="40" />
       </file>
@@ -242,16 +221,12 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_logly/bin/run.sh" timestamp="1529310326606">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="26" column="95" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_tuning/adxscraper/adxscraper.go" timestamp="1526366306888">
         <mark key="'" line="374" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_conf/report_batch/adroute/adroute_logger.ini" timestamp="1529457566501">
-        <mark key="[" line="28" column="9" />
-        <mark key="]" line="28" column="32" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/adnetwork_report_hourly/bin/zgok.mk" timestamp="1529996650448">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9995.js.tmp.js" timestamp="1526970613485">
         <mark key="'" line="198" column="21" />
@@ -264,8 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="835" column="63" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
-      <jump line="839" column="50" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
       <jump line="840" column="47" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
       <jump line="896" column="55" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
       <jump line="1237" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
@@ -364,6 +337,8 @@
       <jump line="117" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="118" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
       <jump line="76" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
+      <jump line="18" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/adnetwork_report_hourly/Makefile" />
+      <jump line="20" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/adnetwork_report_hourly/Makefile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -378,10 +353,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>bsw</text>
+        <text>zgok</text>
       </register>
       <register name="0" type="4">
-        <text>https://github.com/voyagegroup/zgok-ms/blob/master/doc/webapi/report/ssp-report-api-specification-1.4.1.md</text>
+        <text>COMMON_CONFIG_PATH</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -415,9 +390,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bsw</last-search>
+      <last-search>zgok</last-search>
       <last-offset />
-      <last-pattern>bsw</last-pattern>
+      <last-pattern>zgok</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -441,10 +416,10 @@
         <entry>back</entry>
         <entry>DR</entry>
         <entry>momentum</entry>
-        <entry>zgok</entry>
         <entry>direct_adn_batches</entry>
         <entry>direct</entry>
         <entry>bsw</entry>
+        <entry>zgok</entry>
       </history-search>
       <history-cmd>
         <entry>%s/tapjoy/adcolony/g</entry>
