@@ -101,10 +101,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/AggregateCommand.php" timestamp="1529998772323">
         <mark key="'" line="6" column="41" />
-        <mark key="[" line="71" column="64" />
-        <mark key="]" line="71" column="64" />
-        <mark key="." line="71" column="64" />
-        <mark key="^" line="71" column="63" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" timestamp="1526884791003">
         <mark key="'" line="199" column="17" />
@@ -155,7 +151,7 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/Tapjoy/AggregateCommand.php" timestamp="1528189816327">
         <mark key="'" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_conf/report_batch/zgok/config_dwng.yaml" timestamp="1530001615528">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_conf/report_batch/zgok/config_dwng.yaml" timestamp="1530006854701">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="79" />
       </file>
