@@ -323,12 +323,12 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/ImportSpCommand.php" timestamp="1530063040354">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/ImportSpCommand.php" timestamp="1530066927584">
         <mark key="'" line="42" column="23" />
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="37" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="18" />
         <mark key="^" line="34" column="53" />
-        <mark key="." line="22" column="37" />
+        <mark key="." line="34" column="18" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/adnetwork_report_hourly/bin/zgok.mk" timestamp="1529996650448">
         <mark key="[" line="6" column="22" />
@@ -453,7 +453,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>_BASE</text>
       </register>
       <register name="/" type="4">
         <text>$optionId</text>
