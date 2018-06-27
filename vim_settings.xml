@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_adcolony/tables.mk" timestamp="1530064966308">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="9" />
+      </file>
       <file name="/a.dummy" timestamp="1530063234878">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,7 +57,8 @@
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="66" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Zgok/AssignMapperTest.php" timestamp="1530064045793">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Zgok/AssignMapperTest.php" timestamp="1530064950215">
+        <mark key="'" line="25" column="5" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="^" line="17" column="3" />
@@ -337,7 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_rule.erl" />
       <jump line="227" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_rule.erl" />
       <jump line="228" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_rule.erl" />
       <jump line="233" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/fluct_rule.erl" />
@@ -437,6 +441,7 @@
       <jump line="42" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/ImportSpCommand.php" />
       <jump line="6" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/Zgok_pc/AssignMapper.php" />
       <jump line="6" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/Zgok/AssignMapper.php" />
+      <jump line="25" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Zgok/AssignMapperTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -454,7 +459,7 @@
         <text>$optionId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBwcm92aWRlclByb2Nlc3NJdGVtKCkKICAgIHsKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAn44Os44Od44O844OI44OH44O844K/44GM5q2j44GX44GP6YWN5YiX44Gr5aSJ5o+b44GV44KM44KL5LqL44Gu56K66KqNJywKICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAnMjAxNi0xMS0xNCcsJzc4ODUnLCdhbmRyb2lkJywn5qCq5byP5Lya56S+44Ob44O844Og44Oa44O844K444K344K544OG44OgJywnVmVvaOS4gOiIrCcsJ3dlYicsJzMyMMOXMjUwJywnMS7jgqTjg7Pjg6njgqTjg7MnLCdWZW9o5LiA6IisXzU2NzBfMjY4NDQwJywnMCcsJzAnLCcwJywnMCcKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgJ2ZpbGVfZGF0YScgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAnZGF0ZScgICAgICA9PiAnMjAxNi0xMS0xNCcsCiAgICAgICAgICAgICAgICAgICAgICAgICdmcmFtZV9pZCcgID0+ICc3ODg1JywKICAgICAgICAgICAgICAgICAgICAgICAgJ29zJyAgICAgICAgPT4gJ2FuZHJvaWQnLAogICAgICAgICAgICAgICAgICAgICAgICAncHVibGlzaGVyJyA9PiAn5qCq5byP5Lya56S+44Ob44O844Og44Oa44O844K444K344K544OG44OgJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3NpdGVfbmFtZScgPT4gJ1Zlb2jkuIDoiKwnLAogICAgICAgICAgICAgICAgICAgICAgICAndHlwZScgICAgICA9PiAnd2ViJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3NpemUnICAgICAgPT4gJzMyMMOXMjUwJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3Bvc2l0aW9uJyAgPT4gJzEu44Kk44Oz44Op44Kk44OzJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3BhZ2UnICAgICAgPT4gJ1Zlb2jkuIDoiKxfNTY3MF8yNjg0NDAnLAogICAgICAgICAgICAgICAgICAgICAgICAnaW1wcycgICAgICA9PiAnMCcsCiAgICAgICAgICAgICAgICAgICAgICAgICdjbGljaycgICAgID0+ICcwJywKICAgICAgICAgICAgICAgICAgICAgICAgJ2N0cicgICAgICAgPT4gJzAnLAogICAgICAgICAgICAgICAgICAgICAgICAncHJpY2UnICAgICA9PiAnMCcsCiAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICAncGFyc2VfdW5pdCcgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAnVmVvaOS4gOiIrCcsCiAgICAgICAgICAgICAgICAgICAgICAgICc1NjcwJywKICAgICAgICAgICAgICAgICAgICAgICAgJzI2ODQ0MCcsCiAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgIF0sCiAgICAgICAgXTsKICAgIH0K</text>
+        <text encoding="base64">VEFCTEVTOj0gXAogIG9kcl9hZF9mcmFtZSBcCiAgb2RyX2NyZWF0aXZlX3NldHRpbmcgXAogIG9kcl9jYW1wYWlnbiBcCiAgc3B0X3VuaXQgXAogIHNwdF9ncm91cF91bml0IFwKICBzcHRfZ3JvdXAgXAogIHNwdF9hZG5ldHdvcmtfYWRjb2xvbnlfcnZpZF9zcCBcCiAgc3B0X3NpdGUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
