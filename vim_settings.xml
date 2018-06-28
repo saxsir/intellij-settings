@@ -50,8 +50,8 @@
         <mark key="^" line="58" column="22" />
         <mark key="." line="58" column="22" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" timestamp="1530154679172">
-        <mark key="'" line="287" column="6" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" timestamp="1530158761660">
+        <mark key="'" line="324" column="6" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/composer.phar/vendor/symfony/console/Command/Command.php" timestamp="1528183881804">
         <mark key="'" line="0" column="0" />
@@ -485,8 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
-      <jump line="14" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" />
       <jump line="754" column="13" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
       <jump line="431" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/020Rtb.t" />
       <jump line="264" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
@@ -580,11 +578,13 @@
       <jump line="6" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/Zgok/AssignMapper.php" />
       <jump line="25" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Zgok/AssignMapperTest.php" />
       <jump line="35" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
-      <jump line="4" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
       <jump line="61" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
       <jump line="283" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
       <jump line="287" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
+      <jump line="44" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
+      <jump line="4" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
+      <jump line="324" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -646,7 +646,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Page</entry>
         <entry>DirectReach</entry>
         <entry>bypass</entry>
         <entry>imp</entry>
@@ -665,6 +664,7 @@
         <entry>option</entry>
         <entry>option-id</entry>
         <entry>$optionId</entry>
+        <entry>logger</entry>
         <entry>log</entry>
       </history-search>
       <history-cmd>
