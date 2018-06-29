@@ -251,6 +251,10 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/notify_decrease_impressions/bin/main.php" timestamp="1530255250703">
+        <mark key="[" line="133" column="44" />
+        <mark key="]" line="133" column="56" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_conf/report_batch/zgok/config_dwng.yaml" timestamp="1530006854701">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="79" />
@@ -565,7 +569,7 @@
         <text>credential</text>
       </register>
       <register name="0" type="4">
-        <text>https://fluct-gitlab.dev.fluct.ec2:8443/s-hasegawa/fluct_pam_report/blob/master/docs/get_google_credential.md</text>
+        <text>[配信大幅増減通知バッチ]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
