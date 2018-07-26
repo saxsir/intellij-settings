@@ -70,8 +70,8 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1527573994613">
-        <mark key="'" line="199" column="5" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1532576916826">
+        <mark key="'" line="35" column="23" />
         <mark key="[" line="241" column="0" />
         <mark key="]" line="241" column="12" />
         <mark key="^" line="247" column="56" />
@@ -457,7 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="53" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="280" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="115" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/vizury_rtb_rule.erl" />
@@ -557,6 +556,7 @@
       <jump line="53" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/Makefile" />
       <jump line="65" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dsp_rule.erl" />
+      <jump line="35" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
     </jumps>
     <registers>
       <register name="a" type="4">
