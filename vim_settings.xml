@@ -116,8 +116,12 @@
         <mark key="^" line="106" column="10" />
         <mark key="." line="106" column="10" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1528107866092">
-        <mark key="'" line="53" column="31" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1532667942576">
+        <mark key="'" line="44" column="6" />
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="23" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="25" column="23" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Zgok/CsvConverterFromApiToImporterTest.php" timestamp="1530063986276">
         <mark key="[" line="4" column="38" />
@@ -200,8 +204,8 @@
         <mark key="^" line="46" column="66" />
         <mark key="." line="46" column="66" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1532666552292">
-        <mark key="'" line="1123" column="20" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1532667731041">
+        <mark key="'" line="300" column="26" />
         <mark key="[" line="320" column="84" />
         <mark key="]" line="320" column="95" />
       </file>
@@ -437,8 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
-      <jump line="799" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="46" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="45" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="162" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
@@ -537,6 +539,8 @@
       <jump line="1122" column="52" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="1123" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" />
+      <jump line="300" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
+      <jump line="44" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -548,13 +552,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_BASE</text>
+        <text>$ENV{back_debug} || 0</text>
       </register>
       <register name="/" type="4">
-        <text>COOKIE</text>
+        <text>debug</text>
       </register>
       <register name="0" type="4">
-        <text>fromCookie</text>
+        <text>$ENV{back_debug}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -588,9 +592,9 @@
       </register>
     </registers>
     <search>
-      <last-search>COOKIE</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>COOKIE</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -598,7 +602,6 @@
     </search>
     <history>
       <history-search>
-        <entry>direct</entry>
         <entry>bsw</entry>
         <entry>zgok</entry>
         <entry>type</entry>
@@ -618,6 +621,7 @@
         <entry>momentum</entry>
         <entry>dbm</entry>
         <entry>COOKIE</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>%s/tapjoy/adcolony/g</entry>
