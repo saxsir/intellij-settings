@@ -294,6 +294,9 @@
         <mark key="." line="314" column="30" />
         <mark key="^" line="314" column="30" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" timestamp="1533641269606">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1532677458150">
         <mark key="'" line="291" column="12" />
         <mark key="[" line="352" column="25" />
@@ -340,12 +343,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" timestamp="1527040799073">
         <mark key="'" line="318" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" timestamp="1533634635488">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="63" column="25" />
-        <mark key="]" line="63" column="25" />
-        <mark key="^" line="63" column="26" />
-        <mark key="." line="63" column="25" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" timestamp="1533641271830">
+        <mark key="'" line="60" column="10" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="60" column="10" />
+        <mark key="." line="60" column="10" />
+        <mark key="^" line="60" column="10" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/Sync/DeliverAdViewSyncerTest.php" timestamp="1526977122901">
         <mark key="'" line="254" column="21" />
@@ -443,8 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
-      <jump line="18" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/adnetwork_report_hourly/Makefile" />
       <jump line="20" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/adnetwork_report_hourly/Makefile" />
       <jump line="15" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok_pc/AggregateCommand.php" />
       <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok_pc/AggregateCommand.php" />
@@ -543,6 +544,8 @@
       <jump line="15" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="23" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="51" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="61" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -563,31 +566,31 @@
         <text encoding="base64">CgkvLyBUdXRvcmlhbCAxLTEuIOODpuODvOOCtuODvOWQjeOCkuihqOekuuOBl+OCiOOBhgoJcm93cywgZXJyIDo9IGRiLlF1ZXJ5KGBzZWxlY3QgaWQsIGJvZHkgZnJvbSBtZXNzYWdlYCkKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBuaWwsIGVycgoJfQoJZGVmZXIgcm93cy5DbG9zZSgpCgoJdmFyIG1zIFtdKk1lc3NhZ2UKCWZvciByb3dzLk5leHQoKSB7CgkJbSA6PSAmTWVzc2FnZXt9CgkJLy8gVHV0b3JpYWwgMS0xLiDjg6bjg7zjgrbjg7zlkI3jgpLooajnpLrjgZfjgojjgYYKCQlpZiBlcnIgOj0gcm93cy5TY2FuKCZtLklELCAmbS5Cb2R5KTsgZXJyICE9IG5pbCB7CgkJCXJldHVybiBuaWwsIGVycgoJCX0KCQltcyA9IGFwcGVuZChtcywgbSkKCX0KCWlmIGVyciA6PSByb3dzLkVycigpOyBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gbmlsLCBlcnIKCX0KCglyZXR1cm4gbXMsIG5pbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigiYXV0aCIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJvdXRlci5IYW5kbGVGdW5jKCIvYXV0aCIsIGZ1bmModyBodHRwLlJlc3BvbnNlV3JpdGVyLCByICpodHRwLlJlcXVlc3QpIHsKCgl9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyBEbyBzdHVmZiBoZXJlCgkJbG9nLlByaW50bG4oci5SZXF1ZXN0VVJJKQo=</text>
+        <text encoding="base64">CXJvdXRlci5IYW5kbGVGdW5jKCIvYXV0aCIsIGZ1bmModyBodHRwLlJlc3BvbnNlV3JpdGVyLCByICpodHRwLlJlcXVlc3QpIHsKCgl9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBEbyBzdHVmZiBoZXJlCgkJbG9nLlByaW50bG4oci5SZXF1ZXN0VVJJKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJvdXRlci5IYW5kbGVGdW5jKCIvYXBpL3RvZG9zIiwgaGFuZGxlcih0b2RvLkdldCkpLk1ldGhvZHMoIkdFVCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIFRPRE8gbmc/Cg==</text>
+        <text encoding="base64">CXJvdXRlci5IYW5kbGVGdW5jKCIvYXBpL3RvZG9zIiwgaGFuZGxlcih0b2RvLkdldCkpLk1ldGhvZHMoIkdFVCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIFRPRE8gcmV0dXJuIGluZGV4Lmh0bWwK</text>
+        <text encoding="base64">CS8vIFRPRE8gbmc/Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8Cg==</text>
+        <text encoding="base64">CS8vIFRPRE8gcmV0dXJuIGluZGV4Lmh0bWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
