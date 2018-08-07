@@ -47,13 +47,6 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/ct/rtb/rtb_ct_utils.erl" timestamp="1527840589410">
         <mark key="'" line="2" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1526617203032">
-        <mark key="'" line="2" column="167" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="2" column="167" />
-        <mark key="^" line="3" column="173" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/rtb.erl" timestamp="1532495231745">
         <mark key="'" line="39" column="0" />
       </file>
@@ -301,6 +294,13 @@
         <mark key="." line="112" column="57" />
         <mark key="^" line="112" column="57" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1526617203032">
+        <mark key="'" line="2" column="167" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="2" column="167" />
+        <mark key="^" line="3" column="173" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Midway/DeleteCommand.php" timestamp="1526541309919">
         <mark key="'" line="61" column="53" />
       </file>
@@ -424,6 +424,11 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/Config/ConcreteShConfig.php" timestamp="1532577653398">
         <mark key="[" line="30" column="20" />
         <mark key="]" line="30" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/README.md" timestamp="1533620822433">
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="19" column="2" />
+        <mark key="." line="19" column="2" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/adnetwork_report_hourly/bin/zgok.mk" timestamp="1529996650448">
         <mark key="[" line="6" column="22" />
@@ -552,7 +557,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$ENV{back_debug} || 0</text>
+        <text encoding="base64">bWFrZSA=</text>
       </register>
       <register name="/" type="4">
         <text>campaign_and_rtb_for_request</text>
