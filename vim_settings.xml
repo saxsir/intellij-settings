@@ -12,9 +12,10 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/vendor/zendframework/zend-http/src/Client/Adapter/Test.php" timestamp="1528349162247">
         <mark key="'" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/index.html" timestamp="1533627334697">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="26" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/index.html" timestamp="1533747185732">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/datamap.go" timestamp="1526279839000">
         <mark key="'" line="356" column="8" />
@@ -28,11 +29,6 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/Makefile" timestamp="1530234915059">
         <mark key="'" line="53" column="37" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" timestamp="1532677448203">
-        <mark key="'" line="109" column="8" />
-        <mark key="[" line="205" column="4" />
-        <mark key="]" line="205" column="34" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" timestamp="1527043704430">
         <mark key="'" line="18" column="13" />
@@ -101,15 +97,10 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_db/scripts/bootstrap.sql" timestamp="1528962194401">
         <mark key="'" line="9707" column="22" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" timestamp="1532667731041">
-        <mark key="'" line="300" column="26" />
-        <mark key="[" line="320" column="84" />
-        <mark key="]" line="320" column="95" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1529909199367">
         <mark key="'" line="115" column="28" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" timestamp="1533746257139">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" timestamp="1533748714706">
         <mark key="'" line="18" column="70" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -147,6 +138,9 @@
         <mark key="]" line="121" column="10" />
         <mark key="^" line="121" column="10" />
         <mark key="." line="121" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" timestamp="1533748861765">
+        <mark key="'" line="37" column="28" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/RVidConvertMapper.php" timestamp="1528356614914">
         <mark key="'" line="9" column="6" />
@@ -209,11 +203,6 @@
         <mark key="]" line="63" column="63" />
         <mark key="." line="26" column="29" />
         <mark key="^" line="26" column="29" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverHelper.php" timestamp="1532666931043">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="376" column="20" />
-        <mark key="]" line="376" column="29" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/model_campaign.go" timestamp="1526280313823">
         <mark key="'" line="21" column="0" />
@@ -310,8 +299,12 @@
         <mark key="." line="314" column="30" />
         <mark key="^" line="314" column="30" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" timestamp="1533641269606">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" timestamp="1533749872640">
+        <mark key="'" line="60" column="31" />
+        <mark key="[" line="102" column="27" />
+        <mark key="]" line="102" column="27" />
+        <mark key="^" line="102" column="31" />
+        <mark key="." line="102" column="27" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" timestamp="1533712327594">
         <mark key="'" line="72" column="30" />
@@ -366,12 +359,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" timestamp="1527040799073">
         <mark key="'" line="318" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" timestamp="1533641271830">
-        <mark key="'" line="60" column="10" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="60" column="10" />
-        <mark key="." line="60" column="10" />
-        <mark key="^" line="60" column="10" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" timestamp="1533749492228">
+        <mark key="'" line="27" column="17" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="37" column="24" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/Sync/DeliverAdViewSyncerTest.php" timestamp="1526977122901">
         <mark key="'" line="254" column="21" />
@@ -469,31 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/AggregateCommand.php" />
-      <jump line="16" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/ImportSpCommand.php" />
-      <jump line="56" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/ImportSpCommand.php" />
-      <jump line="54" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/ImportSpCommand.php" />
-      <jump line="120" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/ImportSpCommand.php" />
-      <jump line="121" column="71" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/ImportSpCommand.php" />
-      <jump line="126" column="54" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/ImportSpCommand.php" />
-      <jump line="42" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/ImportSpCommand.php" />
-      <jump line="6" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/Zgok_pc/AssignMapper.php" />
-      <jump line="6" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/Zgok/AssignMapper.php" />
-      <jump line="25" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Zgok/AssignMapperTest.php" />
-      <jump line="35" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
-      <jump line="61" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
-      <jump line="283" column="35" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
-      <jump line="287" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
-      <jump line="44" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
-      <jump line="4" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
-      <jump line="324" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/find_duplicated_creative/bin/find_duplicated_creative.rb" />
-      <jump line="10" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" />
-      <jump line="131" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/GoogleAdx/ImportPcCommand.php" />
-      <jump line="87" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/Makefile" />
-      <jump line="17" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/Makefile" />
-      <jump line="53" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_pam_report/Makefile" />
-      <jump line="65" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/RequestFactory.pm" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/dsp_rule.erl" />
       <jump line="35" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" />
       <jump line="32" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Ad.pm" />
@@ -522,7 +490,6 @@
       <jump line="42" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="105" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="50" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="18" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
       <jump line="57" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
@@ -533,11 +500,9 @@
       <jump line="32" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/suzuken/wiki/migrations/2_user.sql" />
       <jump line="60" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="76" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="77" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="78" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="79" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="80" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="82" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="83" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
@@ -549,7 +514,6 @@
       <jump line="15" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="23" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="51" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
       <jump line="61" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="10" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" />
       <jump line="29" column="54" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" />
@@ -569,6 +533,35 @@
       <jump line="37" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" />
       <jump line="18" column="70" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" />
+      <jump line="65" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="79" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="25" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="5" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="100" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="6" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="67" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" />
+      <jump line="37" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" />
+      <jump line="44" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="103" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="56" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="35" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="70" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="31" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="71" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="26" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="27" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="16" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="23" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="34" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="35" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="38" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="39" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="42" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="43" column="41" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="60" column="31" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -580,49 +573,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>DBNAME</text>
+        <text>token</text>
       </register>
       <register name="0" type="4">
-        <text>DB_CONTAINER_NAME</text>
+        <text>github.com/jmoiron/sqlx</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">REJfQ09OVEFJTkVSX05BTUU6PXRyZWFzdXJlLW15c3FsCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gZm10LkVycm9yZigiIikKCQlyZXR1cm4gZXJyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gZm10LkVycm9yZigiIikKCQlyZXR1cm4gZXJyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL3ZveWFnZWdyb3VwL2ZsdWN0X2Rsdi9yb21kYi9zZXJ2aWNlL3JvbWRiL3NlcnZlciIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG9ja2VyL3N0YXJ0Ogo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWRvY2tlci1jb21wb3NlIGJ1aWxkCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">44G+44Ga44Kk44Oh44O844K444KSYnVpbGTjgZfjgb7jgZnjgIIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CSJnaXRodWIuY29tL3ZveWFnZWdyb3VwL2dvLXRvZG8vY29udHJvbGxlciIKCSJnaXRodWIuY29tL3ZveWFnZWdyb3VwL2dvLXRvZG8vZGIiCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CSJnaXRodWIuY29tL3ZveWFnZWdyb3VwL2dvLXRvZG8vY29udHJvbGxlciIKCSJnaXRodWIuY29tL3ZveWFnZWdyb3VwL2dvLXRvZG8vZGIiCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgc2gKJCBtYWtlIGRvY2tlci9idWlsZApgYGAKCltEb2NrZXJmaWxlXSgpIOOBruWGheWuueOCkuWkieabtOOBl+OBquOBhOOBruOBp+OBguOCjOOBsGJ1aWxk44Gv5LiA5bqm44Gg44GR44GX44Gm44GK44GR44Gw44KI44GE44Gn44GX44KH44GG44CC44GC44Go44Gv5Lul5LiL44Gu44KI44GG44Gr44GX44GmY29udGFpbmVy44KS44K544K/44O844OI44Gn44GN44G+44GZ44CCCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>DBNAME</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern>DBNAME</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -630,8 +623,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sqlite</entry>
-        <entry>crden</entry>
         <entry>credential</entry>
         <entry>Mome</entry>
         <entry>MOME</entry>
@@ -647,13 +638,13 @@
         <entry>Metho</entry>
         <entry>handler</entry>
         <entry>mux</entry>
-        <entry>token</entry>
         <entry>DB_CONTAINER_NAME</entry>
         <entry>DBNAME</entry>
+        <entry>Close</entry>
+        <entry>Run</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd>
-        <entry>;w</entry>
-        <entry>%s/maio/adcolony/g</entry>
         <entry>%s/Maio/AdColony/g</entry>
         <entry>q</entry>
         <entry>;;w</entry>
@@ -671,6 +662,8 @@
         <entry>e!</entry>
         <entry>118</entry>
         <entry>141</entry>
+        <entry>78</entry>
+        <entry>run</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
