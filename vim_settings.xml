@@ -109,12 +109,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1529909199367">
         <mark key="'" line="115" column="28" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" timestamp="1533745251932">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" timestamp="1533746257139">
+        <mark key="'" line="18" column="70" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/testing_sync/helpers/index.php" timestamp="1525855900272">
         <mark key="'" line="11" column="0" />
@@ -469,8 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="66" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_zgok/README.md" />
-      <jump line="97" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_zgok/README.md" />
       <jump line="70" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/AggregateCommand.php" />
       <jump line="16" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/ImportSpCommand.php" />
       <jump line="56" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/ImportSpCommand.php" />
@@ -568,7 +566,9 @@
       <jump line="71" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" />
       <jump line="72" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" />
       <jump line="38" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/README.md" />
+      <jump line="37" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" />
+      <jump line="18" column="70" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -583,13 +583,13 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>token</text>
+        <text>DBNAME</text>
       </register>
       <register name="0" type="4">
-        <text>-ldflags</text>
+        <text>DB_CONTAINER_NAME</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">REJfQ09OVEFJTkVSX05BTUU6PXRyZWFzdXJlLW15c3FsCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -598,31 +598,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZG9ja2VyL3N0YXJ0Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWRvY2tlci1jb21wb3NlIGJ1aWxkCg==</text>
+        <text encoding="base64">ZG9ja2VyL3N0YXJ0Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">44G+44Ga44Kk44Oh44O844K444KSYnVpbGTjgZfjgb7jgZnjgIIK</text>
+        <text encoding="base64">CWRvY2tlci1jb21wb3NlIGJ1aWxkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">44G+44Ga44Kk44Oh44O844K444KSYnVpbGTjgZfjgb7jgZnjgIIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YGBgc2gKJCBtYWtlIGRvY2tlci9idWlsZApgYGAKCltEb2NrZXJmaWxlXSgpIOOBruWGheWuueOCkuWkieabtOOBl+OBquOBhOOBruOBp+OBguOCjOOBsGJ1aWxk44Gv5LiA5bqm44Gg44GR44GX44Gm44GK44GR44Gw44KI44GE44Gn44GX44KH44GG44CC44GC44Go44Gv5Lul5LiL44Gu44KI44GG44Gr44GX44GmY29udGFpbmVy44KS44K544K/44O844OI44Gn44GN44G+44GZ44CCCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgc2gKJCBtYWtlIGRvY2tlci9idWlsZApgYGAKCltEb2NrZXJmaWxlXSgpIOOBruWGheWuueOCkuWkieabtOOBl+OBquOBhOOBruOBp+OBguOCjOOBsGJ1aWxk44Gv5LiA5bqm44Gg44GR44GX44Gm44GK44GR44Gw44KI44GE44Gn44GX44KH44GG44CC44GC44Go44Gv5Lul5LiL44Gu44KI44GG44Gr44GX44GmY29udGFpbmVy44KS44K544K/44O844OI44Gn44GN44G+44GZ44CCCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>token</last-search>
+      <last-search>DBNAME</last-search>
       <last-offset />
-      <last-pattern>token</last-pattern>
+      <last-pattern>DBNAME</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -630,8 +630,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
-        <entry>rep_frame</entry>
         <entry>sqlite</entry>
         <entry>crden</entry>
         <entry>credential</entry>
@@ -650,6 +648,8 @@
         <entry>handler</entry>
         <entry>mux</entry>
         <entry>token</entry>
+        <entry>DB_CONTAINER_NAME</entry>
+        <entry>DBNAME</entry>
       </history-search>
       <history-cmd>
         <entry>;w</entry>
