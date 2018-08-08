@@ -109,6 +109,13 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/include/rule.hrl" timestamp="1529909199367">
         <mark key="'" line="115" column="28" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" timestamp="1533745251932">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/testing_sync/helpers/index.php" timestamp="1525855900272">
         <mark key="'" line="11" column="0" />
       </file>
@@ -228,11 +235,13 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/README.md" timestamp="1533739874226">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="44" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/README.md" timestamp="1533745322651">
+        <mark key="'" line="38" column="15" />
+        <mark key="j" line="91" column="0" />
+        <mark key="[" line="93" column="38" />
+        <mark key="]" line="93" column="38" />
+        <mark key="." line="93" column="38" />
+        <mark key="^" line="93" column="38" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" timestamp="1533631966463">
         <mark key="'" line="106" column="18" />
@@ -460,8 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="41" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/AggregateCommand.php" />
-      <jump line="20" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok_pc/AggregateCommand.php" />
       <jump line="46" column="66" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_zgok/README.md" />
       <jump line="97" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_zgok/README.md" />
       <jump line="70" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/AggregateCommand.php" />
@@ -560,6 +567,8 @@
       <jump line="7" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/Makefile" />
       <jump line="71" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" />
       <jump line="72" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" />
+      <jump line="38" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -571,7 +580,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>token</text>
@@ -583,28 +592,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMg44OH44O844K/44OZ44O844K544Oe44Kk44Kw44Os44O844K344On44OzCgpbZGJjb25maWcueW1sXSgpIOOBq+e9ruOBi+OCjOOBpuOBhOOCi+ioreWumuOBq+OCiOOBo+OBpuaOpee2muOBmeOCi+ODh+ODvOOCv+ODmeODvOOCueOCkuaMh+WumuOBl+OBpuOBhOOBvuOBmeOAguOBk+OBk+OBp+OBr+ODh+ODvOOCv+ODmeODvOOCueODnuOCpOOCsOODrOODvOOCt+ODp+ODs+OBruaJi+mghuOBq+OBpOOBhOOBpuiqrOaYjuOBl+OBvuOBmeOAggoK44OH44O844K/44OZ44O844K544Oe44Kk44Kw44Os44O844K344On44Oz44Gn44GvIFttaWdyYXRpb25zXSgpIOS7peS4i+OBq+e9ruOBi+OCjOOBpuOBhOOCi1NRTOOCkuWun+ihjOOBmeOCi+OCiOOBhuOBq+OBl+OBpuOBhOOBvuOBmeOAggo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMgcHJldHRpZXLjgavjgojjgovjgq/jg6njgqTjgqLjg7Pjg4jlgbTjgqLjg5fjg6rjga7mlbTlvaLjgpLlrp/ooYzjgZfjgb7jgZnjgIIKJCBtYWtlIGZpeAo=</text>
+        <text encoding="base64">ZG9ja2VyL3N0YXJ0Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CglyZXNwIDo9ICZSZXNwb25zZXsKCQlEYXRhOiByYW5raW5ncywKCX0K</text>
+        <text encoding="base64">CWRvY2tlci1jb21wb3NlIGJ1aWxkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">44G+44Ga44Kk44Oh44O844K444KSYnVpbGTjgZfjgb7jgZnjgIIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZlcnNpb24gICBzdHJpbmcK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">YGBgc2gKJCBtYWtlIGRvY2tlci9idWlsZApgYGAKCltEb2NrZXJmaWxlXSgpIOOBruWGheWuueOCkuWkieabtOOBl+OBquOBhOOBruOBp+OBguOCjOOBsGJ1aWxk44Gv5LiA5bqm44Gg44GR44GX44Gm44GK44GR44Gw44KI44GE44Gn44GX44KH44GG44CC44GC44Go44Gv5Lul5LiL44Gu44KI44GG44Gr44GX44GmY29udGFpbmVy44KS44K544K/44O844OI44Gn44GN44G+44GZ44CCCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWdvIGJ1aWxkIC1vIGJ1aWxkcy9zaGVldDJqc29uIC1sZGZsYWdzICItWD1tYWluLnZlcnNpb249JChzaGVsbCBnaXQgcmV2LXBhcnNlIEhFQUQpIC1YPW1haW4uYnVpbGRkYXRlPSQoc2hlbGwgZGF0ZSkiIG1haW4uZ28K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
