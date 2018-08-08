@@ -228,10 +228,11 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/README.md" timestamp="1533620822433">
-        <mark key="[" line="19" column="2" />
-        <mark key="]" line="19" column="2" />
-        <mark key="." line="19" column="2" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/README.md" timestamp="1533739874226">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" timestamp="1533631966463">
         <mark key="'" line="106" column="18" />
@@ -570,7 +571,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>resp</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>token</text>
@@ -579,31 +580,31 @@
         <text>-ldflags</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CglyZXNwIDo9ICZSZXNwb25zZXsKCQlEYXRhOiByYW5raW5ncywKCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">IyMg44OH44O844K/44OZ44O844K544Oe44Kk44Kw44Os44O844K344On44OzCgpbZGJjb25maWcueW1sXSgpIOOBq+e9ruOBi+OCjOOBpuOBhOOCi+ioreWumuOBq+OCiOOBo+OBpuaOpee2muOBmeOCi+ODh+ODvOOCv+ODmeODvOOCueOCkuaMh+WumuOBl+OBpuOBhOOBvuOBmeOAguOBk+OBk+OBp+OBr+ODh+ODvOOCv+ODmeODvOOCueODnuOCpOOCsOODrOODvOOCt+ODp+ODs+OBruaJi+mghuOBq+OBpOOBhOOBpuiqrOaYjuOBl+OBvuOBmeOAggoK44OH44O844K/44OZ44O844K544Oe44Kk44Kw44Os44O844K344On44Oz44Gn44GvIFttaWdyYXRpb25zXSgpIOS7peS4i+OBq+e9ruOBi+OCjOOBpuOBhOOCi1NRTOOCkuWun+ihjOOBmeOCi+OCiOOBhuOBq+OBl+OBpuOBhOOBvuOBmeOAggo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZlcnNpb24gICBzdHJpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgcHJldHRpZXLjgavjgojjgovjgq/jg6njgqTjgqLjg7Pjg4jlgbTjgqLjg5fjg6rjga7mlbTlvaLjgpLlrp/ooYzjgZfjgb7jgZnjgIIKJCBtYWtlIGZpeAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWdvIGJ1aWxkIC1vIGJ1aWxkcy9zaGVldDJqc29uIC1sZGZsYWdzICItWD1tYWluLnZlcnNpb249JChzaGVsbCBnaXQgcmV2LXBhcnNlIEhFQUQpIC1YPW1haW4uYnVpbGRkYXRlPSQoc2hlbGwgZGF0ZSkiIG1haW4uZ28K</text>
+        <text encoding="base64">CglyZXNwIDo9ICZSZXNwb25zZXsKCQlEYXRhOiByYW5raW5ncywKCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZlcnNpb24gICBzdHJpbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VkVSU0lPTiA6PSAkKHNoZWxsIGdpdCByZXYtcGFyc2UgSEVBRCkgQlVJTERfREFURSA6PSAkKHNoZWxsIGdpdCBkYXRlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWdvIGJ1aWxkIC1vIGJ1aWxkcy9zaGVldDJqc29uIC1sZGZsYWdzICItWD1tYWluLnZlcnNpb249JChzaGVsbCBnaXQgcmV2LXBhcnNlIEhFQUQpIC1YPW1haW4uYnVpbGRkYXRlPSQoc2hlbGwgZGF0ZSkiIG1haW4uZ28K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
