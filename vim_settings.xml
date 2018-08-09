@@ -17,165 +17,6 @@
         <mark key="^" line="694" column="0" />
         <mark key="." line="694" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" timestamp="1527043704430">
-        <mark key="'" line="18" column="13" />
-        <mark key="[" line="57" column="24" />
-        <mark key="]" line="58" column="22" />
-        <mark key="^" line="58" column="22" />
-        <mark key="." line="58" column="22" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1532667942576">
-        <mark key="'" line="44" column="6" />
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="23" />
-        <mark key="^" line="25" column="22" />
-        <mark key="." line="25" column="23" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/Makefile" timestamp="1533705611955">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Zgok/AssignMapperTest.php" timestamp="1530064950215">
-        <mark key="'" line="25" column="5" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/local/treasure-go/mysqlsample/main.go" timestamp="1533810591117">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="25" />
-        <mark key="." line="28" column="25" />
-        <mark key="^" line="28" column="25" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1532577632026">
-        <mark key="'" line="35" column="23" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="12" />
-        <mark key="^" line="247" column="56" />
-        <mark key="." line="247" column="49" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" timestamp="1533748714706">
-        <mark key="'" line="18" column="70" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled/index.html" timestamp="1525942096430">
-        <mark key="'" line="16" column="43" />
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" timestamp="1533805573755">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoBox.jsx" timestamp="1533798423158">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/999/assets/js/app.js" timestamp="1528425730842">
-        <mark key="'" line="83" column="11" />
-        <mark key="[" line="121" column="8" />
-        <mark key="]" line="121" column="10" />
-        <mark key="^" line="121" column="10" />
-        <mark key="." line="121" column="10" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" timestamp="1533807355348">
-        <mark key="'" line="44" column="23" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" timestamp="1529982230475">
-        <mark key="'" line="112" column="57" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="68" column="94" />
-        <mark key="." line="112" column="57" />
-        <mark key="^" line="112" column="57" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1526617203032">
-        <mark key="'" line="2" column="167" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="2" column="167" />
-        <mark key="^" line="3" column="173" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/2_user.sql" timestamp="1533628413850">
-        <mark key="[" line="11" column="53" />
-        <mark key="]" line="11" column="55" />
-        <mark key="." line="11" column="55" />
-        <mark key="^" line="11" column="55" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/vendor/github.com/gorilla/mux/mux.go" timestamp="1533629141079">
-        <mark key="[" line="280" column="4" />
-        <mark key="]" line="280" column="68" />
-        <mark key="^" line="280" column="68" />
-        <mark key="." line="280" column="68" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1528250161279">
-        <mark key="'" line="48" column="24" />
-        <mark key="[" line="83" column="100" />
-        <mark key="]" line="83" column="100" />
-        <mark key="." line="83" column="100" />
-        <mark key="^" line="83" column="102" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1528788188643">
-        <mark key="'" line="20" column="19" />
-        <mark key="[" line="79" column="88" />
-        <mark key="]" line="79" column="88" />
-        <mark key="^" line="79" column="36" />
-        <mark key="." line="79" column="88" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/AggregateCommand.php" timestamp="1530062814928">
-        <mark key="'" line="70" column="4" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="63" />
-        <mark key="." line="26" column="29" />
-        <mark key="^" line="26" column="29" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/Kanade.t" timestamp="1529911657913">
-        <mark key="'" line="140" column="0" />
-        <mark key="[" line="100" column="25" />
-        <mark key="]" line="100" column="25" />
-        <mark key="^" line="100" column="25" />
-        <mark key="." line="100" column="25" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/sawa/bot/poster.go" timestamp="1528612519220">
-        <mark key="'" line="4" column="7" />
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="30" />
-        <mark key="." line="27" column="30" />
-        <mark key="^" line="27" column="30" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/README.md" timestamp="1533745322651">
-        <mark key="'" line="38" column="15" />
-        <mark key="j" line="91" column="0" />
-        <mark key="[" line="93" column="38" />
-        <mark key="]" line="93" column="38" />
-        <mark key="." line="93" column="38" />
-        <mark key="^" line="93" column="38" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" timestamp="1533798163862">
-        <mark key="'" line="68" column="18" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/user.go" timestamp="1533806540237">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="19" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/105/t65633.js" timestamp="1527475745541">
         <mark key="'" line="138" column="33" />
         <mark key="[" line="323" column="19" />
@@ -183,12 +24,23 @@
         <mark key="^" line="323" column="19" />
         <mark key="." line="323" column="19" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" timestamp="1527043704430">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="57" column="24" />
+        <mark key="]" line="58" column="22" />
+        <mark key="^" line="58" column="22" />
+        <mark key="." line="58" column="22" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9994.js" timestamp="1526964899249">
         <mark key="'" line="15" column="20" />
         <mark key="[" line="2" column="46" />
         <mark key="]" line="2" column="49" />
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/dbconfig.yml" timestamp="1533816580211">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="109" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/index.css" timestamp="1533792866849">
         <mark key="'" line="120" column="0" />
@@ -210,6 +62,19 @@
         <mark key="]" line="106" column="10" />
         <mark key="^" line="106" column="10" />
         <mark key="." line="106" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1532667942576">
+        <mark key="'" line="44" column="6" />
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="23" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="25" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/Makefile" timestamp="1533705611955">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/base.css" timestamp="1533792982058">
         <mark key="'" line="292" column="0" />
@@ -236,6 +101,26 @@
         <mark key="^" line="128" column="21" />
         <mark key="." line="128" column="21" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/tests/unit/Fluct/Batch/Report/AdnImport/Zgok/AssignMapperTest.php" timestamp="1530064950215">
+        <mark key="'" line="25" column="5" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/local/treasure-go/mysqlsample/main.go" timestamp="1533810591117">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+        <mark key="^" line="28" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1532577632026">
+        <mark key="'" line="35" column="23" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="12" />
+        <mark key="^" line="247" column="56" />
+        <mark key="." line="247" column="49" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" timestamp="1533712327594">
         <mark key="'" line="72" column="30" />
         <mark key="[" line="139" column="0" />
@@ -256,6 +141,31 @@
         <mark key="]" line="46" column="66" />
         <mark key="^" line="46" column="66" />
         <mark key="." line="46" column="66" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" timestamp="1533748714706">
+        <mark key="'" line="18" column="70" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/index.html" timestamp="1525942096430">
+        <mark key="'" line="16" column="43" />
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" timestamp="1533805573755">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoBox.jsx" timestamp="1533798423158">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/original/assets/js/app.js" timestamp="1528425795180">
         <mark key="'" line="11" column="13" />
@@ -290,12 +200,39 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/999/assets/js/app.js" timestamp="1528425730842">
+        <mark key="'" line="83" column="11" />
+        <mark key="[" line="121" column="8" />
+        <mark key="]" line="121" column="10" />
+        <mark key="^" line="121" column="10" />
+        <mark key="." line="121" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" timestamp="1533816990429">
+        <mark key="'" line="44" column="23" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok_pc/AggregateCommand.php" timestamp="1530063846953">
         <mark key="'" line="20" column="6" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="53" />
         <mark key="." line="72" column="65" />
         <mark key="^" line="72" column="65" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/cron.d/dep01-pre_aws" timestamp="1529982230475">
+        <mark key="'" line="112" column="57" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="68" column="94" />
+        <mark key="." line="112" column="57" />
+        <mark key="^" line="112" column="57" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1526617203032">
+        <mark key="'" line="2" column="167" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="2" column="167" />
+        <mark key="^" line="3" column="173" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/batch_targets.mk" timestamp="1530161497100">
         <mark key="'" line="10" column="20" />
@@ -304,6 +241,12 @@
         <mark key="^" line="40" column="46" />
         <mark key="." line="107" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/2_user.sql" timestamp="1533628413850">
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="11" column="55" />
+        <mark key="." line="11" column="55" />
+        <mark key="^" line="11" column="55" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/python/2.6/site-packages/fluct_web_api/fluct_web_api.py" timestamp="1527043772287">
         <mark key="'" line="28" column="44" />
         <mark key="[" line="102" column="37" />
@@ -311,12 +254,32 @@
         <mark key="." line="103" column="17" />
         <mark key="^" line="103" column="17" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/vendor/github.com/gorilla/mux/mux.go" timestamp="1533629141079">
+        <mark key="[" line="280" column="4" />
+        <mark key="]" line="280" column="68" />
+        <mark key="^" line="280" column="68" />
+        <mark key="." line="280" column="68" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/buildAdInfoTest.php" timestamp="1527580783086">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="28" />
         <mark key="]" line="46" column="29" />
         <mark key="^" line="620" column="103" />
         <mark key="." line="46" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/momentum_heron_rule.erl" timestamp="1528250161279">
+        <mark key="'" line="48" column="24" />
+        <mark key="[" line="83" column="100" />
+        <mark key="]" line="83" column="100" />
+        <mark key="." line="83" column="100" />
+        <mark key="^" line="83" column="102" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/public_html/index.php" timestamp="1528788188643">
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="79" column="88" />
+        <mark key="]" line="79" column="88" />
+        <mark key="^" line="79" column="36" />
+        <mark key="." line="79" column="88" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" timestamp="1525667518892">
         <mark key="'" line="0" column="0" />
@@ -332,12 +295,26 @@
         <mark key="." line="97" column="64" />
         <mark key="^" line="97" column="64" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/AggregateCommand.php" timestamp="1530062814928">
+        <mark key="'" line="70" column="4" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="63" />
+        <mark key="." line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/RewardedVideo/Tapjoy/ReportFormatter.php" timestamp="1528191761524">
         <mark key="'" line="150" column="20" />
         <mark key="[" line="217" column="58" />
         <mark key="]" line="217" column="58" />
         <mark key="^" line="193" column="11" />
         <mark key="." line="217" column="58" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/Kanade.t" timestamp="1529911657913">
+        <mark key="'" line="140" column="0" />
+        <mark key="[" line="100" column="25" />
+        <mark key="]" line="100" column="25" />
+        <mark key="^" line="100" column="25" />
+        <mark key="." line="100" column="25" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/saxsir/model/message.go" timestamp="1533629804434">
         <mark key="'" line="68" column="0" />
@@ -350,6 +327,33 @@
         <mark key="]" line="34" column="18" />
         <mark key="^" line="34" column="53" />
         <mark key="." line="34" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/sawa/bot/poster.go" timestamp="1528612519220">
+        <mark key="'" line="4" column="7" />
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="27" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/README.md" timestamp="1533745322651">
+        <mark key="'" line="38" column="15" />
+        <mark key="j" line="91" column="0" />
+        <mark key="[" line="93" column="38" />
+        <mark key="]" line="93" column="38" />
+        <mark key="." line="93" column="38" />
+        <mark key="^" line="93" column="38" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" timestamp="1533798163862">
+        <mark key="'" line="68" column="18" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/user.go" timestamp="1533806540237">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -469,8 +473,8 @@
       <register name="/" type="4">
         <text>todo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQl7TmFtZTogImEifSwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">cm9vdDpwYXNzd29yZEB0Y3AobG9jYWxob3N0OjMzMDYpL3RyZWFzdXJlP3BhcnNlVGltZT10cnVlJmNoYXJzZXQ9dXRmOG1iNCZpbnRlcnBvbGF0ZVBhcmFtcz10cnVl</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
