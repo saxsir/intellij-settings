@@ -143,12 +143,12 @@
         <mark key="^" line="121" column="10" />
         <mark key="." line="121" column="10" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" timestamp="1533793189274">
-        <mark key="'" line="44" column="23" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="55" column="39" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" timestamp="1533796188521">
+        <mark key="'" line="45" column="23" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+        <mark key="^" line="16" column="32" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Report/AdnImport/RVidConvertMapper.php" timestamp="1528356614914">
         <mark key="'" line="9" column="6" />
@@ -240,12 +240,11 @@
         <mark key="." line="93" column="38" />
         <mark key="^" line="93" column="38" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" timestamp="1533793110650">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="71" column="21" />
-        <mark key="]" line="71" column="26" />
-        <mark key="." line="71" column="26" />
-        <mark key="^" line="78" column="30" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" timestamp="1533795488149">
+        <mark key="'" line="41" column="32" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/112/t9907.js" timestamp="1528879140747">
         <mark key="'" line="153" column="13" />
@@ -481,8 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="50" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="18" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
       <jump line="57" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
@@ -581,6 +578,8 @@
       <jump line="464" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/base.css" />
       <jump line="292" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/base.css" />
       <jump line="45" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" />
+      <jump line="107" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" />
+      <jump line="41" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -592,49 +591,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNsYXNzTmFtZT0iY3JlYXRlZCI=</text>
+        <text encoding="base64">IG9uQ2xpY2s9e3RoaXMuaGFuZGxlT3BlbkRldGFpbH0=</text>
       </register>
       <register name="/" type="4">
-        <text>label</text>
+        <text>handleSubmit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I3RvZG8tbGlzdCBsaSBsYWJlbCB7Cgl3aGl0ZS1zcGFjZTogcHJlOwoJd29yZC1icmVhazogYnJlYWstd29yZDsKCXBhZGRpbmc6IDE1cHggNjBweCAxNXB4IDE1cHg7CgltYXJnaW4tbGVmdDogNDVweDsKCWRpc3BsYXk6IGJsb2NrOwoJbGluZS1oZWlnaHQ6IDEuMjsKCS13ZWJraXQtdHJhbnNpdGlvbjogY29sb3IgMC40czsKCXRyYW5zaXRpb246IGNvbG9yIDAuNHM7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5oYW5kbGVTdWJtaXQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUhvZ2UgICAgICBzdHJpbmcgICAgIGBqc29uOiJob2dlImAK</text>
+        <text encoding="base64">ICAgICAgICAqLwogICAgICAgIGlmIChldmVudC53aGljaCA9PT0gdGhpcy5FTlRFUl9LRVkpIHsKICAgICAgICAgICAgdGhpcy5oYW5kbGVTdWJtaXQoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoaXRlLXNwYWNlOiBwcmU7CiAgICB3b3JkLWJyZWFrOiBicmVhay13b3JkOwogICAgcGFkZGluZzogMTVweCA2MHB4IDE1cHggMTVweDsKICAgIG1hcmdpbi1sZWZ0OiA0NXB4OwogICAgZGlzcGxheTogYmxvY2s7CiAgICBsaW5lLWhlaWdodDogMS4yOwogICAgLXdlYmtpdC10cmFuc2l0aW9uOiBjb2xvciAwLjRzOwogICAgdHJhbnNpdGlvbjogY29sb3IgMC40czsK</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoaXRlLXNwYWNlOiBwcmUtbGluZTsKICAgIHdvcmQtYnJlYWs6IGJyZWFrLWFsbDsKICAgIHBhZGRpbmc6IDE1cHggNjBweCAxNXB4IDE1cHg7CiAgICBtYXJnaW4tbGVmdDogNDVweDsKICAgIGRpc3BsYXk6IGJsb2NrOwogICAgbGluZS1oZWlnaHQ6IDEuMjsKICAgIHRyYW5zaXRpb246IGNvbG9yIDAuNHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7IGVkaXRUZXh0OiB0aGlzLnByb3BzLnRvZG8udGl0bGUgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgaG9nZQogICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5oYW5kbGVTdWJtaXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUhvZ2UgICAgICBzdHJpbmcgICAgIGBqc29uOiJob2dlImAK</text>
+        <text encoding="base64">ICAgICAgICBqcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZU9wZW5EZXRhaWwoKSB7CiAgICAgICAgY29uc29sZS5sb2coImFhYSIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbktleURvd249e3RoaXMuaGFuZGxlS2V5RG93bn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImNoYW5nZWVlZWVlZWUiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZm10LkVycm9yZigiIikKCQlyZXR1cm4gZXJyCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiY2hhbmdlIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>label</last-search>
+      <last-search>handleSubmit</last-search>
       <last-offset />
-      <last-pattern>label</last-pattern>
+      <last-pattern>handleSubmit</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -642,7 +641,6 @@
     </search>
     <history>
       <history-search>
-        <entry>momentum</entry>
         <entry>dbm</entry>
         <entry>COOKIE</entry>
         <entry>debug</entry>
@@ -662,6 +660,7 @@
         <entry>title</entry>
         <entry>labe</entry>
         <entry>label</entry>
+        <entry>handleSubmit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Maio/AdColony/g</entry>
