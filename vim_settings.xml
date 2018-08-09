@@ -44,6 +44,12 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/src/local/treasure-go/mysqlsample/main.go" timestamp="1533810591117">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+        <mark key="^" line="28" column="25" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/config.ini" timestamp="1532577632026">
         <mark key="'" line="35" column="23" />
         <mark key="[" line="66" column="0" />
@@ -458,7 +464,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>todo</text>
@@ -467,31 +473,31 @@
         <text encoding="base64">CQl7TmFtZTogImEifSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUR1ZSAgICAgICAqdGltZS5UaW1lIGBqc29uOiJkdWUiYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkmc3RydWN0IHsKCQkJTmFtZSBzdHJpbmcgYGpzb246Im5hbWUiYAoJCX17TmFtZTogImEifSwKCQkmc3RydWN0IHsKCQkJTmFtZSBzdHJpbmcgYGpzb246Im5hbWUiYAoJCX17TmFtZTogImIifSwK</text>
+        <text encoding="base64">CUR1ZSAgICAgICAqdGltZS5UaW1lIGBqc29uOiJkdWUiYAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzdHJ1Cg==</text>
+        <text encoding="base64">CQkmc3RydWN0IHsKCQkJTmFtZSBzdHJpbmcgYGpzb246Im5hbWUiYAoJCX17TmFtZTogImEifSwKCQkmc3RydWN0IHsKCQkJTmFtZSBzdHJpbmcgYGpzb246Im5hbWUiYAoJCX17TmFtZTogImIifSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzdHJ1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZSBVc2VyTW9kZWwgc3RydWN0IHsKfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkmVXNlcntOYW1lOiAiYiJ9LAoJCSZVc2Vye05hbWU6ICJjIn0sCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">dHlwZSBVc2VyTW9kZWwgc3RydWN0IHsKfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkmVXNlcntOYW1lOiAiYiJ9LAoJCSZVc2Vye05hbWU6ICJjIn0sCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">dHlwZSBVc2VyTW9kZWwgc3RydWN0IHsKCU5hbWUgc3RyaW5nIGBqc29uOiJuYW1lImAKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJlcyA6PSBbXSpzdHJ1Y3QgewoJCU5hbWUgc3RyaW5nIGBqc29uOiJuYW1lImAKCX17CgkJJnN0cnVjdHsgTmFtZSBzdHJpbmcgfXsKCQkJImhvZ2UiLAoJCX0sCgkJJnN0cnVjdHsgTmFtZSBzdHJpbmcgfXsKCQkJImZ1Z2EiLAoJCX0sCgl9Cg==</text>
+        <text encoding="base64">dHlwZSBVc2VyTW9kZWwgc3RydWN0IHsKCU5hbWUgc3RyaW5nIGBqc29uOiJuYW1lImAKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
