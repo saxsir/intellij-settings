@@ -122,8 +122,10 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" timestamp="1533797296820">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" timestamp="1533805573755">
         <mark key="'" line="98" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoBox.jsx" timestamp="1533798423158">
         <mark key="'" line="0" column="0" />
@@ -147,10 +149,10 @@
         <mark key="^" line="121" column="10" />
         <mark key="." line="121" column="10" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" timestamp="1533796188521">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" timestamp="1533805511431">
         <mark key="'" line="45" column="23" />
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="32" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="24" column="0" />
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
       </file>
@@ -249,6 +251,12 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/user.go" timestamp="1533806540237">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/112/t9907.js" timestamp="1528879140747">
         <mark key="'" line="153" column="13" />
@@ -381,12 +389,12 @@
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/003Campaign.t" timestamp="1527040799073">
         <mark key="'" line="318" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" timestamp="1533799326157">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="91" column="24" />
-        <mark key="]" line="91" column="24" />
-        <mark key="." line="91" column="24" />
-        <mark key="^" line="90" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" timestamp="1533806450236">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="91" column="29" />
+        <mark key="." line="91" column="29" />
+        <mark key="^" line="91" column="29" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/Sync/DeliverAdViewSyncerTest.php" timestamp="1526977122901">
         <mark key="'" line="254" column="21" />
@@ -484,10 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/suzuken/wiki/migrations/2_user.sql" />
-      <jump line="60" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler.go" />
-      <jump line="76" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="77" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="78" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="80" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
@@ -584,6 +588,10 @@
       <jump line="51" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoFooter.jsx" />
       <jump line="28" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/index.html" />
+      <jump line="91" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="24" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="87" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="28" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -595,49 +603,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>header</text>
+        <text>todo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KICA8bWV0YSBjaGFyc2V0PSJ1dGYtOCI+CiAgPHRpdGxlPmdvLXRvZG8gLSBUb2RvIEFwcCBFeGFtcGxlPC90aXRsZT4KICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii4vc3RhdGljL2Nzcy9iYXNlLmNzcyI+CiAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIuL3N0YXRpYy9jc3MvaW5kZXguY3NzIj4KICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly91bnBrZy5jb20vcmVhY3RAMTYvdW1kL3JlYWN0LmRldmVsb3BtZW50LmpzIj48L3NjcmlwdD4KICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly91bnBrZy5jb20vcmVhY3QtZG9tQDE2L3VtZC9yZWFjdC1kb20uZGV2ZWxvcG1lbnQuanMiPjwvc2NyaXB0PgogIDxzY3JpcHQgc3JjPSJodHRwczovL3VucGtnLmNvbS9AYmFiZWwvc3RhbmRhbG9uZS9iYWJlbC5taW4uanMiPjwvc2NyaXB0PgogIDxzY3JpcHQgc3JjPSJodHRwczovL3VucGtnLmNvbS9wcm9wLXR5cGVzQDE1LjYuMi9wcm9wLXR5cGVzLmpzIj48L3NjcmlwdD4KICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly91bnBrZy5jb20vY2xhc3NuYW1lc0AyLjIuNi9pbmRleC5qcyI+PC9zY3JpcHQ+CiAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2JhYmVsIiBzcmM9Ii4vc3RhdGljL2pzL2FwcC9Ub2RvTW9kZWwuanMiPjwvc2NyaXB0PgogIDxzY3JpcHQgdHlwZT0idGV4dC9iYWJlbCIgc3JjPSIuL3N0YXRpYy9qcy9hcHAvVG9kby5qc3giPjwvc2NyaXB0PgogIDxzY3JpcHQgdHlwZT0idGV4dC9iYWJlbCIgc3JjPSIuL3N0YXRpYy9qcy9hcHAvVG9kb0JveC5qc3giPjwvc2NyaXB0PgogIDxzY3JpcHQgdHlwZT0idGV4dC9iYWJlbCIgc3JjPSIuL3N0YXRpYy9qcy9hcHAvVG9kb0Zvb3Rlci5qc3giPjwvc2NyaXB0PgoKPC9oZWFkPgo8Ym9keT4KICA8aGVhZGVyIGlkPSIiPjwvaGVhZGVyPgogIDxzZWN0aW9uIGlkPSJhcHAiPjwvc2VjdGlvbj4KICA8Zm9vdGVyIGNsYXNzPSJpbmZvIj4KICAgIDxwPkRvdWJsZS1jbGljayB0byBlZGl0IGEgdG9kbzwvcD4KICAgIDxwPkNyZWF0ZWQgYnkgPGEgaHJlZj0iaHR0cDovL2dpdGh1Yi5jb20vcGV0ZWh1bnQvIj5wZXRlaHVudDwvYT48L3A+CiAgICA8cD5QYXJ0IG9mIDxhIGhyZWY9Imh0dHA6Ly90b2RvbXZjLmNvbSI+VG9kb01WQzwvYT48L3A+CiAgPC9mb290ZXI+CiAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2JhYmVsIj4KICAgIGNvbnN0IG1vZGVsID0gbmV3IFRvZG9Nb2RlbCgpOwogICAgZnVuY3Rpb24gcigpIHsKICAgICAgICBSZWFjdERPTS5yZW5kZXIoCiAgICAgICAgICAgIDxUb2RvQm94IG1vZGVsPXttb2RlbH0gcG9sbEludGVydmFsPXs1MDAwfSAvPiwKICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImFwcCIpCiAgICAgICAgKTsKICAgIH0KICAgIG1vZGVsLnN1YnNjcmliZShyKTsKICA8L3NjcmlwdD4KPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">CQl7TmFtZTogImEifSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkmc3RydWN0IHsKCQkJTmFtZSBzdHJpbmcgYGpzb246Im5hbWUiYAoJCX17TmFtZTogImEifSwKCQkmc3RydWN0IHsKCQkJTmFtZSBzdHJpbmcgYGpzb246Im5hbWUiYAoJCX17TmFtZTogImIifSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgTG9nZ2VkIGluIGFzIGFub255bW91cwogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">CQlzdHJ1Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgICAgICAgIExvZ2dlZCBpbiBhcyBhbm9ueW1vdXMKICAgICAgICAgICAgICAgIDwvc3Bhbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cD5Mb2dnZWQgaW4gYXMgZ3Vlc3Q8L3A+Cg==</text>
+        <text encoding="base64">dHlwZSBVc2VyTW9kZWwgc3RydWN0IHsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBndWVzdAo=</text>
+        <text encoding="base64">CQkmVXNlcntOYW1lOiAiYiJ9LAoJCSZVc2Vye05hbWU6ICJjIn0sCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBndWVzdAo=</text>
+        <text encoding="base64">dHlwZSBVc2VyTW9kZWwgc3RydWN0IHsKCU5hbWUgc3RyaW5nIGBqc29uOiJuYW1lImAKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAqLwogICAgICAgIGlmIChldmVudC53aGljaCA9PT0gdGhpcy5FTlRFUl9LRVkpIHsKICAgICAgICAgICAgdGhpcy5oYW5kbGVTdWJtaXQoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CXJlcyA6PSBbXSpzdHJ1Y3QgewoJCU5hbWUgc3RyaW5nIGBqc29uOiJuYW1lImAKCX17CgkJJnN0cnVjdHsgTmFtZSBzdHJpbmcgfXsKCQkJImhvZ2UiLAoJCX0sCgkJJnN0cnVjdHsgTmFtZSBzdHJpbmcgfXsKCQkJImZ1Z2EiLAoJCX0sCgl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">dHlwZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>header</last-search>
+      <last-search>todo</last-search>
       <last-offset />
-      <last-pattern>header</last-pattern>
+      <last-pattern>todo</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -645,7 +653,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debug</entry>
         <entry>campaign_and_rtb_for_request</entry>
         <entry>save</entry>
         <entry>H</entry>
@@ -665,9 +672,9 @@
         <entry>handleSubmit</entry>
         <entry>toggle</entry>
         <entry>header</entry>
+        <entry>todo</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Maio/AdColony/g</entry>
         <entry>q</entry>
         <entry>;;w</entry>
         <entry>121</entry>
@@ -686,6 +693,7 @@
         <entry>141</entry>
         <entry>78</entry>
         <entry>run</entry>
+        <entry>13</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
