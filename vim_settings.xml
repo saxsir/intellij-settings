@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/index.html" timestamp="1533888718465">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="43" />
-        <mark key="^" line="5" column="39" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/index.html" timestamp="1533893521194">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" timestamp="1526280386569">
         <mark key="'" line="37" column="67" />
@@ -100,8 +100,8 @@
         <mark key="." line="314" column="30" />
         <mark key="^" line="314" column="30" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" timestamp="1533877927433">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" timestamp="1533893718931">
+        <mark key="'" line="56" column="16" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="22" />
         <mark key="^" line="128" column="21" />
@@ -287,10 +287,11 @@
         <mark key="^" line="79" column="36" />
         <mark key="." line="79" column="88" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" timestamp="1533887418613">
-        <mark key="'" line="86" column="25" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" timestamp="1533894255109">
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="26" column="17" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" timestamp="1525667518892">
         <mark key="'" line="0" column="0" />
@@ -368,40 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" />
-      <jump line="3" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" />
-      <jump line="92" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" />
-      <jump line="114" column="52" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" />
-      <jump line="94" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" />
-      <jump line="7" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/Makefile" />
-      <jump line="71" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" />
-      <jump line="72" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/batch/sheet2json/main.go" />
-      <jump line="38" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/README.md" />
-      <jump line="37" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" />
-      <jump line="18" column="70" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" />
-      <jump line="65" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="79" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="25" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="5" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="100" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="6" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="67" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" />
-      <jump line="37" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" />
-      <jump line="44" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="103" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="56" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="35" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="70" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="71" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="26" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="27" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="16" column="37" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
-      <jump line="23" column="28" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
-      <jump line="34" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
       <jump line="35" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
       <jump line="38" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
       <jump line="39" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
@@ -455,10 +422,8 @@
       <jump line="28" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
       <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
       <jump line="162" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
       <jump line="36" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="116" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="0" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="3" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/simple.html" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/simple.html" />
       <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/index.html" />
@@ -468,6 +433,42 @@
       <jump line="9" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/base.css" />
       <jump line="4" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/base.css" />
       <jump line="696" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/base.css" />
+      <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="124" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="3" column="3" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="133" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="9" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="134" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="106" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="22" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="113" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="126" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="11" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="117" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="10" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="151" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="56" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="40" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="125" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="10" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="21" column="36" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="37" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="107" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="122" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="130" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="110" column="10" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="20" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="18" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="121" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="8" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="158" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -479,49 +480,50 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>header</text>
       </register>
       <register name="/" type="4">
-        <text>inform</text>
+        <text>newTodo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDwhLS0gc2VlLiBodHRwczovL3B1cmVjc3MuaW8vc3RhcnQvIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgZSgKICAgICAgICAiaGVhZGVyIiwKICAgICAgICB7IGlkOiAiaGVhZGVyIiB9LAogICAgICAgIGUoImlucHV0IiwgewogICAgICAgICAgdmFsdWU6IG5ld1RvZG8sCiAgICAgICAgICBhdXRvRm9jdXM6IHRydWUsCiAgICAgICAgICBvbkNoYW5nZTogZXZlbnQgPT4gewogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgbmV3VG9kbzogZXZlbnQudGFyZ2V0LnZhbHVlIH0pOwogICAgICAgICAgfQogICAgICAgIH0pLAogICAgICAgIG51bGwKICAgICAgKSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly91bnBrZy5jb20vcHVyZWNzc0AxLjAuMC9idWlsZC9iYXNlLW1pbi5jc3MiPgo=</text>
+      <register name="1" type="4">
+        <text>),
+                null</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL3VucGtnLmNvbS9AbWF0ZXJpYWwtdWkvY29yZS91bWQvbWF0ZXJpYWwtdWkucHJvZHVjdGlvbi5taW4uanMiIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPjwvc2NyaXB0PgogICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9Um9ib3RvOjMwMCw0MDAsNTAwIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZSgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PVJvYm90bzozMDAsNDAwLDUwMCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJmb3JtIiwKICAgICAgICAgICAgICAgIHsgaWQ6ICJoZWFkZXIiIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLi9zdGF0aWMvY3NzL2Jhc2UuY3NzIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL3VucGtnLmNvbS9AbWF0ZXJpYWwtdWkvY29yZS91bWQvbWF0ZXJpYWwtdWkucHJvZHVjdGlvbi5taW4uanMiIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZSgiaW5wdXQiLCB7IGlkOiAidG9kbyIgfSwgIlRvZG8gQXBwIiksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL3VucGtnLmNvbS9AbWF0ZXJpYWwtdWkvY29yZS91bWQvbWF0ZXJpYWwtdWkucHJvZHVjdGlvbi5taW4uanMiIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZSgiaW5wdXQiLCB7CiAgICAgICAgICAgICAgICB2YWx1ZTogbmV3VG9kbywKICAgICAgICAgICAgICAgIGF1dG9Gb2N1czogdHJ1ZSwKICAgICAgICAgICAgfSwgIlRvZG8gQXBwIiksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLi9jc3MvYmFzZS5jc3MiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLi9jc3MvYmFzZS5jc3MiPgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBuZXdUb2RvID0gdGhpcy5zdGF0ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLi9zdGF0aWMvY3NzL2luZGV4LmNzcyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlOiBuZXdUb2RvLAogICAgICAgICAgICAgICAgYXV0b0ZvY3VzOiB0cnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>inform</last-search>
+      <last-search>newTodo</last-search>
       <last-offset />
-      <last-pattern>inform</last-pattern>
+      <last-pattern>newTodo</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -529,7 +531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>save</entry>
         <entry>H</entry>
         <entry>Metho</entry>
         <entry>handler</entry>
@@ -549,6 +550,7 @@
         <entry>header</entry>
         <entry>todo</entry>
         <entry>inform</entry>
+        <entry>newTodo</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
