@@ -181,8 +181,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" timestamp="1533806450236">
-        <mark key="'" line="28" column="0" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" timestamp="1533875305342">
+        <mark key="'" line="52" column="0" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="91" column="29" />
         <mark key="." line="91" column="29" />
@@ -346,11 +346,12 @@
         <mark key="." line="93" column="38" />
         <mark key="^" line="93" column="38" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" timestamp="1533798163862">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" timestamp="1533876005340">
         <mark key="'" line="68" column="18" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="80" column="26" />
+        <mark key="]" line="80" column="26" />
+        <mark key="." line="80" column="26" />
+        <mark key="^" line="81" column="47" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/user.go" timestamp="1533806540237">
         <mark key="[" line="15" column="16" />
@@ -360,8 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="82" column="39" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="83" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="89" column="34" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="57" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
@@ -460,6 +459,8 @@
       <jump line="28" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="27" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="60" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="52" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -471,13 +472,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text encoding="base64">IG9uRG91YmxlQ2xpY2s9e3RoaXMuaGFuZGxlRWRpdH0=</text>
       </register>
       <register name="/" type="4">
         <text>todo</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cm9vdDpwYXNzd29yZEB0Y3AobG9jYWxob3N0OjMzMDYpL3RyZWFzdXJlP3BhcnNlVGltZT10cnVlJmNoYXJzZXQ9dXRmOG1iNCZpbnRlcnBvbGF0ZVBhcmFtcz10cnVl</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWwgb25Eb3VibGVDbGljaz17dGhpcy5oYW5kbGVFZGl0fT4KICAgICAgICAgICAgICAgICAgICAgICAge3RoaXMucHJvcHMudG9kby50aXRsZX0KICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
