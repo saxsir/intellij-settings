@@ -17,12 +17,12 @@
         <mark key="^" line="323" column="19" />
         <mark key="." line="323" column="19" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/simple.html" timestamp="1533896273219">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/simple.html" timestamp="1533971674221">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="57" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="3" />
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" timestamp="1527043704430">
         <mark key="'" line="18" column="13" />
@@ -47,6 +47,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/simple.css" timestamp="1533971704015">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverUtil.php" timestamp="1526977164407">
         <mark key="'" line="186" column="17" />
@@ -93,8 +98,8 @@
         <mark key="." line="314" column="30" />
         <mark key="^" line="314" column="30" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" timestamp="1533893718931">
-        <mark key="'" line="56" column="16" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" timestamp="1533971801658">
+        <mark key="'" line="7" column="8" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="22" />
         <mark key="^" line="128" column="21" />
@@ -282,12 +287,12 @@
         <mark key="^" line="79" column="36" />
         <mark key="." line="79" column="88" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" timestamp="1533970598497">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="122" column="61" />
-        <mark key="]" line="123" column="9" />
-        <mark key="." line="123" column="9" />
-        <mark key="^" line="123" column="9" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" timestamp="1533972739417">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="126" column="34" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" timestamp="1525667518892">
         <mark key="'" line="0" column="0" />
@@ -351,8 +356,8 @@
         <mark key="." line="93" column="38" />
         <mark key="^" line="93" column="38" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" timestamp="1533877745603">
-        <mark key="'" line="36" column="30" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" timestamp="1533972323723">
+        <mark key="'" line="76" column="11" />
         <mark key="[" line="80" column="26" />
         <mark key="]" line="80" column="26" />
         <mark key="." line="80" column="26" />
@@ -365,16 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" />
-      <jump line="69" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="32" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" />
-      <jump line="110" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" />
-      <jump line="68" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" />
-      <jump line="95" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoBox.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoBox.jsx" />
-      <jump line="51" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoFooter.jsx" />
-      <jump line="28" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/index.html" />
       <jump line="91" column="43" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="24" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="87" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
@@ -396,10 +391,8 @@
       <jump line="9" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/base.css" />
       <jump line="4" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/base.css" />
       <jump line="696" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/base.css" />
-      <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="124" column="1" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="102" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="133" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="9" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="134" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="106" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
@@ -426,7 +419,6 @@
       <jump line="121" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="158" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="32" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="135" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="105" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="149" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="11" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
@@ -465,6 +457,19 @@
       <jump line="54" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="108" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="122" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/simple.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/simple.css" />
+      <jump line="161" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/simple.css" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/simple.css" />
+      <jump line="7" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
+      <jump line="73" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" />
+      <jump line="133" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="2" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="76" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" />
+      <jump line="135" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="140" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="129" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -476,49 +481,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>OST</text>
+        <text>保存する</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>inner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRvZG8gPSB7IHRpdGxlOiB0aXRsZSwgY29tcGxldGVkOiBmYWxzZSB9OwoKICAgIHJldHVybiBmZXRjaCgiL2FwaS90b2RvcyIsIHsKICAgICAgY3JlZGVudGlhbHM6ICJzYW1lLW9yaWdpbiIsCiAgICAgIG1ldGhvZDogIlBPU1QiLAogICAgICBoZWFkZXJzOiB7CiAgICAgICAgQWNjZXB0OiAiYXBwbGljYXRpb24vanNvbiIsCiAgICAgICAgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIiwKICAgICAgICAiWC1DU1JGLVRva2VuIjogdGhpcy50b2tlbgogICAgICB9LAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh0b2RvKQogICAgfSkKICAgICAgLnRoZW4ocmVzcCA9PiB7CiAgICAgICAgaWYgKHJlc3Auc3RhdHVzID09PSAyMDEpIHsKICAgICAgICAgIHJldHVybiByZXNwOwogICAgICAgIH0KCiAgICAgICAgdGhyb3cgbmV3IEVycm9yKHJlc3Auc3RhdHVzVGV4dCk7CiAgICAgIH0pCiAgICAgIC50aGVuKHggPT4geC5qc29uKCkpCiAgICAgIC50aGVuKGRhdGEgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgdG9kb3M6IFsuLi50aGlzLnN0YXRlLnRvZG9zLCBkYXRhXSwKICAgICAgICAgIG5ld1RvZG86ICIiCiAgICAgICAgfSk7CiAgICAgIH0pCiAgICAgIC5jYXRjaChlcnIgPT4gewogICAgICAgIGNvbnNvbGUuZXJyb3IoInBvc3QgdG9kbyBlcnJvcjogIiwgZXJyKTsKICAgICAgfSk7CiAgfQo=</text>
+        <text encoding="base64">ICAgb25DbGljazogUHJvcFR5cGVzLmJvb2wsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7fSA9IHRoaXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7ZWRpdGVkVG9kb30gPSB0aGlzLnN0YXRlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZSgKICAgICAgICAiYnV0dG9uIiwKICAgICAgICB7CiAgICAgICAgICBvbkNsaWNrOiAoKSA9PiB7CiAgICAgICAgICAgIHRoaXMuYWRkVG9kbyhuZXdUb2RvKTsKICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgICLkv53lrZjjgZnjgosiCiAgICAgICksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBudWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiUjdiIsIHRvZG9zKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgICBjb25zdCB0aXRsZSA9IGV2ZW50LnRhcmdldC4KICAgICAgICAgICAgICB0aGlzLmhhbmRsZUVkaXQoZXZlbnQpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA1NTBweDsKICAgIG1hcmdpbjogMCBhdXRvOwogICAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7CiAgICAtbW96LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsKICAgIC1tcy1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7CiAgICAtby1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7CiAgICBmb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvbnQ6IDE0cHggJ0hlbHZldGljYSBOZXVlJywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZjsKICAgIGxpbmUtaGVpZ2h0OiAxLjRlbTsK</text>
+        <text encoding="base64">VG9kb0FwcC5wcm9wVHlwZXMgPSB7CiAgIG9uQ2xpY2s6IFByb3BUeXBlcy5ib29sLAogICBvbkNoYW5nZTogUHJvcFR5cGVzLmJvb2wsCn07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>inner</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>inner</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -526,7 +531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DBNAME</entry>
         <entry>Close</entry>
         <entry>Run</entry>
         <entry>token</entry>
@@ -543,12 +547,12 @@
         <entry>todos</entry>
         <entry>title</entry>
         <entry>bg.png</entry>
-        <entry>png</entry>
         <entry>load</entry>
         <entry>save</entry>
+        <entry>png</entry>
+        <entry>inner</entry>
       </history-search>
       <history-cmd>
-        <entry>;;w</entry>
         <entry>121</entry>
         <entry>ww</entry>
         <entry>wq</entry>
@@ -559,7 +563,6 @@
         <entry>904</entry>
         <entry>884</entry>
         <entry>979</entry>
-        <entry>vs</entry>
         <entry>e!</entry>
         <entry>118</entry>
         <entry>141</entry>
@@ -567,6 +570,8 @@
         <entry>run</entry>
         <entry>13</entry>
         <entry>86</entry>
+        <entry>120</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
