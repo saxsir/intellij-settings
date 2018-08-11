@@ -201,11 +201,6 @@
         <mark key="." line="254" column="21" />
         <mark key="^" line="254" column="21" />
       </file>
-      <file name="$USER_HOME$/src/github.com/suzuken/wiki/migrations/2_user.sql" timestamp="1533628343704">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="16" />
-      </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/999/assets/js/app.js" timestamp="1528425730842">
         <mark key="'" line="83" column="11" />
         <mark key="[" line="121" column="8" />
@@ -329,10 +324,10 @@
         <mark key="^" line="100" column="25" />
         <mark key="." line="100" column="25" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/saxsir/model/message.go" timestamp="1533629804434">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="36" column="17" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/db/db.go" timestamp="1533975355520">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/ImportSpCommand.php" timestamp="1530066927584">
         <mark key="'" line="42" column="23" />
