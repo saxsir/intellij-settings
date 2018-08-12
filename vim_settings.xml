@@ -3,12 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/user.go" timestamp="1534067031636">
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="34" />
+        <mark key="." line="43" column="34" />
+        <mark key="^" line="43" column="34" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" timestamp="1526280386569">
         <mark key="'" line="37" column="67" />
         <mark key="[" line="694" column="9" />
         <mark key="]" line="694" column="47" />
         <mark key="^" line="694" column="0" />
         <mark key="." line="694" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/template/login.tmpl" timestamp="1534066748429">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/105/t65633.js" timestamp="1527475745541">
         <mark key="'" line="138" column="33" />
@@ -78,6 +90,12 @@
         <mark key="^" line="106" column="10" />
         <mark key="." line="106" column="10" />
       </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" timestamp="1534067402064">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="113" column="16" />
+        <mark key="]" line="113" column="16" />
+        <mark key="." line="113" column="16" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Rtb/Client.pm" timestamp="1532667942576">
         <mark key="'" line="44" column="6" />
         <mark key="[" line="25" column="23" />
@@ -94,6 +112,13 @@
       <file name="/usr/local/Cellar/go/1.10.3/libexec/src/database/sql/sql.go" timestamp="1533990806630">
         <mark key="[" line="3002" column="4" />
         <mark key="]" line="3002" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/2_users.sql" timestamp="1534059371291">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="14" column="17" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/test/momentum_heron_rule_tests.erl" timestamp="1527837576034">
         <mark key="'" line="5" column="0" />
@@ -150,6 +175,16 @@
         <mark key="." line="139" column="0" />
         <mark key="^" line="140" column="50" />
       </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/report/report.go" timestamp="1534061512130">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="35" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/template/logout.tmpl" timestamp="1534067348219">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/lib/Fluct/Campaign.pm" timestamp="1532677458150">
         <mark key="'" line="291" column="12" />
         <mark key="[" line="352" column="25" />
@@ -164,12 +199,28 @@
         <mark key="^" line="46" column="66" />
         <mark key="." line="46" column="66" />
       </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/template/signup.tmpl" timestamp="1534067357697">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q1/db.go" timestamp="1534066395240">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="31" column="8" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" timestamp="1533748714706">
         <mark key="'" line="18" column="70" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/public/index.html" timestamp="1534065831111">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="31" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/index.html" timestamp="1525942096430">
         <mark key="'" line="16" column="43" />
@@ -178,9 +229,15 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" timestamp="1534045706207">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="14" />
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/stretch.go" timestamp="1534064062137">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" timestamp="1534064504314">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="70" column="43" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
@@ -197,6 +254,13 @@
         <mark key="^" line="121" column="10" />
         <mark key="." line="121" column="8" />
       </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" timestamp="1534066895284">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="69" column="49" />
+        <mark key="]" line="69" column="51" />
+        <mark key="." line="69" column="51" />
+        <mark key="^" line="69" column="51" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/rtb/src/openrtb_rule.erl" timestamp="1529909209765">
         <mark key="'" line="14" column="11" />
         <mark key="[" line="95" column="30" />
@@ -204,23 +268,33 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler.go" timestamp="1534047517934">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler.go" timestamp="1534062669593">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" timestamp="1534046649693">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="77" column="17" />
-        <mark key="]" line="77" column="17" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" timestamp="1534063117909">
+        <mark key="'" line="41" column="23" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="86" column="5" />
         <mark key="." line="77" column="17" />
         <mark key="^" line="77" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/report/report.sql" timestamp="1534059476166">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="28" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler/handler.go" timestamp="1534047737197">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/users.sql" timestamp="1534059486159">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/Sync/DeliverAdViewSyncerTest.php" timestamp="1526977122901">
         <mark key="'" line="254" column="21" />
@@ -236,10 +310,10 @@
         <mark key="^" line="121" column="10" />
         <mark key="." line="121" column="10" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" timestamp="1533984914761">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" timestamp="1534064171219">
         <mark key="'" line="35" column="29" />
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="14" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="68" column="0" />
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
@@ -257,10 +331,12 @@
         <mark key="." line="112" column="57" />
         <mark key="^" line="112" column="57" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/1_init.sql" timestamp="1534055792414">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="47" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/1_init.sql" timestamp="1534058923736">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1526617203032">
         <mark key="'" line="2" column="167" />
@@ -289,6 +365,12 @@
         <mark key="." line="103" column="17" />
         <mark key="^" line="103" column="17" />
       </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/db/db.go" timestamp="1534059843303">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/vendor/github.com/gorilla/mux/mux.go" timestamp="1534046416588">
         <mark key="'" line="98" column="18" />
         <mark key="[" line="280" column="4" />
@@ -296,15 +378,18 @@
         <mark key="^" line="280" column="68" />
         <mark key="." line="280" column="68" />
       </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/cmd/main.go" timestamp="1534061072296">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/t/buildAdInfoTest.php" timestamp="1527580783086">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="28" />
         <mark key="]" line="46" column="29" />
         <mark key="^" line="620" column="103" />
         <mark key="." line="46" column="29" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/all_test.go" timestamp="1533990143021">
-        <mark key="'" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler/task.go" timestamp="1534047503467">
         <mark key="[" line="0" column="15" />
@@ -326,6 +411,18 @@
         <mark key="^" line="79" column="36" />
         <mark key="." line="79" column="88" />
       </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" timestamp="1534058858310">
+        <mark key="[" line="184" column="60" />
+        <mark key="]" line="184" column="60" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="184" column="60" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/sessions/sessions.go" timestamp="1534060066955">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/elysion/src/lib/BrowserInfo/1.0.0.js" timestamp="1525667518892">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="7" />
@@ -339,6 +436,17 @@
         <mark key="]" line="97" column="64" />
         <mark key="." line="97" column="64" />
         <mark key="^" line="97" column="64" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" timestamp="1534065401062">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="113" column="1" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/handler.go" timestamp="1534064786333">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/AggregateCommand.php" timestamp="1530062814928">
         <mark key="'" line="70" column="4" />
@@ -361,11 +469,17 @@
         <mark key="^" line="100" column="25" />
         <mark key="." line="100" column="25" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/db/db.go" timestamp="1534049025763">
-        <mark key="'" line="12" column="22" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/db/db.go" timestamp="1534059854326">
+        <mark key="'" line="18" column="11" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/cmd/server.go" timestamp="1534061494790">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/ImportSpCommand.php" timestamp="1530066927584">
         <mark key="'" line="42" column="23" />
@@ -395,74 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="129" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="85" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="88" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="115" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="66" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="94" column="56" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="110" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="39" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="62" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="42" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="17" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="19" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="49" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="57" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="30" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" />
-      <jump line="58" column="26" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="35" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" />
-      <jump line="55" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="65" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="89" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="113" column="12" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="103" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" />
-      <jump line="80" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoBox.jsx" />
-      <jump line="128" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoModel.js" />
-      <jump line="111" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="148" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="61" column="4" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoBox.jsx" />
-      <jump line="87" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="20" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/all_test.go" />
-      <jump line="166" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="165" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="70" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="38" column="4" filename="/usr/local/Cellar/go/1.10.3/libexec/src/net/http/status.go" />
-      <jump line="51" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="84" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="100" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="134" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="74" column="15" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="132" column="2" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="64" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="156" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="99" column="32" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="130" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
-      <jump line="135" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="202" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="9" column="14" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="207" column="22" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="61" column="9" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="236" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="85" column="38" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="8" column="42" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="12" column="24" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="57" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="15" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler/handler.go" />
-      <jump line="12" column="16" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler/handler.go" />
-      <jump line="14" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler/handler.go" />
-      <jump line="0" column="8" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler/handler.go" />
-      <jump line="7" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="45" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/vendor/github.com/gorilla/mux/mux.go" />
-      <jump line="46" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/vendor/github.com/gorilla/mux/mux.go" />
       <jump line="47" column="25" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/vendor/github.com/gorilla/mux/mux.go" />
       <jump line="49" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/vendor/github.com/gorilla/mux/mux.go" />
       <jump line="50" column="33" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/vendor/github.com/gorilla/mux/mux.go" />
@@ -472,7 +518,6 @@
       <jump line="97" column="29" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/vendor/github.com/gorilla/mux/mux.go" />
       <jump line="98" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/vendor/github.com/gorilla/mux/mux.go" />
       <jump line="29" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler.go" />
       <jump line="8" column="18" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler/handler.go" />
       <jump line="47" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler/handler.go" />
       <jump line="41" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler/handler.go" />
@@ -495,6 +540,75 @@
       <jump line="107" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q2/db.go" />
       <jump line="33" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q2/db.go" />
       <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/1_init.sql" />
+      <jump line="154" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="237" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="33" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="235" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="282" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="87" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="239" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/1_init.sql" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/1_init.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/1_init.sql" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/2_users.sql" />
+      <jump line="5" column="12" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/users.sql" />
+      <jump line="7" column="4" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/users.sql" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/users.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/users.sql" />
+      <jump line="59" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="2" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="18" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/db/db.go" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
+      <jump line="91" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
+      <jump line="44" column="28" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
+      <jump line="55" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
+      <jump line="23" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
+      <jump line="61" column="42" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
+      <jump line="13" column="3" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
+      <jump line="60" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
+      <jump line="53" column="28" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
+      <jump line="31" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="63" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="18" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
+      <jump line="48" column="57" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
+      <jump line="12" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
+      <jump line="77" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
+      <jump line="67" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="28" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler.go" />
+      <jump line="7" column="45" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
+      <jump line="84" column="11" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
+      <jump line="70" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
+      <jump line="80" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
+      <jump line="120" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
+      <jump line="41" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
+      <jump line="44" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/stretch.go" />
+      <jump line="9" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/stretch.go" />
+      <jump line="24" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
+      <jump line="109" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
+      <jump line="22" column="18" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/user.go" />
+      <jump line="39" column="22" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
+      <jump line="16" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
+      <jump line="40" column="8" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
+      <jump line="12" column="4" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
+      <jump line="58" column="18" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
+      <jump line="113" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
+      <jump line="15" column="4" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/template/signup.tmpl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/template/signup.tmpl" />
+      <jump line="19" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/user.go" />
+      <jump line="39" column="40" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/user.go" />
+      <jump line="48" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
+      <jump line="107" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
+      <jump line="124" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
+      <jump line="110" column="28" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
+      <jump line="24" column="35" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
+      <jump line="70" column="24" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
+      <jump line="27" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -506,49 +620,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>r is nil</text>
       </register>
       <register name="/" type="4">
-        <text>Handle</text>
+        <text>result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBgY3JlYXRlZGAgZGF0ZXRpbWUgTk9UIE5VTEwgREVGQVVMVCBOT1coKSBDT01NRU5UICfnmbvpjLLml6UnLAogIGB1cGRhdGVkYCBkYXRldGltZSBERUZBVUxUIE5VTEwgQ09NTUVOVCAn5pu05paw5pelJywK</text>
+        <text encoding="base64">e3sgLmN1cnJlbnROYW1lIH19IOOBp+ODreOCsOOCpOODs+a4iOOBvwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigibm90IGZvdW5kIikK</text>
+        <text encoding="base64">CQkiY3VycmVudE5hbWUiOiAgICBjdXJyZW50TmFtZShyKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZm10LkVycm9yZigiIiwgbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWlkLCBlcnIgOj0gcmVzdWx0Lkxhc3RJbnNlcnRJZCgpCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gZXJyCgl9Cgo=</text>
+        <text encoding="base64">e3sgLmN1cnJlbnROYW1lIH19IOOBp+ODreOCsOOCpOODs+a4iOOBvwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkiY3VycmVudE5hbWUiOiAgICBjdXJyZW50TmFtZShyKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXNlc3MsIF8gOj0gc2Vzc2lvbnMuR2V0KHIsICJ1c2VyIikKCXNlc3MuVmFsdWVzWyJpZCJdID0gbS5JRAoJc2Vzcy5WYWx1ZXNbImVtYWlsIl0gPSBtLkVtYWlsCglzZXNzLlZhbHVlc1sibmFtZSJdID0gbS5OYW1lCglpZiBlcnIgOj0gc2Vzc2lvbnMuU2F2ZShyLCB3LCBzZXNzKTsgZXJyICE9IG5pbCB7CgkJbG9nLlByaW50Zigic2Vzc2lvbiBjYW4ndCBzYXZlOiAlcyIsIGVycikKCQlyZXR1cm4gZXJyCgl9CgoJaHR0cC5SZWRpcmVjdCh3LCByLCAiLyIsIGh0dHAuU3RhdHVzRm91bmQpCglyZXR1cm4gbmlsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuYyBVcGRhdGVCeUlEKGRiICpzcWwuREIsIHRpdGxlIHN0cmluZykgZXJyb3IgewoJXywgZXJyIDo9IGRiLkV4ZWMoInVwZGF0ZSAiLCBpZCkKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBlcnIKCX0KCglmbXQuUHJpbnRmKCJEZWxldGVkKGlkID0gJXYpIiwgaWQpCgoJcmV0dXJuIG5pbAp9Cg==</text>
+        <text encoding="base64">CW0sIGVyciA6PSBtb2RlbC5BdXRoKHUuREIsIHIuUG9zdEZvcm1WYWx1ZSgiZW1haWwiKSwgci5Qb3N0Rm9ybVZhbHVlKCJwYXNzd29yZCIpKQoJaWYgZXJyICE9IG5pbCB7CgkJbG9nLlByaW50ZigiL2xvZ2luOiBsb2dpbiBmYWlsZWQ6ICVzIiwgZXJyKQoJCXNlc3MsIF8gOj0gc2Vzc2lvbnMuR2V0KHIsICJ1c2VyIikKCQlzZXNzLkFkZEZsYXNoKCJsb2dpbiBmYWlsZWQuIikKCQlpZiBlcnIgOj0gc2Vzc2lvbnMuU2F2ZShyLCB3LCBzZXNzKTsgZXJyICE9IG5pbCB7CgkJCWxvZy5QcmludGYoIi9sb2dpbjogc2F2ZSBzZXNzaW9uIGZhaWxlZDogJXMiLCBlcnIpCgkJCXJldHVybiBlcnIKCQl9CgkJaHR0cC5SZWRpcmVjdCh3LCByLCAiL2xvZ2luIiwgaHR0cC5TdGF0dXNGb3VuZCkKCQlyZXR1cm4gbmlsCgl9CgoJbG9nLlByaW50ZigiYXV0aGVkOiAlI3YiLCBtKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsYWJlbCBmb3I9ImVtYWlsIj5lbWFpbDwvbGFiZWw+CiAgICA8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0iZW1haWwiIHZhbHVlPSIiPgogICAgPGxhYmVsIGZvcj0ibmFtZSI+bmFtZTwvbGFiZWw+CiAgICA8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0ibmFtZSIgdmFsdWU9IiI+CiAgICA8bGFiZWwgZm9yPSJwYXNzd29yZCI+cGFzc3dvcmQ8L2xhYmVsPgogICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBuYW1lPSJwYXNzd29yZCIgdmFsdWU9IiI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vIFVzZXJCeUVtYWlsIGZldGNoIHVzZXIgYnkgZW1haWwuCi8vIEVtYWlsIGlzIHVuaXF1ZSBrZXkuCmZ1bmMgVXNlckJ5RW1haWwoZGIgKnNxbC5EQiwgZW1haWwgc3RyaW5nKSAoVXNlciwgZXJyb3IpIHsKCXJldHVybiBTY2FuVXNlcihkYi5RdWVyeVJvdyhgc2VsZWN0ICogZnJvbSB1c2VycyB3aGVyZSBlbWFpbCA9ID9gLCBlbWFpbCkpCn0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>Handle</last-search>
+      <last-search>result</last-search>
       <last-offset />
-      <last-pattern>Handle</last-pattern>
+      <last-pattern>result</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -556,9 +670,6 @@
     </search>
     <history>
       <history-search>
-        <entry>save</entry>
-        <entry>png</entry>
-        <entry>inner</entry>
         <entry>id</entry>
         <entry>add</entry>
         <entry>editText</entry>
@@ -576,13 +687,11 @@
         <entry>handler</entry>
         <entry>runHandler</entry>
         <entry>Handle</entry>
+        <entry>user</entry>
+        <entry>resul</entry>
+        <entry>result</entry>
       </history-search>
       <history-cmd>
-        <entry>611</entry>
-        <entry>904</entry>
-        <entry>884</entry>
-        <entry>979</entry>
-        <entry>e!</entry>
         <entry>118</entry>
         <entry>141</entry>
         <entry>run</entry>
@@ -597,7 +706,12 @@
         <entry>25</entry>
         <entry>78</entry>
         <entry>18</entry>
+        <entry>71</entry>
+        <entry>32</entry>
+        <entry>51</entry>
+        <entry>111</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
