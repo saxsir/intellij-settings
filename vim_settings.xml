@@ -116,7 +116,7 @@
         <mark key="^" line="128" column="21" />
         <mark key="." line="128" column="21" />
       </file>
-      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q2/db.go" timestamp="1534052843071">
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q2/db.go" timestamp="1534055218200">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="65" />
@@ -257,7 +257,11 @@
         <mark key="." line="112" column="57" />
         <mark key="^" line="112" column="57" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/1_init.sql" timestamp="1533983760805" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/1_init.sql" timestamp="1534055792414">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="47" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1526617203032">
         <mark key="'" line="2" column="167" />
         <mark key="[" line="0" column="0" />
@@ -391,7 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" />
       <jump line="140" column="7" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="129" column="45" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="5" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
@@ -491,6 +494,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q2/db.go" />
       <jump line="107" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q2/db.go" />
       <jump line="33" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q2/db.go" />
+      <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/1_init.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -508,7 +512,7 @@
         <text>Handle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCJub3QgZm91bmQgdG9kbywgSUQ9JWRcbiIpCg==</text>
+        <text encoding="base64">ICBgY3JlYXRlZGAgZGF0ZXRpbWUgTk9UIE5VTEwgREVGQVVMVCBOT1coKSBDT01NRU5UICfnmbvpjLLml6UnLAogIGB1cGRhdGVkYCBkYXRldGltZSBERUZBVUxUIE5VTEwgQ09NTUVOVCAn5pu05paw5pelJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlmbXQuUHJpbnRsbigibm90IGZvdW5kIikK</text>
