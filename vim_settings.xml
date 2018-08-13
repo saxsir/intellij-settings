@@ -236,8 +236,6 @@
         <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" timestamp="1534064504314">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="70" column="43" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
@@ -275,8 +273,8 @@
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" timestamp="1534063117909">
         <mark key="'" line="41" column="23" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="86" column="5" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="91" column="5" />
         <mark key="." line="77" column="17" />
         <mark key="^" line="77" column="20" />
       </file>
