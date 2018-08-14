@@ -43,6 +43,11 @@
         <mark key="^" line="58" column="22" />
         <mark key="." line="58" column="22" />
       </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q3/db.go" timestamp="1534223530474">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="4" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9994.js" timestamp="1526964899249">
         <mark key="'" line="15" column="20" />
         <mark key="[" line="2" column="46" />
@@ -507,9 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="6" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="33" column="19" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
-      <jump line="235" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="282" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="87" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
       <jump line="239" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
@@ -607,6 +609,9 @@
       <jump line="78" column="30" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="10" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="22" column="12" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q1/db.go" />
+      <jump line="16" column="4" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q3/db.go" />
+      <jump line="46" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q3/db.go" />
+      <jump line="60" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q3/db.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -623,8 +628,8 @@
       <register name="/" type="4">
         <text>Togle</text>
       </register>
-      <register name="0" type="4">
-        <text>w http.ResponseWriter, r *http.Request</text>
+      <register name="0" type="2">
+        <text encoding="base64">CWMsIGVyciA6PSBOZXdDb25maWdGcm9tRmlsZSgiZGJjb25maWcueW1sIikKCWlmIGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbChlcnIpCgl9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBlcnIKCX0K</text>
