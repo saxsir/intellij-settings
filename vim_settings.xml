@@ -165,6 +165,13 @@
         <mark key="." line="139" column="0" />
         <mark key="^" line="140" column="50" />
       </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/report/report.go" timestamp="1534220244083">
+        <mark key="'" line="62" column="15" />
+        <mark key="[" line="70" column="22" />
+        <mark key="]" line="70" column="24" />
+        <mark key="." line="70" column="24" />
+        <mark key="^" line="70" column="24" />
+      </file>
       <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/template/logout.tmpl" timestamp="1534067348219">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="26" />
@@ -260,10 +267,10 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" timestamp="1534217522042">
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" timestamp="1534220826214">
         <mark key="'" line="77" column="31" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="96" column="28" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="65" />
         <mark key="." line="96" column="28" />
         <mark key="^" line="96" column="28" />
       </file>
@@ -432,9 +439,9 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/handler.go" timestamp="1534064786333">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="27" />
+      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/handler.go" timestamp="1534219380696">
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="40" column="41" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/AggregateCommand.php" timestamp="1530062814928">
         <mark key="'" line="70" column="4" />
@@ -497,10 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q2/db.go" />
-      <jump line="100" column="47" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q2/db.go" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q2/db.go" />
-      <jump line="107" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q2/db.go" />
       <jump line="33" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q2/db.go" />
       <jump line="12" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/1_init.sql" />
       <jump line="154" column="5" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/simple.js" />
@@ -597,6 +600,10 @@
       <jump line="47" column="27" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" />
       <jump line="77" column="31" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="15" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
+      <jump line="68" column="18" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/report/report.go" />
+      <jump line="53" column="22" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/report/report.go" />
+      <jump line="15" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/report/report.go" />
+      <jump line="62" column="15" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/report/report.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -608,37 +615,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Togle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuYyAoaCBoYW5kbGVyKSBTZXJ2ZUhUVFAodyBodHRwLlJlc3BvbnNlV3JpdGVyLCByICpodHRwLlJlcXVlc3QpIHsKCXJ1bkhhbmRsZXIodywgciwgaCwgaGFuZGxlRXJyb3IpCn0K</text>
+        <text encoding="base64">CXJvdXRlci5IYW5kbGUoIi9hcGkvdG9kb3MiLCBoYW5kbGVyKHRvZG8uR2V0KSkuTWV0aG9kcygiR0VUIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vIG1vZGVsCnR5cGUgVXNlck1vZGVsIHN0cnVjdCB7CglOYW1lIHN0cmluZwp9Cg==</text>
+        <text encoding="base64">CWRiICAgICpzcWwuREIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXRvZG9zLCBlcnIgOj0gbW9kZWwuVG9kb3NBbGwodC5EQikKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBlcnIKCX0K</text>
+        <text encoding="base64">CWlmIGVycjo9IG5pbCB7CgoJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gdG9kbzogbW9kZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CVNlbGVjdChyci5kYikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuYyAodSAqVXNlcikgR2V0KCkgW10qVXNlciB7Cn0K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZSBVc2VyIHN0cnVjdCB7CglOYW1lIHN0cmluZwp9CgpmdW5jICh1ICpVc2VyKSBHZXQoKSBbXSpVc2VyIHsKfQoK</text>
+        <text encoding="base64">Ci8vIG1vZGVsCnR5cGUgVXNlck1vZGVsIHN0cnVjdCB7CglOYW1lIHN0cmluZwp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXRvZG9zLCBlcnIgOj0gbW9kZWwuVG9kb3NBbGwodC5EQikKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBlcnIKCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJvdXRlci5IYW5kbGUoIi9hcGkvdXNlcnMiLCApCg==</text>
+        <text encoding="base64">Ly8gdG9kbzogbW9kZWwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -691,14 +698,14 @@
         <entry>278]</entry>
         <entry>278</entry>
         <entry>10</entry>
-        <entry>25</entry>
         <entry>78</entry>
         <entry>18</entry>
-        <entry>71</entry>
         <entry>32</entry>
         <entry>51</entry>
         <entry>111</entry>
         <entry>q</entry>
+        <entry>25</entry>
+        <entry>71</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
