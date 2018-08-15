@@ -385,8 +385,8 @@
         <mark key="^" line="620" column="103" />
         <mark key="." line="46" column="29" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/frontend/04-react_component_with_state/src/view.jsx" timestamp="1534310524095">
-        <mark key="'" line="27" column="65" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/frontend/04-react_component_with_state/src/view.jsx" timestamp="1534310982153">
+        <mark key="'" line="30" column="0" />
         <mark key="[" line="27" column="65" />
         <mark key="]" line="27" column="63" />
         <mark key="." line="27" column="63" />
@@ -511,7 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
       <jump line="44" column="28" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
       <jump line="55" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
       <jump line="23" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
@@ -611,6 +610,7 @@
       <jump line="29" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/frontend/04-react_component_with_state/src/view.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/frontend/04-react_component_with_state/src/view.jsx" />
       <jump line="27" column="65" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/frontend/04-react_component_with_state/src/view.jsx" />
+      <jump line="30" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/frontend/04-react_component_with_state/src/view.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
