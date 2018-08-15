@@ -48,7 +48,6 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="19" column="4" />
       </file>
-      <file name="/usr/local/Cellar/go/1.10.3/libexec/src/net/url/url.go" timestamp="1534232837055" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9994.js" timestamp="1526964899249">
         <mark key="'" line="15" column="20" />
         <mark key="[" line="2" column="46" />
@@ -386,6 +385,13 @@
         <mark key="^" line="620" column="103" />
         <mark key="." line="46" column="29" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/frontend/04-react_component_with_state/src/view.jsx" timestamp="1534310524095">
+        <mark key="'" line="27" column="65" />
+        <mark key="[" line="27" column="65" />
+        <mark key="]" line="27" column="63" />
+        <mark key="." line="27" column="63" />
+        <mark key="^" line="27" column="63" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler/task.go" timestamp="1534047503467">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
@@ -505,9 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="11" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/db/db.go" />
-      <jump line="3" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
       <jump line="91" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
       <jump line="44" column="28" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
       <jump line="55" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
@@ -605,6 +608,9 @@
       <jump line="95" column="17" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
       <jump line="19" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/model/task.go" />
       <jump line="26" column="20" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/task.go" />
+      <jump line="29" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/frontend/04-react_component_with_state/src/view.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/frontend/04-react_component_with_state/src/view.jsx" />
+      <jump line="27" column="65" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/frontend/04-react_component_with_state/src/view.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -625,31 +631,31 @@
         <text encoding="base64">CXJvdXRlci5IYW5kbGUoIi9hcGkvdG9kb3MiLCBoYW5kbGVyKHRvZG8uR2V0KSkuTWV0aG9kcygiR0VUIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJvdXRlci5IYW5kbGUoIi9hcGkvdG9kb3MvMS9jb21tZW50cyIsIGhhbmRsZXIodG9kby5HZXQpKS5NZXRob2RzKCJHRVQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXRvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhciB0b2RvIG1vZGVsLlRvZG8K</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiOwoKZXhwb3J0IGNsYXNzIEhlbGxvIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50IHsKICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogICAgdGhpcy5zdGF0ZSA9IHsgZGF0ZTogbmV3IERhdGUoKSB9OwogIH0KICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIHRoaXMudGltZXJJRCA9IHNldEludGVydmFsKCgpID0+IHRoaXMuc2V0U3RhdGUoeyBkYXRlOiBuZXcgRGF0ZSgpIH0pLCAxMDAwKTsKICB9CiAgY29tcG9uZW50V2lsbFVubW91bnQoKSB7CiAgICBjbGVhckludGVydmFsKHRoaXMudGltZXJJRCk7CiAgfQogIHJlbmRlcigpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXY+CiAgICAgICAgPFN0YXRlbGVzc0Nsb2NrIGRhdGU9e25ldyBEYXRlKCl9IC8+CiAgICAgIDwvZGl2PgogICAgKTsKICB9Cn0KCmNvbnN0IFN0YXRlbGVzc0Nsb2NrID0gcHJvcHMgPT4gPGRpdj57cHJvcHMuZGF0ZS50b0xvY2FsZVRpbWVTdHJpbmcoKX08L2Rpdj47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXRpdGxlIDo9IHIuVVJMLlF1ZXJ5KCkuR2V0KCJ0aXRsZSIpCgl0b2RvLCBlcnIgOj0gbW9kZWwuU2VhcmNoQnlUaXRsZSh0LkRCLCB0aXRsZSkKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBlcnIKCX0K</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiOwoKZXhwb3J0IGNsYXNzIFZpZXcgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQgewogICAgcmVuZGVyKCkgewogICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICA8Q2xvY2sgLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgKTsKICAgIH0KfQoKY2xhc3MgQ2xvY2sgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQgewogICAgY29uc3RydWN0b3IocHJvcHMpIHsKICAgICAgICBzdXBlcihwcm9wcyk7CiAgICAgICAgdGhpcy5zdGF0ZSA9IHsgZGF0ZTogbmV3IERhdGUoKSB9OwogICAgfQogICAgY29tcG9uZW50RGlkTW91bnQoKSB7CiAgICAgICAgdGhpcy50aW1lcklEID0gc2V0SW50ZXJ2YWwoCiAgICAgICAgICAgICgpID0+IHRoaXMuc2V0U3RhdGUoeyBkYXRlOiBuZXcgRGF0ZSgpIH0pLAogICAgICAgICAgICAxMDAwCiAgICAgICAgKTsKICAgIH0KICAgIGNvbXBvbmVudFdpbGxVbm1vdW50KCkgewogICAgICAgIGNsZWFySW50ZXJ2YWwodGhpcy50aW1lcklEKTsKICAgIH0KICAgIHJlbmRlcigpIHsKICAgICAgICByZXR1cm4gPGRpdj57dGhpcy5zdGF0ZS5kYXRlLnRvTG9jYWxlVGltZVN0cmluZygpfTwvZGl2PjsKICAgIH0KfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlmIGVyciA6PSBkYnguR2V0KCZ0b2RvLCBgCglzZWxlY3QgKiBmcm9tIHRvZG9zIHdoZXJlIHRpdGxlID0gCglgLCB0aXRsZSk7IGVyciAhPSBuaWwgewoJCXJldHVybiBuaWwsIGVycgoJfQo=</text>
+        <text encoding="base64">CXJvdXRlci5IYW5kbGUoIi9hcGkvdG9kb3MvMS9jb21tZW50cyIsIGhhbmRsZXIodG9kby5HZXQpKS5NZXRob2RzKCJHRVQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXJldHVybiB0b2RvcywgbmlsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigiYWEiKQo=</text>
+        <text encoding="base64">CXRvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJldHVybiBKU09OKHcsIDIwMCwgdG9kb3MpCg==</text>
+        <text encoding="base64">CXZhciB0b2RvIG1vZGVsLlRvZG8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
