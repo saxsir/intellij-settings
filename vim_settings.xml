@@ -23,11 +23,11 @@
         <mark key="^" line="694" column="0" />
         <mark key="." line="694" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/static/index.html" timestamp="1534573182641">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="57" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/static/index.html" timestamp="1534577503298">
+        <mark key="[" line="5" column="72" />
+        <mark key="]" line="6" column="211" />
+        <mark key="." line="6" column="211" />
+        <mark key="^" line="6" column="211" />
       </file>
       <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/template/login.tmpl" timestamp="1534066748429">
         <mark key="[" line="8" column="34" />
@@ -74,11 +74,11 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/src/View.jsx" timestamp="1534560771169">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="5" column="8" />
-        <mark key="." line="5" column="8" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/src/View.jsx" timestamp="1534579377125">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/Makefile" timestamp="1534573531517">
         <mark key="[" line="14" column="21" />
@@ -252,12 +252,12 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/webpack.config.js" timestamp="1534573390261">
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/webpack.config.js" timestamp="1534579129025">
         <mark key="'" line="26" column="1" />
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="46" />
-        <mark key="^" line="5" column="46" />
-        <mark key="." line="5" column="46" />
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+        <mark key="^" line="9" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/index.html" timestamp="1525942096430">
         <mark key="'" line="16" column="43" />
@@ -279,11 +279,11 @@
         <mark key="^" line="117" column="0" />
         <mark key="." line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/package.json" timestamp="1534573543319">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="38" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/package.json" timestamp="1534579753275">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="35" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/TodoBox.jsx" timestamp="1533987380614">
         <mark key="'" line="61" column="4" />
@@ -326,6 +326,12 @@
       <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/report/report.sql" timestamp="1534225494046">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/.babelrc" timestamp="1534578388974">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler/handler.go" timestamp="1534047737197">
         <mark key="'" line="41" column="0" />
@@ -679,40 +685,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>static/js</text>
+        <text>^7.0.0-rc.1</text>
       </register>
       <register name="/" type="4">
         <text>Togle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXJvdXRlci5IYW5kbGUoIi9hcGkvdG9kb3MiLCBoYW5kbGVyKHRvZG8uR2V0KSkuTWV0aG9kcygiR0VUIikK</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvcnVudGltZSI6ICI3LjAuMC1iZXRhLjU1IiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGgxPuOBq+OCg+ODvOOCkzwvaDE+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWdvIGJ1aWxkIGNtZC9hcHAuZ28K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwCg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiZXMyMDE1IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWcK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXNvbHZlOiB7CiAgICBleHRlbnNpb25zOiBbIi5qcyIsICIuanN4Il0sCiAgICBtb2R1bGVzOiBbIm5vZGVfbW9kdWxlcyJdCiAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlc2V0czogWyJyZWFjdCJdCgogICAgICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgcHJlc2V0czogWyJyZWFjdCJdCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewogICJwbHVnaW5zIjogWwogICAgWyJ0cmFuc2Zvcm0tcnVudGltZSIsIHsKICAgICAgImhlbHBlcnMiOiBmYWxzZSwKICAgICAgInBvbHlmaWxsIjogZmFsc2UsCiAgICAgICJyZWdlbmVyYXRvciI6IHRydWUsCiAgICAgICJtb2R1bGVOYW1lIjogImJhYmVsLXJ1bnRpbWUiCiAgICB9XQogIF0KfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2xvY2sgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -751,7 +757,6 @@
         <entry>Togle</entry>
       </history-search>
       <history-cmd>
-        <entry>13</entry>
         <entry>86</entry>
         <entry>120</entry>
         <entry>vs</entry>
@@ -770,6 +775,7 @@
         <entry>10</entry>
         <entry>84</entry>
         <entry>wq</entry>
+        <entry>e!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
