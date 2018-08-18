@@ -16,6 +16,12 @@
         <mark key="^" line="694" column="0" />
         <mark key="." line="694" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/static/index.html" timestamp="1534559779713">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+      </file>
       <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/template/login.tmpl" timestamp="1534066748429">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="8" column="34" />
@@ -36,6 +42,12 @@
         <mark key="." line="8" column="54" />
         <mark key="^" line="8" column="54" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/server.go" timestamp="1534559581328">
+        <mark key="'" line="3" column="1" />
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" timestamp="1527043704430">
         <mark key="'" line="18" column="13" />
         <mark key="[" line="57" column="24" />
@@ -54,6 +66,11 @@
         <mark key="]" line="2" column="49" />
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/Makefile" timestamp="1534559849916">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/index.css" timestamp="1533969004577">
         <mark key="'" line="5" column="0" />
@@ -505,6 +522,12 @@
         <mark key="]" line="80" column="26" />
         <mark key="." line="80" column="26" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/cmd/app.go" timestamp="1534559482960">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/user.go" timestamp="1534230467143">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="16" column="0" />
@@ -513,8 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
-      <jump line="60" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
       <jump line="53" column="28" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
       <jump line="31" column="21" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="63" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
@@ -613,6 +634,8 @@
       <jump line="132" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/mock/src/assets/js/babel/app.js" />
       <jump line="1" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/mock/src/assets/js/babel/app.js" />
       <jump line="128" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/gsoku/mock/src/assets/js/babel/app.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/cmd/app.go" />
+      <jump line="31" column="1" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/server.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -624,7 +647,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>base</text>
       </register>
       <register name="/" type="4">
         <text>Togle</text>
@@ -639,25 +662,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGgxPmhlPC9oMT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiOwoKZXhwb3J0IGNsYXNzIEhlbGxvIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50IHsKICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogICAgdGhpcy5zdGF0ZSA9IHsgZGF0ZTogbmV3IERhdGUoKSB9OwogIH0KICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIHRoaXMudGltZXJJRCA9IHNldEludGVydmFsKCgpID0+IHRoaXMuc2V0U3RhdGUoeyBkYXRlOiBuZXcgRGF0ZSgpIH0pLCAxMDAwKTsKICB9CiAgY29tcG9uZW50V2lsbFVubW91bnQoKSB7CiAgICBjbGVhckludGVydmFsKHRoaXMudGltZXJJRCk7CiAgfQogIHJlbmRlcigpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXY+CiAgICAgICAgPFN0YXRlbGVzc0Nsb2NrIGRhdGU9e25ldyBEYXRlKCl9IC8+CiAgICAgIDwvZGl2PgogICAgKTsKICB9Cn0KCmNvbnN0IFN0YXRlbGVzc0Nsb2NrID0gcHJvcHMgPT4gPGRpdj57cHJvcHMuZGF0ZS50b0xvY2FsZVRpbWVTdHJpbmcoKX08L2Rpdj47Cg==</text>
+        <text encoding="base64">PHNlY3Rpb24gaWQ9ImFwcCIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiOwoKZXhwb3J0IGNsYXNzIFZpZXcgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQgewogICAgcmVuZGVyKCkgewogICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICA8Q2xvY2sgLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgKTsKICAgIH0KfQoKY2xhc3MgQ2xvY2sgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQgewogICAgY29uc3RydWN0b3IocHJvcHMpIHsKICAgICAgICBzdXBlcihwcm9wcyk7CiAgICAgICAgdGhpcy5zdGF0ZSA9IHsgZGF0ZTogbmV3IERhdGUoKSB9OwogICAgfQogICAgY29tcG9uZW50RGlkTW91bnQoKSB7CiAgICAgICAgdGhpcy50aW1lcklEID0gc2V0SW50ZXJ2YWwoCiAgICAgICAgICAgICgpID0+IHRoaXMuc2V0U3RhdGUoeyBkYXRlOiBuZXcgRGF0ZSgpIH0pLAogICAgICAgICAgICAxMDAwCiAgICAgICAgKTsKICAgIH0KICAgIGNvbXBvbmVudFdpbGxVbm1vdW50KCkgewogICAgICAgIGNsZWFySW50ZXJ2YWwodGhpcy50aW1lcklEKTsKICAgIH0KICAgIHJlbmRlcigpIHsKICAgICAgICByZXR1cm4gPGRpdj57dGhpcy5zdGF0ZS5kYXRlLnRvTG9jYWxlVGltZVN0cmluZygpfTwvZGl2PjsKICAgIH0KfQo=</text>
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJtb2R1bGUiIHNyYz0iL3N0YXRpYy9qcy9zaW1wbGUuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJvdXRlci5IYW5kbGUoIi9hcGkvdG9kb3MvMS9jb21tZW50cyIsIGhhbmRsZXIodG9kby5HZXQpKS5NZXRob2RzKCJHRVQiKQo=</text>
+        <text encoding="base64">CiAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly91bnBrZy5jb20vcmVhY3RAMTYvdW1kL3JlYWN0LmRldmVsb3BtZW50LmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3VucGtnLmNvbS9yZWFjdC1kb21AMTYvdW1kL3JlYWN0LWRvbS5kZXZlbG9wbWVudC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL3N0YXRpYy9jc3Mvc2ltcGxlLmNzcyI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXRvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhciB0b2RvIG1vZGVsLlRvZG8K</text>
+        <text encoding="base64">PGh0bWw+PC9odG1sPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -696,7 +719,6 @@
         <entry>Togle</entry>
       </history-search>
       <history-cmd>
-        <entry>run</entry>
         <entry>13</entry>
         <entry>86</entry>
         <entry>120</entry>
@@ -715,6 +737,7 @@
         <entry>5</entry>
         <entry>10</entry>
         <entry>84</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
