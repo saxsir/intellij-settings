@@ -339,6 +339,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/co3k/go-webvuln/templates/login.tmpl" timestamp="1534743514351">
+        <mark key="[" line="18" column="69" />
+        <mark key="]" line="18" column="69" />
+        <mark key="^" line="18" column="69" />
+        <mark key="." line="18" column="69" />
+      </file>
       <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/users.sql" timestamp="1534059486159">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
