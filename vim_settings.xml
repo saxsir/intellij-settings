@@ -62,11 +62,6 @@
         <mark key="^" line="58" column="22" />
         <mark key="." line="58" column="22" />
       </file>
-      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q3/db.go" timestamp="1534223530474">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="19" column="4" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9994.js" timestamp="1526964899249">
         <mark key="'" line="15" column="20" />
         <mark key="[" line="2" column="46" />
@@ -234,11 +229,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/db/q1/db.go" timestamp="1534225743823">
-        <mark key="'" line="22" column="12" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="37" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/Makefile" timestamp="1534210120414">
         <mark key="'" line="15" column="18" />
         <mark key="[" line="0" column="0" />
@@ -311,11 +301,6 @@
         <mark key="]" line="95" column="45" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler.go" timestamp="1534218426988">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" timestamp="1534236227208">
         <mark key="'" line="53" column="24" />
