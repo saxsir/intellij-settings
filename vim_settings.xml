@@ -348,11 +348,12 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/.circleci/config.yml" timestamp="1535437700327">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="13" column="73" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/.circleci/config.yml" timestamp="1535440671500">
+        <mark key="'" line="64" column="18" />
+        <mark key="[" line="31" column="41" />
+        <mark key="]" line="31" column="51" />
+        <mark key="." line="31" column="51" />
+        <mark key="^" line="31" column="51" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9994.js" timestamp="1526964899249">
         <mark key="'" line="15" column="20" />
@@ -613,7 +614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
       <jump line="120" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
       <jump line="41" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="44" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/stretch.go" />
@@ -713,6 +713,7 @@
       <jump line="71" column="8" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server_test.go" />
       <jump line="47" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
+      <jump line="60" column="18" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -724,7 +725,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -733,31 +734,31 @@
         <text encoding="base64">ICAgICAgTVlTUUxfUk9PVF9QQVNTV09SRDogcGFzc3dvcmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBbLS1kZWZhdWx0LWF1dGhlbnRpY2F0aW9uLXBsdWdpbj1teXNxbF9uYXRpdmVfcGFzc3dvcmRdCg==</text>
+        <text encoding="base64">ICAgICAgLSBIRUFMVEhfQ0hFQ0tfUkVUUllfTElNSVQ6IDEwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIE1ZU1FMX1JPT1RfUEFTU1dPUkQ6IHBhc3N3b3JkCg==</text>
+        <text encoding="base64">ICAgICAgICAtIHJ1bjoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIE1ZU1FMX1VTRVI6IHJvb3QK</text>
+        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBbLS1kZWZhdWx0LWF1dGhlbnRpY2F0aW9uLXBsdWdpbj1teXNxbF9uYXRpdmVfcGFzc3dvcmRdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBzZXR1cF9yZW1vdGVfZG9ja2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIE1ZU1FMX1JPT1RfUEFTU1dPUkQ6IHBhc3N3b3JkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBzZXR1cF9yZW1vdGVfZG9ja2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIE1ZU1FMX1VTRVI6IHJvb3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBzZXR1cF9yZW1vdGVfZG9ja2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlYWx0aGNoZWNrOgogICAgICB0ZXN0OiBbIkNNRCIsICJteXNxbCIgLCAiLWgiLCAiMTI3LjAuMC4xIiwgIi11IiwgInJvb3QiLCAiLXBwYXNzd29yZCIsICItZSIsICInc2hvdyBkYXRhYmFzZXMnIl0KICAgICAgdGltZW91dDogMjBzCiAgICAgIHJldHJpZXM6IDEwCg==</text>
+        <text encoding="base64">ICAgICAgLSBzZXR1cF9yZW1vdGVfZG9ja2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSQoTUFLRSkgaW50ZWdyYXRpb24tdGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIE1ZU1FMX0RBVEFCQVNFOiB0ZXN0LXRyZWFzdXJlCg==</text>
+        <text encoding="base64">ICAgIGhlYWx0aGNoZWNrOgogICAgICB0ZXN0OiBbIkNNRCIsICJteXNxbCIgLCAiLWgiLCAiMTI3LjAuMC4xIiwgIi11IiwgInJvb3QiLCAiLXBwYXNzd29yZCIsICItZSIsICInc2hvdyBkYXRhYmFzZXMnIl0KICAgICAgdGltZW91dDogMjBzCiAgICAgIHJldHJpZXM6IDEwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
