@@ -36,6 +36,13 @@
         <mark key="]" line="19" column="28" />
         <mark key="." line="19" column="28" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" timestamp="1535453886259">
+        <mark key="'" line="60" column="51" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="91" column="66" />
+        <mark key="." line="90" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" timestamp="1527043704430">
         <mark key="'" line="18" column="13" />
         <mark key="[" line="57" column="24" />
@@ -268,10 +275,10 @@
         <mark key="." line="26" column="29" />
         <mark key="^" line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" timestamp="1535450443269">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" timestamp="1535452181142">
+        <mark key="'" line="75" column="33" />
+        <mark key="[" line="74" column="34" />
+        <mark key="]" line="74" column="47" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
@@ -348,9 +355,6 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/.circleci/config.yml" timestamp="1535440671500">
-        <mark key="'" line="60" column="18" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9994.js" timestamp="1526964899249">
         <mark key="'" line="15" column="20" />
         <mark key="[" line="2" column="46" />
@@ -363,6 +367,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/manifests/deployment.yaml" timestamp="1535452858935">
+        <mark key="[" line="14" column="79" />
+        <mark key="]" line="14" column="79" />
+        <mark key="^" line="14" column="78" />
+        <mark key="." line="14" column="79" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/simple.css" timestamp="1533982515331">
         <mark key="[" line="12" column="13" />
@@ -610,19 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
-      <jump line="44" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/stretch.go" />
-      <jump line="9" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/stretch.go" />
-      <jump line="24" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
-      <jump line="109" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
-      <jump line="22" column="18" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/user.go" />
-      <jump line="39" column="22" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
-      <jump line="16" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
-      <jump line="40" column="8" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
-      <jump line="12" column="4" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
-      <jump line="58" column="18" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
-      <jump line="113" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
-      <jump line="15" column="4" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/template/signup.tmpl" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/template/signup.tmpl" />
       <jump line="19" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/user.go" />
       <jump line="39" column="40" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/user.go" />
@@ -710,6 +707,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
       <jump line="60" column="18" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/.circleci/config.yml" />
       <jump line="39" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
+      <jump line="84" column="36" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/.circleci/config.yml" />
+      <jump line="19" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" />
+      <jump line="66" column="10" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" />
+      <jump line="32" column="6" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/.circleci/config.yml" />
+      <jump line="85" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
+      <jump line="24" column="18" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
+      <jump line="29" column="22" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
+      <jump line="33" column="17" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
+      <jump line="73" column="7" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
+      <jump line="74" column="34" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
+      <jump line="75" column="33" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
+      <jump line="58" column="26" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" />
+      <jump line="60" column="51" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -721,49 +731,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>myapp-iam-role</text>
+        <text>pong</text>
       </register>
       <register name="/" type="4">
-        <text>docker</text>
+        <text>PRODUCTION_TAG</text>
       </register>
-      <register name="0" type="4">
-        <text>kind: Deployment</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlpby5Xcml0ZVN0cmluZyh3LCAicG9uZyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbm5vdGF0aW9uczoKICAgICAgICBpYW0uYW1hem9uYXdzLmNvbS9yb2xlOiBteWFwcC1pYW0tcm9sZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBIRUFMVEhfQ0hFQ0tfUkVUUllfTElNSVQ6IDEwCg==</text>
+        <text encoding="base64">CQl3LldyaXRlSGVhZGVyKGh0dHAuU3RhdHVzT0spCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtIHJ1bjoK</text>
+        <text encoding="base64">CQlmbXQuRnByaW50KHcsICJueWFuIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBbLS1kZWZhdWx0LWF1dGhlbnRpY2F0aW9uLXBsdWdpbj1teXNxbF9uYXRpdmVfcGFzc3dvcmRdCg==</text>
+        <text encoding="base64">CQlpby5Xcml0ZVN0cmluZyh3LCAibnlhIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIE1ZU1FMX1JPT1RfUEFTU1dPUkQ6IHBhc3N3b3JkCg==</text>
+        <text encoding="base64">CQlzZXNzLCBfIDo9IHNlc3Npb24uTmV3U2Vzc2lvbigmYXdzLkNvbmZpZ3sKCQkJUmVnaW9uOiAgICAgIGF3cy5TdHJpbmcoInVzLXdlc3QtMiIpfSwKCQkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIE1ZU1FMX1VTRVI6IHJvb3QK</text>
+        <text encoding="base64">CQlpby4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBzZXR1cF9yZW1vdGVfZG9ja2VyCg==</text>
+        <text encoding="base64">CQkJQ3JlZGVudGlhbHM6IGNyZWRlbnRpYWxzLk5ld1NoYXJlZENyZWRlbnRpYWxzKCIiLCAidHJlYXN1cmUyMDE4IiksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBzZXR1cF9yZW1vdGVfZG9ja2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbm5vdGF0aW9uczoKICAgICAgICBpYW0uYW1hem9uYXdzLmNvbS9yb2xlOiBteWFwcC1pYW0tcm9sZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>docker</last-search>
+      <last-search>PRODUCTION_TAG</last-search>
       <last-offset />
-      <last-pattern>docker</last-pattern>
+      <last-pattern>PRODUCTION_TAG</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -771,8 +781,6 @@
     </search>
     <history>
       <history-search>
-        <entry>null</entry>
-        <entry>delete</entry>
         <entry>tog</entry>
         <entry>NotImp</entry>
         <entry>Toggle</entry>
@@ -791,6 +799,8 @@
         <entry>machine</entry>
         <entry>test</entry>
         <entry>docker</entry>
+        <entry>push</entry>
+        <entry>PRODUCTION_TAG</entry>
       </history-search>
       <history-cmd>
         <entry>86</entry>
