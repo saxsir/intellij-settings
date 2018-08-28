@@ -36,6 +36,13 @@
         <mark key="]" line="19" column="28" />
         <mark key="." line="19" column="28" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" timestamp="1535457934015">
+        <mark key="'" line="63" column="25" />
+        <mark key="[" line="89" column="34" />
+        <mark key="]" line="89" column="34" />
+        <mark key="^" line="96" column="4" />
+        <mark key="." line="89" column="34" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/rep_batch_adnetwork_gunosy/lib/python/2.6/site-packages/gunosy_scraper.py" timestamp="1527043704430">
         <mark key="'" line="18" column="13" />
         <mark key="[" line="57" column="24" />
@@ -348,10 +355,9 @@
         <mark key="^" line="65" column="36" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/.circleci/config.yml" timestamp="1535456530832">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="31" column="7" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9994.js" timestamp="1526964899249">
         <mark key="'" line="15" column="20" />
@@ -367,10 +373,9 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/manifests/deployment.yaml" timestamp="1535456714119">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="14" column="78" />
-        <mark key="^" line="14" column="78" />
-        <mark key="." line="14" column="78" />
+        <mark key="]" line="8" column="78" />
+        <mark key="^" line="8" column="78" />
+        <mark key="." line="8" column="78" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/css/simple.css" timestamp="1533982515331">
         <mark key="[" line="12" column="13" />
@@ -532,6 +537,10 @@
         <mark key="." line="103" column="17" />
         <mark key="^" line="103" column="17" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/vendor/github.com/aws/aws-sdk-go/aws/session/env_config.go" timestamp="1535458850021">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="26" />
+      </file>
       <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/db/db.go" timestamp="1534059843303">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="1" column="0" />
@@ -618,8 +627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/user.go" />
-      <jump line="39" column="40" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/user.go" />
       <jump line="48" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
       <jump line="107" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
@@ -718,6 +725,8 @@
       <jump line="58" column="26" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" />
       <jump line="60" column="51" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" />
       <jump line="17" column="36" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
+      <jump line="101" column="12" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" />
+      <jump line="63" column="25" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -729,49 +738,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>sleep</text>
+        <text>profile</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlpby5Xcml0ZVN0cmluZyh3LCAicG9uZyIpCg==</text>
+      <register name="0" type="4">
+        <text>AWS_DEFAULT_PROFILE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXNsZWVwIDYwCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlmb3IgXywgYnVja2V0IDo9IHJhbmdlIHJlc3VsdC5CdWNrZXRzIHsKCQkJZm10LlByaW50ZigiJXMgOiAlc1xuIiwgYXdzLlN0cmluZ1ZhbHVlKGJ1Y2tldC5OYW1lKSwgYnVja2V0LkNyZWF0aW9uRGF0ZSkKCQl9Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl3LldyaXRlSGVhZGVyKGh0dHAuU3RhdHVzT0spCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmbXQuRnByaW50KHcsICJueWFuIikK</text>
+        <text encoding="base64">CQlpby5Xcml0ZVN0cmluZyh3LCApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpby5Xcml0ZVN0cmluZyh3LCAibnlhIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlzZXNzLCBfIDo9IHNlc3Npb24uTmV3U2Vzc2lvbigmYXdzLkNvbmZpZ3sKCQkJUmVnaW9uOiAgICAgIGF3cy5TdHJpbmcoInVzLXdlc3QtMiIpfSwKCQkpCg==</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigiQnVja2V0czoiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpby4K</text>
+        <text encoding="base64">CQkJcmV0dXJuCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJQ3JlZGVudGlhbHM6IGNyZWRlbnRpYWxzLk5ld1NoYXJlZENyZWRlbnRpYWxzKCIiLCAidHJlYXN1cmUyMDE4IiksCg==</text>
+      <register name="8" type="8">
+        <text>-
+-
+-
+-
+ 
+-
+ 
+-
+ 
+-
+-</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="8">
+        <text encoding="base64">LSAgICAKCS0KCS0KCS0KCS0KCQoJCgkKCS0KCQoJLQoJ</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sleep</last-search>
+      <last-search>profile</last-search>
       <last-offset />
-      <last-pattern>sleep</last-pattern>
+      <last-pattern>profile</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -779,8 +798,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NotImp</entry>
-        <entry>Toggle</entry>
         <entry>load</entry>
         <entry>cont</entry>
         <entry>handler</entry>
@@ -799,6 +816,8 @@
         <entry>push</entry>
         <entry>PRODUCTION_TAG</entry>
         <entry>sleep</entry>
+        <entry>Profile</entry>
+        <entry>profile</entry>
       </history-search>
       <history-cmd>
         <entry>86</entry>
