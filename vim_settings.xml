@@ -16,6 +16,12 @@
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="34" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-z/.circleci/config.yml" timestamp="1535433198946">
+        <mark key="'" line="55" column="10" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" timestamp="1526280386569">
         <mark key="'" line="37" column="67" />
         <mark key="[" line="694" column="9" />
@@ -68,6 +74,7 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="36" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/.circleci/config.yml" timestamp="1535432712980" />
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9994.js" timestamp="1526964899249">
         <mark key="'" line="15" column="20" />
         <mark key="[" line="2" column="46" />
@@ -99,9 +106,9 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/cmd/base.go" timestamp="1534221768484">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="14" column="15" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-z/docker-compose.yml" timestamp="1535433028977">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="37" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/DeliverUtil.php" timestamp="1526977164407">
         <mark key="'" line="186" column="17" />
@@ -314,10 +321,6 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/report/report.sql" timestamp="1534225494046">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="41" />
-      </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/.babelrc" timestamp="1534578388974">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
@@ -335,6 +338,12 @@
         <mark key="]" line="18" column="69" />
         <mark key="^" line="18" column="69" />
         <mark key="." line="18" column="69" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-z/ci.mk" timestamp="1535433055406">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="107" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/users.sql" timestamp="1534059486159">
         <mark key="'" line="0" column="0" />
@@ -497,10 +506,6 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/controller/handler.go" timestamp="1534228488491">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="42" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_report_batch/lib/php/src/Fluct/Batch/Command/Report/Zgok/AggregateCommand.php" timestamp="1530062814928">
         <mark key="'" line="70" column="4" />
         <mark key="[" line="63" column="0" />
@@ -569,9 +574,14 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-z/Makefile" timestamp="1535432892369">
+        <mark key="[" line="28" column="83" />
+        <mark key="]" line="28" column="90" />
+        <mark key="^" line="28" column="90" />
+        <mark key="." line="28" column="90" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="57" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
       <jump line="12" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
       <jump line="77" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
@@ -671,6 +681,7 @@
       <jump line="29" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/src/View.jsx" />
       <jump line="9" column="1" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/src/View.jsx" />
       <jump line="26" column="1" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/webpack.config.js" />
+      <jump line="54" column="10" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-z/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -682,40 +693,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>DBNAME=test-treasure</text>
       </register>
       <register name="/" type="4">
         <text>Togle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXJvdXRlci5QYXRoUHJlZml4KCIvY3NzLyIpLkhhbmRsZXIoCgkJaHR0cC5TdHJpcFByZWZpeCgiL2Nzcy8iLCBodHRwLkZpbGVTZXJ2ZXIoaHR0cC5EaXIoInN0YXRpYy9jc3MiKSkpKQo=</text>
+        <text encoding="base64">ICAgICAgLSBzZXR1cF9yZW1vdGVfZG9ja2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSQoTUFLRSkgZG9ja2VyL3N0YXJ0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJvdXRlci5QYXRoUHJlZml4KCIvYXBpL3YxLyIpLkhhbmRsZXIoCgkJaHR0cC5TdHJpcFByZWZpeCgiL2FwaS92MS8iLCBodHRwLkZpbGVTZXJ2ZXIoaHR0cC5EaXIoInN0YXRpYy9qc29uIikpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJvdXRlci5IYW5kbGVGdW5jKCIvIiwgZnVuYyh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHIgKmh0dHAuUmVxdWVzdCkgewoJCWh0dHAuU2VydmVGaWxlKHcsIHIsICJzdGF0aWMvaW5kZXguaHRtbCIpCgl9KQo=</text>
+        <text encoding="base64">CXJvdXRlci5QYXRoUHJlZml4KCIvYXBpL3YxLyIpLkhhbmRsZXIoCgkJaHR0cC5TdHJpcFByZWZpeCgiL2FwaS92MS8iLCBodHRwLkZpbGVTZXJ2ZXIoaHR0cC5EaXIoInN0YXRpYy9qc29uIikpKSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXJvdXRlci5IYW5kbGVGdW5jKCIvIiwgZnVuYyh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHIgKmh0dHAuUmVxdWVzdCkgewoJCWh0dHAuU2VydmVGaWxlKHcsIHIsICJzdGF0aWMvaW5kZXguaHRtbCIpCgl9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8qCg==</text>
+        <text encoding="base64">CXJvdXRlci5IYW5kbGVGdW5jKCIvIiwgZnVuYyh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHIgKmh0dHAuUmVxdWVzdCkgewoJCWh0dHAuU2VydmVGaWxlKHcsIHIsICJzdGF0aWMvaW5kZXguaHRtbCIpCgl9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJvdXRlci5IYW5kbGVGdW5jKCIvIiwgZnVuYyh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHIgKmh0dHAuUmVxdWVzdCkgewoJfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
