@@ -268,8 +268,8 @@
         <mark key="." line="26" column="29" />
         <mark key="^" line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" timestamp="1535437354860">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" timestamp="1535450443269">
+        <mark key="'" line="39" column="0" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -610,7 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
       <jump line="41" column="23" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="44" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/stretch.go" />
       <jump line="9" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/model/stretch.go" />
@@ -710,6 +709,7 @@
       <jump line="47" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
       <jump line="60" column="18" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/.circleci/config.yml" />
+      <jump line="39" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -721,49 +721,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>myapp-iam-role</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>docker</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTVlTUUxfUk9PVF9QQVNTV09SRDogcGFzc3dvcmQK</text>
+      <register name="0" type="4">
+        <text>kind: Deployment</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBIRUFMVEhfQ0hFQ0tfUkVUUllfTElNSVQ6IDEwCg==</text>
+        <text encoding="base64">ICAgICAgICBhbm5vdGF0aW9uczoKICAgICAgICBpYW0uYW1hem9uYXdzLmNvbS9yb2xlOiBteWFwcC1pYW0tcm9sZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIHJ1bjoK</text>
+        <text encoding="base64">ICAgICAgLSBIRUFMVEhfQ0hFQ0tfUkVUUllfTElNSVQ6IDEwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBbLS1kZWZhdWx0LWF1dGhlbnRpY2F0aW9uLXBsdWdpbj1teXNxbF9uYXRpdmVfcGFzc3dvcmRdCg==</text>
+        <text encoding="base64">ICAgICAgICAtIHJ1bjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIE1ZU1FMX1JPT1RfUEFTU1dPUkQ6IHBhc3N3b3JkCg==</text>
+        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBbLS1kZWZhdWx0LWF1dGhlbnRpY2F0aW9uLXBsdWdpbj1teXNxbF9uYXRpdmVfcGFzc3dvcmRdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIE1ZU1FMX1VTRVI6IHJvb3QK</text>
+        <text encoding="base64">ICAgICAgICAgIE1ZU1FMX1JPT1RfUEFTU1dPUkQ6IHBhc3N3b3JkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBzZXR1cF9yZW1vdGVfZG9ja2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIE1ZU1FMX1VTRVI6IHJvb3QK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgLSBzZXR1cF9yZW1vdGVfZG9ja2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBzZXR1cF9yZW1vdGVfZG9ja2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlYWx0aGNoZWNrOgogICAgICB0ZXN0OiBbIkNNRCIsICJteXNxbCIgLCAiLWgiLCAiMTI3LjAuMC4xIiwgIi11IiwgInJvb3QiLCAiLXBwYXNzd29yZCIsICItZSIsICInc2hvdyBkYXRhYmFzZXMnIl0KICAgICAgdGltZW91dDogMjBzCiAgICAgIHJldHJpZXM6IDEwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>docker</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>docker</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -771,7 +771,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>null</entry>
         <entry>delete</entry>
         <entry>tog</entry>
@@ -791,6 +790,7 @@
         <entry>start</entry>
         <entry>machine</entry>
         <entry>test</entry>
+        <entry>docker</entry>
       </history-search>
       <history-cmd>
         <entry>86</entry>
