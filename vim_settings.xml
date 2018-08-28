@@ -16,10 +16,10 @@
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="34" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-z/.circleci/config.yml" timestamp="1535433198946">
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-z/.circleci/config.yml" timestamp="1535433819408">
         <mark key="'" line="55" column="10" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="27" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="48" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_logs_batch/campaign_bdb/go_baker/sql.go" timestamp="1526280386569">
@@ -40,6 +40,13 @@
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/Makefile" timestamp="1535435135620">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="28" column="30" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="28" column="30" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/105/t65633.js" timestamp="1527475745541">
         <mark key="'" line="138" column="33" />
@@ -74,7 +81,12 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="36" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/.circleci/config.yml" timestamp="1535432712980" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/.circleci/config.yml" timestamp="1535433826399">
+        <mark key="'" line="55" column="10" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/sh/lib/default/117/t9994.js" timestamp="1526964899249">
         <mark key="'" line="15" column="20" />
         <mark key="[" line="2" column="46" />
@@ -339,9 +351,9 @@
         <mark key="^" line="18" column="69" />
         <mark key="." line="18" column="69" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-z/ci.mk" timestamp="1535433055406">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-z/ci.mk" timestamp="1535433842056">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="41" column="30" />
         <mark key="^" line="39" column="107" />
         <mark key="." line="39" column="0" />
       </file>
@@ -357,6 +369,12 @@
         <mark key="]" line="254" column="21" />
         <mark key="." line="254" column="21" />
         <mark key="^" line="254" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/docker-compose.yml" timestamp="1535434779806">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="98" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/vg-1day-2018-06-10/999/assets/js/app.js" timestamp="1528425730842">
         <mark key="'" line="83" column="11" />
@@ -520,6 +538,13 @@
         <mark key="^" line="193" column="11" />
         <mark key="." line="217" column="58" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" timestamp="1535435026989">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="40" column="9" />
+        <mark key="]" line="40" column="9" />
+        <mark key="." line="40" column="9" />
+        <mark key="^" line="40" column="9" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/fluct_dlv/back/t/Rtb/RequestFactory/DSP_pattern/Kanade.t" timestamp="1529911657913">
         <mark key="'" line="140" column="0" />
         <mark key="[" line="100" column="25" />
@@ -553,9 +578,6 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/src/github.com/voyagegroup/gsoku/mock/src/assets/js/babel/app.js" timestamp="1534316339548">
-        <mark key="'" line="128" column="0" />
-      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/public/js/app/Todo.jsx" timestamp="1533985725446">
         <mark key="'" line="103" column="4" />
         <mark key="[" line="80" column="26" />
@@ -582,10 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/server.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
-      <jump line="77" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
-      <jump line="67" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/server.go" />
       <jump line="28" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler.go" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/voyagegroup/go-todo/handler.go" />
       <jump line="7" column="45" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/handler.go" />
@@ -682,6 +700,10 @@
       <jump line="9" column="1" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/src/View.jsx" />
       <jump line="26" column="1" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018/mid/saxsir/sampleapp/webpack.config.js" />
       <jump line="54" column="10" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-z/.circleci/config.yml" />
+      <jump line="54" column="10" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/.circleci/config.yml" />
+      <jump line="86" column="4" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
+      <jump line="4" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
+      <jump line="29" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/Makefile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -693,49 +715,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DBNAME=test-treasure</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
-        <text>Togle</text>
+        <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBzZXR1cF9yZW1vdGVfZG9ja2VyCg==</text>
+        <text encoding="base64">CSQoTUFLRSkgbWlncmF0ZS9pbml0IERCTkFNRT10ZXN0LXRyZWFzdXJlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSQoTUFLRSkgZG9ja2VyL3N0YXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgbXlzcWwgLWggMTI3LjAuMC4xIC11cm9vdCAtcHBhc3N3b3JkIC1lICdzaG93IGRhdGFiYXNlcycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlYWx0aGNoZWNrOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgc2xlZXAgNQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXNsZWVwIDUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJvdXRlci5QYXRoUHJlZml4KCIvYXBpL3YxLyIpLkhhbmRsZXIoCgkJaHR0cC5TdHJpcFByZWZpeCgiL2FwaS92MS8iLCBodHRwLkZpbGVTZXJ2ZXIoaHR0cC5EaXIoInN0YXRpYy9qc29uIikpKSkK</text>
+        <text encoding="base64">CWRvY2tlciBydW4gLS1uYW1lIHRyZWFzdXNlMjAxOC1teXNxbCAtcCAxMjcuMC4wLjE6MzMwNjozMzA2IC1lIE1ZU1FMX1JPT1RfUEFTU1dPUkQ9cGFzc3dvcmQgLWQgbXlzcWw6OC4wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSQoTUFLRSkgdGVzdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJvdXRlci5IYW5kbGVGdW5jKCIvIiwgZnVuYyh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHIgKmh0dHAuUmVxdWVzdCkgewoJCWh0dHAuU2VydmVGaWxlKHcsIHIsICJzdGF0aWMvaW5kZXguaHRtbCIpCgl9KQo=</text>
+        <text encoding="base64">ICAgICAgLSBpbWFnZTogbGFydWZhL2dvLW5vZGUtYXdzY2xpOmxhdGVzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSQoTUFLRSkgZG9ja2VyL3N0YXJ0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>Togle</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern>Togle</last-pattern>
+      <last-pattern>start</last-pattern>
       <last-replace>AdColony</last-replace>
       <last-substitute>Maio</last-substitute>
       <last-dir>1</last-dir>
@@ -743,8 +765,6 @@
     </search>
     <history>
       <history-search>
-        <entry>done</entry>
-        <entry>erors</entry>
         <entry>Invalid</entry>
         <entry>json</entry>
         <entry>null</entry>
@@ -763,6 +783,8 @@
         <entry>Run</entry>
         <entry>POST</entry>
         <entry>Togle</entry>
+        <entry>test</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
         <entry>86</entry>
@@ -782,9 +804,9 @@
         <entry>5</entry>
         <entry>10</entry>
         <entry>84</entry>
-        <entry>wq</entry>
         <entry>e!</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
