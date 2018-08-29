@@ -121,12 +121,6 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/controller/posts.go" timestamp="1535508002774">
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="42" column="23" />
-        <mark key="." line="42" column="23" />
-        <mark key="^" line="42" column="23" />
-      </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" timestamp="1535456543560">
         <mark key="'" line="17" column="36" />
         <mark key="[" line="39" column="0" />
@@ -247,6 +241,10 @@
         <mark key="]" line="18" column="69" />
         <mark key="^" line="18" column="69" />
         <mark key="." line="18" column="69" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/model/posts.go" timestamp="1535539018495">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="39" column="89" />
       </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/vendor/github.com/aws/aws-sdk-go/aws/session/env_config.go" timestamp="1535458850021">
         <mark key="[" line="53" column="8" />
@@ -412,8 +410,12 @@
       <register name="/" type="4">
         <text>profile</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnVuYyBydW5IYW5kbGVyKHcgaHR0cC5SZXNwb25zZVdyaXRlciwgciAqaHR0cC5SZXF1ZXN0LAoJZm4gZnVuYyh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHIgKmh0dHAuUmVxdWVzdCkgZXJyb3IsIGVycmZuIGVyckZuKSB7CglkZWZlciBmdW5jKCkgewoJCWlmIHJ2IDo9IHJlY292ZXIoKTsgcnYgIT0gbmlsIHsKCQkJZXJyIDo9IGVycm9ycy5OZXcoImhhbmRsZXIgcGFuaWMiKQoJCQlsb2dFcnJvcihyLCBlcnIsIHJ2KQoJCQllcnJmbih3LCByLCBodHRwLlN0YXR1c0ludGVybmFsU2VydmVyRXJyb3IsIGVycikKCQl9Cgl9KCkKCglyLkJvZHkgPSBodHRwLk1heEJ5dGVzUmVhZGVyKHcsIHIuQm9keSwgMjA0OCkKCXIuUGFyc2VGb3JtKCkKCXZhciBidWYgaHR0cHV0aWwuUmVzcG9uc2VCdWZmZXIKCWVyciA6PSBmbigmYnVmLCByKQoJaWYgZXJyID09IG5pbCB7CgkJYnVmLldyaXRlVG8odykKCX0gZWxzZSBpZiBlLCBvayA6PSBlcnIuKCpodHRwdXRpbC5IVFRQRXJyb3IpOyBvayB7CgkJaWYgZS5TdGF0dXMgPj0gNTAwIHsKCQkJbG9nRXJyb3IociwgZXJyLCBuaWwpCgkJfQoJCWVycmZuKHcsIHIsIGUuU3RhdHVzLCBlLkVycikKCX0gZWxzZSB7CgkJbG9nRXJyb3IociwgZXJyLCBuaWwpCgkJZXJyZm4odywgciwgaHR0cC5TdGF0dXNJbnRlcm5hbFNlcnZlckVycm9yLCBlcnIpCgl9Cn0K</text>
+      <register name="0" type="4">
+        <text>select p.id, created_at, name as user_name, user_icon, image_url, 
+                  coalesce(reaction, 0) as reaction,body, width from users u 
+                 inner join (select id, created_at, image_url, user_id, reaction, body, width, height from posts p1 
+                   left join (select sum(action_count) as reaction, post_id from actions group by post_id) 
+                   as a on a.post_id = p1.id where topic_id = ?) as p on u.id = p.user_id;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CWVyciA6PSByLlBhcnNlRm9ybSgpCg==</text>
