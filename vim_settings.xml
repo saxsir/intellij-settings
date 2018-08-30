@@ -46,6 +46,10 @@
         <mark key="." line="54" column="51" />
         <mark key="^" line="54" column="51" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" timestamp="1535613593591">
+        <mark key="[" line="89" column="19" />
+        <mark key="]" line="89" column="34" />
+      </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/dbconfig.yml" timestamp="1535437477681">
         <mark key="[" line="16" column="48" />
         <mark key="]" line="16" column="60" />
@@ -211,6 +215,10 @@
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/model/posts.go" timestamp="1535589276157">
         <mark key="[" line="35" column="34" />
         <mark key="]" line="39" column="89" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/model/topics.go" timestamp="1535613680519">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/migrations/2_user.sql" timestamp="1533628413850">
         <mark key="[" line="11" column="53" />
@@ -415,8 +423,8 @@
       <register name="/" type="4">
         <text>profile</text>
       </register>
-      <register name="0" type="4">
-        <text>awsutil.StringValue</text>
+      <register name="0" type="2">
+        <text encoding="base64">dHlwZSBUb3BpYyBzdHJ1Y3QgewoJSUQgICAgICAgIGludDY0ICBgZGI6ImlkIiBqc29uOiJ0b3BpY0lEImAKCUNyZWF0ZWRBdCBzdHJpbmcgYGRiOiJjcmVhdGVkX2F0IiBqc29uOiJjcmVhdGVkQXQiYAoJVXBkYXRlZEF0IHN0cmluZyBgZGI6InVwZGF0ZWRfYXQiIGpzb246InVwZGF0ZWRBdCJgCglHcm91cElEICAgaW50ICAgIGBkYjoiZ3JvdXBfaWQiIGpzb246Imdyb3VwSUQiYAoJVG9waWNOYW1lIHN0cmluZyBgZGI6InRvcGljX25hbWUiIGpzb246InRvcGljTmFtZSJgCn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CWVyciA6PSByLlBhcnNlRm9ybSgpCg==</text>
