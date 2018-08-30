@@ -46,6 +46,13 @@
         <mark key="." line="54" column="51" />
         <mark key="^" line="54" column="51" />
       </file>
+      <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" timestamp="1535596982531">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="49" column="8" />
+        <mark key="^" line="49" column="18" />
+        <mark key="." line="49" column="8" />
+      </file>
       <file name="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/dbconfig.yml" timestamp="1535437477681">
         <mark key="[" line="16" column="48" />
         <mark key="]" line="16" column="60" />
@@ -299,8 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
-      <jump line="107" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
       <jump line="0" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
       <jump line="124" column="0" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
       <jump line="110" column="28" filename="$USER_HOME$/src/github.com/saxsir/talks/2018/treasure-go/login/handler/user.go" />
@@ -399,6 +404,8 @@
       <jump line="17" column="36" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/ci.mk" />
       <jump line="101" column="12" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" />
       <jump line="63" column="25" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" />
+      <jump line="70" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" />
+      <jump line="21" column="0" filename="$USER_HOME$/src/github.com/VG-Tech-Dojo/treasure2018-group-a/server.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -410,7 +417,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2048</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>profile</text>
