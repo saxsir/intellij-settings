@@ -265,6 +265,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/src/github.com/saxsir/echo-uploader/server.go" timestamp="1547720191558">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/src/github.com/voyagegroup/go-todo/db/db.go" timestamp="1534059854326">
         <mark key="'" line="18" column="11" />
         <mark key="[" line="12" column="0" />
@@ -426,31 +431,31 @@
         <text encoding="base64">ZnVuYyBQb3N0RmlsdGVyKGRiICpzcWx4LkRCLCB1c2VySUQgaW50LCB0b3BpY0lEIGludCkgZXJyb3IgewoJdXNlcnMsIGVyciA6PSBtb2RlbC5TZWxlY3RVc2VyKGRiLCBpbnQ2NCh1c2VySUQpKQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuIGVycgoJfQoJCglncm91cElEIDo9IHVzZXJzWzBdLkdyb3VwSUQKCXRvcGljcywgZXJyIDo9IG1vZGVsLlNlbGVjdFRvcGljKGRiLCBncm91cElELCB0b3BpY0lEKQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuIGVycgoJfQoJaWYgbGVuKHRvcGljcykgPT0gMCB7CgkJcmV0dXJuIGVycm9ycy5OZXcoIkFyZSB5b3UgY2hlYXRpbmc/IikKCX0KCXJldHVybiBuaWwKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2xhYnN0YWNrL2VjaG8vbWlkZGxld2FyZSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJhYWEiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJhYWEiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWVyciA6PSByLlBhcnNlRm9ybSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWVyciA6PSByLlBhcnNlRm9ybSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmb3IgXywgYnVja2V0IDo9IHJhbmdlIHJlc3VsdC5CdWNrZXRzIHsKCQkJZm10LlByaW50ZigiJXMgOiAlc1xuIiwgYXdzLlN0cmluZ1ZhbHVlKGJ1Y2tldC5OYW1lKSwgYnVja2V0LkNyZWF0aW9uRGF0ZSkKCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmb3IgXywgYnVja2V0IDo9IHJhbmdlIHJlc3VsdC5CdWNrZXRzIHsKCQkJZm10LlByaW50ZigiJXMgOiAlc1xuIiwgYXdzLlN0cmluZ1ZhbHVlKGJ1Y2tldC5OYW1lKSwgYnVja2V0LkNyZWF0aW9uRGF0ZSkKCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpby5Xcml0ZVN0cmluZyh3LCApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpby5Xcml0ZVN0cmluZyh3LCApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
